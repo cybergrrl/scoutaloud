@@ -38,7 +38,7 @@
   opacity: 0;
   transition: opacity 0.5s;
   visibility: hidden;
-  z-index: 9999; /* Add this line */
+  z-index: 9999;
 }
 
 .lightbox:target {
@@ -53,6 +53,7 @@
   transform: translate(-50%, -50%);
   max-width: 90%;
   max-height: 90%;
+  object-fit: contain;
 }
 
 .lightbox:target img {
