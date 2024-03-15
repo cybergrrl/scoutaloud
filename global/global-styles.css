@@ -15,6 +15,15 @@ a:active {
   color: inherit;
 }
 
+/* Dual-tone focus indicator for all focusable elements */
+*:focus {
+  /* inner indicator */
+  outline: 2px #faf0e6 solid;
+  outline-offset: 0;
+  /* outer indicator */
+  box-shadow: 0 0 0 4px #faf0e6;
+}
+
 .page-container {
   max-width: 960px;
   margin: 0 auto 20px auto;
