@@ -8,7 +8,10 @@
 }
 
 /* Prevent links from changing color when clicked */
-a:visited {
+a,
+a:visited,
+a:hover,
+a:active {
   color: inherit;
 }
 
