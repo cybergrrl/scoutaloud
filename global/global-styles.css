@@ -18,7 +18,7 @@ a:active {
 /* Dual-tone focus indicator for all focusable elements */
 *:focus {
   /* inner indicator */
-  outline: 2px #faf0e6 solid;
+  outline: 2px #1a1a1a solid;
   outline-offset: 0;
   /* outer indicator */
   box-shadow: 0 0 0 4px #faf0e6;
