@@ -7,6 +7,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: #faf0e6;
+}
+
 /* Prevent links from changing color when clicked */
 a,
 a:visited,
