@@ -1,4 +1,4 @@
 +++
 render = true
-template = "project.html"
+template = "projects.html"
 +++
