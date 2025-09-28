@@ -12,16 +12,16 @@ date = 2020-10-05
 
 **Day 2:** Explore [Dubrovnik](dubrovnik/)
 
-**Day 3:** Road trip along the coast
+**Day 3:** [Road trip](road-trip/) along the Adriatic coast
 
-**Day 4:** Explore national park
+**Day 4:** Explore [Krka national park](krka/)
 
-**Day 5:** Explore Split
+**Day 5:** Explore [Split](split/)
 
-**Day 6:** Islands tour
+**Day 6:** [Islands tour](islands/)
 
 **Day 7:** Train journey to Ljubljana via Zagreb
 
-**Days 8 and 9:** Explore Ljubljana
+**Days 8 and 9:** Explore [Ljubljana](ljubljana/)
 
 **Day 10** Train journey to Vienna, night train to Brussels

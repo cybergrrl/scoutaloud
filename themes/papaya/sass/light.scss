@@ -1,14 +1,14 @@
 @use "syntax-theme-light";
 
 @mixin theme($theme: light) {
-    --background-color: rgb(255, 255, 255);
-    --header-background-color: rgb(250, 250, 250);
-    --text-color: rgb(51, 51, 51);
+    --background-color: #F5E7DE;
+    --header-background-color: #F5E7DE;
+    --text-color: #54311A;
     --text-accent-color: rgb(117, 117, 117);
     --border-color: rgb(195, 195, 195);
-    --link-color: rgb(29, 96, 163);
-    --link-hover-color: rgb(29, 163, 136);
-    --link-hover-line-color: rgb(0, 120, 132);
+    --link-color: #035E7B;
+    --link-hover-color: #9F1C53;
+    --link-hover-line-color: #9F1C53;
     --icon-hover-color: var(--link-hover-color);
     --icon-color: var(--text-color);
     --code-background: rgb(247, 248, 250);

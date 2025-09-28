@@ -1,11 +1,11 @@
 +++
-title = "Dubrovnik"
+title = "Islands near Split"
 template = "page.html"
 +++
 
 [Back to itinery](../)
 
-## A Day in Dubrovnik
+## Islands day trip by catamaran
 
 
 ## Heading 2
@@ -18,6 +18,4 @@ template = "page.html"
 
 >A beautifully formatted quote?
 
-{{ img(path="./dubrovnik-1.jpg",
-       alt="Dubrovnik seen from the sea",
-       caption="Dubrovnik") }}
+

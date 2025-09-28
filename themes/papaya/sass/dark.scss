@@ -1,14 +1,14 @@
 @use "syntax-theme-dark";
 
 @mixin theme($theme: dark) {
-    --background-color: rgb(24, 24, 24);
-    --header-background-color: rgb(28, 28, 28);
-    --text-color: rgb(217, 217, 217);
-    --text-accent-color: rgb(130, 130, 130);
+    --background-color: #402A12;
+    --header-background-color: #402A12;
+    --text-color: #EFE8E3;
+    --text-accent-color: #b3a196;
     --border-color: rgb(66, 66, 66);
-    --link-color: rgb(65, 136, 205);
-    --link-hover-color: rgb(29, 163, 136);
-    --link-hover-line-color: rgb(0, 120, 132);
+    --link-color: #5C9EAD;
+    --link-hover-color: #D38299;
+    --link-hover-line-color: #D38299;
     --icon-hover-color: var(--link-hover-color);
     --icon-color: var(--text-color);
     --code-background: rgb(32, 32, 32);

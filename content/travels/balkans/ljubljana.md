@@ -1,12 +1,11 @@
 +++
-title = "Dubrovnik"
+title = "Ljubljana"
 template = "page.html"
 +++
 
 [Back to itinery](../)
 
-## A Day in Dubrovnik
-
+# Heading 1
 
 ## Heading 2
 
@@ -18,6 +17,4 @@ template = "page.html"
 
 >A beautifully formatted quote?
 
-{{ img(path="./dubrovnik-1.jpg",
-       alt="Dubrovnik seen from the sea",
-       caption="Dubrovnik") }}
+

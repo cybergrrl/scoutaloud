@@ -15,6 +15,12 @@
     
     {% block heading %}
     <p>
+        <h1>{{ section.title }}</h1>
+        {% if section.description %}
+            <p>{{ section.description | markdown | safe }}</p>
+        {% endif %}
+    </p>
+    <p>
         {% if section.relative_path is ending_with("." ~ lang ~ ".md") %}
             {% set tags_url = "/" ~ lang ~ "/tags" %}
         {% else %}
