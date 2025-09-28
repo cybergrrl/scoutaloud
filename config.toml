@@ -1,5 +1,5 @@
 # 
-base_url = "https://example.com"
+base_url = "https://scoutaloud.netlify.app"
 theme = "papaya"
 default_language = "en"
 
