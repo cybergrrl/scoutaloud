@@ -6,6 +6,6 @@ sort_by = "date"
 paginate_by = 10
 
 [extra]
-featured_image = "travels/travel.png"
+featured_image = "travel.png"
 featured_image_alt = "A campervan parked by a river in the forest on a rainy day."
 +++
