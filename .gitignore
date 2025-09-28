@@ -1,0 +1,10 @@
+# Zola output folder
+public/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+
+# VS Code
+.vscode/

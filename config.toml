@@ -1,0 +1,116 @@
+# 
+base_url = "https://example.com"
+theme = "papaya"
+default_language = "en"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[languages.en]
+title = "Scoutaloud"
+description = "A clean Zola theme for blogging and projects"
+generate_feeds = false
+feed_filenames = ["atom.xml"]
+# The taxonomies to be rendered for the site and their configuration of the default languages (turn on feeds for specific taxonomies)
+taxonomies = [
+    { name = "tags", feed = false, lang = "en" },
+    { name = "categories", feed = false, lang = "en" },
+]
+
+[languages.en.translations]
+projects = "Projects"
+blog = "Blog"
+travels = "Travels"
+about = "About"
+recent_projects = "Recent Projects"
+more_projects = "More Projects"
+recent_blog_posts = "Recent Blog Posts"
+more_blog_posts = "More blog posts"
+recent_travels = "Recent Travels"
+more_travels = "More Travels"
+tag = "Tag"
+tags = "Tags"
+to_all_tags = "To all tags"
+category = "Category"
+categories = "Categories"
+to_all_categories = "To all categories"
+view_by = "View by"
+other = "Other"
+minute = "min"
+prev_page = "To newer posts"
+next_page = "To older posts"
+# Customize your post date format. See: https://tera.netlify.app/docs/#date
+date_format = "%B %e, %Y"
+
+[languages.de]
+title = "Scoutaloud-de"
+description = "Scoutaloud auf Deutsch"
+generate_feeds = false
+# The taxonomies to be rendered for the site and their configuration of the default languages (turn on feeds for specific taxonomies)
+taxonomies = [
+    { name = "tags", feed = false, lang = "de" },
+    { name = "categories", feed = false, lang = "de" },
+]
+
+[languages.de.translations]
+projects = "Projekte"
+blog = "Blog"
+travels = "Reisen"
+about = "Über"
+recent_projects = "Aktuelle Projekte"
+more_projects = "Mehr Projekte"
+recent_blog_posts = "Aktuelle Blogbeiträge"
+more_blog_posts = "Mehr Blogbeiträge"
+recent_travels = "Neueste Reisen"
+more_travels = "Mehr Reisen"
+tag = "Tag"
+tags = "Tags"
+to_all_tags = "Zu allen Tags"
+category = "Kategorie"
+categories = "Kategorien"
+to_all_categories = "Zu allen Kategorien"
+view_by = "Ansicht nach"
+other = "Andere"
+minute = "Minute"
+prev_page = "Vorherige Seite"
+next_page = "Nächste Seite"
+# Customize your post date format. See: https://tera.netlify.app/docs/#date
+date_format = "%d.%m.%Y"
+
+[extra]
+# Development environment. Used by the page macros to load remote content only when in "prod" mode
+env = "ZOLA_ENV"
+
+# Color theme mode. Options: light, dark, auto (automatically switch depending on OS/user agent settings)
+color_mode = "auto"
+
+# List of Papaya navigational menu items. Used to construct the navigation bar. See the README for item schema.
+menu_items = [
+    # { name = "projects", url = "$LANG_BASE_URL/projects", show_recent = true, recent_items = 3, recent_trans_key = "recent_projects", more_trans_key = "more_projects" },
+    # { name = "blog", url = "$LANG_BASE_URL/blog", show_recent = true, recent_items = 3, recent_trans_key = "recent_blog_posts", more_trans_key = "more_blog_posts" },
+    { name = "travels", url = "$LANG_BASE_URL/travels", show_recent = true, recent_items = 3, recent_trans_key = "recent_travels", more_trans_key = "more_travels" },
+    # tag is not a zola section, it's just a link.
+    { name = "tags", url = "$LANG_BASE_URL/tags" },
+    { name = "about", url = "$LANG_BASE_URL/about", show_recent = false },
+]
+
+[extra.images]
+# Width defined in pixels
+max_width = 2500
+
+# Open Graph Protocol objects. See: https://ogp.me/
+[extra.ogp]
+locale = "en_GB"
+username = "scoutaloud"
+
+# CDN links
+[extra.cdn]
+font_awesome = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
