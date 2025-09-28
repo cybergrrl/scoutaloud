@@ -1,5 +1,6 @@
 # Zola output folder
 public/
+static/processed_images/*
 
 # OS / editor cruft
 .DS_Store

@@ -19,3 +19,8 @@ This folder contains the Papaya Zola theme, vendored directly into the repositor
 - The theme can be updated manually by copying new files from a fresh Papaya release.
 
 - There is **no nested `.git`**; this folder is fully tracked by the main repository.
+
+### Editing theme templates
+
+- For normal templates, i copied the theme's template into my template folder in root and edited it there.
+- This does not work for macros which would have to be edited in place if/where necessary. 

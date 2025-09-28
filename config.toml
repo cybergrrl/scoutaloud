@@ -16,7 +16,7 @@ highlight_code = false
 
 [languages.en]
 title = "Scoutaloud"
-description = "A clean Zola theme for blogging and projects"
+description = "Scoutaloud notes on life, books, travels and more."
 generate_feeds = false
 feed_filenames = ["atom.xml"]
 # The taxonomies to be rendered for the site and their configuration of the default languages (turn on feeds for specific taxonomies)
