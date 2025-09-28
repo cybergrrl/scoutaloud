@@ -6,5 +6,18 @@ public/
 Thumbs.db
 *.swp
 
-# VS Code
+# Zola cache (optional, if using caching)
+.cache/
+
+# Editor/IDE files
 .vscode/
+.idea/
+
+# Node/npm if you use them for any tooling
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Other temp files
+*.log
+*.tmp
