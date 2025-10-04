@@ -10,7 +10,7 @@ date = 2020-10-05
 
 ## Day 1: 5 October - Fly to Dubrovnik
 
-## Day 2: 6 October - Explore [Dubrovnik](/dubrovnik/)
+## Day 2: 6 October - Explore [Dubrovnik](dubrovnik/)
 
 ***Expected weather:** 14 to 18 degrees Celsius, cloudy with rain showers*
 
