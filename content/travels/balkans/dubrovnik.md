@@ -3,7 +3,7 @@ title = "Dubrovnik"
 template = "page.html"
 +++
 
-[Back to itinery](../)
+[Back to itineray](../)
 
 ## A Day in Dubrovnik
 

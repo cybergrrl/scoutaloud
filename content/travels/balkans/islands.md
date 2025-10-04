@@ -3,7 +3,7 @@ title = "Islands near Split"
 template = "page.html"
 +++
 
-[Back to itinery](../)
+[Back to itineray](../)
 
 ## Islands day trip by catamaran
 

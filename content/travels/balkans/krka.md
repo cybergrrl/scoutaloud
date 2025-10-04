@@ -3,7 +3,7 @@ title = "Krka national park"
 template = "page.html"
 +++
 
-[Back to itinery](../)
+[Back to itineray](../)
 
 ## Water, waterfalls, and a boat tour
 

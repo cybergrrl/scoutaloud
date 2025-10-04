@@ -69,17 +69,31 @@ main {
 
 /* Headers */
 h1 {
-    font-size: 1.35em;
+    font-size: 1.8em;
 }
 
 h2 {
-    font-weight: normal;
-    font-size: 1.2em;
+    font-weight: 600;
+    font-size: 1.6em;
 }
 
 h3 {
+    font-size: 1.4em;
+}
+
+h4 {
+    font-size: 1.2em;
+}
+
+h5 {
     font-size: 1em;
 }
+
+h6 {
+    font-size: 1em;
+    font-style: italic;
+}
+
 
 /* Links */
 
@@ -256,7 +270,7 @@ article:first-of-type header h3 {
 }
 
 article header h1 {
-    font-size: 1.35em;
+    font-size: 2.5em;
     line-height: 1.1em;
     margin-bottom: 0.5em;
     font-weight: 600;

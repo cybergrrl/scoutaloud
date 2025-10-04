@@ -8,71 +8,33 @@ date = 2020-10-05
 
 +++
 
-## Our trip to Croatia and Slovenia in October 2025
+## Day 1: 5 October - Fly to Dubrovnik
 
-### Itineray
+## Day 2: 6 October - Explore [Dubrovnik](/dubrovnik/)
 
-#### Day 1: 5 October -- Fly to Dubrovnik
+***Expected weather:** 14 to 18 degrees Celsius, cloudy with rain showers*
 
-#### Day 2: 6 October -- Explore [Dubrovnik](dubrovnik/)
+## Day 3: 7 October - [Road trip](road-trip/) along the Adriatic coast
 
-**Expected weather:**
+***Expected weather:** 12 to 19 degrees Celsius, mostly cloudy, no rain*
 
-14 to 18 degrees Celsius 
-Cloudy
-Rain showers
+## Day 4: 8 October - Explore [Krka national park](krka/)
 
-#### Day 3: 7 October -- [Road trip](road-trip/) along the Adriatic coast
+***Expected weather:** 11 to 20 degrees Celsius, partly cloudy, no rain*
 
-**Expected weather:**
+## Day 5: 9 October - Explore [Split](split/)
 
-12 to 19 degrees Celsius 
+***Expected weather:** 14 to 22 degrees Celsius, mostly cloudy, no rain*
 
-Mostly cloudy
+## Day 6: 10 October - [Islands tour](islands/)
 
-No rain
+***Expected weather:** 15 to 22 degrees Celsius, mostly cloudy, no rain*
 
-#### Day 4: 8 October -- Explore [Krka national park](krka/)
+## Day 7: 11 October - Train journey to Ljubljana via Zagreb
 
-**Expected weather:**
+## Days 8 and 9: 12 and 13 October - Explore [Ljubljana](ljubljana/)
 
-11 to 20 degrees Celsius 
+***Expected weather:** 10 to 17 degrees Celsius, mostly cloudy, low chance of rain*
 
-Partly cloudy
-
-No rain
-
-#### Day 5: 9 October -- Explore [Split](split/)
-
-**Expected weather:**
-
-14 to 22 degrees Celsius 
-
-Mostly cloudy
-
-No rain
-
-#### Day 6: 10 October -- [Islands tour](islands/)
-
-**Expected weather:**
-
-15 to 22 degrees Celsius 
-
-Mostly cloudy
-
-No rain
-
-#### Day 7: Train journey to Ljubljana via Zagreb
-
-#### Days 8 and 9: 12 and 13 October-- Explore [Ljubljana](ljubljana/)
-
-**Expected weather:**
-
-10 to 17 degrees Celsius 
-
-Mostly cloudy
-
-Low chanceof rain
-
-#### Day 10: 14 and 15 October -- Train journey to Vienna, night train to Brussels
+## Day 10: 14 and 15 October - Train journey to Vienna, night train to Brussels
 

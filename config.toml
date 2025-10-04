@@ -1,5 +1,5 @@
 # 
-base_url = "https://scoutaloud.netlify.app"
+base_url = "https://scoutaloud.net"
 theme = "papaya"
 default_language = "en"
 
@@ -90,7 +90,7 @@ date_format = "%d.%m.%Y"
 env = "ZOLA_ENV"
 
 # Color theme mode. Options: light, dark, auto (automatically switch depending on OS/user agent settings)
-color_mode = "dark"
+color_mode = "auto"
 
 # List of Papaya navigational menu items. Used to construct the navigation bar. See the README for item schema.
 menu_items = [

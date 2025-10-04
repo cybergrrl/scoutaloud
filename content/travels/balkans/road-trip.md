@@ -3,7 +3,7 @@ title = "Road trip from Dubrovnik to Split"
 template = "page.html"
 +++
 
-[Back to itinery](../)
+[Back to itineray](../)
 
 # A road trip along the Adriatic coast
 

@@ -1,7 +1,7 @@
 +++
 title = "Travels"
 render = true
-template = "travel.html" # using this template because it will list all entries in order of date rather than the project template which expects categories and will list things by category and only a certain amount of them
+template = "travel.html" 
 sort_by = "date"
 paginate_by = 10
 

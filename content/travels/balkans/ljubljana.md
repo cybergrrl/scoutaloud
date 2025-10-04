@@ -3,18 +3,19 @@ title = "Ljubljana"
 template = "page.html"
 +++
 
-[Back to itinery](../)
+[Back to itineray](../)
 
-# Heading 1
+# Plans:
 
-## Heading 2
+- walk along the river
+- take a bike ride
 
-### Heading 3
+### Foods to try:
 
-**Some bold text**
+- [ ] Carniola sausage
+- [ ] beef tongue
+- [ ] Pražen krompir - boiled potatoes auteed with onions
 
-*something in italics*
 
->A beautifully formatted quote?
 
 
