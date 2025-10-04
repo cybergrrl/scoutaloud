@@ -6,7 +6,7 @@ date = 2020-10-05
 
 ## Our trip to Croatia and Slovenia in October 2025
 
-### Itinery
+### Itineray
 
 **Day 1:** Fly to Dubrovnik
 
