@@ -1,5 +1,4 @@
-
-## Where+++
++++
 title = "Dubrovnik"
 template = "page.html"
 +++
@@ -11,6 +10,7 @@ template = "page.html"
 {{ img(path="./dubrovnik-1.jpg",
        alt="Dubrovnik seen from the sea",
        caption="Dubrovnik") }}
+
 ## Things to do
 
 - [ ] Take in the glorious cityscape
