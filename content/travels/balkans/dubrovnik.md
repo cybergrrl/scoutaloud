@@ -5,7 +5,14 @@ template = "page.html"
 
 [Back to itineray](../)
 
-# A Day in Dubrovnik 
+## Arrival evening
+
+Well it's definitely autumn and Dubrovnik greeted us with pouring rain on and off throughout the evening.
+
+That didn't stop us from having a great time. Crossing having alfresco dinner in a downpour and eating ice-cream under an umbrella from the bucket list 😄
+
+
+## Ideas For a Day in Dubrovnik 
 
 {{ img(path="./dubrovnik-1.jpg",
        alt="Dubrovnik seen from the sea",
@@ -25,9 +32,11 @@ template = "page.html"
 - [ ] Dotch cruiseship tourists (released from 9am, rounded up by 6pm)
  to eat 😋 
 
+## Food
 - [ ] Nishta (**vegan**)
 - [ ] Heritage Dubrovnik 
 - [ ] Portun (traditional Dalmatian food)
 - [ ] Restaurant Forty-Four (traditional dishes with a twist)
 - [ ] Buffet Skola (famous for its sarnies and ham and cheese plates)
-- [ ] **Ice cream** at Dolce Vita and/or Peppino's
+- [x] **Ice cream** at Dolce Vita and/or Peppino's
+- [x] seafood
