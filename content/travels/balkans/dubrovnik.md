@@ -11,9 +11,11 @@ Well it's definitely autumn and Dubrovnik greeted us with pouring rain on and of
 
 content/travels/balkans/
 
-{{ img(path="./20251005_210023(1).gif",
-       alt="People sheltering under canvas roof outside a pub in an alley in Dubrovnik at night, rain is pouring down around them,  gutters are splurging",
-       caption="Down and down it pours") }}
+<figure>
+  <img src="./20251005_210023(1).gif" 
+       alt="People sheltering under canvas roof outside a pub in an alley in Dubrovnik at night, rain is pouring down around them, gutters are splurging">
+  <figcaption>Down and down it pours</figcaption>
+</figure>
 
 That didn't stop us from having a great time. Crossing having alfresco dinner in a downpour and eating ice-cream under an umbrella from the bucket list 😄
 
