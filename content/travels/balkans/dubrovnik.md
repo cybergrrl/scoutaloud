@@ -9,11 +9,8 @@ template = "page.html"
 
 Well it's definitely autumn and Dubrovnik greeted us with pouring rain on and off throughout the evening.
 
-content/travels/balkans/
-
 <figure>
-  <img src="./20251005_210023(1).gif" 
-       alt="People sheltering under canvas roof outside a pub in an alley in Dubrovnik at night, rain is pouring down around them, gutters are splurging">
+  <img src="/gif/20251005_210023(1).gif" alt="People sheltering under canvas roof outside a pub in an alley in Dubrovnik at night">
   <figcaption>Down and down it pours</figcaption>
 </figure>
 
