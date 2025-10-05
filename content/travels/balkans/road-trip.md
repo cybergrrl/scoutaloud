@@ -11,12 +11,8 @@ template = "page.html"
        alt="watercolor of a red car driving along the Adriatic coast towards a little seaside town",
        caption="watercolour nostalgia") }}
 
-## Heading 2
+## Views and Stops
 
-### Heading 3
-
-**Some bold text**
-
-*something in italics*
-
->A beautifully formatted quote?
+- [ ] Explore the former pirate stronghold Omiš
+- [ ] Cetina Gorge
+- [ ] 
