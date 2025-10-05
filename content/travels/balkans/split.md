@@ -1,20 +1,13 @@
 +++
-title = "Split"
+title = "A Day in Split"
 template = "page.html"
 +++
 
 [Back to itineray](../)
 
-## A Day in Split
+## Things to do
 
-
-## Heading 2
-
-### Heading 3
-
-**Some bold text**
-
-*something in italics*
-
->A beautifully formatted quote?
+- [ ] Spend a night in Diocletian's Palace, enter through the Golden Gate
+- [ ] View the mosaics at the archaeological museum 
+- [ ] Explore the ruins of the ancient city of Salona (Roman) northeast of Split at the foot of the mountains 
 
