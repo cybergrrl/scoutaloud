@@ -14,11 +14,6 @@ Well it's definitely autumn and Dubrovnik greeted us with pouring rain on and of
   <figcaption>Down and down it pours</figcaption>
 </figure>
 
-<figure>
-  <img src="https://www.dropbox.com/scl/fi/j2d8fjoj5f8hzs0b6mlzd/2025-10-06-12.53.22.jpg?rlkey=u7sdpm1tc5nru20yqu0hf74zc&st=itvmhcjr&raw=1" alt="Dubrovnik seen from the walls" />
-  <figcaption>Roofs of Dubrovnik from the walls</figcaption>
-</figure>
-
 That didn't stop us from having a great time. Crossing having alfresco dinner in a downpour and eating ice-cream under an umbrella from the bucket list 😄
 
 ## Our Day in Dubrovnik
@@ -29,7 +24,11 @@ After an omelette for breakfast, we bought  the Dubrovnik card and mounted the m
 
 Now having a cappuccino and a kakao on top of the wall while listening to the water splashing against the rocks below and enjoying the sun and blue sea view :)
 
-![Dubrovnik seen from the walls](https://www.dropbox.com/scl/fi/j2d8fjoj5f8hzs0b6mlzd/2025-10-06-12.53.22.jpg?rlkey=u7sdpm1tc5nru20yqu0hf74zc&st=itvmhcjr&raw=1)
+
+<figure>
+  <img src="https://www.dropbox.com/scl/fi/j2d8fjoj5f8hzs0b6mlzd/2025-10-06-12.53.22.jpg?rlkey=u7sdpm1tc5nru20yqu0hf74zc&st=itvmhcjr&raw=1" alt="Dubrovnik seen from the walls" />
+  <figcaption>Roofs of Dubrovnik from the walls</figcaption>
+</figure>
 
 ## Ideas For a Day in Dubrovnik 
 
