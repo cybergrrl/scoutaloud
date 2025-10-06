@@ -3,7 +3,7 @@ title = "Krka national park"
 template = "page.html"
 +++
 
-[Back to itineray](../)
+[Back to itinerary](../)
 
 
 {{ img(path="./krka-1.jpg",
