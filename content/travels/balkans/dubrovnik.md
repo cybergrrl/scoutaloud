@@ -57,10 +57,6 @@ Now having a cappuccino and a kakao on top of the wall while listening to the wa
 - [x] Dubrovačka rozata – Dubrovnik’s answer to the French creme brulee
 
 
-https://www.dropbox.com/scl/fi/uxnti5nxphqmwv01ggkh0/2025-10-06-16.21.57.jpg?rlkey=t75xuxgsnemygmvgy4dwuq9ma&st=qeru03nm&dl=0
-
-
-
 <figure>
   <img src="https://www.dropbox.com/scl/fi/uxnti5nxphqmwv01ggkh0/2025-10-06-16.21.57.jpg?rlkey=t75xuxgsnemygmvgy4dwuq9ma&st=qeru03nm&raw=1" alt="custard creme topped with burnt caramel" />
   <figcaption>My Dubrovačka rozata before i got to it 😋</figcaption>
