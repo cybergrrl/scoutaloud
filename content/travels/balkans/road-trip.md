@@ -9,7 +9,7 @@ template = "page.html"
 
 {{ img(path="./road-trip.png",
        alt="watercolor of a red car driving along the Adriatic coast towards a little seaside town",
-       caption="watercolour nostalgia") }}
+       caption="actual picture of our actual rental car") }}
 
 ## Views and Stops
 
