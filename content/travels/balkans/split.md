@@ -3,7 +3,7 @@ title = "A Day in Split"
 template = "page.html"
 +++
 
-[Back to itineray](../)
+[Back to itinerary](../)
 
 ## Things to do
 
