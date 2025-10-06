@@ -16,6 +16,15 @@ Well it's definitely autumn and Dubrovnik greeted us with pouring rain on and of
 
 That didn't stop us from having a great time. Crossing having alfresco dinner in a downpour and eating ice-cream under an umbrella from the bucket list 😄
 
+## Our Day in Dubrovnik
+
+### Wal the Walls
+
+After an omelette for breakfast, we bought  the Dubrovnik card and mounted the many stairs to clinb the city walls at Pile gate. 
+
+Now having a cappuccino and a kakao on top of the wall while listening to the water splashing against the rocks below and enjoying the sun and blue sea view :)
+
+
 
 ## Ideas For a Day in Dubrovnik 
 
