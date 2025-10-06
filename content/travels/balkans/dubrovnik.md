@@ -3,7 +3,7 @@ title = "Dubrovnik"
 template = "page.html"
 +++
 
-[Back to itineray](../)
+[Back to itinerary](../)
 
 ## Arrival evening
 
@@ -20,14 +20,14 @@ That didn't stop us from having a great time. Crossing having alfresco dinner in
 
 ### Walk the Walls
 
-After an omelette for breakfast, we bought  the Dubrovnik card and mounted the many stairs to clinb the city walls at Pile gate. 
+After an omelette for breakfast, we bought  the Dubrovnik card and mounted the many stairs to climb the city walls at Pile gate. 
 
 Now having a cappuccino and a kakao on top of the wall while listening to the water splashing against the rocks below and enjoying the sun and blue sea view :)
 
 
 <figure>
   <img src="https://www.dropbox.com/scl/fi/j2d8fjoj5f8hzs0b6mlzd/2025-10-06-12.53.22.jpg?rlkey=u7sdpm1tc5nru20yqu0hf74zc&st=itvmhcjr&raw=1" alt="Dubrovnik seen from the walls" />
-  <figcaption>Roofs of Dubrovnik from the walls</figcaption>
+  <figcaption>Rooves of Dubrovnik from the walls</figcaption>
 </figure>
 
 ## Ideas For a Day in Dubrovnik 
