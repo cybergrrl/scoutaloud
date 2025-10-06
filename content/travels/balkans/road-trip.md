@@ -13,6 +13,9 @@ template = "page.html"
 
 ## Views and Stops
 
+- [ ] Peljesac peninsula with a stop at Deak winery
+- [ ] Climb the walls of Ston
+- [ ] Cross the Peljesac Bridge
+- [ ] Enjoy the views of the Makarska Riviera
 - [ ] Explore the former pirate stronghold Omiš
-- [ ] Cetina Gorge
-- [ ] 
+- [ ] Take in Cetina Gorge
