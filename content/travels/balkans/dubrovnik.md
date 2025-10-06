@@ -54,3 +54,4 @@ Now having a cappuccino and a kakao on top of the wall while listening to the wa
 - [ ] Buffet Skola (famous for its sarnies and ham and cheese plates)
 - [x] **Ice cream** at Dolce Vita and/or Peppino's
 - [x] seafood
+- [x] Dubrovačka rozata – Dubrovnik’s answer to the French creme brulee
