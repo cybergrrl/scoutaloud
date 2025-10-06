@@ -32,17 +32,13 @@ Now having a cappuccino and a kakao on top of the wall while listening to the wa
 
 ## Ideas For a Day in Dubrovnik 
 
-{{ img(path="./dubrovnik-1.jpg",
-       alt="Dubrovnik seen from the sea",
-       caption="Dubrovnik") }}
-
 ## Things to do
 
-- [ ] Take in the glorious cityscape
-- [ ] Walk along the 15th century walls
-- [ ] Take the cable car up Mount Srd and enjoy the view
+- [x] Take in the glorious cityscape
+- [x] Walk along the 15th century walls
+- [x] Take the cable car up Mount Srd and enjoy the view
 - [ ] People-watching from a café on Stradun
-- [ ] Check out Onofrio's fountains ⛲️ 
+- [x] Check out Onofrio's fountains ⛲️ 
 - [ ] Morning market in Pustijerna, followed by exploring Dubrovnik's oldest buildings
 - [ ] Visit the design concept store Life According To Kawa?
 - [ ] Go on a free walking tour with [Dubrovnik Walks](dubrovnikwalks.com) 
