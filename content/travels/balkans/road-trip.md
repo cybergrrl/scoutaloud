@@ -23,6 +23,11 @@ We started towards Split about 10am.
 
 Our first stop was Ston and those walls are truly impressive; they wind around the mountain like a crown.
 
+<figure>
+  <img src="https://www.dropbox.com/scl/fi/povy1ngyf7m2lkceha7q4/2025-10-07-12.21.08.jpg?rlkey=6dz2kgx4rjoowah1b0ve08nw2&st=li65pw77&raw=1" Ston town with the walls in the background" />
+  <figcaption>Ston and its walls</figcaption>
+</figure>
+
 We had a look around and got some breakfast and a coffee, and then went on our way again. Little detour to a winery along the road where we tried the local wine and bought a bottle to take home. 
 
 The Peljesac bridge is a marvel of civil engineering thigh i can't help but feel it's also av sign of poor or failed diplomacy. But i dinner know enough of the context here. I was certainly grateful not to be stopped at border crossings for a mere few kilometres of drive through Bosnia-Herzegovina.
