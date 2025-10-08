@@ -43,7 +43,7 @@ Now having a cappuccino and a kakao on top of the wall while listening to the wa
 - [ ] Visit the design concept store Life According To Kawa?
 - [ ] Go on a free walking tour with [Dubrovnik Walks](dubrovnikwalks.com) 
 - [ ] Banje beach (Star wars shooting location)
-- [ ] Dotch cruiseship tourists (released from 9am, rounded up by 6pm)
+- [ ] Dodge cruiseship tourists (released from 9am, rounded up by 6pm)
  to eat 😋 
 
 ## Food
