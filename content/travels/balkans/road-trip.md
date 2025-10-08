@@ -36,4 +36,9 @@ The Makarska Riviera was maybe a little disappointing, mostly big new-builds and
 
 Omis was disappointing as we failed to pay for parking due to lack of small coins. Nobody could help,  the app was only in Croatian... So we decided to give it a miss and drive on to Solin to look at some ancient ruins. We managed to get there before sunset and had a real good look around the huge amphitheatre. 
 
+<figure>
+  <img src="https://www.dropbox.com/scl/fi/030wt3vzc6kml6v8g3ane/2025-10-07-17.16.24.jpg?rlkey=zc23k08mt6pejdbvcwpto070o&st=v3ebtpyf&raw=1" alt="Solin amphitheatre" />
+  <figcaption>Emma exploring the remains of the ancient Roman amphitheatre at Solin</figcaption>
+</figure>
+
 Then on to Skradinski with one stop at a roadside restaurant in the middle of nowhere. We were treated to a very personalised experience as we were the only guests. Also to the full sales pitch for the local olive oil 😄
