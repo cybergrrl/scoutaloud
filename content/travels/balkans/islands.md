@@ -18,3 +18,10 @@ template = "page.html"
   <img src="https://www.dropbox.com/scl/fi/kqrosaj8j95ppebx38z9p/20251010_093407.jpg?rlkey=tu0al2ldgdc0lza74nwbootet&st=2qo7lm03&raw=1" alt = "blue water lit from below in an otherwisedark cave" />
   <figcaption>Magically lit up cave</figcaption>
 </figure>
+
+## Final stop: Hvar
+
+<figure>
+  <img src="https://www.dropbox.com/scl/fi/xu0amzheszve9l5appqj6/20251010_145655.jpg?rlkey=i5qweweqjv9joqc4vuaex2uf9&st=fuyrz0ig&raw=1" alt = "little white stone town on Croatian island by the sea" />
+  <figcaption>Hvar town</figcaption>
+</figure>
