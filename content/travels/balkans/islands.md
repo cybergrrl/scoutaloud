@@ -5,7 +5,7 @@ template = "page.html"
 
 [Back to itinerary](../)
 
-## Islands day trip by catamaran
+## Islands day trip by speedboat
 
 
 
