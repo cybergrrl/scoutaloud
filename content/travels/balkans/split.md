@@ -9,7 +9,7 @@ template = "page.html"
 
 <figure>
   <img src="https://www.dropbox.com/scl/fi/xcy0a4sqavqx627v50te0/IMG_0822.jpg?rlkey=c921x40nww2wsag84mf4vy5qw&st=k1zm6ilc&raw=1" alt = "" />
-  <figcaption>We actuallystayed inside the famousgolden gate in Diocletian's palace! That's me wavingout the window</figcaption>
+  <figcaption>We actually stayed inside the famous golden gate in Diocletian's palace! That's me wavingout the window</figcaption>
 </figure>
 
 ## Things to do
