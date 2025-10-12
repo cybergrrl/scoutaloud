@@ -5,9 +5,18 @@ template = "page.html"
 
 [Back to itinerary](../)
 
+## A night in an ancient palace
+
+<figure>
+  <img src="https://www.dropbox.com/scl/fi/xcy0a4sqavqx627v50te0/IMG_0822.jpg?rlkey=c921x40nww2wsag84mf4vy5qw&st=k1zm6ilc&raw=1" alt = "" />
+  <figcaption>We actuallystayed inside the famousgolden gate in Diocletian's palace! That's me wavingout the window</figcaption>
+</figure>
+
 ## Things to do
 
-- [ ] Spend a night in Diocletian's Palace, enter through the Golden Gate
+- [x] Spend a night in Diocletian's Palace, enter through the Golden Gate
+- [x] Eat gelate every day
+- [x] Observe how past and present shake hands
 - [ ] View the mosaics at the archaeological museum 
-- [ ] Explore the ruins of the ancient city of Salona (Roman) northeast of Split at the foot of the mountains 
+- [x] Explore the ruins of the ancient city of Salona (Roman) northeast of Split at the foot of the mountains 
 
