@@ -15,7 +15,7 @@ template = "page.html"
 ## Things to do
 
 - [x] Spend a night in Diocletian's Palace, enter through the Golden Gate
-- [x] Eat gelate every day
+- [x] Eat gelato every day
 - [x] Observe how past and present shake hands
 - [ ] View the mosaics at the archaeological museum 
 - [x] Explore the ruins of the ancient city of Salona (Roman) northeast of Split at the foot of the mountains 
