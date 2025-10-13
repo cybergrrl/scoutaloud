@@ -7,14 +7,17 @@ template = "page.html"
 
 # Plans:
 
-- walk along the river
-- take a bike ride
+- [x] walk along the river visiting the dragon and the triple bridge
+- [x] take a ~~bike~~ scooter ride to Tivoli park
+- [ ] Plečnik walking tour
+- [x] visit the castle with the funicular
 
 ### Foods to try:
 
 - [ ] Carniola sausage
-- [ ] beef tongue
-- [ ] Pražen krompir - boiled potatoes auteed with onions
+- [ ] Beef tongue
+- [ ] Pražen krompir - boiled potatoes sauteed with onions
+- [ ] Slovenian wine
 
 
 
