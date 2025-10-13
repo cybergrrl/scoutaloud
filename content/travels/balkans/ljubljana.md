@@ -11,6 +11,7 @@ template = "page.html"
 - [x] take a ~~bike~~ scooter ride to Tivoli park
 - [ ] Plečnik walking tour
 - [x] visit the castle with the funicular
+- [ ] buy snacks and travel food for our train journey to Vienna
 
 ### Foods to try:
 
