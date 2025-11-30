@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block title %}{{ term.name | capitalize }} Movies - {{ config.title }}{% endblock title %}
+
+{% block content %}
+<h1>{{ term.name | capitalize }} Movies</h1>
+<p><a href="/projects/xmas-movie-discovery/">← Back to all movies</a></p>
+
+<div class="movie-grid">
+  {% for page in term.pages %}
+    <div class="movie-card">
+      <a href="{{ page.permalink }}">
+        <img class="movie-poster" src="https://image.tmdb.org/t/p/w185/{{ page.extra.tmdb_poster_path }}" alt="{{ page.title }} poster">
+        <h3>{{ page.title }}</h3>
+      </a>
+    </div>
+  {% endfor %}
+</div>
+{% endblock content %}
+
+{% block extra_head %}
+<style>
+.movie-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+	gap: 1.5rem;
+	margin-top: 2rem;
+}
+.movie-card {
+	background: #fffdfa;
+	border-radius: 8px;
+	box-shadow: 0 2px 8px rgba(80, 60, 40, 0.08);
+	padding: 1rem;
+	text-align: center;
+	transition: box-shadow 0.2s;
+}
+.movie-card:hover {
+	box-shadow: 0 4px 16px rgba(80, 60, 40, 0.16);
+}
+.movie-poster {
+	width: 120px;
+	height: 180px;
+	object-fit: cover;
+	border-radius: 6px;
+	margin-bottom: 0.5rem;
+}
+.movie-card h3 {
+	font-size: 1rem;
+	margin: 0.5rem 0 0 0;
+}
+</style>
+{% endblock extra_head %}

@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+
+{% block title %}Xmas Movie Discovery - {{ config.title }}{% endblock title %}
+
+{% block content %}
+
+<h1>Xmas Movie Discovery</h1>
+<p>Browse all Christmas movies in the collection. Click a poster for details.</p>
+
+<div class="genre-filters">
+	<strong>Filter by genre:</strong>
+	{% set genres = get_taxonomy(kind="xmas_genres") %}
+	{% for genre in genres.items %}
+		<a href="{{ genre.permalink }}">{{ genre.name | capitalize }}</a>{% if not loop.last %} | {% endif %}
+	{% endfor %}
+</div>
+
+
+<div class="movie-grid">
+  {% for page in section.pages %}
+    <div class="movie-card">
+      <a href="{{ page.permalink }}">
+        <img class="movie-poster" src="https://image.tmdb.org/t/p/w185/{{ page.extra.tmdb_poster_path }}" alt="{{ page.title }} poster">
+        <h3>{{ page.title }}</h3>
+      </a>
+    </div>
+  {% endfor %}
+</div>
+{% endblock content %}
+
+{% block extra_head %}
+<style>
+.movie-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+	gap: 1.5rem;
+	margin-top: 2rem;
+}
+.movie-card {
+	background: #fffdfa;
+	border-radius: 8px;
+	box-shadow: 0 2px 8px rgba(80, 60, 40, 0.08);
+	padding: 1rem;
+	text-align: center;
+	transition: box-shadow 0.2s;
+}
+.movie-card:hover {
+	box-shadow: 0 4px 16px rgba(80, 60, 40, 0.16);
+}
+.movie-poster {
+	width: 120px;
+	height: 180px;
+	object-fit: cover;
+	border-radius: 6px;
+	margin-bottom: 0.5rem;
+}
+.movie-card h3 {
+	font-size: 1rem;
+	margin: 0.5rem 0 0 0;
+}
+</style>
+{% endblock extra_head %}

@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block title %}All Genres - {{ config.title }}{% endblock title %}
+
+{% block content %}
+<h1>All Genres</h1>
+<ul>
+  {% for term in terms %}
+    <li><a href="{{ term.permalink }}">{{ term.name | capitalize }}</a> ({{ term.pages | length }})</li>
+  {% endfor %}
+</ul>
+<p><a href="/projects/xmas-movie-discovery/">← Back to all movies</a></p>
+{% endblock content %}

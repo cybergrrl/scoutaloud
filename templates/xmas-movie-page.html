@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+
+{% block content %}
+<main class="film-page">
+  <div class="film-card">
+    <img class="film-poster" src="https://image.tmdb.org/t/p/w342/{{ page.extra.tmdb_poster_path | default(value='') }}" alt="Poster for {{ page.title }}">
+    <div class="film-info">
+      <h1 class="film-title">{{ page.title }}</h1>
+      <a class="letterboxd-link" href="{{ page.extra.film_url }}" target="_blank" rel="noopener">View on Letterboxd</a>
+      <p class="film-description">{{ page.description | safe }}</p>
+      <div class="film-genres">
+      </div>
+    </div>
+  </div>
+</main>
+{% endblock content %}
+
+{% block styles %}
+<style>
+.film-page {
+  background: #f8f5f0;
+  min-height: 100vh;
+  padding: 2rem 0;
+  display: flex;
+  justify-content: center;
+}
+.film-card {
+  background: #fffdfa;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(80, 60, 40, 0.08);
+  display: flex;
+  max-width: 700px;
+  padding: 2rem;
+  gap: 2rem;
+  align-items: flex-start;
+  border: 1.5px solid #e2c08d;
+}
+.film-poster {
+  width: 220px;
+  border-radius: 8px;
+  box-shadow: 0 1px 6px rgba(80, 60, 40, 0.10);
+  background: #e2c08d22;
+}
+.film-info {
+  flex: 1;
+}
+.film-title {
+  color: #a13a2f;
+  margin: 0 0 0.5rem 0;
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  text-shadow: 0 1px 0 #fff2, 0 2px 2px #e2c08d44;
+}
+.letterboxd-link {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: #b08d36;
+  text-decoration: none;
+  font-weight: 500;
+  background: #f8e8c0;
+  padding: 0.2em 0.7em;
+  border-radius: 4px;
+  transition: background 0.2s;
+}
+.letterboxd-link:hover {
+  background: #e2c08d;
+  color: #a13a2f;
+}
+.film-description {
+  color: #4a3a2a;
+  margin-bottom: 1.5rem;
+  font-size: 1.08em;
+}
+.film-genres {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.genre {
+  background: #e2c08d;
+  color: #a13a2f;
+  border-radius: 4px;
+  padding: 0.3em 0.7em;
+  font-size: 0.95em;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  box-shadow: 0 1px 2px #fff4 inset;
+}
+</style>
+{% endblock styles %}
