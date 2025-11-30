@@ -1,43 +1,26 @@
-{% import "macros/page.html" as page_macros %}
 {% extends "base.html" %}
 
-{% block title %}{{ trans(key="blog", lang=lang) }} - {{ config.title }}{% endblock title %}
+{% block title %}{{ section.title }} - {{ config.title }}{% endblock title %}
 
 {% block content %}
-<main id="main" tabindex="-1">
-
-    {# Featured image for the landing page #}
-    {% if section.extra.featured_image %}
-    <figure class="featured-image{% if section.extra.featured_image_extended %} extended{% endif %}">
-        <img src="{{ section.extra.featured_image }}" alt="{{ section.extra.featured_image_alt }}" class="index-banner">
-    </figure>
-    {% endif %}
-    
-    {% block heading %}
-    <p>
-        <h1>{{ section.title }}</h1>
-        {% if section.description %}
-            <p>{{ section.description | markdown | safe }}</p>
-        {% endif %}
-    </p>
-    <p>
-        {% if section.relative_path is ending_with("." ~ lang ~ ".md") %}
-            {% set tags_url = "/" ~ lang ~ "/tags" %}
-        {% else %}
-            {% set tags_url = "/tags" %}
-        {% endif %}
-        {{ trans(key="view_by", lang=lang) }}: <a href={{ tags_url }}>{{ trans(key="tags", lang=lang) }}</a>
-    </p>
-    {% endblock heading %}
-    {% if paginator.pages %}
-        {% for page in paginator.pages %}
-            {{ page_macros::page_listing(page=page) }}
-        {% endfor %}
-        {{ page_macros::page_pagination(paginator=paginator) }}
-    {% else %}
-        {% for page in section.pages %}
-            {{ page_macros::page_listing(page=page) }}
-        {% endfor %}
-    {% endif %}
-</main>
+{% if section.extra.featured_image %}
+    <img src="{{ get_url(path='travels/' ~ section.extra.featured_image) }}" alt="{{ section.extra.featured_image_alt | default(value='') }}" style="max-width:100%;max-height:300px;height:auto;margin-bottom:1em;object-fit:contain;">
+{% endif %}
+{% if section.description %}
+    <p>{{ section.description | markdown | safe }}</p>
+{% endif %}
+<div>
+    {{ section.content | safe }}
+</div>
+<ul>
+    {# List subsections (e.g., trips) #}
+    {% for subsection in section.subsections %}
+        {% set subsec = get_section(path=subsection) %}
+        <li><a href="{{ subsec.permalink }}">{{ subsec.title }}</a></li>
+    {% endfor %}
+    {# List pages directly under this section #}
+    {% for page in section.pages %}
+        <li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
+    {% endfor %}
+</ul>
 {% endblock content %}

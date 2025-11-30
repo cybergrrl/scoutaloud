@@ -1,24 +1,10 @@
-{% import "macros/page.html" as page_macros %}
 {% extends "base.html" %}
 
-{% block title %}{{ trans(key="about", lang=lang) }}{% endblock title %}
-
-{% block ogp_head %}
-    <meta property="og:title" content="{{ trans(key="about", lang=lang) }}">
-    <meta property="og:type" content="profile">
-    <meta property="og:locale" content="{{ config.extra.ogp.locale }}">
-    <meta property="og:url" content="{{ page.permalink | safe }}">
-    <meta property="og:image" content="{{ get_url(path="/about/me.jpg") | safe }}">
-    <meta property="profile:username" content="{{ config.extra.ogp.username }}">
-{% endblock %}
+{% block title %}About - {{ config.title }}{% endblock title %}
 
 {% block content %}
-<article class="post">
-        <header>
-            <h1>{{ page.title }}</h1>
-        </header>
-        <div class="content">
-            {{ page.content | safe }}
-        </div>
-</article>
+<h1>{{ page.title }}</h1>
+<div>
+    {{ page.content | safe }}
+</div>
 {% endblock content %}
