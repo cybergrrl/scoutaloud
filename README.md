@@ -1,5 +1,42 @@
 # scoutaloud site
 
+## Quick Start for Developers
+
+### Requirements
+
+- Zola (tested with version 0.21.0)
+
+### Setup
+
+#### Install Zola
+
+**macOS:**
+```sh
+brew install zola
+```
+
+ideally check that the version that is installed is 0.21.0. there might be ways to guarantee this.
+
+**Linux:**
+Download the latest release from [Zola releases](https://github.com/getzola/zola/releases) and extract the binary:
+```sh
+wget https://github.com/getzola/zola/releases/download/v0.21.0/zola-v0.21.0-x86_64-unknown-linux-gnu.tar.gz
+tar xzf zola-v0.21.0-x86_64-unknown-linux-gnu.tar.gz
+sudo mv zola /usr/local/bin/
+```
+
+#### Run the site locally
+
+```sh
+zola serve
+```
+
+This will start a local server, usually at http://127.0.0.1:1111
+
+---
+
+**Note:** If you use scripts to generate markdown files, see their specific requirements in their own repositories.
+
 ## Zola
 
 This site is built with [zola static site generator](https://www.getzola.org/documentation/getting-started/overview/) using the Papaya theme.
@@ -40,11 +77,3 @@ They can be hosted elsewhere and linked like so:
 ```
 
 >Note that for dropbox links to work, the link must first be created in Dropbox using the share button,  the share must be set to public, and then the resulting link must be edited: the `dl=0` at the end of the link must be changed to `raw=1`
-
-## Papaya
-
-The [Papaya theme](https://www.getzola.org/themes/papaya/) is set up for two types of content: blog and project types.
-
-The theme lives in `/themes`. If there is need to change one of the theme's templates, it is best to follow this procedure:
-
->Copy the file from `/themes/papaya/templates` to `/templates` and then make changes in this file. Zola will use the files inside the root's templates folder preferentially and ignore files of the same name in the themes directory.

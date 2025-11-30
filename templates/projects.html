@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block title %}Projects - {{ config.title }}{% endblock title %}
+
+{% block content %}
+<h1>{{ section.title }}</h1>
+{% if section.description %}
+    <p>{{ section.description | markdown | safe }}</p>
+{% endif %}
+<ul>
+    {# List subsections (e.g., projects) #}
+    {% for subsection in section.subsections %}
+        {% set subsec = get_section(path=subsection) %}
+        <li><a href="{{ subsec.permalink }}">{{ subsec.title }}</a></li>
+    {% endfor %}
+    {# List pages directly under this section #}
+    {% for page in section.pages %}
+        <li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
+    {% endfor %}
+</ul>
+{% endblock content %}
