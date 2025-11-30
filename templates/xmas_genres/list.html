@@ -6,7 +6,7 @@
 <h1>All Genres</h1>
 <ul>
   {% for term in terms %}
-    <li><a href="{{ term.permalink }}">{{ term.name | capitalize }}</a> ({{ term.pages | length }})</li>
+    <li><a href="{{ term.path }}">{{ term.name | capitalize }}</a> ({{ term.pages | length }})</li>
   {% endfor %}
 </ul>
 <p><a href="/projects/xmas-movie-discovery/">← Back to all movies</a></p>
