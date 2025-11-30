@@ -16,3 +16,6 @@ ZOLA_VERSION = "0.21.0"
 
 [context.deploy-preview]
 command = "zola build --base-url $DEPLOY_PRIME_URL"
+
+[context.branch-deploy]
+command = "zola build --base-url $DEPLOY_PRIME_URL"
