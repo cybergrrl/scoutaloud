@@ -1,0 +1,4 @@
+<figure>
+	<img src="{{ path }}" alt="{{ alt | default(value="") }}" style="max-width:100%;height:auto;"{% if class %} class="{{ class }}"{% endif %} />
+	{% if caption %}<figcaption>{{ caption }}</figcaption>{% endif %}
+</figure>
