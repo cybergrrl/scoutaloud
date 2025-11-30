@@ -2,9 +2,7 @@
 
 title = "Balkan Trip Itinerary"
 
-template = "page.html"
-
-date = 2020-10-05
+template = "travel.html"
 
 +++
 
