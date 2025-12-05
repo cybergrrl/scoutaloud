@@ -1,0 +1,10 @@
++++
+title = """One Christmas Eve"""
+template = "xmas-movie-page.html"
+xmas_genres = ['TV Movie', 'Hallmark', 'Family', 'Drama', 'Comedy']
+description = """A series of mishaps threaten a recently divorced mom's attempts to make her two kids' first Christmas "without dad" perfect."""
+year = "2014"
+[extra]
+film_url = """https://letterboxd.com/film/one-christmas-eve/"""
+tmdb_poster_path = """/9x9vdwo74pJHsnaj6coMzBcZuc6.jpg"""
++++

@@ -1,0 +1,10 @@
++++
+title = """Holiday Engagement"""
+template = "xmas-movie-page.html"
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance', 'Comedy']
+description = """Thirty-something Hillary Burns has spent her life trying to get the approval of her parents, in the shadow of her more successfully-attached siblings. So when Hillary's fiance, workaholic lawyer Jason King, dumps her because she isn't willing to relocate for his potential promotion, she panics because she had been promising to bring him home to meet her expectant family, whom she does not want to let down! As a last-minute idea, her best friend Sophie convinces her to actually hire someone to "play the role" of Jason for her return home on Thanksgiving.. leading to an interesting combination of sparks & revelations for all involved."""
+year = "2011"
+[extra]
+film_url = """https://letterboxd.com/film/holiday-engagement/"""
+tmdb_poster_path = """/4yM1krPnjkWhIOmrY33mVQgSwXJ.jpg"""
++++
