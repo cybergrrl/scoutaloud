@@ -1,0 +1,10 @@
++++
+title = "Grumpy Christmas"
+template = "xmas-movie-page.html"
+xmas_genres = ['International Films', 'Comedy']
+description = "Bitter, grumpy patriarch Don Servando and his family travel to spend Christmas with Doña Alicia, a relative who becomes his "ultimate nemesis". It may be Christmas, but Don Servando is set on proving to everyone that Doña Alicia is a terrible person."
+year = "2021"
+[extra]
+film_url = "https://letterboxd.com/film/grumpy-christmas/"
+tmdb_poster_path = "/eCLuwrumpumraYW7eg7fNRr0F5P.jpg"
++++

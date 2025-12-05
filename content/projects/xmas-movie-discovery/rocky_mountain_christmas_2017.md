@@ -1,0 +1,10 @@
++++
+title = "Rocky Mountain Christmas"
+template = "xmas-movie-page.html"
+xmas_genres = ['Hallmark', 'TV Movie', 'Drama', 'Romance']
+description = "Sarah Davis heads to her uncle’s struggling ranch to escape New York and the spotlight from a recent breakup. Returning home for the first time since her aunt passed, complications arise when Graham, an entitled Hollywood star, arrives at the ranch to prepare for his next film. As Sarah and Graham start to bond, Sarah may get more for Christmas than she bargained for."
+year = "2017"
+[extra]
+film_url = "https://letterboxd.com/film/rocky-mountain-christmas/"
+tmdb_poster_path = "/314Nw750L4PoQj0ypMB1gKnA0e0.jpg"
++++

@@ -1,0 +1,10 @@
++++
+title = "Santa Claus Is Comin' to Town"
+template = "xmas-movie-page.html"
+xmas_genres = ['TV Movie', 'Family', 'Fantasy', 'Musical', 'Animation']
+description = "A postman, S.D. Kluger, decides to answer some of the most common questions about Santa Claus, and tells us about a baby named Kris who is raised by a family of elf toymakers named Kringle. When Kris grows up, he wants to deliver toys to the children of Sombertown. But its Mayor is too mean to let that happen. And to make things worse, the Winter Warlock lives between the Kringles and Sombertown."
+year = "1970"
+[extra]
+film_url = "https://letterboxd.com/film/santa-claus-is-comin-to-town/"
+tmdb_poster_path = "/8BYZEKB0BQkbniS1WRzPaU38cmp.jpg"
++++
