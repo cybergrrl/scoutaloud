@@ -1,12 +1,11 @@
 {% extends "base.html" %}
-
 {% block content %}
 <main class="film-page">
   <div class="film-card">
     <img class="film-poster" src="https://image.tmdb.org/t/p/w342/{{ page.extra.tmdb_poster_path | default(value='') }}" alt="Poster for {{ page.title }}">
     <div class="film-info">
       <h1 class="film-title">{{ page.title }}</h1>
-      <a class="letterboxd-link" href="{{ page.extra.film_url }}" target="_blank" rel="noopener">View on Letterboxd</a>
+      <a class="letterboxd-link" href="{{ page.extra.film_url }}" target="_blank" rel="noopener">View on Letterboxd →</a>
       <p class="film-description">{{ page.description | safe }}</p>
       <div class="film-genres">
       </div>
@@ -14,78 +13,125 @@
   </div>
 </main>
 {% endblock content %}
-
-{% block styles %}
+{% block extra_head %}
+{% include "xmas-movie-styles.html" %}
 <style>
 .film-page {
-  background: #f8f5f0;
+  background: linear-gradient(to bottom, var(--forest-dark) 0%, var(--forest-deeper) 100%);
   min-height: 100vh;
-  padding: 2rem 0;
+  padding: 3rem 1.5rem;
   display: flex;
   justify-content: center;
 }
+
 .film-card {
-  background: #fffdfa;
-  border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(80, 60, 40, 0.08);
+  background: var(--cream-light);
+  border-radius: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
   display: flex;
-  max-width: 700px;
-  padding: 2rem;
-  gap: 2rem;
+  max-width: 800px;
+  padding: 2.5rem;
+  gap: 2.5rem;
   align-items: flex-start;
-  border: 1.5px solid #e2c08d;
+  border: 1px solid rgba(139, 69, 54, 0.15);
+  animation: fadeIn 0.5s ease-out;
 }
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 .film-poster {
-  width: 220px;
-  border-radius: 8px;
-  box-shadow: 0 1px 6px rgba(80, 60, 40, 0.10);
-  background: #e2c08d22;
+  width: 240px;
+  border-radius: 10px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+  background: var(--cream-tan);
+  transition: transform 0.3s ease;
 }
+
+.film-poster:hover {
+  transform: translateY(-4px);
+}
+
 .film-info {
   flex: 1;
 }
+
 .film-title {
-  color: #a13a2f;
-  margin: 0 0 0.5rem 0;
-  font-size: 2rem;
+  color: var(--burgundy-deep);
+  margin: 0 0 1rem 0;
+  font-size: 2.25rem;
   font-weight: 700;
-  letter-spacing: 0.01em;
-  text-shadow: 0 1px 0 #fff2, 0 2px 2px #e2c08d44;
+  font-family: 'Crimson Pro', serif;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
 }
+
 .letterboxd-link {
   display: inline-block;
-  margin-bottom: 1rem;
-  color: #b08d36;
+  margin-bottom: 1.5rem;
+  color: var(--burgundy-deep);
   text-decoration: none;
   font-weight: 500;
-  background: #f8e8c0;
-  padding: 0.2em 0.7em;
-  border-radius: 4px;
-  transition: background 0.2s;
+  background: var(--cream-tan);
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  font-size: 0.95rem;
 }
+
 .letterboxd-link:hover {
-  background: #e2c08d;
-  color: #a13a2f;
+  background: var(--terracotta);
+  color: var(--cream-light);
+  transform: translateX(4px);
 }
+
 .film-description {
-  color: #4a3a2a;
+  color: var(--text-dark);
   margin-bottom: 1.5rem;
-  font-size: 1.08em;
+  font-size: 1.05rem;
+  line-height: 1.7;
 }
+
 .film-genres {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 0.6rem;
 }
+
 .genre {
-  background: #e2c08d;
-  color: #a13a2f;
-  border-radius: 4px;
-  padding: 0.3em 0.7em;
-  font-size: 0.95em;
+  background: rgba(93, 46, 38, 0.1);
+  color: var(--burgundy-deep);
+  border: 1px solid rgba(93, 46, 38, 0.2);
+  border-radius: 20px;
+  padding: 0.4rem 1rem;
+  font-size: 0.9rem;
   font-weight: 500;
   letter-spacing: 0.02em;
-  box-shadow: 0 1px 2px #fff4 inset;
+}
+
+@media (max-width: 768px) {
+  .film-card {
+    flex-direction: column;
+    padding: 2rem;
+  }
+  
+  .film-poster {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .film-title {
+    font-size: 1.75rem;
+  }
 }
 </style>
-{% endblock styles %}
+{% endblock extra_head %}

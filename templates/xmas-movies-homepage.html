@@ -1,62 +1,209 @@
 {% extends "base.html" %}
+{% include "xmas-movie-styles.html" %}
 
 {% block title %}Xmas Movie Discovery - {{ config.title }}{% endblock title %}
-
 {% block content %}
-
-<h1>Xmas Movie Discovery</h1>
-<p>Browse all Christmas movies in the collection. Click a poster for details.</p>
-
-<div class="genre-filters">
-	<strong>Filter by genre:</strong>
-	{% set genres = get_taxonomy(kind="xmas_genres") %}
-	{% for genre in genres.items %}
-		<a href="{{ genre.permalink }}">{{ genre.name | capitalize }}</a>{% if not loop.last %} | {% endif %}
-	{% endfor %}
+<div class="hero-section">
+  <h1 class="main-title">Christmas Movie Collection</h1>
+  <p class="subtitle">Discover your next festive favorite</p>
 </div>
 
+<div class="genre-filters">
+  <span class="filter-label">Filter by genre:</span>
+  {% set genres = get_taxonomy(kind="xmas_genres") %}
+  {% for genre in genres.items %}
+    <a href="{{ genre.permalink }}" class="genre-tag">{{ genre.name | capitalize }}</a>
+  {% endfor %}
+</div>
 
 <div class="movie-grid">
   {% for page in section.pages %}
     <div class="movie-card">
-      <a href="{{ page.permalink }}">
-        <img class="movie-poster" src="https://image.tmdb.org/t/p/w185/{{ page.extra.tmdb_poster_path }}" alt="{{ page.title }} poster">
-        <h3>{{ page.title }}</h3>
+      <a href="{{ page.permalink }}" class="movie-link">
+        <div class="poster-wrapper">
+          <img class="movie-poster" src="https://image.tmdb.org/t/p/w342/{{ page.extra.tmdb_poster_path }}" alt="{{ page.title }} poster">
+        </div>
+        <h3 class="movie-title">{{ page.title }}</h3>
       </a>
     </div>
   {% endfor %}
 </div>
 {% endblock content %}
-
 {% block extra_head %}
+{% include "xmas-movie-styles.html" %}
 <style>
+
+body {
+  background: linear-gradient(to bottom, var(--forest-dark) 0%, var(--forest-deeper) 100%);
+  min-height: 100vh;
+  color: var(--cream-light);
+  margin: 0;
+  padding: 2rem 1.5rem;
+}
+
+.hero-section {
+  text-align: center;
+  margin-bottom: 3rem;
+  animation: fadeIn 0.6s ease-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.main-title {
+  font-family: 'Crimson Pro', serif;
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: var(--cream-tan);
+  margin: 0 0 0.5rem 0;
+  letter-spacing: -0.02em;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.subtitle {
+  font-size: 1.15rem;
+  color: var(--tan-muted);
+  margin: 0;
+  font-weight: 400;
+}
+
+.genre-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 3rem;
+  padding: 1.5rem;
+  background: rgba(244, 240, 234, 0.05);
+  border-radius: 12px;
+  border: 1px solid rgba(212, 197, 176, 0.15);
+}
+
+.filter-label {
+  font-weight: 600;
+  color: var(--cream-tan);
+  margin-right: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.genre-tag {
+  background: rgba(212, 197, 176, 0.15);
+  color: var(--cream-tan);
+  border: 1px solid rgba(212, 197, 176, 0.3);
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.genre-tag:hover {
+  background: var(--terracotta);
+  border-color: var(--terracotta);
+  color: var(--cream-light);
+  transform: translateY(-2px);
+}
+
 .movie-grid {
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-	gap: 1.5rem;
-	margin-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+  animation: gridFadeIn 0.8s ease-out;
 }
+
+@keyframes gridFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
 .movie-card {
-	background: #fffdfa;
-	border-radius: 8px;
-	box-shadow: 0 2px 8px rgba(80, 60, 40, 0.08);
-	padding: 1rem;
-	text-align: center;
-	transition: box-shadow 0.2s;
+  background: var(--cream-light);
+  border-radius: 12px;
+  padding: 1rem;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(139, 69, 54, 0.15);
 }
+
 .movie-card:hover {
-	box-shadow: 0 4px 16px rgba(80, 60, 40, 0.16);
+  transform: translateY(-8px);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.4);
 }
+
+.movie-link {
+  text-decoration: none;
+  display: block;
+}
+
+.poster-wrapper {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  margin-bottom: 0.75rem;
+  background: var(--cream-tan);
+}
+
 .movie-poster {
-	width: 120px;
-	height: 180px;
-	object-fit: cover;
-	border-radius: 6px;
-	margin-bottom: 0.5rem;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 2/3;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
 }
-.movie-card h3 {
-	font-size: 1rem;
-	margin: 0.5rem 0 0 0;
+
+.movie-card:hover .movie-poster {
+  transform: scale(1.05);
+}
+
+.movie-title {
+  font-family: 'Crimson Pro', serif;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0;
+  color: var(--burgundy-deep);
+  line-height: 1.3;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .main-title {
+    font-size: 2.5rem;
+  }
+  
+  .movie-grid {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 1.5rem;
+  }
+  
+  body {
+    padding: 1.5rem 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .main-title {
+    font-size: 2rem;
+  }
+  
+  .movie-grid {
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 1rem;
+  }
 }
 </style>
 {% endblock extra_head %}

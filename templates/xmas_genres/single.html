@@ -19,34 +19,110 @@
 {% endblock content %}
 
 {% block extra_head %}
+{% include "xmas-movie-styles.html" %}
 <style>
+body {
+	background: linear-gradient(to bottom, var(--forest-dark) 0%, var(--forest-deeper) 100%);
+	min-height: 100vh;
+	color: var(--cream-light);
+	margin: 0;
+	padding: 2rem 1.5rem;
+}
+
+h1 {
+	font-family: 'Crimson Pro', serif;
+	font-size: 2.2rem;
+	font-weight: 700;
+	color: var(--cream-tan);
+	margin-bottom: 2rem;
+	letter-spacing: -0.02em;
+	text-align: center;
+	text-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
 .movie-grid {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
 	gap: 1.5rem;
 	margin-top: 2rem;
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
 }
+
 .movie-card {
-	background: #fffdfa;
-	border-radius: 8px;
-	box-shadow: 0 2px 8px rgba(80, 60, 40, 0.08);
+	background: var(--cream-light);
+	border-radius: 10px;
+	box-shadow: 0 4px 16px rgba(0,0,0,0.10);
 	padding: 1rem;
 	text-align: center;
-	transition: box-shadow 0.2s;
+	border: 1px solid rgba(139, 69, 54, 0.10);
+	transition: transform 0.2s, box-shadow 0.2s;
 }
 .movie-card:hover {
-	box-shadow: 0 4px 16px rgba(80, 60, 40, 0.16);
+	transform: translateY(-3px) scale(1.03);
+	box-shadow: 0 8px 32px rgba(0,0,0,0.18);
 }
+
 .movie-poster {
 	width: 120px;
 	height: 180px;
 	object-fit: cover;
 	border-radius: 6px;
 	margin-bottom: 0.5rem;
+	background: var(--cream-tan);
+	box-shadow: 0 2px 8px rgba(0,0,0,0.10);
 }
+
 .movie-card h3 {
-	font-size: 1rem;
+	font-size: 1.05rem;
 	margin: 0.5rem 0 0 0;
+	color: var(--burgundy-deep);
+	font-family: 'Crimson Pro', serif;
+	font-weight: 600;
 }
+
+a {
+	color: var(--burgundy-deep);
+	text-decoration: none;
+	font-weight: 600;
+p a {
+  color: var(--cream-tan);
+  font-size: 1rem;
+  text-decoration: underline;
+}
+	transition: color 0.2s;
+}
+a:hover {
+	color: var(--terracotta);
+}
+
+
+	color: var(--cream-tan);
+	font-size: 1rem;
+	text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+	h1 {
+		font-size: 1.2rem;
+	}
+	.movie-grid {
+		gap: 1rem;
+		padding: 0 0.5rem;
+	}
+	.movie-card {
+		padding: 0.7rem 0.5rem;
+	}
+	.movie-poster {
+		width: 90px;
+		height: 130px;
+	}
+}
+	p a {
+		color: var(--cream-tan);
+		font-size: 1rem;
+		text-decoration: underline;
+	}
 </style>
 {% endblock extra_head %}
