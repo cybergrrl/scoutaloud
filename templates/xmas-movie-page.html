@@ -2,7 +2,11 @@
 {% block content %}
 <main class="film-page">
   <div class="film-card">
-    <img class="film-poster" src="https://image.tmdb.org/t/p/w342/{{ page.extra.tmdb_poster_path | default(value='') }}" alt="Poster for {{ page.title }}">
+    {% if page.extra.tmdb_poster_path and page.extra.tmdb_poster_path != "None" %}
+    <img class="film-poster" src="https://image.tmdb.org/t/p/w342/{{ page.extra.tmdb_poster_path }}" alt="Poster for {{ page.title }}">
+    {% else %}
+    <img class="film-poster" src="/projects/xmas-movie-discovery/xmas-placeholder.svg" alt="Poster for {{ page.title }}">
+    {% endif %}
     <div class="film-info">
       <h1 class="film-title">{{ page.title }}</h1>
       <a class="letterboxd-link" href="{{ page.extra.film_url }}" target="_blank" rel="noopener">View on Letterboxd →</a>

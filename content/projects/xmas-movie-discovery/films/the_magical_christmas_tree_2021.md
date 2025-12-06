@@ -1,0 +1,11 @@
++++
+title = """The Magical Christmas Tree"""
+template = "xmas-movie-page.html"
+description = """After an employee’s cruel boss sends them up to a forest to chop down a Christmas tree, the Ghosts of Christmas and a little magic intervene."""
+year = "2021"
+[taxonomies]
+xmas_genres = ['Romance', 'Fantasy', 'Queer']
+[extra]
+film_url = """https://letterboxd.com/film/the-magical-christmas-tree/"""
+tmdb_poster_path = """/qFiVfqXgV6C3Fk4OB0MvqSbOMxu.jpg"""
++++

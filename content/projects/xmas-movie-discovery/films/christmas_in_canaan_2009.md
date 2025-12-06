@@ -1,0 +1,11 @@
++++
+title = """Christmas in Canaan"""
+template = "xmas-movie-page.html"
+description = """Set in the 1960s, Christmas in Canaan is a drama about a black family and a white family that learn to love each other out of their Christian beliefs."""
+year = "2009"
+[taxonomies]
+xmas_genres = ['Hallmark', 'TV Movie', 'Family', 'Drama']
+[extra]
+film_url = """https://letterboxd.com/film/christmas-in-canaan/"""
+tmdb_poster_path = """/72ERMKvJx1kNOv8tJhq9CBPs0Um.jpg"""
++++

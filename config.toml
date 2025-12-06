@@ -6,7 +6,7 @@ description = "Scoutaloud notes on life, books, travels and more."
 taxonomies = [
     { name = "tags", feed = false },
     { name = "categories", feed = false },
-    { name = "xmas_genres", feed = true }
+    { name = "xmas_genres", feed = true, paginate_by = 50, paginate_path = "page" }
 ]
 
 # Whether to automatically compile all Sass files in the sass directory
