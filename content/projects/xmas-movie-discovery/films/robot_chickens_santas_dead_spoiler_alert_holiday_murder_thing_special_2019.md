@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A Christmas murder mystery special."""
 year = "2019"
 [taxonomies]
-xmas_genres = ['Animation', 'Adventure', 'Comedy']
+xmas_genres = ['Adventure', 'Animation', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/robot-chickens-santas-dead-spoiler-alert-holiday-murder-thing-special/"""
 tmdb_poster_path = """None"""

@@ -7,5 +7,5 @@ year = "2003"
 xmas_genres = ['Thriller', 'Horror', 'Drama']
 [extra]
 film_url = """https://letterboxd.com/film/black-cadillac/"""
-tmdb_poster_path = """/sBvmcivOpBwbiNbBcMiH3hKn3PS.jpg"""
+tmdb_poster_path = """/aCcHPu3TFJYNTT1NoWJPQa1tPi1.jpg"""
 +++

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Rising music star Layne heads home to Nashville for New Year's Eve to break her writer's block, but sometimes you find inspiration - and love - where you least expect it."""
 year = "2020"
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Queer']
+xmas_genres = ['Queer', 'Romance', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/i-hate-new-years/"""
 tmdb_poster_path = """/bhi8YfMgbLLQWCFbfQVIAe13xn5.jpg"""

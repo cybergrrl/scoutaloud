@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Fred Claus and Santa Claus have been estranged brothers for many years. Now Fred must reconcile his differences with his brother whom he believes overshadows him. When an efficiency expert assesses the workings at the North Pole and threatens to shut Santa down, Fred must help his brother to save Christmas."""
 year = "2007"
 [taxonomies]
-xmas_genres = ['Action', 'Drama', 'Comedy']
+xmas_genres = ['Drama', 'Comedy', 'Action']
 [extra]
 film_url = """https://letterboxd.com/film/fred-claus/"""
 tmdb_poster_path = """/9gATbvoRMxVeoHInwS8nR0KZMVc.jpg"""

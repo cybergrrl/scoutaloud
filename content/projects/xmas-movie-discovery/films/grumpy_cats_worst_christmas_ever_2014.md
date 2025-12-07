@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A lonely cat living in a mall pet shop has a sour outlook on life until, in the midst of the holiday rush, she’s swept up into a robbery and a friendship with a human girl."""
 year = "2014"
 [taxonomies]
-xmas_genres = ['TV Movie', 'Family', 'Comedy']
+xmas_genres = ['Family', 'TV Movie', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/grumpy-cats-worst-christmas-ever/"""
 tmdb_poster_path = """/2GZAMXRkEWs6WhL6M04uSRzF5iw.jpg"""

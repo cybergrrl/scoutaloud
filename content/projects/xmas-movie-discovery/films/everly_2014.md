@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After she betrays a powerful mob boss, a woman matches wits and weaponry with a legion of killers who are out to collect the bounty on the heads of her and her family."""
 year = "2014"
 [taxonomies]
-xmas_genres = ['Action', 'Thriller']
+xmas_genres = ['Thriller', 'Action']
 [extra]
 film_url = """https://letterboxd.com/film/everly/"""
 tmdb_poster_path = """/zYopOcb4VQQpcyJBtceyWKwYXsy.jpg"""

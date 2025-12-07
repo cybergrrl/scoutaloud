@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two young men, alone for the holidays for different reasons, gravitate towards each other on the day before Christmas after a conversation through the Blued app."""
 year = "2020"
 [taxonomies]
-xmas_genres = ['Drama', 'Queer']
+xmas_genres = ['Queer', 'Drama']
 [extra]
 film_url = """https://letterboxd.com/film/meet-me-outside-2020/"""
 tmdb_poster_path = """None"""

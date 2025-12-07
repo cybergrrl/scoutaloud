@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When he learns that a gangster has taken over his nightclub and murdered his partner, returning WWII hero Joe Miracle steals the money from the club's safe and hides in a settlement home, while the mob is on his tail."""
 year = "1949"
 [taxonomies]
-xmas_genres = ['Noir', 'Drama', 'Romance', 'Crime']
+xmas_genres = ['Romance', 'Crime', 'Drama']
 [extra]
 film_url = """https://letterboxd.com/film/mr-soft-touch/"""
 tmdb_poster_path = """/kuYyDmeXRrw2DaKFewXaBMWCXoW.jpg"""

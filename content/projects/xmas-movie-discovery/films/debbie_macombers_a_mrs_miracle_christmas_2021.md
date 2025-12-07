@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a family faces loneliness and loss of faith, Mrs. Miracle swoops in to renew their Christmas Spirit, and they experience a holiday of heavenly proportions."""
 year = "2021"
 [taxonomies]
-xmas_genres = ['Hallmark', 'TV Movie', 'Drama', 'Romance']
+xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
 [extra]
 film_url = """https://letterboxd.com/film/debbie-macombers-a-mrs-miracle-christmas/"""
 tmdb_poster_path = """/rUrCxAs3byx0jnjcfWxjtGTQ0U.jpg"""

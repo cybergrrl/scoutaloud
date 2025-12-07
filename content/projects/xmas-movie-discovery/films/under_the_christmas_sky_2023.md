@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Esteemed astrophysicist Kat, scheduled for her first trip into space but sidelined due to an accident, meets a new man at the local planetarium. Together, they must work hard to open a new exhibit by Christmas."""
 year = "2023"
 [taxonomies]
-xmas_genres = ['Hallmark', 'TV Movie', 'Drama', 'Romance']
+xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
 [extra]
 film_url = """https://letterboxd.com/film/under-the-christmas-sky/"""
 tmdb_poster_path = """/zTBMIZK2yg7wqWqEHb927mGNPZn.jpg"""

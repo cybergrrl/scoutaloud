@@ -7,5 +7,5 @@ year = "2001"
 xmas_genres = []
 [extra]
 film_url = """https://letterboxd.com/film/the-best-of-the-andy-williams-christmas-shows/"""
-tmdb_poster_path = """None"""
+tmdb_poster_path = """/x6fj6zYPv7CeGeU1XhQexqgkzLg.jpg"""
 +++
