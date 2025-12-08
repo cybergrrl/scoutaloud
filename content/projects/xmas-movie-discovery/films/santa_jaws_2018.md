@@ -2,7 +2,6 @@
 title = """Santa Jaws"""
 template = "xmas-movie-page.html"
 description = """Trying to survive the family Christmas, Cody makes a wish to be alone, which ends up backfiring when a shark manifests and kills his entire family."""
-year = "2018"
 
 [taxonomies]
 xmas_genres = ['Horror', 'Fantasy', 'Action']
@@ -10,6 +9,7 @@ xmas_genres = ['Horror', 'Fantasy', 'Action']
 [extra]
 film_url = """https://letterboxd.com/film/santa-jaws/"""
 tmdb_poster_path = """/cJbm00PdHOJbdAqIhfUjKJq25AY.jpg"""
+year = 2018
 director = """Misty Talley"""
 runtime = 88
 countries = ["""USA"""]

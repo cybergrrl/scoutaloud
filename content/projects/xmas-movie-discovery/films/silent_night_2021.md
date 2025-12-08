@@ -2,7 +2,6 @@
 title = """Silent Night"""
 template = "xmas-movie-page.html"
 description = """Nell, Simon, and their boy Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die."""
-year = "2021"
 
 [taxonomies]
 xmas_genres = ['Horror', 'Queer', 'Science Fiction', 'Comedy']
@@ -10,6 +9,7 @@ xmas_genres = ['Horror', 'Queer', 'Science Fiction', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/silent-night-2021/"""
 tmdb_poster_path = """/bfUO1SBTfgcK77em3lOuRFY2uLc.jpg"""
+year = 2021
 director = """Camille Griffin"""
 runtime = 92
 countries = ["""UK"""]

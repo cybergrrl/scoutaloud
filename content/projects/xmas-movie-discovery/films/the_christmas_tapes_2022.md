@@ -2,7 +2,6 @@
 title = """The Christmas Tapes"""
 template = "xmas-movie-page.html"
 description = """In this Christmas-Horror Anthology, a family's movie night on Christmas Eve is interrupted by a stranger, insistent on making the next Christmas 'classic' film himself. Directed by Robert Livings and Randy Nundlall Jr (INFRARED)."""
-year = "2022"
 
 [taxonomies]
 xmas_genres = ['Horror', 'Romance', 'Comedy']
@@ -10,6 +9,7 @@ xmas_genres = ['Horror', 'Romance', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-tapes/"""
 tmdb_poster_path = """/rAx4L10nn7wH4CxFkYzSwEMCvKY.jpg"""
+year = 2022
 director = """Robert Livings, Randy Nundlall Jr."""
 runtime = 100
 countries = ["""USA"""]

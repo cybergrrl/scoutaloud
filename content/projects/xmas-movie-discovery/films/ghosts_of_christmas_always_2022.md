@@ -2,7 +2,6 @@
 title = """Ghosts of Christmas Always"""
 template = "xmas-movie-page.html"
 description = """Katherine is a Ghost of Christmas Present and she must help one soul, Peter, rediscover his Christmas spirit. But this year has something unusual in store."""
-year = "2022"
 
 [taxonomies]
 xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
@@ -10,6 +9,7 @@ xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
 [extra]
 film_url = """https://letterboxd.com/film/ghosts-of-christmas-always/"""
 tmdb_poster_path = """/k0i2CXqOZF5JSp4qejxAxcehmnY.jpg"""
+year = 2022
 director = """Rich Newey"""
 runtime = 84
 countries = ["""USA"""]

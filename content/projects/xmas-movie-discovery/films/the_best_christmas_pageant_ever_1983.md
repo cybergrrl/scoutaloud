@@ -2,7 +2,6 @@
 title = """The Best Christmas Pageant Ever"""
 template = "xmas-movie-page.html"
 description = """The Herdmans – Gladys, Claude, Imogene, Leroy, Ollie and Ralph – are undeniably the worst kids in the history of the world. They lie, steal, cheat, bully and overall terrorize their small community. But this Christmas, they’re taking over their local church Pageant – and they just might unwittingly teach a shocked little town the true meaning of Christmas."""
-year = "1983"
 
 [taxonomies]
 xmas_genres = ['Family', 'TV Movie', 'Drama', 'Comedy']
@@ -10,6 +9,7 @@ xmas_genres = ['Family', 'TV Movie', 'Drama', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/the-best-christmas-pageant-ever/"""
 tmdb_poster_path = """/o4gFAjfnMpiJw9lOViuz22lR9RQ.jpg"""
+year = 1983
 director = """George Schaefer"""
 runtime = 48
 countries = ["""Canada""", """USA"""]

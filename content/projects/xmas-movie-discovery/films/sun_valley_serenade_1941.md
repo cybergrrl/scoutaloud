@@ -2,7 +2,6 @@
 title = """Sun Valley Serenade"""
 template = "xmas-movie-page.html"
 description = """When Phil Corey's band arrives at the Idaho ski resort its pianist Ted Scott is smitten with a Norwegian refugee he has sponsored, Karen Benson. When soloist Vivian Dawn quits, Karen stages an ice show as a substitute."""
-year = "1941"
 
 [taxonomies]
 xmas_genres = ['Music', 'Romance', 'Musical', 'Comedy']
@@ -10,6 +9,7 @@ xmas_genres = ['Music', 'Romance', 'Musical', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/sun-valley-serenade/"""
 tmdb_poster_path = """/6N7NMzb1iWEtb5NhLT622EKK5ht.jpg"""
+year = 1941
 director = """H. Bruce Humberstone"""
 runtime = 86
 countries = ["""USA"""]

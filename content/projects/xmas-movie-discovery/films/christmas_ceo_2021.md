@@ -2,7 +2,6 @@
 title = """Christmas CEO"""
 template = "xmas-movie-page.html"
 description = """A small toy company CEO gets a once in a lifetime offer to merge with a mega toy company but will need her estranged ex-business partner's signature to seal the deal. What he helps her rediscover will change both of their lives."""
-year = "2021"
 
 [taxonomies]
 xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
@@ -10,6 +9,7 @@ xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
 [extra]
 film_url = """https://letterboxd.com/film/christmas-ceo/"""
 tmdb_poster_path = """/sEr64YRNev9EW7YIyUqpcxK8Z9T.jpg"""
+year = 2021
 director = """Jonathan Wright"""
 runtime = 84
 countries = ["""Canada""", """USA"""]

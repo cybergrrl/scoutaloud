@@ -2,7 +2,6 @@
 title = """Beware, My Lovely"""
 template = "xmas-movie-page.html"
 description = """A psychopath on the run takes a job as a handyman at the house of a lonely widow."""
-year = "1952"
 
 [taxonomies]
 xmas_genres = ['Crime', 'Oldies', 'Thriller', 'Drama']
@@ -10,6 +9,7 @@ xmas_genres = ['Crime', 'Oldies', 'Thriller', 'Drama']
 [extra]
 film_url = """https://letterboxd.com/film/beware-my-lovely/"""
 tmdb_poster_path = """/eAbmuXqrmNxF8OG3yQaiBnt6Y0s.jpg"""
+year = 1952
 director = """Harry Horner"""
 runtime = 77
 countries = ["""USA"""]

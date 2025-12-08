@@ -2,7 +2,6 @@
 title = """All That Heaven Allows"""
 template = "xmas-movie-page.html"
 description = """Two different social classes collide when Cary Scott, a wealthy upper-class widow, falls in love with her much younger and down-to-earth gardener, prompting disapproval and criticism from her children and country club friends."""
-year = "1955"
 
 [taxonomies]
 xmas_genres = ['Oldies', 'Romance', 'Drama']
@@ -10,6 +9,7 @@ xmas_genres = ['Oldies', 'Romance', 'Drama']
 [extra]
 film_url = """https://letterboxd.com/film/all-that-heaven-allows/"""
 tmdb_poster_path = """/wlSmIk6iQ8yQhBG795UOOBUs4gF.jpg"""
+year = 1955
 director = """Douglas Sirk"""
 runtime = 89
 countries = ["""USA"""]

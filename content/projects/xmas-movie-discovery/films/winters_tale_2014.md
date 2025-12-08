@@ -2,7 +2,6 @@
 title = """Winter's Tale"""
 template = "xmas-movie-page.html"
 description = """A burglar falls for an heiress as she dies in his arms. When he learns that he has the gift of reincarnation, he sets out to save her."""
-year = "2014"
 
 [taxonomies]
 xmas_genres = ['Mystery', 'Romance', 'Drama', 'Fantasy']
@@ -10,6 +9,7 @@ xmas_genres = ['Mystery', 'Romance', 'Drama', 'Fantasy']
 [extra]
 film_url = """https://letterboxd.com/film/winters-tale/"""
 tmdb_poster_path = """/dwDAUpidqVEql6w1o51VIPlMtbG.jpg"""
+year = 2014
 director = """Akiva Goldsman"""
 runtime = 118
 countries = ["""USA"""]

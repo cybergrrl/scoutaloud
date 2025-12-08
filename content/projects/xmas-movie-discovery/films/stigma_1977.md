@@ -2,7 +2,6 @@
 title = """Stigma"""
 template = "xmas-movie-page.html"
 description = """A young couple move into a remote country house in the middle of a stone circle. They employ workmen who disturb an ancient menhir, unleashing a supernatural force."""
-year = "1977"
 
 [taxonomies]
 xmas_genres = ['Horror', 'Mystery', 'TV Movie', 'Drama']
@@ -10,6 +9,7 @@ xmas_genres = ['Horror', 'Mystery', 'TV Movie', 'Drama']
 [extra]
 film_url = """https://letterboxd.com/film/stigma-1977/"""
 tmdb_poster_path = """/ztCjyRwwKiJsZ5IOu4YgYBGyU29.jpg"""
+year = 1977
 director = """Lawrence Gordon Clark"""
 runtime = 32
 countries = ["""UK"""]

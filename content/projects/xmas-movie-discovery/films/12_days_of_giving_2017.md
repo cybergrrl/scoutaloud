@@ -2,7 +2,6 @@
 title = """12 Days of Giving"""
 template = "xmas-movie-page.html"
 description = """A Good Samaritan wins a small fortune and decides to play secret Santa to the residents of his small town, soon finding love in the process."""
-year = "2017"
 
 [taxonomies]
 xmas_genres = ['TV Movie', 'Drama']
@@ -10,6 +9,7 @@ xmas_genres = ['TV Movie', 'Drama']
 [extra]
 film_url = """https://letterboxd.com/film/12-days-of-giving/"""
 tmdb_poster_path = """/z6VvoKibWj8oRlBgJ4LuBvlHoyd.jpg"""
+year = 2017
 director = """Christine Conradt"""
 runtime = 85
 countries = ["""Canada""", """USA"""]

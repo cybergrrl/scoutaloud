@@ -2,7 +2,6 @@
 title = """Beauty and the Beast: The Enchanted Christmas"""
 template = "xmas-movie-page.html"
 description = """Astonished to find the Beast has a deep-seeded hatred for the Christmas season, Belle endeavors to change his mind on the matter."""
-year = "1997"
 
 [taxonomies]
 xmas_genres = ['Family', 'Musical', 'Animation', 'Fantasy']
@@ -10,6 +9,7 @@ xmas_genres = ['Family', 'Musical', 'Animation', 'Fantasy']
 [extra]
 film_url = """https://letterboxd.com/film/beauty-and-the-beast-the-enchanted-christmas/"""
 tmdb_poster_path = """/l1Tb0fvnj9wnCgm5qnTRoO6OxDT.jpg"""
+year = 1997
 director = """Andrew Knight"""
 runtime = 72
 countries = ["""Canada""", """USA"""]

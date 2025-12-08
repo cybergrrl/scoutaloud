@@ -2,7 +2,6 @@
 title = """My Friend Bernard"""
 template = "xmas-movie-page.html"
 description = """Sam is a shy boy who is afraid of almost everything until he meets a polar bear named Bernard who takes him on an epic adventure across the world to help him lose his fears."""
-year = "2007"
 
 [taxonomies]
 xmas_genres = ['Adventure', 'Comedy', 'Family', 'Animation', 'International Films']
@@ -10,6 +9,7 @@ xmas_genres = ['Adventure', 'Comedy', 'Family', 'Animation', 'International Film
 [extra]
 film_url = """https://letterboxd.com/film/my-friend-bernard/"""
 tmdb_poster_path = """/ycXKn6DJChPH6h0gEbdukwfjwl6.jpg"""
+year = 2007
 director = """Aaron Lim"""
 runtime = 76
 countries = ["""South Korea""", """Spain"""]

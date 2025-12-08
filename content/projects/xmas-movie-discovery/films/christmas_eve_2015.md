@@ -2,7 +2,6 @@
 title = """Christmas Eve"""
 template = "xmas-movie-page.html"
 description = """Hilarity, romance, and transcendence prevail after a power outage traps six different groups of New Yorkers inside elevators on Christmas Eve."""
-year = "2015"
 
 [taxonomies]
 xmas_genres = ['Family', 'Romance', 'Comedy']
@@ -10,6 +9,7 @@ xmas_genres = ['Family', 'Romance', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/christmas-eve-2015/"""
 tmdb_poster_path = """/vViH6PCa56kvCTm58gF45uucZWi.jpg"""
+year = 2015
 director = """Mitch Davis"""
 runtime = 95
 countries = ["""USA"""]

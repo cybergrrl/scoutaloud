@@ -2,7 +2,6 @@
 title = """The Krampus Carol"""
 template = "xmas-movie-page.html"
 description = """Christmas horror movie."""
-year = "None"
 
 [taxonomies]
 xmas_genres = ['Horror']

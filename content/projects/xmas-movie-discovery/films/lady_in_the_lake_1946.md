@@ -2,7 +2,6 @@
 title = """Lady in the Lake"""
 template = "xmas-movie-page.html"
 description = """Private eye Phillip Marlowe wants to get out of the detective racket and into crime writing. But when he's called to the office of editor Adrienne Fromsett, it's not to talk about his story ideas — she wants him to locate the missing wife of her boss, Mr. Kingsby. The assignment quickly becomes complicated when bodies start turning up."""
-year = "1946"
 
 [taxonomies]
 xmas_genres = ['Thriller', 'Mystery', 'Crime']
@@ -10,6 +9,7 @@ xmas_genres = ['Thriller', 'Mystery', 'Crime']
 [extra]
 film_url = """https://letterboxd.com/film/lady-in-the-lake/"""
 tmdb_poster_path = """/15iAyxIgD8bKqwKALaVJ5vf5pBt.jpg"""
+year = 1946
 director = """Robert Montgomery"""
 runtime = 105
 countries = ["""USA"""]

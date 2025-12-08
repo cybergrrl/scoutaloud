@@ -2,7 +2,6 @@
 title = """A Zombie Christmas"""
 template = "xmas-movie-page.html"
 description = """A rough and tough family and a mall Santa team up as they try to survive the impending zombie apocalypse during the holidays."""
-year = "None"
 
 [taxonomies]
 xmas_genres = []

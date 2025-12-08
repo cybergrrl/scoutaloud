@@ -2,7 +2,6 @@
 title = """5 Star Christmas"""
 template = "xmas-movie-page.html"
 description = """When the Italian Premier and his companion find a dead body in his hotel suite, while on a trip to Hungary, they find themselves embroiled in a series of comedic situations as they try to avoid a scandal."""
-year = "2018"
 
 [taxonomies]
 xmas_genres = ['International Films', 'Comedy']
@@ -10,6 +9,7 @@ xmas_genres = ['International Films', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/5-star-christmas/"""
 tmdb_poster_path = """/7BfDHiVU6bxyv5MAmme8g3d0q8I.jpg"""
+year = 2018
 director = """Marco Risi"""
 runtime = 92
 countries = ["""Italy"""]

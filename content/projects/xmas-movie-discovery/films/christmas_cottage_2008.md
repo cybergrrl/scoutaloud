@@ -2,7 +2,6 @@
 title = """Christmas Cottage"""
 template = "xmas-movie-page.html"
 description = """Inspired by the picturesque paintings of Thomas Kinkade, The Christmas Cottage tells the semi-autobiographical tale of how a young boy is propelled to launch a career as an artist after he learns that his mother is in danger of losing the family home."""
-year = "2008"
 
 [taxonomies]
 xmas_genres = ['Family', 'Hallmark', 'Romance', 'Drama']
@@ -10,6 +9,7 @@ xmas_genres = ['Family', 'Hallmark', 'Romance', 'Drama']
 [extra]
 film_url = """https://letterboxd.com/film/christmas-cottage/"""
 tmdb_poster_path = """/xgVxmbD4mLtvelP8U5jbT7Rxjiv.jpg"""
+year = 2008
 director = """Michael Campus"""
 runtime = 96
 countries = ["""Canada""", """USA"""]

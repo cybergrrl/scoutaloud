@@ -2,7 +2,6 @@
 title = """The Voice of the Turtle"""
 template = "xmas-movie-page.html"
 description = """An aspiring Broadway actress falls in love with a soldier on leave during a weekend in New York City."""
-year = "1947"
 
 [taxonomies]
 xmas_genres = ['Oldies', 'Romance', 'Comedy']
@@ -10,6 +9,7 @@ xmas_genres = ['Oldies', 'Romance', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/the-voice-of-the-turtle/"""
 tmdb_poster_path = """/Aq0pxL9BxD2Lzhh4TVOeeNM0u1Y.jpg"""
+year = 1947
 director = """Irving Rapper"""
 runtime = 103
 countries = ["""USA"""]

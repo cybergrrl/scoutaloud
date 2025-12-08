@@ -2,7 +2,6 @@
 title = """Ghostbusters II"""
 template = "xmas-movie-page.html"
 description = """The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business."""
-year = "1989"
 
 [taxonomies]
 xmas_genres = ['Comedy', 'Fantasy']
@@ -10,6 +9,7 @@ xmas_genres = ['Comedy', 'Fantasy']
 [extra]
 film_url = """https://letterboxd.com/film/ghostbusters-ii/"""
 tmdb_poster_path = """/yObYPMA58DnTMvJooFW7GG6jWAt.jpg"""
+year = 1989
 director = """Ivan Reitman"""
 runtime = 108
 countries = ["""USA"""]

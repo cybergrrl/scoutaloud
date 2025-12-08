@@ -2,7 +2,6 @@
 title = """Private Princess Christmas"""
 template = "xmas-movie-page.html"
 description = """Princess Violet of Wingravia must complete a tough leadership boot camp in Colorado or risk losing her throne to her uncle."""
-year = "2024"
 
 [taxonomies]
 xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
@@ -10,6 +9,7 @@ xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
 [extra]
 film_url = """https://letterboxd.com/film/private-princess-christmas/"""
 tmdb_poster_path = """/14F9kahwbbDJCFAgh0v2GtzfjVo.jpg"""
+year = 2024
 director = """Paul Ziller"""
 runtime = 84
 countries = ["""USA""", """Canada"""]

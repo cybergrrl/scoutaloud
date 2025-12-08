@@ -2,7 +2,6 @@
 title = """USS Christmas"""
 template = "xmas-movie-page.html"
 description = """Maddie, a reporter for a Norfolk newspaper, embarks on a Tiger Cruise during Christmastime where she meets a handsome naval officer and stumbles upon a mystery in the ship’s archive room."""
-year = "2020"
 
 [taxonomies]
 xmas_genres = ['Hallmark', 'Mystery', 'TV Movie']
@@ -10,6 +9,7 @@ xmas_genres = ['Hallmark', 'Mystery', 'TV Movie']
 [extra]
 film_url = """https://letterboxd.com/film/uss-christmas/"""
 tmdb_poster_path = """/kio6inuU0xXbtacJE5NgPYDedlf.jpg"""
+year = 2020
 director = """Steven R. Monroe"""
 runtime = 84
 countries = ["""Canada""", """USA"""]

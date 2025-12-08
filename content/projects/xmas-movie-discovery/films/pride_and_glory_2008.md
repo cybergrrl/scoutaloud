@@ -2,7 +2,6 @@
 title = """Pride and Glory"""
 template = "xmas-movie-page.html"
 description = """A saga centered on a multi-generational family of New York City Police officers. The family's moral codes are tested when Ray Tierney, investigates a case that reveals an incendiary police corruption scandal involving his own brother-in-law. For Ray, the truth is revelatory, a Pandora's Box that threatens to upend not only the Tierney legacy but the entire NYPD."""
-year = "2008"
 
 [taxonomies]
 xmas_genres = ['Thriller', 'Crime', 'Drama', 'Mystery']
@@ -10,6 +9,7 @@ xmas_genres = ['Thriller', 'Crime', 'Drama', 'Mystery']
 [extra]
 film_url = """https://letterboxd.com/film/pride-and-glory/"""
 tmdb_poster_path = """/8VZ1ABbtXqwPcc06yXbf3gj3anG.jpg"""
+year = 2008
 director = """Gavin O'Connor"""
 runtime = 130
 countries = ["""USA""", """Germany"""]

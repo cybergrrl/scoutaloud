@@ -2,7 +2,6 @@
 title = """Less Than Zero"""
 template = "xmas-movie-page.html"
 description = """A college freshman returns to Los Angeles for Christmas at his ex-girlfriend's request, but discovers that his former best friend has an out-of-control drug habit."""
-year = "1987"
 
 [taxonomies]
 xmas_genres = ['Romance', 'Crime', 'Drama']
@@ -10,6 +9,7 @@ xmas_genres = ['Romance', 'Crime', 'Drama']
 [extra]
 film_url = """https://letterboxd.com/film/less-than-zero/"""
 tmdb_poster_path = """/8pFMuyJJwJLqOJ3Ljq3M5BFGbTF.jpg"""
+year = 1987
 director = """Marek Kanievska"""
 runtime = 98
 countries = ["""USA"""]

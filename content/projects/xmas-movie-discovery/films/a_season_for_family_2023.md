@@ -2,7 +2,6 @@
 title = """A Season for Family"""
 template = "xmas-movie-page.html"
 description = """While Maddie’s adopted son wants to meet his brother Cody, who was adopted into another family, Cody’s father, isn’t ready."""
-year = "2023"
 
 [taxonomies]
 xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
@@ -10,6 +9,7 @@ xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
 [extra]
 film_url = """https://letterboxd.com/film/a-season-for-family/"""
 tmdb_poster_path = """/8M3xrDQENIwptlUJgld6meNwReD.jpg"""
+year = 2023
 director = """Kevin Fair"""
 runtime = 84
 countries = ["""Canada""", """USA"""]

@@ -2,7 +2,6 @@
 title = """The Finnish Line"""
 template = "xmas-movie-page.html"
 description = """Anya follows her father's footsteps in sled dog racing. In Finland, she enters his last race but her lead dog is injured. Teaming with Cole's dog, she battles her father's rival Monty while learning to trust her new canine partner to win."""
-year = "2024"
 
 [taxonomies]
 xmas_genres = ['Adventure', 'Hallmark', 'Romance', 'TV Movie']
@@ -10,6 +9,7 @@ xmas_genres = ['Adventure', 'Hallmark', 'Romance', 'TV Movie']
 [extra]
 film_url = """https://letterboxd.com/film/the-finnish-line/"""
 tmdb_poster_path = """/3lerMQaQX5nnotesTyNggH53ATU.jpg"""
+year = 2024
 director = """Dustin Rikert"""
 runtime = 84
 countries = ["""Finland""", """Iceland"""]

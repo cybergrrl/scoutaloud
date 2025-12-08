@@ -2,7 +2,6 @@
 title = """Bloody Merry Christmas"""
 template = "xmas-movie-page.html"
 description = """Twelve old high school friends are murdered one by one during a reunion party that takes place on Christmas eve."""
-year = "2012"
 
 [taxonomies]
 xmas_genres = ['Thriller', 'Comedy']
@@ -10,6 +9,7 @@ xmas_genres = ['Thriller', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/bloody-merry-christmas/"""
 tmdb_poster_path = """/eC7b6YvKGFtDynoN5HxR6jaGKRA.jpg"""
+year = 2012
 director = """Yorgos Kastellis, Michael Felanis"""
 runtime = 32
 original_language = """Greek (modern)"""

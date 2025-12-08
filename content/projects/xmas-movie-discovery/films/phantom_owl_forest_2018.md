@@ -2,7 +2,6 @@
 title = """Phantom Owl Forest"""
 template = "xmas-movie-page.html"
 description = """A 10-year old girl's Christmas plans take an unexpected turn after she is brought to a mysterious Estonian farm."""
-year = "2018"
 
 [taxonomies]
 xmas_genres = ['Family', 'International Films']
@@ -10,6 +9,7 @@ xmas_genres = ['Family', 'International Films']
 [extra]
 film_url = """https://letterboxd.com/film/phantom-owl-forest/"""
 tmdb_poster_path = """/qx9cTMo1wQCu4YMsOthz7YisLK8.jpg"""
+year = 2018
 director = """Anu Aun"""
 runtime = 90
 countries = ["""Estonia"""]

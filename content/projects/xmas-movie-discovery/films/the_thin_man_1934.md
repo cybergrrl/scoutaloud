@@ -2,7 +2,6 @@
 title = """The Thin Man"""
 template = "xmas-movie-page.html"
 description = """A husband and wife detective team takes on the search for a missing inventor and almost get killed for their efforts."""
-year = "1934"
 
 [taxonomies]
 xmas_genres = ['Mystery', 'Oldies', 'Crime', 'Comedy']
@@ -10,6 +9,7 @@ xmas_genres = ['Mystery', 'Oldies', 'Crime', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/the-thin-man/"""
 tmdb_poster_path = """/6cL89ok9t8xEKboOjOVga2W66jj.jpg"""
+year = 1934
 director = """W.S. Van Dyke"""
 runtime = 91
 countries = ["""USA"""]

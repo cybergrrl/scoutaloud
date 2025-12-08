@@ -2,7 +2,6 @@
 title = """A Cadaver Christmas"""
 template = "xmas-movie-page.html"
 description = """When a dark force takes over the morgue during the Christmas holiday, a ragtag band of heroes has to save humanity from the growing army of the walking dead."""
-year = "2011"
 
 [taxonomies]
 xmas_genres = ['Horror', 'Comedy']
@@ -10,6 +9,7 @@ xmas_genres = ['Horror', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/a-cadaver-christmas/"""
 tmdb_poster_path = """/mTrtAfJNkP54tFeq1df9hejMJoF.jpg"""
+year = 2011
 director = """Joe Zerull"""
 runtime = 86
 countries = ["""USA"""]

@@ -2,7 +2,6 @@
 title = """Saint"""
 template = "xmas-movie-page.html"
 description = """A horror film that depicts St. Nicholas as a murderous bishop who kidnaps and murders children when there is a full moon on December 5."""
-year = "2010"
 
 [taxonomies]
 xmas_genres = ['Horror', 'Comedy']
@@ -10,6 +9,7 @@ xmas_genres = ['Horror', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/saint/"""
 tmdb_poster_path = """/pEPd4mgMwvz6aRhuWkmPUv98P1O.jpg"""
+year = 2010
 director = """Dick Maas"""
 runtime = 85
 countries = ["""Netherlands"""]

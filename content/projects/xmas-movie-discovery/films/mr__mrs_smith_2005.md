@@ -2,7 +2,6 @@
 title = """Mr. & Mrs. Smith"""
 template = "xmas-movie-page.html"
 description = """A husband and wife struggle to keep their marriage alive until they realize they are both secretly working as assassins. Now, their respective assignments require them to kill each other."""
-year = "2005"
 
 [taxonomies]
 xmas_genres = ['Thriller', 'Drama', 'Comedy', 'Action']
@@ -10,6 +9,7 @@ xmas_genres = ['Thriller', 'Drama', 'Comedy', 'Action']
 [extra]
 film_url = """https://letterboxd.com/film/mr-mrs-smith-2005/"""
 tmdb_poster_path = """/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg"""
+year = 2005
 director = """Doug Liman"""
 runtime = 120
 countries = ["""Switzerland""", """USA"""]

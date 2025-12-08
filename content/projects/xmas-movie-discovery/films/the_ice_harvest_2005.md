@@ -2,7 +2,6 @@
 title = """The Ice Harvest"""
 template = "xmas-movie-page.html"
 description = """A shady lawyer attempts a Christmas Eve crime, hoping to swindle the local mob out of some money. But his partner, a strip club owner, might have different plans for the cash."""
-year = "2005"
 
 [taxonomies]
 xmas_genres = ['Thriller', 'Crime', 'Drama', 'Comedy']
@@ -10,6 +9,7 @@ xmas_genres = ['Thriller', 'Crime', 'Drama', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/the-ice-harvest/"""
 tmdb_poster_path = """/8N2X2u6nPoPEwRLIZbKacJw1xrC.jpg"""
+year = 2005
 director = """Harold Ramis"""
 runtime = 88
 countries = ["""USA"""]

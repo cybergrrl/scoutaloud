@@ -2,7 +2,6 @@
 title = """Season of Love"""
 template = "xmas-movie-page.html"
 description = """A queer lady holiday movie that follows the lives of three very different couples in dealing with their love lives in various loosely interrelated tales all set right before Christmas through New Years."""
-year = "2019"
 
 [taxonomies]
 xmas_genres = ['Queer', 'Romance', 'Comedy']
@@ -10,6 +9,7 @@ xmas_genres = ['Queer', 'Romance', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/season-of-love/"""
 tmdb_poster_path = """/usx2sUMfr8XXI8QoQuzaxZzasvo.jpg"""
+year = 2019
 director = """Christin Baker"""
 runtime = 105
 countries = ["""USA"""]

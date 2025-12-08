@@ -2,7 +2,6 @@
 title = """Christmas Jars"""
 template = "xmas-movie-page.html"
 description = """Aspiring reporter Hope Jensen uncovers the remarkable secret behind a holiday phenomenon: money-filled glass jars anonymously given to people in need."""
-year = "2019"
 
 [taxonomies]
 xmas_genres = ['Romance', 'TV Movie', 'Drama', 'Comedy']
@@ -10,6 +9,7 @@ xmas_genres = ['Romance', 'TV Movie', 'Drama', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/christmas-jars/"""
 tmdb_poster_path = """/4BtAfW8XlDc7FLDiMsXWrihwR14.jpg"""
+year = 2019
 director = """Jonathan Wright"""
 runtime = 90
 countries = ["""Canada"""]

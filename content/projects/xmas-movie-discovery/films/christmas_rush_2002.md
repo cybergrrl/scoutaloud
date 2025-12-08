@@ -2,7 +2,6 @@
 title = """Christmas Rush"""
 template = "xmas-movie-page.html"
 description = """In the season of giving, the department took his badge. Criminals took his wife. Now, one cop is taking matters into his own hands"""
-year = "2002"
 
 [taxonomies]
 xmas_genres = ['TV Movie', 'Action']
@@ -10,6 +9,7 @@ xmas_genres = ['TV Movie', 'Action']
 [extra]
 film_url = """https://letterboxd.com/film/christmas-rush/"""
 tmdb_poster_path = """/hl9MvagcEEXVpeSP3F7yv5fg0F7.jpg"""
+year = 2002
 director = """Charles Robert Carner"""
 runtime = 100
 countries = ["""USA"""]

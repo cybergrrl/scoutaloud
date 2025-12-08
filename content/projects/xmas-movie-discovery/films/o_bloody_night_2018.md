@@ -2,7 +2,6 @@
 title = """O' Bloody Night"""
 template = "xmas-movie-page.html"
 description = """Christmas Horror Anthology"""
-year = "2018"
 
 [taxonomies]
 xmas_genres = ['Horror']
@@ -10,6 +9,7 @@ xmas_genres = ['Horror']
 [extra]
 film_url = """https://letterboxd.com/film/o-bloody-night/"""
 tmdb_poster_path = """/yhequnaqP8Yh9qt6hO1umJplLeb.jpg"""
+year = 2018
 director = """Alain Juteau, Luc Bernier et al"""
 countries = ["""UK"""]
 original_language = """English"""

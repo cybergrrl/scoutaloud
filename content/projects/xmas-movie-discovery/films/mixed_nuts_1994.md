@@ -2,7 +2,6 @@
 title = """Mixed Nuts"""
 template = "xmas-movie-page.html"
 description = """The events of a crisis hotline business on one crazy night during the Christmas holidays."""
-year = "1994"
 
 [taxonomies]
 xmas_genres = ['Romance', 'Drama', 'Comedy']
@@ -10,6 +9,7 @@ xmas_genres = ['Romance', 'Drama', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/mixed-nuts/"""
 tmdb_poster_path = """/xPdQMqxWnFwCKOIto8dBEorTtGR.jpg"""
+year = 1994
 director = """Nora Ephron"""
 runtime = 97
 countries = ["""USA"""]

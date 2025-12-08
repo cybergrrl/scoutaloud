@@ -2,7 +2,6 @@
 title = """Nantucket Noel"""
 template = "xmas-movie-page.html"
 description = """During the Seaside Noel celebrations, Christin learns of a developer who is planning to tear down the wharf that is home to her toy store. Tensions rise as she falls for the developer's son, Andy."""
-year = "2021"
 
 [taxonomies]
 xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
@@ -10,6 +9,7 @@ xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
 [extra]
 film_url = """https://letterboxd.com/film/nantucket-noel/"""
 tmdb_poster_path = """/oBpmDCdW1UehU1EfjGReth7F6tZ.jpg"""
+year = 2021
 director = """Kirsten Hansen"""
 runtime = 84
 countries = ["""Canada""", """USA"""]

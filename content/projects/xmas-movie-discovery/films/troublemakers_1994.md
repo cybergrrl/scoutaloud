@@ -2,7 +2,6 @@
 title = """Troublemakers"""
 template = "xmas-movie-page.html"
 description = """Two brothers who hate themselves are going to spend Christmas with their mother. She tries to get them together."""
-year = "1994"
 
 [taxonomies]
 xmas_genres = ['Western', 'International Films', 'Romance', 'Comedy']
@@ -10,6 +9,7 @@ xmas_genres = ['Western', 'International Films', 'Romance', 'Comedy']
 [extra]
 film_url = """https://letterboxd.com/film/troublemakers/"""
 tmdb_poster_path = """/lZbP807sIDkBvDKBMEeLfPo7jbg.jpg"""
+year = 1994
 director = """Terence Hill"""
 runtime = 107
 countries = ["""Germany""", """Italy""", """USA"""]
