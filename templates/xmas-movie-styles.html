@@ -59,6 +59,10 @@
   --light-blue-glow-dim: rgba(80, 147, 186, 0.2);
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   font-family: 'Quicksand', sans-serif;
   margin: 0;
@@ -66,12 +70,14 @@ body {
   background: linear-gradient(to bottom, var(--forest-dark) 0%, var(--forest-deeper) 100%);
   min-height: 100vh;
   color: var(--cream-light);
+  overflow-x: hidden;
+  width: 100%;
 }
 
 .lightrope {
   text-align: center;
   white-space: nowrap;
-  overflow: visible;
+  overflow: hidden;
   position: relative;
   z-index: 1;
   margin: 0;
@@ -371,7 +377,7 @@ main {
   .content-narrow,
   .content-standard,
   .content-wide {
-    padding: 0 0.5rem;
+    padding: 0;
   }
   
   .movie-grid {
@@ -388,7 +394,7 @@ main {
   .content-narrow,
   .content-standard,
   .content-wide {
-    padding: 0 0.75rem;
+    padding: 0;
   }
 }
 
