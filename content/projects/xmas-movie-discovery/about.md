@@ -17,7 +17,15 @@ Just having a random scene with a Christmas tree or a Santa in the background is
 
 ## Attribution
 
-The information displayed for each film has been taken from [Letterboxd.com](https://letterboxd.com) (text content); the film posters come directly from [TMDB](https://www.themoviedb.org/). *To obtain the posters, the TMDB API was used but this site is not endorsed, certified, or otherwise approved by TMDB.*
+The information displayed for each film has been taken from [Letterboxd.com](https://letterboxd.com) (text content); the film posters come directly from [TMDB](https://www.themoviedb.org/). 
+
+<div class="tmdb-attribution">
+
+![TMDB Logo](/projects/xmas-movie-discovery/TMDB-logo.svg)
+
+*To obtain the posters, the TMDB API was used but this site is not endorsed, certified, or otherwise approved by TMDB.*
+
+</div>
 
 I would like to thank all the folks over on Letterboxd who created Christmas movie lists.
 I would also like to thank the owners of the following two github repositories as well as the other contributors - their code enabled me to scrape the lists of Christmas movies to build my database: [L-Dot](https://github.com/L-Dot/Letterboxd-list-scraper) and [cjpeterson](https://github.com/cjpeterson/Letterboxd-list-scraper/tree/master).

@@ -7,26 +7,28 @@
 {% endblock header %}
 
 {% block content %}
-<div class="about-content">
-    {{ page.content | safe }}
+<div class="content-standard">
+  <div class="about-content">
+      {{ page.content | safe }}
+  </div>
 </div>
 {% endblock content %}
 
 {% block extra_head %}
 {% include "xmas-movie-styles.html" %}
 <style>
-main {
-  padding: 2rem 1.5rem;
-  max-width: 800px;
-  margin: 0 auto;
+/* Override container padding for about page since about-content has its own */
+.content-standard {
+  padding: 0;
 }
 
 .about-content {
   background: var(--cream-light);
   border-radius: 16px;
-  padding: 3rem;
+  padding: 2.5rem;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
   border: 1px solid rgba(139, 69, 54, 0.15);
+  box-sizing: border-box;
 }
 
 .about-content h1 {
@@ -104,9 +106,43 @@ main {
   color: var(--terracotta);
 }
 
+.about-content img {
+  max-width: 112px;
+  height: auto;
+  float: left;
+  margin-right: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.about-content .tmdb-attribution {
+  overflow: auto;
+  margin-bottom: 1rem;
+}
+
 @media (max-width: 768px) {
   .about-content {
-    padding: 2rem;
+    padding: 1.5rem;
+  }
+  
+  .about-content .tmdb-attribution {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  
+  .about-content .tmdb-attribution p {
+    margin-bottom: 0.25rem;
+  }
+  
+  .about-content img {
+    float: none;
+    display: block;
+    margin: 0.25rem auto 0 auto;
+  }
+}
+
+@media (max-width: 600px) {
+  .about-content {
+    padding: 1rem;
   }
 }
 </style>

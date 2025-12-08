@@ -7,7 +7,7 @@
 {% endblock header %}
 
 {% block content %}
-<main class="film-page">
+<div class="content-standard">
   <p class="breadcrumb"><a href="/projects/xmas-movie-discovery/">← Back to all movies</a></p>
   <div class="film-card">
     <div class="film-sidebar">
@@ -120,7 +120,7 @@
       <a class="letterboxd-link" href="{{ page.extra.film_url }}" target="_blank" rel="noopener">View on Letterboxd →</a>
     </div>
   </div>
-</main>
+</div>
 {% endblock content %}
 
 {% block extra_head %}
@@ -151,18 +151,12 @@
 
 {% include "xmas-movie-styles.html" %}
 <style>
-main {
-  padding: 2rem 1.5rem;
-}
-
-.film-page {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+/* Override container padding for film page since film-card has its own */
+.content-standard {
+  padding: 0;
 }
 
 .breadcrumb {
-  max-width: 800px;
   width: 100%;
   margin: 0 0 1rem 0;
 }
@@ -184,12 +178,13 @@ main {
   border-radius: 16px;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
   display: flex;
-  max-width: 1000px;
+  width: 100%;
   padding: 2.5rem;
   gap: 2.5rem;
   align-items: flex-start;
   border: 1px solid rgba(139, 69, 54, 0.15);
   animation: fadeIn 0.5s ease-out;
+  box-sizing: border-box;
 }
 
 @keyframes fadeIn {
@@ -443,10 +438,6 @@ main {
 }
 
 @media (max-width: 768px) {
-  main {
-    padding: 1.5rem 0;
-  }
-  
   .film-card {
     flex-direction: column;
     padding: 1.5rem;
@@ -469,16 +460,8 @@ main {
 }
 
 @media (max-width: 600px) {
-  main {
-    padding: 1rem 0;
-  }
-  
   .film-card {
     padding: 1rem;
-  }
-  
-  .breadcrumb {
-    padding: 0 1rem;
   }
 }
 </style>

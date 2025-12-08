@@ -8,12 +8,13 @@
 {% endblock header %}
 
 {% block content %}
-<div class="hero-section">
-  <h1 class="main-title">Christmas Movie Collection</h1>
-  <p class="subtitle">Discover your next festive favourite</p>
-</div>
+<div class="content-standard">
+  <div class="hero-section">
+    <h1 class="main-title">Christmas Movie Collection</h1>
+    <p class="subtitle">Discover your next festive favourite</p>
+  </div>
 
-<div class="genre-filters">
+  <div class="genre-filters">
   <label for="genre-select" class="filter-label">Filter by genre:</label>
   <select id="genre-select" class="genre-dropdown" onchange="if(this.value) window.location.href=this.value">
     <option value="">All movies</option>
@@ -100,6 +101,7 @@
     {% endif %}
   </div>
 </nav>
+</div>
 {% endblock content %}
 {% block extra_head %}
 <!-- Open Graph / Facebook -->
@@ -121,10 +123,6 @@
 
 {% include "xmas-movie-styles.html" %}
 <style>
-
-main {
-  padding: 2rem 1.5rem;
-}
 
 .hero-section {
   text-align: center;
@@ -209,97 +207,6 @@ main {
   background: var(--forest-dark);
   color: var(--cream-light);
   padding: 0.5rem;
-}
-
-.movie-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 2rem;
-  margin-top: 2rem;
-  animation: gridFadeIn 0.8s ease-out;
-}
-
-@keyframes gridFadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
-.movie-card {
-  background: var(--cream-light);
-  border-radius: 12px;
-  padding: 1rem;
-  transition: all 0.3s ease;
-  border: 1px solid rgba(139, 69, 54, 0.15);
-}
-
-.movie-card:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.4);
-}
-
-.movie-link {
-  text-decoration: none;
-  display: block;
-}
-
-.poster-wrapper {
-  position: relative;
-  overflow: hidden;
-  border-radius: 8px;
-  margin-bottom: 0.75rem;
-  background: var(--cream-tan);
-}
-
-.movie-poster {
-  width: 100%;
-  height: auto;
-  aspect-ratio: 2/3;
-  object-fit: cover;
-  display: block;
-  transition: transform 0.3s ease;
-}
-
-.movie-card:hover .movie-poster {
-  transform: scale(1.05);
-}
-
-.movie-title {
-  font-size: 1.1rem;
-  font-weight: 600;
-  margin: 0;
-  color: var(--burgundy-deep);
-  line-height: 1.3;
-  text-align: center;
-}
-
-@media (max-width: 768px) {
-  .main-title {
-    font-size: 2.5rem;
-  }
-  
-  .movie-grid {
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: 1.5rem;
-  }
-  
-  body {
-    padding: 1.5rem 1rem;
-  }
-}
-
-@media (max-width: 480px) {
-  .main-title {
-    font-size: 2rem;
-  }
-  
-  .movie-grid {
-    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
-    gap: 1rem;
-  }
 }
 
 /* Pagination Styles */
@@ -407,8 +314,8 @@ main {
 }
 
 @media (max-width: 768px) {
-  main {
-    padding: 1.5rem 1rem;
+  .main-title {
+    font-size: 2.5rem;
   }
   
   .pagination-controls {
@@ -447,8 +354,8 @@ main {
 }
 
 @media (max-width: 480px) {
-  main {
-    padding: 1rem 0.75rem;
+  .main-title {
+    font-size: 2rem;
   }
   
   .pagination {

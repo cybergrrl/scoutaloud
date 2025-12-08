@@ -7,19 +7,22 @@
 {% endblock header %}
 
 {% block content %}
-<h1>{{ term.name | capitalize }} Movies</h1>
-<p><a href="/projects/xmas-movie-discovery/">← Back to all movies</a></p>
+<div class="content-standard">
+  <h1>{{ term.name | capitalize }} Movies</h1>
+  <p><a href="/projects/xmas-movie-discovery/">← Back to all movies</a></p>
 
-<div class="movie-grid">
+  <div class="movie-grid">
   {% for page in paginator.pages %}
     <div class="movie-card">
-      <a href="{{ page.permalink }}">
-        {% if page.extra.tmdb_poster_path and page.extra.tmdb_poster_path != "None" %}
-        <img class="movie-poster" src="https://image.tmdb.org/t/p/w185/{{ page.extra.tmdb_poster_path }}" alt="{{ page.title }} poster">
-        {% else %}
-        <img class="movie-poster" src="/projects/xmas-movie-discovery/xmas-placeholder.svg" alt="{{ page.title }} poster">
-        {% endif %}
-        <h3>{{ page.title }}</h3>
+      <a href="{{ page.permalink }}" class="movie-link">
+        <div class="poster-wrapper">
+          {% if page.extra.tmdb_poster_path and page.extra.tmdb_poster_path != "None" %}
+          <img class="movie-poster" src="https://image.tmdb.org/t/p/w342/{{ page.extra.tmdb_poster_path }}" alt="{{ page.title }} poster">
+          {% else %}
+          <img class="movie-poster" src="/projects/xmas-movie-discovery/xmas-placeholder.svg" alt="{{ page.title }} poster">
+          {% endif %}
+        </div>
+        <h3 class="movie-title">{{ page.title }}</h3>
       </a>
     </div>
   {% endfor %}
@@ -84,6 +87,7 @@
     {% endif %}
   </div>
 </nav>
+</div>
 {% endblock content %}
 
 {% block extra_head %}
@@ -106,50 +110,6 @@
 
 {% include "xmas-movie-styles.html" %}
 <style>
-main {
-  padding: 2rem 1.5rem;
-}
-
-.movie-grid {
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-	gap: 1.5rem;
-	margin-top: 2rem;
-	max-width: 1400px;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-.movie-card {
-	background: var(--cream-light);
-	border-radius: 10px;
-	box-shadow: 0 4px 16px rgba(0,0,0,0.10);
-	padding: 1rem;
-	text-align: center;
-	border: 1px solid rgba(139, 69, 54, 0.10);
-	transition: transform 0.2s, box-shadow 0.2s;
-}
-.movie-card:hover {
-	transform: translateY(-3px) scale(1.03);
-	box-shadow: 0 8px 32px rgba(0,0,0,0.18);
-}
-
-.movie-poster {
-	width: 120px;
-	height: 180px;
-	object-fit: cover;
-	border-radius: 6px;
-	margin-bottom: 0.5rem;
-	background: var(--cream-tan);
-	box-shadow: 0 2px 8px rgba(0,0,0,0.10);
-}
-
-.movie-card h3 {
-	font-size: 1.05rem;
-	margin: 0.5rem 0 0 0;
-	color: var(--burgundy-deep);
-}
-
 a {
 	color: var(--burgundy-deep);
 	text-decoration: none;
@@ -272,27 +232,8 @@ p a {
 }
 
 @media (max-width: 600px) {
-	main {
-		padding: 1.5rem 1rem;
-	}
-	
 	h1 {
 		font-size: 1.2rem;
-	}
-	
-	.movie-grid {
-		grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-		gap: 1rem;
-		padding: 0 0.5rem;
-	}
-	
-	.movie-card {
-		padding: 0.7rem 0.5rem;
-	}
-	
-	.movie-poster {
-		width: 90px;
-		height: 130px;
 	}
 	
 	.pagination-controls {

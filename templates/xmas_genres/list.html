@@ -7,27 +7,25 @@
 {% endblock header %}
 
 {% block content %}
-<h1>All Genres</h1>
-<ul>
-  {% for term in terms %}
+<div class="content-narrow">
+  <h1>All Genres</h1>
+  <ul>
+    {% for term in terms %}
     <li><a href="{{ term.permalink }}">{{ term.name | capitalize }}</a> ({{ term.pages | length }})</li>
   {% endfor %}
 </ul>
 <p><a href="/projects/xmas-movie-discovery/">← Back to all movies</a></p>
+</div>
 {% endblock content %}
 
 {% block extra_head %}
 {% include "xmas-movie-styles.html" %}
 <style>
-main {
-  padding: 2rem 1.5rem;
-}
-
 ul {
   list-style: none;
   padding: 0;
   max-width: 500px;
-  margin: 2rem auto 2rem auto;
+  margin: 2rem auto;
 }
 
 li {
