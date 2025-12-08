@@ -1,6 +1,10 @@
 {% extends "base.html" %}
 
-{% block title %}{{ term.name | capitalize }} Movies - {{ config.title }}{% endblock title %}
+{% block title %}{{ term.name | title }} - Christmas Movie Discovery{% endblock title %}
+
+{% block header %}
+{% include "xmas-movie-header.html" %}
+{% endblock header %}
 
 {% block content %}
 <h1>{{ term.name | capitalize }} Movies</h1>
@@ -83,33 +87,35 @@
 {% endblock content %}
 
 {% block extra_head %}
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ term.permalink }}">
+<meta property="og:title" content="{{ term.name | title }} Christmas Movies">
+<meta property="og:description" content="Browse {{ term.name | lower }} Christmas movies. Find your next festive favourite from our collection.">
+<meta property="og:image" content="{{ get_url(path='projects/xmas-movie-discovery/xmas-placeholder.svg') }}">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="{{ term.permalink }}">
+<meta name="twitter:title" content="{{ term.name | title }} Christmas Movies">
+<meta name="twitter:description" content="Browse {{ term.name | lower }} Christmas movies. Find your next festive favourite from our collection.">
+<meta name="twitter:image" content="{{ get_url(path='projects/xmas-movie-discovery/xmas-placeholder.svg') }}">
+
+<!-- Page description for SEO -->
+<meta name="description" content="Browse {{ term.name | lower }} Christmas movies. Find your next festive favourite from our collection.">
+
 {% include "xmas-movie-styles.html" %}
 <style>
-body {
-	background: linear-gradient(to bottom, var(--forest-dark) 0%, var(--forest-deeper) 100%);
-	min-height: 100vh;
-	color: var(--cream-light);
-	margin: 0;
-	padding: 2rem 1.5rem;
-}
-
-h1 {
-	font-family: 'Crimson Pro', serif;
-	font-size: 2.2rem;
-	font-weight: 700;
-	color: var(--cream-tan);
-	margin-bottom: 2rem;
-	letter-spacing: -0.02em;
-	text-align: center;
-	text-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+main {
+  padding: 2rem 1.5rem;
 }
 
 .movie-grid {
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+	grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
 	gap: 1.5rem;
 	margin-top: 2rem;
-	max-width: 900px;
+	max-width: 1400px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -142,8 +148,6 @@ h1 {
 	font-size: 1.05rem;
 	margin: 0.5rem 0 0 0;
 	color: var(--burgundy-deep);
-	font-family: 'Crimson Pro', serif;
-	font-weight: 600;
 }
 
 a {
@@ -268,11 +272,16 @@ p a {
 }
 
 @media (max-width: 600px) {
+	main {
+		padding: 1.5rem 1rem;
+	}
+	
 	h1 {
 		font-size: 1.2rem;
 	}
 	
 	.movie-grid {
+		grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
 		gap: 1rem;
 		padding: 0 0.5rem;
 	}

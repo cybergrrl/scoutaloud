@@ -1,6 +1,10 @@
 {% extends "base.html" %}
 
-{% block title %}All Genres - {{ config.title }}{% endblock title %}
+{% block title %}All Genres - Christmas Movie Discovery{% endblock title %}
+
+{% block header %}
+{% include "xmas-movie-header.html" %}
+{% endblock header %}
 
 {% block content %}
 <h1>All Genres</h1>
@@ -15,23 +19,8 @@
 {% block extra_head %}
 {% include "xmas-movie-styles.html" %}
 <style>
-body {
-  background: linear-gradient(to bottom, var(--forest-dark) 0%, var(--forest-deeper) 100%);
-  min-height: 100vh;
-  color: var(--cream-light);
-  margin: 0;
+main {
   padding: 2rem 1.5rem;
-}
-
-h1 {
-  font-family: 'Crimson Pro', serif;
-  font-size: 2.5rem;
-  font-weight: 700;
-  color: var(--cream-tan);
-  margin-bottom: 2rem;
-  letter-spacing: -0.02em;
-  text-align: center;
-  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
 ul {

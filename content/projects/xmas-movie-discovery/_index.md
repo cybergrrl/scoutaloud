@@ -5,8 +5,6 @@ paginate_by = 50
 paginate_path = "page"
 +++
 
-{% set movies = load_data(path="xmas-movies.json") %}
-
 <div class="movie-grid">
   {% for movie in movies %}
     <div class="movie-card">

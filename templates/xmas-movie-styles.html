@@ -1,5 +1,28 @@
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600;700&family=Inter:wght@400;500;600&display=swap');
+/*
+ * Christmas Lights CSS (lightrope class and animations)
+ * Copyright (c) 2025 by Toby (https://codepen.io/tobyj/pen/QjvEex)
+ * 
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ * 
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ * 
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700;800&family=Limelight&display=swap');
 
 :root {
   --forest-dark: #2d3e3f;
@@ -13,6 +36,246 @@
 }
 
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, var(--forest-dark) 0%, var(--forest-deeper) 100%);
+  min-height: 100vh;
+  color: var(--cream-light);
+}
+
+.lightrope {
+  text-align: center;
+  white-space: nowrap;
+  overflow: visible;
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  padding: 20px 0 5px 0;
+  pointer-events: none;
+  width: 100%;
+  background: var(--forest-dark);
+}
+
+.lightrope li {
+  position: relative;
+  animation-fill-mode: both;
+  animation-iteration-count: infinite;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  width: 12px;
+  height: 28px;
+  border-radius: 50%;
+  margin: 20px;
+  background: #CA7373;
+  box-shadow: 0px 4.67px 24px 3px rgba(190, 90, 131, 0.8);
+  animation-name: flash-1;
+  animation-duration: 10s;
+}
+
+.lightrope li:nth-child(2n+1) {
+  background: #FFE52A;
+  box-shadow: 0px 4.67px 24px 3px rgba(242, 238, 157, 0.7);
+  animation-name: flash-2;
+  animation-duration: 2.4s;
+}
+
+.lightrope li:nth-child(4n+2) {
+  background: #7ba130;
+  box-shadow: 0px 4.67px 24px 3px rgba(187, 203, 100, 0.7);
+  animation-name: flash-3;
+  animation-duration: 5s;
+}
+
+.lightrope li:nth-child(4n+3) {
+  background: #C1D8C3;
+  box-shadow: 0px 4.67px 24px 3px rgba(193, 216, 195, 0.7);
+  animation-name: flash-4;
+  animation-duration: 7s;
+}
+
+.lightrope li:nth-child(odd) {
+  animation-duration: 10.8s;
+}
+
+.lightrope li:nth-child(3n+1) {
+  animation-duration: 8.4s;
+}
+
+.lightrope li:nth-child(6n+1) {
+  transform: translateY(5px);
+}
+
+.lightrope li:nth-child(6n+2) {
+  transform: translateY(10px);
+}
+
+.lightrope li:nth-child(6n+3) {
+  transform: translateY(15px);
+}
+
+.lightrope li:nth-child(6n+4) {
+  transform: translateY(10px);
+}
+
+.lightrope li:nth-child(6n+5) {
+  transform: translateY(5px);
+}
+
+.lightrope li:nth-child(6n) {
+  transform: translateY(0px);
+}
+
+.lightrope li:before {
+  content: "";
+  position: absolute;
+  background: #222;
+  width: 10px;
+  height: 9.33px;
+  border-radius: 3px;
+  top: -4.67px;
+  left: 1px;
+}
+
+.lightrope li:after {
+  content: "";
+  top: -14px;
+  left: 9px;
+  position: absolute;
+  width: 52px;
+  height: 18.67px;
+  border-bottom: solid #222 2px;
+  border-radius: 50%;
+}
+
+.lightrope li:last-child:after {
+  content: none;
+}
+
+.lightrope li:first-child {
+  margin-left: -40px;
+}
+
+@keyframes flash-1 {
+  0%, 100% {
+    background: #BE5A83;
+    box-shadow: 0px 4.67px 24px 3px rgba(190, 90, 131, 0.8);
+  }
+  50% {
+    background: rgba(190, 90, 131, 0.4);
+    box-shadow: 0px 4.67px 24px 3px rgba(190, 90, 131, 0.2);
+  }
+}
+
+@keyframes flash-2 {
+  0%, 100% {
+    background: #F2EE9D;
+    box-shadow: 0px 4.67px 24px 3px rgba(242, 238, 157, 0.7);
+  }
+  50% {
+    background: rgba(242, 238, 157, 0.4);
+    box-shadow: 0px 4.67px 24px 3px rgba(242, 238, 157, 0.2);
+  }
+}
+
+@keyframes flash-3 {
+  0%, 100% {
+    background: #BBCB64;
+    box-shadow: 0px 4.67px 24px 3px rgba(187, 203, 100, 0.7);
+  }
+  50% {
+    background: rgba(187, 203, 100, 0.4);
+    box-shadow: 0px 4.67px 24px 3px rgba(187, 203, 100, 0.2);
+  }
+}
+
+@keyframes flash-4 {
+  0%, 100% {
+    background: #C1D8C3;
+    box-shadow: 0px 4.67px 24px 3px rgba(193, 216, 195, 0.7);
+  }
+  50% {
+    background: rgba(193, 216, 195, 0.4);
+    box-shadow: 0px 4.67px 24px 3px rgba(193, 216, 195, 0.2);
+  }
+}
+
+header {
+  background: var(--forest-dark);
+  padding: 0 2rem;
+}
+
+header nav {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.25rem 0 !important;
+  border-bottom: 1px solid rgba(212, 197, 176, 0.2) !important;
+  margin-bottom: 0 !important;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header nav a {
+  color: var(--cream-light) !important;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: all 0.2s ease;
+  padding: 0.5rem 0;
+  border-bottom: 2px solid transparent;
+}
+
+header nav a:first-child {
+  margin-right: auto;
+  font-size: 0.9rem;
+  opacity: 0.6;
+  font-weight: 400;
+}
+
+header nav a:first-child:hover {
+  opacity: 0.85;
+}
+
+header nav a:not(:first-child) {
+  margin-left: 2rem;
+}
+
+header nav a:not(:first-child):hover {
+  color: var(--cream-tan) !important;
+  border-bottom-color: var(--cream-tan);
+}
+
+main {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  font-family: 'Limelight', cursive;
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: var(--cream-tan);
+  margin-bottom: 2rem;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  font-size: 1.75rem;
+  color: var(--burgundy-deep);
+}
+
+h3 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: var(--burgundy-deep);
 }
 </style>

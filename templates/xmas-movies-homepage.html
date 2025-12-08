@@ -1,19 +1,27 @@
 {% extends "base.html" %}
 {% include "xmas-movie-styles.html" %}
 
-{% block title %}Xmas Movie Discovery - {{ config.title }}{% endblock title %}
+{% block title %}Christmas Movie Discovery{% endblock title %}
+
+{% block header %}
+{% include "xmas-movie-header.html" %}
+{% endblock header %}
+
 {% block content %}
 <div class="hero-section">
   <h1 class="main-title">Christmas Movie Collection</h1>
-  <p class="subtitle">Discover your next festive favorite</p>
+  <p class="subtitle">Discover your next festive favourite</p>
 </div>
 
 <div class="genre-filters">
-  <span class="filter-label">Filter by genre:</span>
-  {% set genres = get_taxonomy(kind="xmas_genres") %}
-  {% for genre in genres.items %}
-    <a href="{{ genre.permalink }}" class="genre-tag">{{ genre.name | capitalize }}</a>
-  {% endfor %}
+  <label for="genre-select" class="filter-label">Filter by genre:</label>
+  <select id="genre-select" class="genre-dropdown" onchange="if(this.value) window.location.href=this.value">
+    <option value="">All movies</option>
+    {% set genres = get_taxonomy(kind="xmas_genres") %}
+    {% for genre in genres.items %}
+      <option value="{{ genre.permalink }}">{{ genre.name | title }}</option>
+    {% endfor %}
+  </select>
 </div>
 
 <div class="movie-grid">
@@ -94,14 +102,27 @@
 </nav>
 {% endblock content %}
 {% block extra_head %}
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ section.permalink }}">
+<meta property="og:title" content="Christmas Movie Discovery">
+<meta property="og:description" content="Discover your next festive favourite from our collection of Christmas movies. Browse by genre and find the perfect holiday film.">
+<meta property="og:image" content="{{ get_url(path='projects/xmas-movie-discovery/xmas-placeholder.svg') }}">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="{{ section.permalink }}">
+<meta name="twitter:title" content="Christmas Movie Discovery">
+<meta name="twitter:description" content="Discover your next festive favourite from our collection of Christmas movies. Browse by genre and find the perfect holiday film.">
+<meta name="twitter:image" content="{{ get_url(path='projects/xmas-movie-discovery/xmas-placeholder.svg') }}">
+
+<!-- Page description for SEO -->
+<meta name="description" content="Discover your next festive favourite from our collection of Christmas movies. Browse by genre and find the perfect holiday film.">
+
 {% include "xmas-movie-styles.html" %}
 <style>
 
-body {
-  background: linear-gradient(to bottom, var(--forest-dark) 0%, var(--forest-deeper) 100%);
-  min-height: 100vh;
-  color: var(--cream-light);
-  margin: 0;
+main {
   padding: 2rem 1.5rem;
 }
 
@@ -123,7 +144,6 @@ body {
 }
 
 .main-title {
-  font-family: 'Crimson Pro', serif;
   font-size: 3.5rem;
   font-weight: 700;
   color: var(--cream-tan);
@@ -141,8 +161,7 @@ body {
 
 .genre-filters {
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.8rem;
+  gap: 1rem;
   align-items: center;
   justify-content: center;
   margin-bottom: 3rem;
@@ -155,27 +174,41 @@ body {
 .filter-label {
   font-weight: 600;
   color: var(--cream-tan);
-  margin-right: 0.5rem;
   font-size: 0.95rem;
 }
 
-.genre-tag {
+.genre-dropdown {
   background: rgba(212, 197, 176, 0.15);
   color: var(--cream-tan);
   border: 1px solid rgba(212, 197, 176, 0.3);
-  text-decoration: none;
-  padding: 0.5rem 1rem;
-  border-radius: 20px;
-  font-size: 0.9rem;
+  padding: 0.6rem 2.5rem 0.6rem 1rem;
+  border-radius: 8px;
+  font-size: 0.95rem;
   font-weight: 500;
+  font-family: 'Quicksand', sans-serif;
+  cursor: pointer;
   transition: all 0.2s ease;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23d4c5b0' d='M6 9L1 4h10z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.8rem center;
+  min-width: 200px;
 }
 
-.genre-tag:hover {
-  background: var(--terracotta);
-  border-color: var(--terracotta);
+.genre-dropdown:hover {
+  background-color: rgba(212, 197, 176, 0.25);
+  border-color: rgba(212, 197, 176, 0.5);
+}
+
+.genre-dropdown:focus {
+  outline: 2px solid var(--cream-tan);
+  outline-offset: 2px;
+}
+
+.genre-dropdown option {
+  background: var(--forest-dark);
   color: var(--cream-light);
-  transform: translateY(-2px);
+  padding: 0.5rem;
 }
 
 .movie-grid {
@@ -235,7 +268,6 @@ body {
 }
 
 .movie-title {
-  font-family: 'Crimson Pro', serif;
   font-size: 1.1rem;
   font-weight: 600;
   margin: 0;
@@ -375,6 +407,10 @@ body {
 }
 
 @media (max-width: 768px) {
+  main {
+    padding: 1.5rem 1rem;
+  }
+  
   .pagination-controls {
     gap: 0.5rem;
   }
@@ -394,9 +430,27 @@ body {
     font-size: 0.85rem;
     text-align: center;
   }
+  
+  .genre-filters {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.8rem;
+  }
+  
+  .filter-label {
+    text-align: center;
+  }
+  
+  .genre-dropdown {
+    width: 100%;
+  }
 }
 
 @media (max-width: 480px) {
+  main {
+    padding: 1rem 0.75rem;
+  }
+  
   .pagination {
     margin-top: 3rem;
   }

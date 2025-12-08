@@ -9,11 +9,15 @@
     {% block extra_head %}{% endblock extra_head %}
 </head>
 <body>
-    <nav style="padding: 1em 0; border-bottom: 1px solid #eee; margin-bottom: 2em;">
-        <a href="/travels/" style="margin-right: 1em;">Travels</a>
-        <a href="/projects/" style="margin-right: 1em;">Projects</a>
-        <a href="/about/">About</a>
-    </nav>
+    {% block header %}
+    <header>
+        <nav style="padding: 1em 0; border-bottom: 1px solid #eee; margin-bottom: 2em;">
+            <a href="/travels/" style="margin-right: 1em;">Travels</a>
+            <a href="/projects/" style="margin-right: 1em;">Projects</a>
+            <a href="/about/">About</a>
+        </nav>
+    </header>
+    {% endblock header %}
     <main>
         {% block content %}{% endblock content %}
     </main>
