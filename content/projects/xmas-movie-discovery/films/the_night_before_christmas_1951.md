@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Based on the work of Nikolay Gogol. Handsome blacksmith Vakula who fell in love with village beauty, Oksana, is ready to do anything for her liking. Even to fly on the devil's back to Saint-Petersburg and ask the Empress for the slippers that he can present his sweetheart."""
 
 [taxonomies]
-xmas_genres = ['International Films', 'Animation', 'Fantasy']
+xmas_genres = ['International', 'Animation', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-night-before-christmas-1951/"""

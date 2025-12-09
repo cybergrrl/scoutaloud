@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Historical Docudrama, which describes accurately - based on evidence, documents, reconstructions and archive footage - the last days of life spouses Nicolae and Elena Ceausescu. Main performers, Victoria Cocias (Elena Ceausescu) and Constantin Cojocaru (Nicolae Ceausescu)."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Documentary', 'International Films', 'History']
+xmas_genres = ['Drama', 'Documentary', 'International', 'History']
 
 [extra]
 film_url = """https://letterboxd.com/film/three-days-till-christmas/"""

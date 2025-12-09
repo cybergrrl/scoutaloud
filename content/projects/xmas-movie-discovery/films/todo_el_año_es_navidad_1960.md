@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A celestial envoy comes to Earth to help solve some small conflicts between humans, related to their attitude and relationships."""
 
 [taxonomies]
-xmas_genres = ['International Films', 'Fantasy', 'Comedy']
+xmas_genres = ['International', 'Fantasy', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/todo-el-ano-es-navidad-1960/"""

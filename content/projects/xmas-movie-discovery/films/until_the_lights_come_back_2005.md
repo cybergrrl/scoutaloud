@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A Christmas Eve power outage provides a collection of troubled Tokyo denizens the opportunity to come clean on the misdeeds of their past."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'International Films']
+xmas_genres = ['Drama', 'International']
 
 [extra]
 film_url = """https://letterboxd.com/film/until-the-lights-come-back/"""

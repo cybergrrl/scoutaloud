@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Reynard the fox creeps silently from his den to the farm searching for food, it is the troll Tomten who keeps the farm animals safe and even manages to find something to feed a hungry fox."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Animation', 'International Films']
+xmas_genres = ['Family', 'Animation', 'International']
 
 [extra]
 film_url = """https://letterboxd.com/film/tomte-tummetott-und-der-fuchs/"""

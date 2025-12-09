@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A detective investigating a missing model in Paris uncovers a plastic surgeon’s horrifying secret involving kidnapped women, blood, and organs."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'International Films']
+xmas_genres = ['Horror', 'International']
 
 [extra]
 film_url = """https://letterboxd.com/film/faceless/"""

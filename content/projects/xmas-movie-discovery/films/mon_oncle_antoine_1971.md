@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Set in cold rural Quebec at Christmas time, we follow the coming of age of a young boy and the life of his family which owns the town's general store and undertaking business."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'International Films']
+xmas_genres = ['Drama', 'International']
 
 [extra]
 film_url = """https://letterboxd.com/film/mon-oncle-antoine/"""

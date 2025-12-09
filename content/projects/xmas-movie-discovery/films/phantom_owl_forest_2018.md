@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A 10-year old girl's Christmas plans take an unexpected turn after she is brought to a mysterious Estonian farm."""
 
 [taxonomies]
-xmas_genres = ['Family', 'International Films']
+xmas_genres = ['Family', 'International']
 
 [extra]
 film_url = """https://letterboxd.com/film/phantom-owl-forest/"""

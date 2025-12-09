@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Superenalotto winner Pasquale Esposito with his family, two penniless students from Emilia and the Colombo and Covelli families, who accidentally rent the same chalet, will spend the Christmas holidays in Cortina d'Ampezzo."""
 
 [taxonomies]
-xmas_genres = ['International Films', 'Comedy']
+xmas_genres = ['International', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-vacation-2000/"""

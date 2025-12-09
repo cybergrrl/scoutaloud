@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two men go to Warsaw to sell Christmas trees and meet old friends."""
 
 [taxonomies]
-xmas_genres = ['International Films', 'TV Movie', 'Comedy']
+xmas_genres = ['International', 'TV Movie', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/merry-christmas-1977/"""

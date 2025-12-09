@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An auditor who completely despises Christmas is sent to a small town for work, where he meets a woman determined to change his view about the holiday."""
 
 [taxonomies]
-xmas_genres = ['Family', 'International Films', 'Romance', 'Comedy']
+xmas_genres = ['Family', 'International', 'Romance', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/1000-miles-from-christmas/"""

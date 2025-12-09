@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """None"""
 
 [taxonomies]
-xmas_genres = ['International Films']
+xmas_genres = ['International']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-black-christmas-eve/"""

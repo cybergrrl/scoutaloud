@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a spiteful coworker sabotages her deliveries, a courier and a helpful customer must race to return Christmas presents to their intended recipients."""
 
 [taxonomies]
-xmas_genres = ['International Films', 'Romance', 'Comedy']
+xmas_genres = ['International', 'Romance', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/delivery-by-christmas/"""

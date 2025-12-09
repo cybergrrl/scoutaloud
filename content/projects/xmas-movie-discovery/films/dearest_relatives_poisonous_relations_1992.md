@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """During the annual Christmas gathering at the family home, the parents surprise their children by announcing their decision to move in with one of them and pass on the house."""
 
 [taxonomies]
-xmas_genres = ['International Films', 'Comedy']
+xmas_genres = ['International', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/dearest-relatives-poisonous-relations/"""

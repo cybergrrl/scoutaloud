@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Six love stories following the love lives of ten different people."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'International Films']
+xmas_genres = ['Romance', 'International']
 
 [extra]
 film_url = """https://letterboxd.com/film/it-all-began-when-i-met-you/"""

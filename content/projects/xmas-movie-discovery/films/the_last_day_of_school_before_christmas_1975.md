@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """On the Apennines of Emilia in 1944 three fascists stop and seize a battered bus carrying several women, two men and a poor student named Athos, as well as the driver. The three republicans, who are collaborating with the Nazis, want to escape to Switzerland, but they begin to think that anyone who is not a fascist like them is a traitor and eventually cruelly kill all the passengers on the bus, while Athos is left naked and dying on the bank of a creek."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'International Films', 'War']
+xmas_genres = ['Drama', 'International', 'War']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-last-day-of-school-before-christmas/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A Japanese remake of the South Korean film of the same name."""
 
 [taxonomies]
-xmas_genres = ['International Films']
+xmas_genres = ['International']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-in-august-2005/"""

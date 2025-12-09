@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Leone is a rich and powerful man whose loneliness drives him to hire a cast of actors to play the family he never had. On Christmas Eve, reality and make-believe start to get blurred."""
 
 [taxonomies]
-xmas_genres = ['International Films', 'Comedy']
+xmas_genres = ['International', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/una-famiglia-perfetta/"""

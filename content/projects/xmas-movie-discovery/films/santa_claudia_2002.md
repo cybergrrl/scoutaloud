@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """None"""
 
 [taxonomies]
-xmas_genres = ['Family', 'International Films', 'Romance', 'Comedy']
+xmas_genres = ['Family', 'International', 'Romance', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/santa-claudia/"""

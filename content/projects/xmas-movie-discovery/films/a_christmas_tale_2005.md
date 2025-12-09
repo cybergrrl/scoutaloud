@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Cubelles, Tarragona, Spain, Christmas 1985. Five friends make an unexpected discovery in the forest: a woman disguised as Santa Claus trapped in a deep hole dug in the middle of nowhere."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'TV Movie', 'Drama', 'International Films']
+xmas_genres = ['Thriller', 'TV Movie', 'Drama', 'International']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-tale-2005/"""

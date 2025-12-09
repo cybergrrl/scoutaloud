@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """It's Christmas Eve in a small mountain train station and no train is coming since all the tracks are blocked with snow. Four people are waiting for a train that doesn't show up. They don't know each other, how long it's going to take or if they will ever reach their destinations. But as the hours pass, Madalina, Cristi, Ozana, Alex share the absurd, the despair and the hope. Because they are accidentally stuck here. Because no one knows when it will end. And because it's Christmas."""
 
 [taxonomies]
-xmas_genres = ['International Films', 'Comedy']
+xmas_genres = ['International', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/stuck-on-christmas/"""

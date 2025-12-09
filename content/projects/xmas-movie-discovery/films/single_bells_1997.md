@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Kati, successful advertising manager, dreams of a family with Jonas, who has been her boyfriend since eight years. As he doesn't like the plan at all, they start an argument. Kati finally decides to go to her sister Luise on Christmas instead of flying to Mauritius with Jonas. This turns out to be a bad idea because she isn't the only guest Luise's family has to bear... Kati, successful advertising manager, dreams of a family with Jonas, who has been her boyfriend since eight years. As he doesn't like the plan at all, they start an argument. Kati finally decides to go to her sister Luise on Christmas instead of flying to Mauritius with Jonas. This turns out to be a bad idea because she isn't the only guest Luise's family has to bear..."""
 
 [taxonomies]
-xmas_genres = ['International Films', 'TV Movie', 'Comedy']
+xmas_genres = ['International', 'TV Movie', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/single-bells/"""

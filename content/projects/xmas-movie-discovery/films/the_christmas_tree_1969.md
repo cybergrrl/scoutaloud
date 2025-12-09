@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A French-American millionaire, his girlfriend and his war buddy try to grant his dying son's every wish."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'International Films']
+xmas_genres = ['Drama', 'International']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-tree-1969/"""

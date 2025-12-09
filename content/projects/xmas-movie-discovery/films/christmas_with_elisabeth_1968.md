@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Surly solitary truck driver is given an assistant for his daily rounds: a young woman with a fondness for mini-skirts and boys, fresh out of prison."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'International Films']
+xmas_genres = ['Romance', 'Drama', 'International']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-with-elisabeth/"""

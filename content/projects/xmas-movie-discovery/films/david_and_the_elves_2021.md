@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Christmas is drawing near, but it’s not a happy time for David. After moving to a big city, his parents have been bogged down with work and forgotten the meaning of Christmas. David decides to change that. Together with Albert the Elf, who escaped from the land of Santa to figure out what Christmas is all about, David sets off to Tatra Mountains, where his grandparents live, on a journey full of adventures."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'International Films', 'Fantasy']
+xmas_genres = ['Family', 'Comedy', 'International', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/david-and-the-elves/"""

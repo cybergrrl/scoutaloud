@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """18th century. Paola, a young, reckless street urchin inadvertently gets in the way of the plans of terrifying Baron De Michelis, a small and mean hunchback always escorted by his trusted (and abused) minion Marmotta, with an unquenchable thirst for power and an unmeasurable hate for witches. The intervention of the sweet and powerful Dolores, a good witch who has devoted her life to children, saves Paola from being burned at the stake. Through a magical apprenticeship, breakneck pursuits, incredible transformations and a whole lot of trouble, Paola will discover that fate has something really special in store for her… And so the legend begins."""
 
 [taxonomies]
-xmas_genres = ['Family', 'International Films', 'Fantasy', 'Comedy']
+xmas_genres = ['Family', 'International', 'Fantasy', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-legend-of-the-christmas-witch-the-origins/"""

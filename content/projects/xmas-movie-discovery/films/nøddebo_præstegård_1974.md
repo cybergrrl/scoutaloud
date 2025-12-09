@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Adaptation of the classic Danish Christmas story about Nikolaj, a student, and his two older brothers, who are spending their vacation with the kind pastor's family in Nøddebo. Nikolaj is very interested in the pastor's daughters, Emmy and Andrea Margrethe, but it is his brothers who end up getting engaged to the girls."""
 
 [taxonomies]
-xmas_genres = ['Family', 'International Films', 'Drama', 'Comedy']
+xmas_genres = ['Family', 'International', 'Drama', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/noddebo-prstegard/"""

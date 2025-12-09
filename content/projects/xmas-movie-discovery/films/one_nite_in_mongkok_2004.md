@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A gangster's son is accidentally killed during a drunken dispute with a rival gang, and Officer Milo's task force is assigned to the case. He soon learns that a hitman has been hired to take out the rival gang leader. While Milo and his crew desperately try to find and stop the hired gun, fearing all-out war in the streets, Lai Fu, a smart but inexperienced killer from a small town in the mainland, arrives in Hong Kong to do his job."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Crime', 'Drama', 'International Films']
+xmas_genres = ['Thriller', 'Crime', 'Drama', 'International']
 
 [extra]
 film_url = """https://letterboxd.com/film/one-nite-in-mongkok/"""

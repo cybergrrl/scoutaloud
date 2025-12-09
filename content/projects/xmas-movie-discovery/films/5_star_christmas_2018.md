@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When the Italian Premier and his companion find a dead body in his hotel suite, while on a trip to Hungary, they find themselves embroiled in a series of comedic situations as they try to avoid a scandal."""
 
 [taxonomies]
-xmas_genres = ['International Films', 'Comedy']
+xmas_genres = ['International', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/5-star-christmas/"""

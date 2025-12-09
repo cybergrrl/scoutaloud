@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young girl wishes Christmas was over for good, and her wish is granted with unexpected consequences."""
 
 [taxonomies]
-xmas_genres = ['International Films', 'Drama', 'Comedy']
+xmas_genres = ['International', 'Drama', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/worlds-first-christmas/"""

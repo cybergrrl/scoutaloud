@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Carlo descends on his former lover's unsuspecting family and the scheming Rocco tries to break up his old rival Marcello's wedding."""
 
 [taxonomies]
-xmas_genres = ['International Films', 'Comedy']
+xmas_genres = ['International', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/natale-a-beverly-hills/"""

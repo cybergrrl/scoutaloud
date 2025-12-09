@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Carpenter Andersen and Santa Claus makes a deal which saves Christmas for them both."""
 
 [taxonomies]
-xmas_genres = ['Family', 'International Films', 'Comedy']
+xmas_genres = ['Family', 'International', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/santa-swap-merry-christmas-mr-andersen/"""

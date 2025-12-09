@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Three siblings devise a plan to get their divorced parents to spend Christmas together."""
 
 [taxonomies]
-xmas_genres = ['Family', 'International Films', 'Comedy']
+xmas_genres = ['Family', 'International', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/10-hours-for-christmas/"""

@@ -8,8 +8,11 @@
 
 {% block content %}
 <div class="content-standard">
-  <h1>{{ term.name | capitalize }} Movies</h1>
-  <p><a href="/projects/xmas-movie-discovery/">← Back to all movies</a></p>
+  <div class="hero-section">
+    <h1>{{ term.name | title }}</h1>
+    <p class="subtitle">There are {{ term.pages | length }} festive {{ term.name | lower }} movies.</p>
+  </div>
+  <p class="breadcrumb"><a href="/projects/xmas-movie-discovery/">← Back to all movies</a></p>
 
   <div class="movie-grid">
   {% for page in paginator.pages %}
@@ -28,65 +31,8 @@
   {% endfor %}
 </div>
 
-<nav class="pagination" aria-label="Page navigation">
-  <div class="pagination-info">
-    <span>Page {{ paginator.current_index }} of {{ paginator.number_pagers }}</span>
-    <span class="separator">•</span>
-    <span>{{ paginator.pages | length }} movies on this page</span>
-  </div>
-  
-  <div class="pagination-controls">
-    {% if paginator.previous %}
-      <a href="{{ paginator.previous }}" class="pagination-btn prev-btn">
-        <span class="arrow">←</span> Previous
-      </a>
-    {% else %}
-      <span class="pagination-btn prev-btn disabled">
-        <span class="arrow">←</span> Previous
-      </span>
-    {% endif %}
-    
-    <div class="page-numbers">
-      {% if paginator.current_index > 3 %}
-        <a href="{{ term.permalink }}" class="page-number">1</a>
-        {% if paginator.current_index > 4 %}
-          <span class="ellipsis">...</span>
-        {% endif %}
-      {% endif %}
-      
-      {% for i in range(start=1, end=paginator.number_pagers + 1) %}
-        {% if i >= paginator.current_index - 2 and i <= paginator.current_index + 2 %}
-          {% if i == paginator.current_index %}
-            <span class="page-number current">{{ i }}</span>
-          {% else %}
-            {% if i == 1 %}
-              <a href="{{ term.permalink }}" class="page-number">{{ i }}</a>
-            {% else %}
-              <a href="{{ term.permalink }}page/{{ i }}/" class="page-number">{{ i }}</a>
-            {% endif %}
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-      
-      {% if paginator.current_index < paginator.number_pagers - 2 %}
-        {% if paginator.current_index < paginator.number_pagers - 3 %}
-          <span class="ellipsis">...</span>
-        {% endif %}
-        <a href="{{ term.permalink }}page/{{ paginator.number_pagers }}/" class="page-number">{{ paginator.number_pagers }}</a>
-      {% endif %}
-    </div>
-    
-    {% if paginator.next %}
-      <a href="{{ paginator.next }}" class="pagination-btn next-btn">
-        Next <span class="arrow">→</span>
-      </a>
-    {% else %}
-      <span class="pagination-btn next-btn disabled">
-        Next <span class="arrow">→</span>
-      </span>
-    {% endif %}
-  </div>
-</nav>
+{% set base_url = term.permalink %}
+{% include "xmas-movie-pagination.html" %}
 </div>
 {% endblock content %}
 
@@ -110,162 +56,25 @@
 
 {% include "xmas-movie-styles.html" %}
 <style>
-a {
-	color: var(--burgundy-deep);
-	text-decoration: none;
-	font-weight: 600;
-	transition: color 0.2s;
-}
-
-a:hover {
-	color: var(--terracotta);
-}
-
-p a {
-	color: var(--cream-tan);
-	font-size: 1rem;
-	text-decoration: underline;
-}
-
-/* Pagination Styles */
-.pagination {
-	margin-top: 4rem;
+.hero-section {
+	text-align: center;
 	margin-bottom: 2rem;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	gap: 1.5rem;
 }
 
-.pagination-info {
-	display: flex;
-	align-items: center;
-	gap: 0.8rem;
-	color: var(--cream-tan);
-	font-size: 0.95rem;
-	font-weight: 500;
+.hero-section h1 {
+	margin-bottom: 0.5rem;
 }
 
-.pagination-info .separator {
+.subtitle {
+	font-size: 1.15rem;
 	color: var(--tan-muted);
-}
-
-.pagination-controls {
-	display: flex;
-	align-items: center;
-	gap: 1rem;
-	flex-wrap: wrap;
-	justify-content: center;
-}
-
-.pagination-btn {
-	display: inline-flex;
-	align-items: center;
-	gap: 0.5rem;
-	padding: 0.75rem 1.25rem;
-	background: rgba(212, 197, 176, 0.15);
-	border: 1px solid rgba(212, 197, 176, 0.3);
-	border-radius: 8px;
-	color: var(--cream-tan);
-	text-decoration: none;
-	font-weight: 600;
-	font-size: 0.95rem;
-	transition: all 0.2s ease;
-}
-
-.pagination-btn:hover:not(.disabled) {
-	background: var(--terracotta);
-	border-color: var(--terracotta);
-	color: var(--cream-light);
-	transform: translateY(-2px);
-}
-
-.pagination-btn.disabled {
-	opacity: 0.4;
-	cursor: not-allowed;
-}
-
-.page-numbers {
-	display: flex;
-	align-items: center;
-	gap: 0.5rem;
-}
-
-.page-number {
-	display: inline-flex;
-	align-items: center;
-	justify-content: center;
-	min-width: 40px;
-	height: 40px;
-	padding: 0 0.5rem;
-	background: rgba(212, 197, 176, 0.15);
-	border: 1px solid rgba(212, 197, 176, 0.3);
-	border-radius: 6px;
-	color: var(--cream-tan);
-	text-decoration: none;
-	font-weight: 500;
-	font-size: 0.9rem;
-	transition: all 0.2s ease;
-}
-
-.page-number:hover:not(.current) {
-	background: rgba(212, 197, 176, 0.25);
-	border-color: rgba(212, 197, 176, 0.5);
-	transform: translateY(-2px);
-}
-
-.page-number.current {
-	background: var(--terracotta);
-	border-color: var(--terracotta);
-	color: var(--cream-light);
-	font-weight: 700;
-}
-
-.ellipsis {
-	color: var(--tan-muted);
-	padding: 0 0.25rem;
-}
-
-.arrow {
-	font-size: 1.1em;
-	line-height: 1;
+	margin: 0;
+	font-weight: 400;
 }
 
 @media (max-width: 600px) {
 	h1 {
 		font-size: 1.2rem;
-	}
-	
-	.pagination-controls {
-		gap: 0.5rem;
-	}
-	
-	.pagination-btn {
-		padding: 0.6rem 1rem;
-		font-size: 0.85rem;
-	}
-	
-	.page-number {
-		min-width: 36px;
-		height: 36px;
-		font-size: 0.85rem;
-	}
-	
-	.pagination-info {
-		font-size: 0.85rem;
-		text-align: center;
-	}
-	
-	.page-numbers .page-number:not(.current) {
-		display: none;
-	}
-	
-	.page-numbers .page-number.current {
-		display: inline-flex;
-	}
-	
-	.ellipsis {
-		display: none;
 	}
 }
 </style>

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A curse is placed on grinchy Chuy, who wakes up to find he's lived a full year, but is doomed to remember only Christmas Day. Every year. From now on."""
 
 [taxonomies]
-xmas_genres = ['Family', 'International Films', 'Comedy']
+xmas_genres = ['Family', 'International', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-not-so-merry-christmas/"""

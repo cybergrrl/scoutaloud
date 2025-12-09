@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A pair of losers working at department store plan to rob the place after it closes. When a bunch of kids show up begging for a story, the men launch into an improvised version of Aladdin."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'International Films', 'Fantasy', 'Comedy']
+xmas_genres = ['Adventure', 'International', 'Fantasy', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-new-adventures-of-aladdin/"""

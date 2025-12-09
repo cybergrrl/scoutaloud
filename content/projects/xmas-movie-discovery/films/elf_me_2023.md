@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A bumbling Christmas elf whose Santa's helper job is jeopardized by a complete inability in building toys teams up with a kid harassed by bullies."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'Comedy', 'Family', 'International Films', 'Fantasy']
+xmas_genres = ['Adventure', 'Comedy', 'Family', 'International', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/elf-me/"""

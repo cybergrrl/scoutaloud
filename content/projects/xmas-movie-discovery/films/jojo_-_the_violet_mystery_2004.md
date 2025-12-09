@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Violet is new to JoJo’s school. She has a big nose, and lots of trouble making friends. Violet however, has a big big heart and, to be accepted by the others, she is ready to take chances which not everyone agrees with...especially not the school Principal!"""
 
 [taxonomies]
-xmas_genres = ['Family', 'International Films']
+xmas_genres = ['Family', 'International']
 
 [extra]
 film_url = """https://letterboxd.com/film/jojo-the-violet-mystery/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Grand-Jacques the postman watches a mysterious wicker basket slowly float down from the sky and discovers a baby holding a small bell, and the adventure starts."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Animation', 'International Films']
+xmas_genres = ['Family', 'Animation', 'International']
 
 [extra]
 film_url = """https://letterboxd.com/film/charlies-christmas/"""

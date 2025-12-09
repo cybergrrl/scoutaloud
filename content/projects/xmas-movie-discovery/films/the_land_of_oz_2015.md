@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In Yekaterinburg over the Christmas period, shop assistant Lenka Shabadinova experiences a number of incredible events and unexpected meetings."""
 
 [taxonomies]
-xmas_genres = ['International Films', 'Comedy']
+xmas_genres = ['International', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-land-of-oz/"""

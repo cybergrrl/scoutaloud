@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Princess Bluerose is a small gnome living deep in the Norwegian mountains. A small community of gnomes is responsible for making the transition between daylight and night. This is the magic hour, created by the magic silver, of which only these gnomes possess. When the silver is stolen, the world is transformed into eternal night. Bluerose sets out on a remarkable journey to retrieve the silver and save the world from eternal darkness."""
 
 [taxonomies]
-xmas_genres = ['International Films', 'Fantasy']
+xmas_genres = ['International', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/magic-silver/"""

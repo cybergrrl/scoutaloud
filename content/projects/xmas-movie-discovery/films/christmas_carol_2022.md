@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """On a Christmas Eve, a lifeless body of teenage boy is found. The victim's revenge-driven twin brother checks himself into a juvie to hunt down the suspects."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'International Films', 'Action']
+xmas_genres = ['Thriller', 'International', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-carol/"""

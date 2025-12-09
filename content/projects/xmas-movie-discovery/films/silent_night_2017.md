@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Adam unexpectedly visits his family house at Christmas after a few years of working abroad. No family member knows about his secret plans and the real reasons of his visit."""
 
 [taxonomies]
-xmas_genres = ['International Films', 'Drama', 'Comedy']
+xmas_genres = ['International', 'Drama', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/silent-night-2017/"""

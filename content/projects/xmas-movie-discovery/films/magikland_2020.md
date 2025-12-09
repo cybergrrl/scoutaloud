@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """On Christmas eve, four lonely kids are chosen to save Magikland, a fantastic and magical world where all the world’s toys and games come from."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Adventure', 'International Films', 'Action']
+xmas_genres = ['Family', 'Adventure', 'International', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/magikland/"""

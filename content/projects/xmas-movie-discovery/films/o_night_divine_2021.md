@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """St. Moritz, Switzerland. On a snowy Christmas Eve in a grand mountain hotel, the lives of five people magically intertwine during a wild night full of extravagant adventures and joyous celebrations."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'International Films', 'Comedy']
+xmas_genres = ['Queer', 'International', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/o-night-divine/"""
