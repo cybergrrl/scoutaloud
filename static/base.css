@@ -27,7 +27,7 @@ nav {
 }
 
 .site-name {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-weight: 700;
     color: #eee6e9;
     text-decoration: none;
@@ -36,6 +36,10 @@ nav {
 }
 
 .site-name:hover {
+    color: #D38299;
+}
+
+.site-name:focus-visible {
     color: #D38299;
 }
 
@@ -55,13 +59,17 @@ nav {
     color: #D38299;
 }
 
+.nav-links a:focus-visible {
+    color: #D38299;
+}
+
 .nav-links a.active {
     color: #D38299;
 }
 
 /* Typography */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-weight: 600;
     color: #eee6e9;
     margin-bottom: 1rem;
@@ -103,6 +111,10 @@ main a:hover {
     color: #D38299;
 }
 
+main a:focus-visible {
+    color: #D38299;
+}
+
 /* Override for specific components that should keep original styling */
 .listing-card a,
 .homepage-section a {
@@ -111,6 +123,11 @@ main a:hover {
 
 .listing-card a:hover,
 .homepage-section a:hover {
+    color: #D38299;
+}
+
+.listing-card a:focus-visible,
+.homepage-section a:focus-visible {
     color: #D38299;
 }
 
@@ -158,6 +175,22 @@ a {
     transition: color 0.3s ease;
 }
 
+a:focus {
+    outline: 2px solid #D38299;
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
+a:focus:not(:focus-visible) {
+    outline: none;
+}
+
+a:focus-visible {
+    outline: 2px solid #D38299;
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
 /* Main Content */
 main {
     max-width: 900px;
@@ -179,7 +212,7 @@ main {
 }
 
 .homepage-intro {
-    margin: 4rem 0;
+    margin: 2rem 0;
 }
 
 .homepage-intro h1 {
@@ -223,37 +256,71 @@ main {
 
 /* Listing Pages (Projects, Travels) */
 .listing-grid {
-    display: grid;
-    gap: 2rem;
-    margin-top: 2rem;
+    margin-top: 1rem;
 }
 
 .listing-card {
-    padding: 1.5rem;
-    border: 2px solid #eee6e9;
-    border-radius: 8px;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid rgba(211, 130, 153, 0.3);
     transition: all 0.3s ease;
 }
 
-.listing-card:hover {
-    border-color: #D38299;
-    transform: translateY(-2px);
+.listing-card:last-child {
+    border-bottom: none;
 }
 
 .listing-card h3 {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
     margin-bottom: 0.5rem;
+    font-size: 1.4rem;
+}
+
+/* Arrow for listing pages (not homepage) */
+.listing-card h3::before {
+    content: '→';
+    color: #D38299;
+    font-weight: 400;
+    transition: color 0.3s ease;
+}
+
+/* Hide arrow when SVG is present (homepage) */
+.listing-card h3:has(svg)::before {
+    content: none;
+}
+
+.listing-card:hover h3::before {
+    color: #D38299;
+}
+
+.listing-card h3 svg {
+    color: #D38299;
+    flex-shrink: 0;
+    transition: color 0.3s ease;
+    margin-top: -2px;
+}
+
+.listing-card:hover h3 svg {
+    color: #D38299;
 }
 
 .listing-card h3 a {
     text-decoration: none;
     color: #eee6e9;
+    transition: color 0.3s ease;
 }
 
 .listing-card h3 a:hover {
     color: #D38299;
 }
 
+.listing-card h3 a:focus-visible {
+    color: #D38299;
+}
+
 .listing-card p {
     margin: 0;
-    opacity: 0.9;
+    opacity: 0.85;
+    font-size: 0.95rem;
 }

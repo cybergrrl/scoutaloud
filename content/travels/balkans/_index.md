@@ -1,6 +1,6 @@
 +++
 
-title = "Balkan Trip Itinerary"
+title = "Balkans Trip"
 
 template = "travel.html"
 
