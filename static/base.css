@@ -140,11 +140,16 @@ img {
 
 figure {
     margin: 2.5rem 0;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 figure img {
     display: block;
     margin-bottom: 0.75rem;
+    max-height: 600px;
+    object-fit: contain;
 }
 
 figcaption {

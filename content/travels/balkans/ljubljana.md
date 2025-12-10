@@ -5,7 +5,9 @@ template = "page.html"
 
 [Back to itinerary](../)
 
-# Plans:
+## Days 8 and 9:
+
+### Plans:
 
 - [x] walk along the river visiting the dragon and the triple bridge
 - [x] take a ~~bike~~ scooter ride to Tivoli park

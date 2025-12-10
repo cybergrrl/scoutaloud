@@ -1,12 +1,12 @@
 +++
-title = "Krka national park"
 template = "page.html"
 +++
 
 [Back to itinerary](../)
 
+# Day 4: Krka National Park
 
-{{ img(path="./krka-1.jpg",
+{{ img(path="/travels/balkans/krka-1.jpg",
        alt="Waterfalls in Krka national park",
        caption="waterfalls") }}
 

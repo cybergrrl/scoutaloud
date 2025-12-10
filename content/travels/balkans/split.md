@@ -1,5 +1,5 @@
 +++
-title = "A Day in Split"
+title = "Split"
 template = "page.html"
 +++
 
