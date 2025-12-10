@@ -1,10 +1,6 @@
-{% extends "base.html" %}
+{% extends "xmas-movie-base.html" %}
 
 {% block title %}{{ term.name | title }} - Christmas Movie Discovery{% endblock title %}
-
-{% block header %}
-{% include "xmas-movie-header.html" %}
-{% endblock header %}
 
 {% block content %}
 <div class="content-standard">
@@ -54,7 +50,6 @@
 <!-- Page description for SEO -->
 <meta name="description" content="Browse {{ term.name | lower }} Christmas movies. Find your next festive favourite from our collection.">
 
-{% include "xmas-movie-styles.html" %}
 <style>
 .hero-section {
 	text-align: center;
@@ -63,13 +58,6 @@
 
 .hero-section h1 {
 	margin-bottom: 0.5rem;
-}
-
-.subtitle {
-	font-size: 1.15rem;
-	color: var(--tan-muted);
-	margin: 0;
-	font-weight: 400;
 }
 
 @media (max-width: 600px) {

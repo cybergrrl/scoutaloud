@@ -74,6 +74,21 @@ body {
   width: 100%;
 }
 
+/* Focus styles - uses currentColor to inherit text color */
+*:focus {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}
+
+*:focus:not(:focus-visible) {
+  outline: none;
+}
+
+*:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}
+
 .lightrope {
   text-align: center;
   white-space: nowrap;
@@ -253,7 +268,7 @@ header nav a {
   text-decoration: none;
   font-weight: 500;
   font-size: 1rem;
-  transition: all 0.2s ease;
+  transition: color 0.2s ease, border-bottom 0.2s ease, opacity 0.2s ease;
   padding: 0.5rem 0;
   border-bottom: 2px solid transparent;
 }
@@ -324,7 +339,7 @@ main {
   background: var(--cream-light);
   border-radius: 12px;
   padding: 1rem;
-  transition: all 0.3s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
   border: 1px solid rgba(139, 69, 54, 0.15);
 }
 
@@ -333,9 +348,21 @@ main {
   box-shadow: 0 12px 32px rgba(0, 0, 0, 0.4);
 }
 
+.movie-card:has(a:focus) {
+  outline: 2px solid var(--cream-light);
+  outline-offset: 2px;
+  transform: none;
+  box-shadow: none;
+}
+
 .movie-link {
   text-decoration: none;
   display: block;
+  border-radius: 12px;
+}
+
+.movie-link:focus {
+  outline: none;
 }
 
 .poster-wrapper {
@@ -499,7 +526,7 @@ h3 {
   text-decoration: none;
   font-weight: 600;
   font-size: 0.95rem;
-  transition: all 0.2s ease;
+  transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
 }
 
 .pagination-btn:hover:not(.disabled) {
@@ -534,7 +561,7 @@ h3 {
   text-decoration: none;
   font-weight: 500;
   font-size: 0.9rem;
-  transition: all 0.2s ease;
+  transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
 }
 
 .page-number:hover:not(.current) {

@@ -1,11 +1,4 @@
-{% extends "base.html" %}
-{% include "xmas-movie-styles.html" %}
-
-{% block title %}Christmas Movie Discovery{% endblock title %}
-
-{% block header %}
-{% include "xmas-movie-header.html" %}
-{% endblock header %}
+{% extends "xmas-movie-base.html" %}
 
 {% block content %}
 <div class="content-standard">
@@ -64,16 +57,14 @@
 <!-- Page description for SEO -->
 <meta name="description" content="Discover your next festive favourite from our collection of Christmas movies. Browse by genre and find the perfect holiday film.">
 
-{% include "xmas-movie-styles.html" %}
 <style>
-
 .hero-section {
   text-align: center;
   margin-bottom: 3rem;
-  animation: fadeIn 0.6s ease-out;
+  animation: heroFadeIn 0.6s ease-out;
 }
 
-@keyframes fadeIn {
+@keyframes heroFadeIn {
   from {
     opacity: 0;
     transform: translateY(-10px);

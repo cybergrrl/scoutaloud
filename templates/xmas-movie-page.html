@@ -1,10 +1,6 @@
-{% extends "base.html" %}
+{% extends "xmas-movie-base.html" %}
 
 {% block title %}{{ page.title }} - Christmas Movie Discovery{% endblock title %}
-
-{% block header %}
-{% include "xmas-movie-header.html" %}
-{% endblock header %}
 
 {% block content %}
 <div class="content-standard">
@@ -149,7 +145,6 @@
 <!-- Page description for SEO -->
 <meta name="description" content="{{ page.description | striptags | truncate(length=160) }}">
 
-{% include "xmas-movie-styles.html" %}
 <style>
 /* Override container padding for film page since film-card has its own */
 .content-standard {
@@ -166,11 +161,11 @@
   gap: 2.5rem;
   align-items: flex-start;
   border: 1px solid rgba(139, 69, 54, 0.15);
-  animation: fadeIn 0.5s ease-out;
+  animation: filmPageFadeIn 0.5s ease-out;
   box-sizing: border-box;
 }
 
-@keyframes fadeIn {
+@keyframes filmPageFadeIn {
   from {
     opacity: 0;
     transform: translateY(20px);
@@ -358,7 +353,7 @@
   letter-spacing: 0.02em;
   text-decoration: none;
   display: inline-block;
-  transition: all 0.2s ease;
+  transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .genre:hover {
@@ -409,9 +404,14 @@
   background: var(--burgundy-deep);
   padding: 0.75rem 1.5rem;
   border-radius: 8px;
-  transition: all 0.2s ease;
+  transition: background 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
   font-size: 1rem;
   box-shadow: 0 2px 8px rgba(93, 46, 38, 0.3);
+}
+
+.letterboxd-link:focus {
+  outline: 2px solid var(--burgundy-deep);
+  outline-offset: 2px;
 }
 
 .letterboxd-link:hover {

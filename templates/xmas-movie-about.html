@@ -1,10 +1,6 @@
-{% extends "base.html" %}
+{% extends "xmas-movie-base.html" %}
 
 {% block title %}{{ page.title }} - Christmas Movie Discovery{% endblock title %}
-
-{% block header %}
-{% include "xmas-movie-header.html" %}
-{% endblock header %}
 
 {% block content %}
 <div class="content-standard">
@@ -15,7 +11,6 @@
 {% endblock content %}
 
 {% block extra_head %}
-{% include "xmas-movie-styles.html" %}
 <style>
 /* Override container padding for about page since about-content has its own */
 .content-standard {
