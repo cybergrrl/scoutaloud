@@ -32,24 +32,17 @@
 </div>
 {% endblock content %}
 
+{% block og_url %}{{ term.permalink }}{% endblock og_url %}
+{% block og_title %}{{ term.name | title }} Christmas Movies{% endblock og_title %}
+{% block og_description %}Browse {{ term.name | lower }} Christmas movies. Find your next festive favourite from my movie collection.{% endblock og_description %}
+
+{% block twitter_url %}{{ term.permalink }}{% endblock twitter_url %}
+{% block twitter_title %}{{ term.name | title }} Christmas Movies{% endblock twitter_title %}
+{% block twitter_description %}Browse {{ term.name | lower }} Christmas movies. Find your next festive favourite from my movie collection.{% endblock twitter_description %}
+
+{% block meta_description %}Browse {{ term.name | lower }} Christmas movies. Find your next festive favourite from my movie collection.{% endblock meta_description %}
+
 {% block extra_head %}
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website">
-<meta property="og:url" content="{{ term.permalink }}">
-<meta property="og:title" content="{{ term.name | title }} Christmas Movies">
-<meta property="og:description" content="Browse {{ term.name | lower }} Christmas movies. Find your next festive favourite from our collection.">
-<meta property="og:image" content="{{ get_url(path='projects/xmas-movie-discovery/xmas-placeholder.svg') }}">
-
-<!-- Twitter -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:url" content="{{ term.permalink }}">
-<meta name="twitter:title" content="{{ term.name | title }} Christmas Movies">
-<meta name="twitter:description" content="Browse {{ term.name | lower }} Christmas movies. Find your next festive favourite from our collection.">
-<meta name="twitter:image" content="{{ get_url(path='projects/xmas-movie-discovery/xmas-placeholder.svg') }}">
-
-<!-- Page description for SEO -->
-<meta name="description" content="Browse {{ term.name | lower }} Christmas movies. Find your next festive favourite from our collection.">
-
 <style>
 .hero-section {
 	text-align: center;

@@ -39,24 +39,11 @@
 {% include "xmas-movie-pagination.html" %}
 </div>
 {% endblock content %}
+
+{% block og_url %}{{ section.permalink }}{% endblock og_url %}
+{% block twitter_url %}{{ section.permalink }}{% endblock twitter_url %}
+
 {% block extra_head %}
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website">
-<meta property="og:url" content="{{ section.permalink }}">
-<meta property="og:title" content="Christmas Movie Discovery">
-<meta property="og:description" content="Discover your next festive favourite from our collection of Christmas movies. Browse by genre and find the perfect holiday film.">
-<meta property="og:image" content="{{ config.base_url }}/projects/xmas-movie-discovery/xmas-placeholder.svg">
-
-<!-- Twitter -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:url" content="{{ section.permalink }}">
-<meta name="twitter:title" content="Christmas Movie Discovery">
-<meta name="twitter:description" content="Discover your next festive favourite with my little app. Browse by genre and find your perfect holiday film.">
-<meta name="twitter:image" content="{{ config.base_url }}/projects/xmas-movie-discovery/xmas-placeholder.svg">
-
-<!-- Page description for SEO -->
-<meta name="description" content="Discover your next festive favourite with my little app. Browse by genre and find your perfect holiday film.">
-
 <style>
 .hero-section {
   text-align: center;

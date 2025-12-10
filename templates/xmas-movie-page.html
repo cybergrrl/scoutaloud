@@ -119,32 +119,20 @@
 </div>
 {% endblock content %}
 
+{% block og_type %}video.movie{% endblock og_type %}
+{% block og_url %}{{ page.permalink }}{% endblock og_url %}
+{% block og_title %}{{ page.title }}{% endblock og_title %}
+{% block og_description %}{{ page.description | striptags | truncate(length=200) }}{% endblock og_description %}
+{% block og_image %}{% if page.extra.tmdb_poster_path and page.extra.tmdb_poster_path != "None" %}https://image.tmdb.org/t/p/w500{{ page.extra.tmdb_poster_path }}{% else %}{{ config.base_url }}/projects/xmas-movie-discovery/xmas-placeholder.svg{% endif %}{% endblock og_image %}
+
+{% block twitter_url %}{{ page.permalink }}{% endblock twitter_url %}
+{% block twitter_title %}{{ page.title }}{% endblock twitter_title %}
+{% block twitter_description %}{{ page.description | striptags | truncate(length=200) }}{% endblock twitter_description %}
+{% block twitter_image %}{% if page.extra.tmdb_poster_path and page.extra.tmdb_poster_path != "None" %}https://image.tmdb.org/t/p/w500{{ page.extra.tmdb_poster_path }}{% else %}{{ config.base_url }}/projects/xmas-movie-discovery/xmas-placeholder.svg{% endif %}{% endblock twitter_image %}
+
+{% block meta_description %}{{ page.description | striptags | truncate(length=160) }}{% endblock meta_description %}
+
 {% block extra_head %}
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="video.movie">
-<meta property="og:url" content="{{ page.permalink }}">
-<meta property="og:title" content="{{ page.title }}">
-<meta property="og:description" content="{{ page.description | striptags | truncate(length=200) }}">
-{% if page.extra.tmdb_poster_path and page.extra.tmdb_poster_path != "None" %}
-<meta property="og:image" content="https://image.tmdb.org/t/p/w500{{ page.extra.tmdb_poster_path }}">
-{% else %}
-<meta property="og:image" content="{{ get_url(path='projects/xmas-movie-discovery/xmas-placeholder.svg') }}">
-{% endif %}
-
-<!-- Twitter -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:url" content="{{ page.permalink }}">
-<meta name="twitter:title" content="{{ page.title }}">
-<meta name="twitter:description" content="{{ page.description | striptags | truncate(length=200) }}">
-{% if page.extra.tmdb_poster_path and page.extra.tmdb_poster_path != "None" %}
-<meta name="twitter:image" content="https://image.tmdb.org/t/p/w500{{ page.extra.tmdb_poster_path }}">
-{% else %}
-<meta name="twitter:image" content="{{ get_url(path='projects/xmas-movie-discovery/xmas-placeholder.svg') }}">
-{% endif %}
-
-<!-- Page description for SEO -->
-<meta name="description" content="{{ page.description | striptags | truncate(length=160) }}">
-
 <style>
 /* Override container padding for film page since film-card has its own */
 .content-standard {

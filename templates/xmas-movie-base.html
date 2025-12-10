@@ -4,7 +4,24 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% block title %}Christmas Movie Discovery{% endblock title %}</title>
-    <meta name="description" content="Discover your next festive favourite movie with my little app">
+    
+    <!-- SEO Description -->
+    <meta name="description" content="{% block meta_description %}Discover your next festive favourite from my Christmas movie collection. Browse by genre and find the perfect holiday film.{% endblock meta_description %}">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="{% block og_type %}website{% endblock og_type %}">
+    <meta property="og:url" content="{% block og_url %}{{ config.base_url }}/projects/xmas-movie-discovery/{% endblock og_url %}">
+    <meta property="og:title" content="{% block og_title %}Christmas Movie Discovery{% endblock og_title %}">
+    <meta property="og:description" content="{% block og_description %}Discover your next festive favourite from my Christmas movie collection. Browse by genre and find the perfect holiday film.{% endblock og_description %}">
+    <meta property="og:image" content="{% block og_image %}{{ config.base_url }}/projects/xmas-movie-discovery/xmas-placeholder.svg{% endblock og_image %}">
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="{% block twitter_url %}{{ config.base_url }}/projects/xmas-movie-discovery/{% endblock twitter_url %}">
+    <meta name="twitter:title" content="{% block twitter_title %}Christmas Movie Discovery{% endblock twitter_title %}">
+    <meta name="twitter:description" content="{% block twitter_description %}Discover your next festive favourite from my Christmas movie collection. Browse by genre and find the perfect holiday film.{% endblock twitter_description %}">
+    <meta name="twitter:image" content="{% block twitter_image %}{{ config.base_url }}/projects/xmas-movie-discovery/xmas-placeholder.svg{% endblock twitter_image %}">
+    
     {% include "xmas-movie-styles.html" %}
     {% block extra_head %}{% endblock extra_head %}
 </head>
