@@ -1,10 +1,10 @@
 +++
+title = "Day 3: Road trip along the Adriatic coast"
 template = "page.html"
+weight = 3
 +++
 
 [Back to itinerary](../)
-
-# Day 3: Road trip along the Adriatic coast
 
 {{ img(path="/travels/balkans/road-trip.png",
        alt="watercolor of a red car driving along the Adriatic coast towards a little seaside town",

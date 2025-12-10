@@ -1,13 +1,13 @@
 +++
-title = "Ljubljana"
+title = "Days 8 and 9: Ljubljana"
 template = "page.html"
+weight = 8
 +++
 
 [Back to itinerary](../)
 
-## Days 8 and 9:
 
-### Plans:
+## Plans:
 
 - [x] walk along the river visiting the dragon and the triple bridge
 - [x] take a ~~bike~~ scooter ride to Tivoli park
@@ -21,7 +21,7 @@ template = "page.html"
   <figcaption>A railway museum on every holiday!</figcaption>
 </figure>
 
-### Foods to try:
+## Foods to try:
 
 - [ ] Carniola sausage
 - [ ] Beef tongue

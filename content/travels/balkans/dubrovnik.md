@@ -1,6 +1,7 @@
 +++
-title = "Dubrovnik"
+title = "Days 1 and 2: Dubrovnik"
 template = "page.html"
+weight = 1
 +++
 
 [Back to itinerary](../)

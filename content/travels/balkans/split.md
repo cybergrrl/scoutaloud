@@ -1,6 +1,7 @@
 +++
-title = "Split"
+title = "Days 5 and 6: Split"
 template = "page.html"
+weight = 5
 +++
 
 [Back to itinerary](../)
