@@ -4,8 +4,6 @@ render = true
 template = "about.html"
 +++
 
-{{ img(path="@/about/me.png", class="bordered", alt="It's me!", caption="It's me!") }}
-
-&nbsp;
+<img src="/me.png" alt="It's me!" class="bordered" style="max-width: 400px; display: block; margin: 0 auto 2rem;">
 
 Hello, World!

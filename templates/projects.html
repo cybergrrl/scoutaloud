@@ -7,15 +7,25 @@
 {% if section.description %}
     <p>{{ section.description | markdown | safe }}</p>
 {% endif %}
-<ul>
+<div class="listing-grid">
     {# List subsections (e.g., projects) #}
     {% for subsection in section.subsections %}
         {% set subsec = get_section(path=subsection) %}
-        <li><a href="{{ subsec.permalink }}">{{ subsec.title }}</a></li>
+        <div class="listing-card">
+            <h3><a href="{{ subsec.permalink }}">{{ subsec.title }}</a></h3>
+            {% if subsec.description %}
+                <p>{{ subsec.description }}</p>
+            {% endif %}
+        </div>
     {% endfor %}
     {# List pages directly under this section #}
     {% for page in section.pages %}
-        <li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
+        <div class="listing-card">
+            <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
+            {% if page.description %}
+                <p>{{ page.description }}</p>
+            {% endif %}
+        </div>
     {% endfor %}
-</ul>
+</div>
 {% endblock content %}

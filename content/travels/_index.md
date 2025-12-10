@@ -10,6 +10,4 @@ featured_image = "travel.png"
 featured_image_alt = "A campervan parked by a river in the forest on a rainy day."
 +++
 
-# Travels
-
 Welcome to my travel notes. Select a trip or destination below.

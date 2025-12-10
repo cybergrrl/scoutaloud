@@ -5,16 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% block title %}{{ config.title }}{% endblock title %}</title>
     <meta name="description" content="{{ config.description }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Overlock:wght@400;700;900&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ get_url(path="base.css") }}">
     {% block extra_head %}{% endblock extra_head %}
 </head>
 <body>
     {% block header %}
     <header>
-        <nav style="padding: 1em 0; border-bottom: 1px solid #eee; margin-bottom: 2em;">
-            <a href="/travels/" style="margin-right: 1em;">Travels</a>
-            <a href="/projects/" style="margin-right: 1em;">Projects</a>
-            <a href="/about/">About</a>
+        <nav>
+            <a href="/" class="site-name">scoutaloud</a>
+            <div class="nav-links">
+                <a href="/travels/" {% if current_path is starting_with("/travels") %}class="active"{% endif %}>Travels</a>
+                <a href="/projects/" {% if current_path is starting_with("/projects") %}class="active"{% endif %}>Projects</a>
+                <a href="/about/" {% if current_path is starting_with("/about") %}class="active"{% endif %}>About</a>
+            </div>
         </nav>
     </header>
     {% endblock header %}

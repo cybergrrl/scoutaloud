@@ -3,6 +3,32 @@
 {% block title %}{{ config.title }}{% endblock title %}
 
 {% block content %}
-<h1>{{ config.title }}</h1>
-<p>{{ config.description }}</p>
+<div class="hero-banner">
+    <img src="{{ get_url(path="banner.png") }}" alt="{{ config.title }}">
+</div>
+
+<div class="homepage-intro">
+    <h1>{{ config.title }}</h1>
+    <p>{{ config.description }}</p>
+</div>
+
+<div class="homepage-sections">
+    <div class="homepage-section">
+        <h2>Travels</h2>
+        <p>Explore my travel adventures and stories from around the world.</p>
+        <a href="/travels/">View travels &rarr;</a>
+    </div>
+    
+    <div class="homepage-section">
+        <h2>Projects</h2>
+        <p>Check out my creative projects and experiments.</p>
+        <a href="/projects/">View projects &rarr;</a>
+    </div>
+    
+    <div class="homepage-section">
+        <h2>About</h2>
+        <p>Learn more about me and what I do.</p>
+        <a href="/about/">Read more &rarr;</a>
+    </div>
+</div>
 {% endblock content %}
