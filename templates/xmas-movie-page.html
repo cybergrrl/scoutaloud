@@ -1,0 +1,451 @@
+{% extends "xmas-movie-base.html" %}
+
+{% block title %}{{ page.title }} - Christmas Movie Discovery{% endblock title %}
+
+{% block content %}
+<div class="content-standard">
+  <p class="breadcrumb"><a href="/projects/xmas-movie-discovery/">← Back to all movies</a></p>
+  <div class="film-card">
+    <div class="film-sidebar">
+      {% if page.extra.tmdb_poster_path and page.extra.tmdb_poster_path != "None" %}
+      <img class="film-poster" src="https://image.tmdb.org/t/p/w342/{{ page.extra.tmdb_poster_path }}" alt="Poster for {{ page.title }}">
+      {% else %}
+      <img class="film-poster" src="/projects/xmas-movie-discovery/xmas-placeholder.svg" alt="Poster for {{ page.title }}">
+      {% endif %}
+      
+      <div class="tombstone">
+        {% if page.extra.year or page.extra.runtime or page.extra.countries %}
+        <div class="tombstone-section tombstone-metadata">
+          {% if page.extra.year %}
+          <div class="metadata-item">
+            <svg class="metadata-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" role="img" aria-label="Year">
+              <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+              <line x1="16" y1="2" x2="16" y2="6"></line>
+              <line x1="8" y1="2" x2="8" y2="6"></line>
+              <line x1="3" y1="10" x2="21" y2="10"></line>
+            </svg>
+            <span class="metadata-value">{{ page.extra.year }}</span>
+          </div>
+          {% endif %}
+          {% if page.extra.runtime %}
+          <div class="metadata-item">
+            <svg class="metadata-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" role="img" aria-label="Runtime">
+              <circle cx="12" cy="12" r="10"></circle>
+              <polyline points="12 6 12 12 16 14"></polyline>
+            </svg>
+            <span class="metadata-value">{{ page.extra.runtime }} minutes</span>
+          </div>
+          {% endif %}
+          {% if page.extra.countries %}
+          <div class="metadata-item">
+            <svg class="metadata-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" role="img" aria-label="Country">
+              <circle cx="12" cy="12" r="10"></circle>
+              <line x1="2" y1="12" x2="22" y2="12"></line>
+              <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+            </svg>
+            <span class="metadata-value">{{ page.extra.countries | join(sep=", ") }}</span>
+          </div>
+          {% endif %}
+        </div>
+        {% endif %}
+
+        {% if page.taxonomies.xmas_genres %}
+        <div class="tombstone-section">
+          <span class="tombstone-label">Genres</span>
+          <div class="film-genres">
+            {% for genre in page.taxonomies.xmas_genres %}
+            <a href="{{ get_taxonomy_url(kind='xmas_genres', name=genre) }}" class="genre">{{ genre }}</a>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+
+        {% if page.extra.average_rating %}
+        <div class="tombstone-section tombstone-rating">
+          <span class="tombstone-label">Letterboxd Rating</span>
+          <span class="sr-only">{{ page.extra.average_rating }} out of 5</span>
+          <div class="rating-stars" aria-hidden="true">
+            {% set rating = page.extra.average_rating %}
+            {% set full_stars = rating | round(method="floor") %}
+            {% set decimal = rating - full_stars %}
+            {% if decimal < 0.25 %}
+              {% set display_stars = full_stars %}
+              {% set has_half = false %}
+            {% elif decimal <= 0.75 %}
+              {% set display_stars = full_stars %}
+              {% set has_half = true %}
+            {% else %}
+              {% set display_stars = full_stars + 1 %}
+              {% set has_half = false %}
+            {% endif %}
+            {% for i in range(end=5) %}
+              {% if i < display_stars %}
+                <span class="star filled">★</span>
+              {% elif i == display_stars and has_half %}
+                <span class="star half">★</span>
+              {% else %}
+                <span class="star empty">★</span>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="film-info">
+      <h1 class="film-title">{{ page.title }}</h1>
+      
+      <p class="film-description">{{ page.description | safe }}</p>
+
+      {% if page.extra.director %}
+      <div class="film-detail">
+        <strong>Director:</strong> {{ page.extra.director }}
+      </div>
+      {% endif %}
+
+      {% if page.extra.cast %}
+      <div class="film-detail cast-section">
+        <strong>Cast:</strong>
+        <div class="cast-list">
+          {{ page.extra.cast | slice(end=10) | join(sep=", ") }}{% if page.extra.cast | length > 10 %}, and {{ page.extra.cast | length - 10 }} more{% endif %}
+        </div>
+      </div>
+      {% endif %}
+
+      <a class="letterboxd-link" href="{{ page.extra.film_url }}" target="_blank" rel="noopener">View on Letterboxd →</a>
+    </div>
+  </div>
+</div>
+{% endblock content %}
+
+{% block extra_head %}
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="video.movie">
+<meta property="og:url" content="{{ page.permalink }}">
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.description | striptags | truncate(length=200) }}">
+{% if page.extra.tmdb_poster_path and page.extra.tmdb_poster_path != "None" %}
+<meta property="og:image" content="https://image.tmdb.org/t/p/w500{{ page.extra.tmdb_poster_path }}">
+{% else %}
+<meta property="og:image" content="{{ get_url(path='projects/xmas-movie-discovery/xmas-placeholder.svg') }}">
+{% endif %}
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="{{ page.permalink }}">
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:description" content="{{ page.description | striptags | truncate(length=200) }}">
+{% if page.extra.tmdb_poster_path and page.extra.tmdb_poster_path != "None" %}
+<meta name="twitter:image" content="https://image.tmdb.org/t/p/w500{{ page.extra.tmdb_poster_path }}">
+{% else %}
+<meta name="twitter:image" content="{{ get_url(path='projects/xmas-movie-discovery/xmas-placeholder.svg') }}">
+{% endif %}
+
+<!-- Page description for SEO -->
+<meta name="description" content="{{ page.description | striptags | truncate(length=160) }}">
+
+<style>
+/* Override container padding for film page since film-card has its own */
+.content-standard {
+  padding: 0;
+}
+
+.film-card {
+  background: var(--cream-light);
+  border-radius: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  display: flex;
+  width: 100%;
+  padding: 2.5rem;
+  gap: 2.5rem;
+  align-items: flex-start;
+  border: 1px solid rgba(139, 69, 54, 0.15);
+  animation: filmPageFadeIn 0.5s ease-out;
+  box-sizing: border-box;
+}
+
+@keyframes filmPageFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.film-sidebar {
+  flex-shrink: 0;
+  width: 260px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.film-poster {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+  background: var(--cream-tan);
+  transition: transform 0.3s ease;
+}
+
+.film-poster:hover {
+  transform: translateY(-4px);
+}
+
+.tombstone {
+  background: linear-gradient(135deg, rgba(93, 46, 38, 0.05) 0%, rgba(139, 69, 54, 0.05) 100%);
+  border: 1px solid rgba(93, 46, 38, 0.15);
+  border-radius: 10px;
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.tombstone-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid rgba(93, 46, 38, 0.1);
+}
+
+.tombstone-section:last-child {
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.tombstone-metadata {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  row-gap: 0.75rem;
+}
+
+.metadata-item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.metadata-icon {
+  width: 16px;
+  height: 16px;
+  color: var(--terracotta);
+  flex-shrink: 0;
+}
+
+.metadata-value {
+  font-size: 0.9rem;
+  color: var(--text-dark);
+  font-weight: 500;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.tombstone-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.tombstone-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--terracotta);
+  font-weight: 600;
+}
+
+.tombstone-value {
+  font-size: 0.95rem;
+  color: var(--text-dark);
+  font-weight: 500;
+}
+
+.tombstone-rating {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.tombstone-rating .rating-stars {
+  margin: 0.5rem 0;
+}
+
+.tombstone-rating .rating-number {
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+}
+
+.film-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.film-title {
+  color: var(--burgundy-deep);
+  margin: 0 0 1rem 0;
+  font-size: 2.25rem;
+  font-weight: 400;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+.film-description {
+  color: var(--text-dark);
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  padding-bottom: 2rem;
+  border-bottom: 2px solid rgba(93, 46, 38, 0.1);
+}
+
+.film-detail {
+  margin-bottom: 1.5rem;
+  color: var(--text-dark);
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.film-detail strong {
+  color: var(--burgundy-deep);
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.6rem;
+  font-size: 0.95rem;
+}
+
+.cast-section .cast-list {
+  color: var(--text-dark);
+  line-height: 1.7;
+}
+
+.film-genres {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.genre {
+  background: rgba(93, 46, 38, 0.12);
+  color: var(--burgundy-deep);
+  border: 1px solid rgba(93, 46, 38, 0.25);
+  border-radius: 20px;
+  padding: 0.35rem 0.9rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.genre:hover {
+  background: rgba(93, 46, 38, 0.2);
+  border-color: rgba(93, 46, 38, 0.4);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(93, 46, 38, 0.15);
+}
+
+.rating-stars {
+  display: flex;
+  gap: 0.15rem;
+}
+
+.star {
+  font-size: 1.3rem;
+  line-height: 1;
+  -webkit-text-stroke: 1px #c85a3f;
+}
+
+.star.filled {
+  color: #c85a3f;
+}
+
+.star.half {
+  background: linear-gradient(90deg, #c85a3f 50%, transparent 50%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.star.empty {
+  color: transparent;
+}
+
+.rating-number {
+  display: block;
+  font-weight: 600;
+  color: var(--burgundy-deep);
+}
+
+.letterboxd-link {
+  display: inline-block;
+  margin-top: 1rem;
+  color: var(--cream-light);
+  text-decoration: none;
+  font-weight: 600;
+  background: var(--burgundy-deep);
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  transition: background 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  font-size: 1rem;
+  box-shadow: 0 2px 8px rgba(93, 46, 38, 0.3);
+}
+
+.letterboxd-link:focus {
+  outline: 2px solid var(--burgundy-deep);
+  outline-offset: 2px;
+}
+
+.letterboxd-link:hover {
+  background: var(--terracotta);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(93, 46, 38, 0.4);
+}
+
+@media (max-width: 768px) {
+  .film-card {
+    flex-direction: column;
+    padding: 1.5rem;
+    max-width: 100%;
+  }
+  
+  .film-sidebar {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .film-title {
+    font-size: 2rem;
+  }
+  
+  .film-description {
+    font-size: 1.05rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .film-card {
+    padding: 1rem;
+  }
+}
+</style>
+{% endblock extra_head %}

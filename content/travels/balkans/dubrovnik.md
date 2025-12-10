@@ -5,7 +5,7 @@ template = "page.html"
 
 [Back to itinerary](../)
 
-## Arrival evening
+## Day 1: Arrival in Dubrovnic
 
 Well it's definitely autumn and Dubrovnik greeted us with pouring rain on and off throughout the evening.
 
@@ -16,7 +16,7 @@ Well it's definitely autumn and Dubrovnik greeted us with pouring rain on and of
 
 That didn't stop us from having a great time. Crossing having alfresco dinner in a downpour and eating ice-cream under an umbrella from the bucket list 😄
 
-## Our Day in Dubrovnik
+## Day 2: Exploring Dubrovnik
 
 ### Walk the Walls
 

@@ -1,0 +1,59 @@
+<nav class="pagination" aria-label="Page navigation">
+  <div class="pagination-info">
+    <span>Page {{ paginator.current_index }} of {{ paginator.number_pagers }}</span>
+    <span class="separator">•</span>
+    <span>{{ paginator.pages | length }} movies on this page</span>
+  </div>
+  
+  <div class="pagination-controls">
+    {% if paginator.previous %}
+      <a href="{{ paginator.previous }}" class="pagination-btn prev-btn">
+        <span class="arrow">←</span> Previous
+      </a>
+    {% else %}
+      <span class="pagination-btn prev-btn disabled">
+        <span class="arrow">←</span> Previous
+      </span>
+    {% endif %}
+    
+    <div class="page-numbers">
+      {% if paginator.current_index > 3 %}
+        <a href="{{ base_url }}" class="page-number">1</a>
+        {% if paginator.current_index > 4 %}
+          <span class="ellipsis">...</span>
+        {% endif %}
+      {% endif %}
+      
+      {% for i in range(start=1, end=paginator.number_pagers + 1) %}
+        {% if i >= paginator.current_index - 2 and i <= paginator.current_index + 2 %}
+          {% if i == paginator.current_index %}
+            <span class="page-number current">{{ i }}</span>
+          {% else %}
+            {% if i == 1 %}
+              <a href="{{ base_url }}" class="page-number">{{ i }}</a>
+            {% else %}
+              <a href="{{ base_url }}page/{{ i }}/" class="page-number">{{ i }}</a>
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      
+      {% if paginator.current_index < paginator.number_pagers - 2 %}
+        {% if paginator.current_index < paginator.number_pagers - 3 %}
+          <span class="ellipsis">...</span>
+        {% endif %}
+        <a href="{{ base_url }}page/{{ paginator.number_pagers }}/" class="page-number">{{ paginator.number_pagers }}</a>
+      {% endif %}
+    </div>
+    
+    {% if paginator.next %}
+      <a href="{{ paginator.next }}" class="pagination-btn next-btn">
+        Next <span class="arrow">→</span>
+      </a>
+    {% else %}
+      <span class="pagination-btn next-btn disabled">
+        Next <span class="arrow">→</span>
+      </span>
+    {% endif %}
+  </div>
+</nav>

@@ -1,0 +1,165 @@
+{% extends "xmas-movie-base.html" %}
+
+{% block content %}
+<div class="content-standard">
+  <div class="hero-section">
+    <h1 class="main-title">Christmas Movie Collection</h1>
+    <p class="subtitle">Discover your next festive favourite</p>
+  </div>
+
+  <div class="genre-filters">
+  <label for="genre-select" class="filter-label">Filter by genre:</label>
+  <select id="genre-select" class="genre-dropdown" onchange="if(this.value) window.location.href=this.value">
+    <option value="">All movies</option>
+    {% set genres = get_taxonomy(kind="xmas_genres") %}
+    {% for genre in genres.items %}
+      <option value="{{ genre.permalink }}">{{ genre.name | title }}</option>
+    {% endfor %}
+  </select>
+</div>
+
+<div class="movie-grid">
+  {% for page in paginator.pages %}
+    <div class="movie-card">
+      <a href="{{ page.permalink }}" class="movie-link">
+        <div class="poster-wrapper">
+          {% if page.extra.tmdb_poster_path and page.extra.tmdb_poster_path != "None" %}
+          <img class="movie-poster" src="https://image.tmdb.org/t/p/w342/{{ page.extra.tmdb_poster_path }}" alt="{{ page.title }} poster">
+          {% else %}
+          <img class="movie-poster" src="/projects/xmas-movie-discovery/xmas-placeholder.svg" alt="{{ page.title }} poster">
+          {% endif %}
+        </div>
+        <h3 class="movie-title">{{ page.title }}</h3>
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
+{% set base_url = section.permalink %}
+{% include "xmas-movie-pagination.html" %}
+</div>
+{% endblock content %}
+{% block extra_head %}
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ section.permalink }}">
+<meta property="og:title" content="Christmas Movie Discovery">
+<meta property="og:description" content="Discover your next festive favourite from our collection of Christmas movies. Browse by genre and find the perfect holiday film.">
+<meta property="og:image" content="{{ get_url(path='projects/xmas-movie-discovery/xmas-placeholder.svg') }}">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="{{ section.permalink }}">
+<meta name="twitter:title" content="Christmas Movie Discovery">
+<meta name="twitter:description" content="Discover your next festive favourite from our collection of Christmas movies. Browse by genre and find the perfect holiday film.">
+<meta name="twitter:image" content="{{ get_url(path='projects/xmas-movie-discovery/xmas-placeholder.svg') }}">
+
+<!-- Page description for SEO -->
+<meta name="description" content="Discover your next festive favourite from our collection of Christmas movies. Browse by genre and find the perfect holiday film.">
+
+<style>
+.hero-section {
+  text-align: center;
+  margin-bottom: 3rem;
+  animation: heroFadeIn 0.6s ease-out;
+}
+
+@keyframes heroFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.main-title {
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: var(--cream-tan);
+  margin: 0 0 0.5rem 0;
+  letter-spacing: -0.02em;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.genre-filters {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 3rem;
+  padding: 1.5rem;
+  background: rgba(244, 240, 234, 0.05);
+  border-radius: 12px;
+  border: 1px solid rgba(212, 197, 176, 0.15);
+}
+
+.filter-label {
+  font-weight: 600;
+  color: var(--cream-tan);
+  font-size: 0.95rem;
+}
+
+.genre-dropdown {
+  background: rgba(212, 197, 176, 0.15);
+  color: var(--cream-tan);
+  border: 1px solid rgba(212, 197, 176, 0.3);
+  padding: 0.6rem 2.5rem 0.6rem 1rem;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  font-family: 'Quicksand', sans-serif;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23d4c5b0' d='M6 9L1 4h10z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.8rem center;
+  min-width: 200px;
+}
+
+.genre-dropdown:hover {
+  background-color: rgba(212, 197, 176, 0.25);
+  border-color: rgba(212, 197, 176, 0.5);
+}
+
+.genre-dropdown:focus {
+  outline: 2px solid var(--cream-tan);
+  outline-offset: 2px;
+}
+
+.genre-dropdown option {
+  background: var(--forest-dark);
+  color: var(--cream-light);
+  padding: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .main-title {
+    font-size: 2.5rem;
+  }
+  
+  .genre-filters {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.8rem;
+  }
+  
+  .filter-label {
+    text-align: center;
+  }
+  
+  .genre-dropdown {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .main-title {
+    font-size: 2rem;
+  }
+}
+</style>
+{% endblock extra_head %}

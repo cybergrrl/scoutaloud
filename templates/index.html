@@ -1,36 +1,51 @@
-{% import "macros/page.html" as page_macros %}
 {% extends "base.html" %}
 
+{% block title %}{{ config.title }}{% endblock title %}
+
 {% block content %}
-<main id="main" class="index" tabindex="-1">
-    <section>
-        {% set banner = resize_image(path="/static/banner.png", width=672, op="fit_width") %}
-        <img src="{{ banner.url }}" class="index-banner" alt="A rainy forest and river with a campervan parked next to it."/>
-        <p>
-            {{ config.description }}
-        </p>
-    </section>
-    <section class="index-columns">
-    {% for subsec in config.extra.menu_items | filter(attribute="show_recent", value=true) %}
-        <section class="index-listing">
-            <h2>
-                {{ trans(key=subsec.recent_trans_key, lang=lang) }}
-            </h2>
-            {% if section.subsections is containing(subsec.name ~ "/_index." ~ lang ~ ".md") %}
-                {% set subsec_path = subsec.name ~ "/_index." ~ lang ~ ".md" %}
-                {% set subsec_link_path = lang ~ "/" ~ subsec.name ~ "/" %}
-            {% else %}
-                {% set subsec_path = subsec.name ~ "/_index.md" %}
-                {% set subsec_link_path = subsec.name ~ "/" %}
-            {% endif %}
-            {% set subsec_section = get_section(path=subsec_path) %}
-            {% set subsec_section_pages = subsec_section.pages | sort(attribute="date") | reverse %}
-            {% for page in subsec_section_pages | slice(end=subsec.recent_items) %}
-                {{ page_macros::page_listing(page=page) }}
-            {% endfor %}
-            <p class="read-more"><a href={{ subsec_link_path }}>{{ trans(key=subsec.more_trans_key, lang=lang) }} ≫</a></p>
-        </section>
-    {% endfor %}
-    </section>
-</main>
+<div class="hero-banner">
+    <img src="{{ get_url(path="banner.png") }}" alt="{{ config.title }}">
+</div>
+
+<div class="homepage-intro">
+    <h1>{{ config.title }}</h1>
+    <p>{{ config.description }}</p>
+</div>
+
+<div class="listing-grid">
+    <div class="listing-card">
+        <h3>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"></circle>
+                <line x1="2" y1="12" x2="22" y2="12"></line>
+                <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+            </svg>
+            <a href="/travels/">Travels</a>
+        </h3>
+        <p>Explore my travel adventures and stories from around the world.</p>
+    </div>
+    
+    <div class="listing-card">
+        <h3>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
+                <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
+                <line x1="12" y1="22.08" x2="12" y2="12"></line>
+            </svg>
+            <a href="/projects/">Projects</a>
+        </h3>
+        <p>Check out my creative projects and experiments.</p>
+    </div>
+    
+    <div class="listing-card">
+        <h3>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                <circle cx="12" cy="7" r="4"></circle>
+            </svg>
+            <a href="/about/">About</a>
+        </h3>
+        <p>Learn more about me and what I do.</p>
+    </div>
+</div>
 {% endblock content %}

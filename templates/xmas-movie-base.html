@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Christmas Movie Discovery{% endblock title %}</title>
+    <meta name="description" content="Discover your next festive favourite from our Christmas movie collection">
+    {% include "xmas-movie-styles.html" %}
+    {% block extra_head %}{% endblock extra_head %}
+</head>
+<body>
+    {% block header %}
+    {% include "xmas-movie-header.html" %}
+    {% endblock header %}
+    <main>
+        {% block content %}{% endblock content %}
+    </main>
+</body>
+</html>

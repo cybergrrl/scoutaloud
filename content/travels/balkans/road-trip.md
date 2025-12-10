@@ -1,13 +1,12 @@
 +++
-title = "Road trip from Dubrovnik to Split"
 template = "page.html"
 +++
 
 [Back to itinerary](../)
 
-# A road trip along the Adriatic coast
+# Day 3: Road trip along the Adriatic coast
 
-{{ img(path="./road-trip.png",
+{{ img(path="/travels/balkans/road-trip.png",
        alt="watercolor of a red car driving along the Adriatic coast towards a little seaside town",
        caption="actual picture of our actual rental car") }}
 

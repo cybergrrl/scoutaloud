@@ -1,0 +1,75 @@
+{% extends "xmas-movie-base.html" %}
+
+{% block title %}All Genres - Christmas Movie Discovery{% endblock title %}
+
+{% block content %}
+<div class="content-narrow">
+  <h1>All Genres</h1>
+  <ul>
+    {% for term in terms %}
+    <li><a href="{{ term.permalink }}">{{ term.name | capitalize }}</a> ({{ term.pages | length }})</li>
+  {% endfor %}
+</ul>
+<p><a href="/projects/xmas-movie-discovery/">← Back to all movies</a></p>
+</div>
+{% endblock content %}
+
+{% block extra_head %}
+<style>
+ul {
+  list-style: none;
+  padding: 0;
+  max-width: 500px;
+  margin: 2rem auto;
+}
+
+li {
+  background: var(--cream-light);
+  color: var(--burgundy-deep);
+  border-radius: 10px;
+  margin-bottom: 1.2rem;
+  padding: 1rem 1.5rem;
+  font-size: 1.1rem;
+  font-family: 'Inter', sans-serif;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.10);
+  border: 1px solid rgba(139, 69, 54, 0.10);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+li:hover {
+  transform: translateY(-3px) scale(1.02);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.18);
+}
+
+a {
+  color: var(--burgundy-deep);
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: var(--terracotta);
+}
+
+p a {
+  color: var(--cream-tan);
+  font-size: 1rem;
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+  ul {
+    margin: 1rem auto;
+    padding: 0 0.5rem;
+  }
+  li {
+    padding: 0.7rem 1rem;
+    font-size: 1rem;
+  }
+}
+</style>
+{% endblock extra_head %}

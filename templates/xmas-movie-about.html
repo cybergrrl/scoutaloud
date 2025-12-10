@@ -1,0 +1,144 @@
+{% extends "xmas-movie-base.html" %}
+
+{% block title %}{{ page.title }} - Christmas Movie Discovery{% endblock title %}
+
+{% block content %}
+<div class="content-standard">
+  <div class="about-content">
+      {{ page.content | safe }}
+  </div>
+</div>
+{% endblock content %}
+
+{% block extra_head %}
+<style>
+/* Override container padding for about page since about-content has its own */
+.content-standard {
+  padding: 0;
+}
+
+.about-content {
+  background: var(--cream-light);
+  border-radius: 16px;
+  padding: 2.5rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(139, 69, 54, 0.15);
+  box-sizing: border-box;
+}
+
+.about-content h1 {
+  color: var(--burgundy-deep);
+  margin-top: 0;
+}
+
+.about-content h2 {
+  color: var(--burgundy-deep);
+  font-size: 1.75rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.about-content h3 {
+  color: var(--burgundy-deep);
+  font-family: 'Crimson Pro', serif;
+  font-size: 1.4rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+}
+
+.about-content h4 {
+  color: var(--terracotta);
+  font-family: 'Inter', sans-serif;
+  font-size: 1.15rem;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.about-content p {
+  color: var(--text-dark);
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+
+.about-content ul,
+.about-content ol {
+  color: var(--text-dark);
+  font-size: 1.05rem;
+  line-height: 1.4;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  padding-left: 0;
+  list-style: none;
+}
+
+.about-content ul li {
+  padding-left: 2rem;
+  position: relative;
+  line-height: 1.3;
+}
+
+.about-content ul li::before {
+  content: "⭐ ";
+  position: absolute;
+  left: 0;
+  filter: grayscale(100%) brightness(0.4);
+}
+
+.about-content li {
+  font-size: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.about-content a {
+  color: var(--burgundy-deep);
+  text-decoration: underline;
+}
+
+.about-content a:hover {
+  color: var(--terracotta);
+}
+
+.about-content img {
+  max-width: 112px;
+  height: auto;
+  float: left;
+  margin-right: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.about-content .tmdb-attribution {
+  overflow: auto;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .about-content {
+    padding: 1.5rem;
+  }
+  
+  .about-content .tmdb-attribution {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  
+  .about-content .tmdb-attribution p {
+    margin-bottom: 0.25rem;
+  }
+  
+  .about-content img {
+    float: none;
+    display: block;
+    margin: 0.25rem auto 0 auto;
+  }
+}
+
+@media (max-width: 600px) {
+  .about-content {
+    padding: 1rem;
+  }
+}
+</style>
+{% endblock extra_head %}
