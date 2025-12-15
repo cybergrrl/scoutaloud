@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Tough narcotics detective 'Popeye' Doyle is in hot pursuit of a suave French drug dealer who may be the key to a huge heroin-smuggling operation."""
 
 [taxonomies]
-xmas_genres = ['Crime', 'Thriller', 'Action']
+xmas_genres = ['Thriller', 'Action', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-french-connection/"""

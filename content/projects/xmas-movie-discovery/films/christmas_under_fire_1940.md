@@ -15,5 +15,6 @@ runtime = 10
 countries = ["""UK"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
+average_rating = 3.36
 cast = ["""Quentin Reynolds"""]
 +++

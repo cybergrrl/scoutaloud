@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A newly-married woman becomes frustrated as her husband, a reindeer herder for an Arctic village, spends much of his time away. Desperate for affection, she visits a shaman who offers a potion that makes her irresistibly desirable, with unexpected and deadly results."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Fantasy']
+xmas_genres = ['Fantasy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-white-reindeer/"""

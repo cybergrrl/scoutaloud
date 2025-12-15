@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A wax sculptor opens a new museum years after he is severely injured during a fire that destroyed his original collection. The disappearance of both people and corpses coincides with this grand reopening and leads a reporter to start investigating."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Mystery', 'Comedy']
+xmas_genres = ['Horror', 'Oldies', 'Mystery', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/mystery-of-the-wax-museum/"""

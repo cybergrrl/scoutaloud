@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The Pup Star family just got bigger! And the new pups: Cindy, Rosie, Charlie, and Brody will have to learn the true meaning of Christmas. When Pup Star’s mean team, scheme to ruin Christmas, the pups end up in the North Pole to save Santa and the holiday spirit. Their adventure is filled with great pup-tastic songs to spread holiday cheer all year round."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Fantasy', 'Music']
+xmas_genres = ['Music', 'Family', 'Comedy', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/puppy-star-christmas/"""

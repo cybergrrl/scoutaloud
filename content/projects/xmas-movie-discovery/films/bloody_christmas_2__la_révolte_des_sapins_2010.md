@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """While going to a New Year's Eve party with friends, Isabelle is assaulted by ... a Christmas tree in search of freedom. She manages to escape and is admitted to hospital. She is taken for a madwoman, until the tree finds her, determined to take revenge..."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Comedy']
+xmas_genres = ['Comedy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/bloody-christmas-2-la-revolte-des-sapins/"""

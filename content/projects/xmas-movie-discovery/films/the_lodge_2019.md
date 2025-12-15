@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a father is forced to abruptly depart for work, he leaves his children, Aidan and Mia, at their holiday home in the care of his new girlfriend, Grace. Isolated and alone, a blizzard traps them inside the lodge as terrifying events summon specters from Grace's dark past."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Mystery', 'Drama', 'Thriller']
+xmas_genres = ['Drama', 'Thriller', 'Mystery', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-lodge-2019/"""

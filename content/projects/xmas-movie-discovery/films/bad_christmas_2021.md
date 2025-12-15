@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A peaceful Christmas Eve is interrupted when a thief breaks into a villa. When the family’s little daughter mistakes him for Santa Claus and asks him to fulfill her Christmas wish, he will be forced to perform a miracle that will redeem secrets from the past."""
 
 [taxonomies]
-xmas_genres = ['International', 'Crime', 'Comedy']
+xmas_genres = ['Comedy', 'Global', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/bad-christmas/"""

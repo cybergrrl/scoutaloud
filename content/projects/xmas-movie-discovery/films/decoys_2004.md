@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Luke and Roger are just another couple of college guys trying to lose their virginity. But when Luke sees something unusual, he begins to suspect that the girls on campus aren't exactly...human."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Thriller', 'Science Fiction']
+xmas_genres = ['Science Fiction', 'Thriller', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/decoys/"""

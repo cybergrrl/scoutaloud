@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two French journalists become embroiled in a criminal plot in New York City involving a disappeared United Nations diplomat."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Crime', 'Drama']
+xmas_genres = ['Drama', 'Thriller', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/two-men-in-manhattan/"""

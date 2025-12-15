@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The story of a serial killer known as "Georgie Porgie." The Chicago turnpike is threatened over a three-day period as the police try to catch him by blocking the whole area."""
 
 [taxonomies]
-xmas_genres = ['Crime', 'TV Movie', 'Drama']
+xmas_genres = ['Drama', 'Crime', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/nightmare-in-chicago/"""

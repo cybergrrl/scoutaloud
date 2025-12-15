@@ -15,6 +15,6 @@ runtime = 30
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.68
+average_rating = 2.67
 cast = ["""Richard Steven Horvitz""", """Louise E. Marino Sr.""", """David Yost""", """Jason David Frank""", """Amy Jo Johnson""", """Steve Cardenas""", """Karan Ashley""", """Johnny Yong Bosch""", """Robert L. Manahan"""]
 +++

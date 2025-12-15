@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A week before Christmas a viral outbreak turns the citizens of Los Angeles into the walking dead. On the brink of severing ties with both his wife and longtime partner, L.A.P.D. officer Frank Talbot finds himself trapped with them. As death closes in their survival is further threatened by the fact that both men love the same woman."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Romance', 'Comedy', 'Action']
+xmas_genres = ['Romance', 'Comedy', 'Horror', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/silent-night-zombie-night/"""
@@ -15,6 +15,6 @@ runtime = 83
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.67
+average_rating = 2.65
 cast = ["""Jack Forcinito""", """Andy Hopper""", """Nadine Stenovitch""", """Lew Temple""", """Vernon Wells""", """Felissa Rose""", """Timothy Muskatell""", """Jimmy Williams""", """Domiziano Arcangeli""", """Jordan Lawson""", """Shane Ryan-Reid""", """Bryan Coyne"""]
 +++

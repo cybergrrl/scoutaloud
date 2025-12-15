@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'Drama', 'Action']
+xmas_genres = ['Drama', 'Action', 'Adventure']
 
 [extra]
 film_url = """https://letterboxd.com/film/king-kong-2005/"""

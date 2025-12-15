@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Jackie Foster, a dynamic Assistant District Attorney and single mom, is looking forward to wrapping up her latest case and spending Christmas with Gracie, her adorable and precocious, eight-year old daughter. But when Jackie’s estranged dad, Jack , a gruff retired police officer, unexpectedly shows up at her door, they will be forced to confront old wounds."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Drama']
+xmas_genres = ['Family', 'Drama', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/ill-be-home-for-christmas-2016/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.61
+average_rating = 2.6
 cast = ["""James Brolin""", """Mena Suvari""", """Giselle Eisenberg""", """John Reardon""", """Jacob Blair""", """Melissa Bolona""", """Laura Miyata""", """Dale Whibley""", """Angela Asher""", """Angelica Lisk-Hann""", """Daniel Kash"""]
 +++

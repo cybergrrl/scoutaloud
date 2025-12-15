@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When moving to a new town, Heidi and her kids discover a Christmas mystery with the help of the local handyman."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Mystery']
+xmas_genres = ['Mystery', 'Hallmark']
 
 [extra]
 film_url = """https://letterboxd.com/film/mystery-on-mistletoe-lane/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.91
+average_rating = 2.89
 cast = ["""Erica Cerra""", """Victor Webster""", """Fred Henderson""", """Jeanie Cloutier""", """Juliette Hawk""", """Benjamin Jacobson""", """Logan Pierce"""]
 +++

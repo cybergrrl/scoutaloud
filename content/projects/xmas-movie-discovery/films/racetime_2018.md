@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A spectacular sled race through the village. Frankie-Four-Eyes and his team, including Sophie as the driver, take on the newcomers: the mysterious and conceited Zac and his athletic cousin Charlie."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Adventure', 'Animation', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Animation', 'Adventure']
 
 [extra]
 film_url = """https://letterboxd.com/film/racetime/"""
@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""Canada"""]
 original_language = """French"""
 spoken_languages = ["""French"""]
-average_rating = 3.07
+average_rating = 3.08
 cast = ["""Mariloup Wolfe""", """Hélène Bourgeois Leclerc""", """Sophie Cadieux""", """André Sauvé""", """Catherine Trudeau""", """Aline Pinsonneault""", """Gildor Roy""", """Anne Casabonne""", """Nicholas Savard-L'Herbier""", """Sébastien Reding""", """Hugolin Chevrette""", """Esther Poulin""", """Ludivine Reding""", """Mehdi Bousaidan"""]
 +++

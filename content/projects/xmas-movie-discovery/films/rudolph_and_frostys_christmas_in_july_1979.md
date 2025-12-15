@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Winterbolt is trying to make the North Pole his evil wonderland, and it is up to Frosty the Snowman, Rudolph the Red-Nosed Reindeer and others to stop him."""
 
 [taxonomies]
-xmas_genres = ['Family', 'TV Movie', 'Animation', 'Fantasy']
+xmas_genres = ['Family', 'Fantasy', 'Animation', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/rudolph-and-frostys-christmas-in-july/"""

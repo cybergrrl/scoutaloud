@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A group of teenagers at a party find themselves being stalked by a maniacal killer in a Santa Claus costume."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Mystery', 'Thriller']
+xmas_genres = ['Horror', 'Thriller', 'Mystery']
 
 [extra]
 film_url = """https://letterboxd.com/film/to-all-a-goodnight/"""

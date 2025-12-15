@@ -15,6 +15,6 @@ runtime = 50
 countries = ["""USA""", """Japan"""]
 original_language = """English"""
 spoken_languages = ["""English""", """Spanish"""]
-average_rating = 3.26
+average_rating = 3.27
 cast = ["""Earl Hammond""", """Earle Hyman""", """Larry Kenney""", """Lynne Lipton""", """Bob McFadden""", """Lesley Miller""", """Peter Newman""", """Joey Grasso""", """J.D. Roth""", """Alfred Drake""", """Amy Anzel""", """Josh Blake""", """Jamie Lisa Murphy""", """Al Dana""", """Margaret Dorn""", """Arlene Martel""", """Marty Nelson""", """David Ragaini""", """Robert Ragaini""", """Annette Sanders""", """Ari Gold"""]
 +++

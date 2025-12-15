@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In the year 2022, a ruthless prison warden has created the ultimate solution for his most troublesome and violent inmates: Absolom, a secret jungle island where prisoners are abandoned and left to die. But Marine Captain John Robbins, convicted of murdering a commanding officer, is determined to escape the island in order to reveal the truth behind his murderous actions and clear his name."""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Thriller', 'Drama', 'Action']
+xmas_genres = ['Science Fiction', 'Thriller', 'Action', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/no-escape-1994/"""

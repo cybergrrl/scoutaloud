@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The holidays take a hit as Kaz juggles the Secret Santa competition, his Aunt Angelique's visit and his nemesis Arcangelo's Christmas plotting."""
 
 [taxonomies]
-xmas_genres = ['Animation', 'Comedy']
+xmas_genres = ['Comedy', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/neo-yokio-pink-christmas/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When bookish CIA researcher Joe Turner finds all his co-workers dead, he, together with a woman he has kidnapped, must work together to outwit those responsible until he determines who he can really trust."""
 
 [taxonomies]
-xmas_genres = ['Mystery', 'Thriller']
+xmas_genres = ['Action', 'Thriller', 'Mystery']
 
 [extra]
 film_url = """https://letterboxd.com/film/three-days-of-the-condor/"""

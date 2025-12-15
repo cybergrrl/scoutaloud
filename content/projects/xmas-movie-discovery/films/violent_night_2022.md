@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn’t prepared for a surprise combatant: Santa Claus is on the grounds, and he’s about to show why this Nick is no saint."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Fantasy', 'Action']
+xmas_genres = ['Comedy', 'Horror', 'Action', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/violent-night/"""

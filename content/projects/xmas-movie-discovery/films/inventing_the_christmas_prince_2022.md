@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Shelby is about to quit her job as a rocket engineer when her daughter becomes convinced that her Scrooge-like boss, Evan, is the Christmas Prince from a story Shelby invented years ago."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/inventing-the-christmas-prince/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.12
+average_rating = 3.11
 cast = ["""Tamera Mowry-Housley""", """Ronnie Rowe""", """Isabel Birch""", """Nathanael Vass""", """Dan Zukovic""", """Mercedes Blanche""", """Mark Brandon""", """Brady Droulis""", """Caitlin Stryker"""]
 +++

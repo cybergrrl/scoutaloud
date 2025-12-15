@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When widowed mom Megan returns home for Christmas, she and her two sisters Audrey and Bethany are surprised to learn their parents are selling their childhood home, making this their last Christmas together in Vermont. Megan is even more surprised to discover that the buyer is her high school sweetheart, Nash, who plans to use the house as an investment property."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
+xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/last-vermont-christmas/"""
@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.91
+average_rating = 2.9
 cast = ["""Erin Cahill""", """Justin Bruening""", """Catherine Corcoran""", """Ashlyn Alessi""", """Rob Figueroa""", """Samarah Conley""", """Ann Osmond""", """Chantal Maurice""", """Kinsey Bowen""", """Rachel Rhodes-Devey""", """Jim O'Hare""", """Alan Pontes""", """Daniel Ferrara"""]
 +++

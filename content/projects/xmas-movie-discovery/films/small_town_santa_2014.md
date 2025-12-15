@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """On the eve of Christmas, Sheriff Rick Langston has lost his holiday spirit. But when he arrests a home intruder claiming to be Santa Claus, his world gets turned upside-down ! With the help of Lucy, the new girl in town, Santa helps show Rick that even when you feel that all is lost, love is all around you."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Drama', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/small-town-santa/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Detective Regan Reilly and cleaning-woman-turned-private-eye Alvirah Meegan, investigate the kidnapping of Regan's father and a young female driver just before the holidays. The race is on to rescue the pair and get them home in time for Christmas."""
 
 [taxonomies]
-xmas_genres = ['Mystery', 'TV Movie', 'Drama', 'Action']
+xmas_genres = ['Action', 'Drama', 'Mystery', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/deck-the-halls-2011/"""
@@ -15,6 +15,6 @@ runtime = 88
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English""", """Portuguese""", """French"""]
-average_rating = 2.84
+average_rating = 2.83
 cast = ["""Scottie Thompson""", """David Selby""", """Kathy Najimy""", """Eric Johnson""", """Larry Miller""", """Luciana Carro""", """Jane Alexander""", """Hiro Kanagawa""", """Robert Moloney""", """Marco Grazzini""", """Tyrell Witherspoon""", """Anja Savcic""", """Daren A. Herbert""", """Andrew McNee""", """Darren Dolynski""", """Genea Charpentier"""]
 +++

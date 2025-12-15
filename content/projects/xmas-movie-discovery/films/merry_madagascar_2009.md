@@ -15,6 +15,6 @@ runtime = 30
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English""", """Portuguese"""]
-average_rating = 2.98
+average_rating = 2.99
 cast = ["""Ben Stiller""", """Chris Rock""", """David Schwimmer""", """Jada Pinkett Smith""", """Cedric the Entertainer""", """Andy Richter""", """Carl Reiner""", """Nina Dobrev""", """Danny Jacobs""", """Tom McGrath""", """Chris Miller""", """Christopher Knights""", """Willow Smith""", """Jim Cummings""", """David Soren""", """James Ryan"""]
 +++

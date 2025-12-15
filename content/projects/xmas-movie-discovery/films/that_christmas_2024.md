@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """It's an unforgettable Christmas for the townsfolk of Wellington-on-Sea when the worst snowstorm in history alters everyone's plans — including Santa's."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'Comedy', 'Family', 'Animation', 'Fantasy']
+xmas_genres = ['Fantasy', 'Family', 'Animation', 'Adventure', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/that-christmas/"""

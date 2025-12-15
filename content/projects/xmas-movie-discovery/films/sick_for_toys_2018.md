@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.62
+average_rating = 2.61
 cast = ["""Camille Montgomery""", """Jon Paul Burkhart""", """David Gunning""", """Justin Xavier Smith""", """Morgana Shaw""", """Katherine Del Rio""", """Paul T. Taylor""", """Levi Ashlyn""", """Jena Maharramov""", """Crew Wyard""", """Melanie Thompson"""]
 +++

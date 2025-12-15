@@ -14,6 +14,6 @@ director = """Andrew Dyson"""
 runtime = 70
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.82
+average_rating = 2.8
 cast = ["""Blair Hoyle""", """Anna Broadway""", """Tyler Stafford""", """Jordyn Tracy""", """John Lineberry""", """Katie King""", """Kelsey Willard""", """Matt Kiser""", """Tierney Leigh Cody""", """Ian F. Scott""", """Taylor Upchurch"""]
 +++

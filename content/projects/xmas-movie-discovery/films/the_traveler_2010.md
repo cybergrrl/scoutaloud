@@ -15,6 +15,6 @@ runtime = 96
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.3
+average_rating = 2.29
 cast = ["""John Cassini""", """Val Kilmer""", """Camille Sullivan""", """Dylan Neal""", """Paul McGillion""", """Chris Gauthier""", """Sierra Pitkin""", """Denise Poole""", """Nels Lennarson""", """Panou"""]
 +++

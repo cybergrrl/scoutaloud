@@ -15,6 +15,6 @@ runtime = 100
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.1
+average_rating = 3.09
 cast = ["""Mary Steenburgen""", """Roddy McDowall""", """Jan Rubeš""", """William Russ""", """Ken Pogue""", """Wayne Robson""", """Mark Malone""", """Michael Copeman""", """Sam Malkin""", """Pamela Moller""", """Dwayne McLean""", """Paul Welsh"""]
 +++

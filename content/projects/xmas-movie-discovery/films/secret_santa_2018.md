@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An unknown assailant spikes a family's Christmas punch with a military-grade drug, leaving them fighting to survive the night."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Mystery', 'Thriller']
+xmas_genres = ['Horror', 'Thriller', 'Mystery']
 
 [extra]
 film_url = """https://letterboxd.com/film/secret-santa-2018-1/"""

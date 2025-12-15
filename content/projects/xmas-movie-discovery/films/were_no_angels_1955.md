@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Three convicts escape from prison on Devil's Island just before Christmas and arrive at a nearby French colonial town. They go to the store of the Ducotels, the only store that gives supplies on credit. They initially intend to take advantage of them but have a change of heart after they find the family is in financial troubles."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Crime', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/were-no-angels/"""

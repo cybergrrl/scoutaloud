@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Mystery', 'Thriller']
+xmas_genres = ['Horror', 'Thriller', 'Mystery']
 
 [extra]
 film_url = """https://letterboxd.com/film/psycho/"""

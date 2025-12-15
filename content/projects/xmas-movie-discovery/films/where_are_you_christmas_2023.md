@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After Addy wishes for a year without Christmas, she wakes up in a black and white world and works with the town mechanic to restore Christmas."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'TV Movie', 'Drama', 'Fantasy']
+xmas_genres = ['Fantasy', 'Hallmark', 'Drama', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/where-are-you-christmas/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.85
+average_rating = 2.82
 cast = ["""Lyndsy Fonseca""", """Michael Rady""", """Jim O'Heir""", """Andrew Bridges""", """Melanie Sutrathada""", """Mandi Masden""", """Julie Warner""", """Mitch Poulos""", """Alvin Keith""", """Joanna Carpenter""", """Tom Hair""", """Chris Carfizzi""", """Blair Lewin"""]
 +++

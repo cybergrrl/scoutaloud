@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In 1943, several people enter, re-enter, and exit the difficult life of a Midwestern family whose patriarch has been called up to war, leaving behind his wife and two teen daughters."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Romance', 'Drama', 'War']
+xmas_genres = ['Romance', 'Drama', 'Oldies', 'War']
 
 [extra]
 film_url = """https://letterboxd.com/film/since-you-went-away/"""

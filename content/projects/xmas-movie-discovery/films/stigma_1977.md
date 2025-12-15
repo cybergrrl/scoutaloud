@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young couple move into a remote country house in the middle of a stone circle. They employ workmen who disturb an ancient menhir, unleashing a supernatural force."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Mystery', 'TV Movie', 'Drama']
+xmas_genres = ['Horror', 'Mystery', 'Drama', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/stigma-1977/"""
@@ -15,6 +15,6 @@ runtime = 32
 countries = ["""UK"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.41
+average_rating = 3.42
 cast = ["""Peter Bowles""", """Kate Binchy""", """Maxine Gordon""", """Jon Laurimore""", """Christopher Blake""", """John Judd"""]
 +++

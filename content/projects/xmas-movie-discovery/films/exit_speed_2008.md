@@ -15,6 +15,6 @@ runtime = 93
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.02
+average_rating = 3.01
 cast = ["""Desmond Harrington""", """Lea Thompson""", """Julie Mond""", """Alice Greczyn""", """Fred Ward""", """Gregory Jbara""", """David Rees Snell""", """Kelli Dawn Hancock""", """Asante Jones""", """Denise Lee""", """Everett Sifuentes""", """Danielle Wheeler""", """Nick Sowell""", """Wally White""", """Roy Samuelson"""]
 +++

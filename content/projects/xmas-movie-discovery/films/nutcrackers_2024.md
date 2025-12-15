@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Just as Mike is on the heels of closing the biggest deal of his career, he's pulled away from his bachelor life in the big city to a farm in rural Ohio in order to help his recently orphaned nephews find a new home."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/nutcrackers/"""

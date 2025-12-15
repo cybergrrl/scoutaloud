@@ -15,4 +15,5 @@ runtime = 89
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
+average_rating = 3.48
 +++

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Christmas angels used to working alone to bring “destined soulmates together” over the holidays, are unexpectedly paired; soon, their “clashing styles – and the undeniable spark growing between them – complicate their mission.”"""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-angel-match/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.85
+average_rating = 2.8
 cast = ["""Meghan Ory""", """Benjamin Ayres""", """Noah de Mel""", """Amanda Jordan""", """Michael Dickson""", """Francesco Filice""", """Linda McCurdy""", """S.G. Simpson"""]
 +++

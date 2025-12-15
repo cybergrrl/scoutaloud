@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Identical twins Kate and Chris Lockhart plot to be the other sister – at Kate’s office and Chris’ school – and take on planning their sister’s Christmas events. One rule, though: no romance."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'TV Movie', 'Drama']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/switched-for-christmas/"""

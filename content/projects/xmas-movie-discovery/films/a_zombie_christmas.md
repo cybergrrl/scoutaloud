@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A rough and tough family and a mall Santa team up as they try to survive the impending zombie apocalypse during the holidays."""
 
 [taxonomies]
-xmas_genres = []
+xmas_genres = ['Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-zombie-christmas/"""

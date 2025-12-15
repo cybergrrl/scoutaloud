@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """This Mahogany film follows a woman who returns home for her family’s Christmas Carnival, unexpectedly meeting a photo journalist."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-with-a-kiss/"""

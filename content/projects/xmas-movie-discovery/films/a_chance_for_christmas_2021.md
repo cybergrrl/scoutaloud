@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Social media influencer Christina Chance promotes the perfect family image. This year, she has the chance to become the face of lifestyle brand, Love Handles, on the condition that her Christmas Eve special delivers at least two million engagements. Seems easy enough except Christina’s family is far from perfect. When her Love Handles account manager, Devon, shows up and discovers Christina’s life is all smoke and mirrors, he helps Christina keep up her ruse. With a Christmas wish, Christina and Devon are given the chance to relive the day until Christina can get the views she needs to win the endorsement. As Christina and Devon work together, sparks fly, and they learn the power of family is far more important than views."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Hallmark', 'Fantasy']
+xmas_genres = ['Fantasy', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-chance-for-christmas/"""

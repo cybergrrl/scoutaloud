@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young man crashes a school play rehearsal to prevent a group of teachers and eccentric parents from expelling his girlfriend's son."""
 
 [taxonomies]
-xmas_genres = ['International', 'Comedy']
+xmas_genres = ['Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-night-at-the-kindergarten/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When her neighbor refuses to get into the Christmas spirit, a jolly citizen takes matters into her own hands."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Comedy']
+xmas_genres = ['Comedy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/humbug/"""

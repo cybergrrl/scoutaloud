@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Cubby Bear sneaks into the Roxy Opera House on its opening night and ends up conducting an epic, animal-enacted version of Faust."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Animation', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/opening-night-1933/"""

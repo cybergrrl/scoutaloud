@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In a sleepy mountain town, Cindy witnesses the murder of her parents by a blood-thirsty green figure in a red Santa suit. Twenty years later, the Christmas-hating monster begins to terrorize the town once more. Cindy finds new purpose in stopping the creature and saving the holiday."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Comedy']
+xmas_genres = ['Comedy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-mean-one/"""
@@ -15,6 +15,6 @@ runtime = 92
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 1.73
+average_rating = 1.72
 cast = ["""David Howard Thornton""", """Krystle Martin""", """Chase Mullins""", """John Bigham""", """Erik Baker""", """Amy Schumacher""", """Flip Kobler""", """Christopher Sanders""", """Stephanie Bates""", """Robert DiTillio""", """Rachel Winfree""", """Jessie Holder Tourtellotte""", """Allyson Sereboff""", """Saphina Chanadet""", """Steven Busby""", """Victoria Ippolito""", """Alexandra Vaughan""", """Brian Waters""", """Andrew Fultz""", """Ernie Charles""", """Whit Spurgeon""", """Christine DiTillio""", """Tina Van Berk""", """Josh Arnold""", """Kale Shepherd""", """Aubrey Mozino""", """Molly Flanagan"""]
 +++

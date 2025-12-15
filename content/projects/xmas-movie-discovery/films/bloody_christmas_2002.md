@@ -15,6 +15,6 @@ runtime = 8
 countries = ["""France"""]
 original_language = """French"""
 spoken_languages = ["""French"""]
-average_rating = 3.26
+average_rating = 3.25
 cast = ["""Axelle Charvoz""", """Kad Merad"""]
 +++

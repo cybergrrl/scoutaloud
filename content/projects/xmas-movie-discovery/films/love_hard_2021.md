@@ -15,6 +15,6 @@ runtime = 105
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.49
+average_rating = 2.5
 cast = ["""Nina Dobrev""", """Jimmy O. Yang""", """Darren Barnet""", """James Saito""", """Rebecca Staab""", """Harry Shum Jr.""", """Mikaela Hoover""", """Matty Finochio""", """Heather McMahan""", """Fletcher Donovan""", """Kwasi Thomas""", """Sean Depner""", """Debbie Podowski""", """Seth Whittaker""", """C. Ernst Harth""", """Cecilly Day""", """Dean Petriw""", """Mel Tuck""", """Sue Sparlin""", """Balinder Johal""", """Peter Ciuffa""", """Althea Kaye""", """Wonita Joy""", """Eric Pollins""", """Andrew Zachar""", """Darien Martin""", """Alexandra Lainfiesta""", """Shaquan Lewis""", """Marco Walker-Ng""", """Kurtis Szarka""", """Jacqueline Ann Steuart""", """Lee Shan Gibson"""]
 +++

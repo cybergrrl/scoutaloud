@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Daniel Grudge, a wealthy industrialist and fierce isolationist long embittered by the loss of his son in World War II, is visited by three ghosts on Christmas Eve who lead him to reconsider his attitude toward his fellow man."""
 
 [taxonomies]
-xmas_genres = ['A Christmas Carol', 'TV Movie', 'Drama', 'Fantasy']
+xmas_genres = ['Drama', 'A Christmas Carol', 'TV Movie', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/carol-for-another-christmas/"""

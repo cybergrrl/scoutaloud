@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Tanya is a police detective who is reluctantly partnered with fellow detective Ryan to solve a recent string of heists taking place during high-profile holiday parties around town."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Hallmark', 'Crime']
+xmas_genres = ['Crime', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-santa-stakeout/"""

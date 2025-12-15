@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a Las Vegas bodyguard with lethal skills and a gambling problem gets in trouble with the mob, he has one last play… and it's all or nothing."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Crime', 'Action']
+xmas_genres = ['Thriller', 'Action', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/wild-card-2015/"""

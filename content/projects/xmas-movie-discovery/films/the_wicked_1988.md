@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sir Alfred Terminus reigns supreme in the tiny outback town of Yarralumla. The Terminus family simply love a bit of new blood which is why they are delighted to learn that Lucy, Bronco and Nick have stumbled into town. The townsfolk couldn't be happier... their numbers are beginning to dwindle and Sir Alfred is squawking for some fresh flesh. And he's not the only one ... his wife, Agatha, is famished; his son, George, is ravenous; and his daughter, Samantha, is insatiable. When the strangers are invited for dinner it doesn't take long before they realize the fact they're on the dinner menu..."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'TV Movie', 'Comedy']
+xmas_genres = ['Comedy', 'Horror', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-wicked-1988/"""

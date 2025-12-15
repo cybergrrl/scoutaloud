@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A mischievous, swag-obsessed boy must overcome his inner Scrooge, or remain caught in a cycle where everyday is a Christmas without presents."""
 
 [taxonomies]
-xmas_genres = ['Family', 'TV Movie', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-all-over-again/"""

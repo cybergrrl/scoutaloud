@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Phineas and Ferb turn the city of Danville into a giant thank you card for Santa Claus because they feel nobody ever thanks him for all the joy he brings to the world. Doofenshmirtz uses a device called the "Naughty-inator" to put the city of Danville on Santa's naughty list."""
 
 [taxonomies]
-xmas_genres = ['Animation', 'Comedy', 'Action']
+xmas_genres = ['Comedy', 'Action', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/phineas-and-ferb-christmas-vacation/"""
@@ -14,6 +14,6 @@ director = """Zac Moncrief"""
 runtime = 36
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.63
+average_rating = 3.64
 cast = ["""Vincent Martella""", """Thomas Brodie-Sangster""", """Ashley French""", """Richard O'Brien""", """Caroline Rhea""", """Dan Povenmire""", """Dee Bradley Baker""", """Jeff 'Swampy' Marsh""", """Mitchel Musso""", """Malcolm McDowell""", """Jane Carr""", """Maulik Pancholy""", """Tyler Alexander Mann""", """Bobby Gaylor""", """Alyson Stoner""", """Clancy Brown""", """Mathew Horne""", """Bruce Mackinnon""", """Corey Burton""", """Benita Scheckel""", """Django Marsh""", """Piero Piluso""", """Ariel Winter"""]
 +++

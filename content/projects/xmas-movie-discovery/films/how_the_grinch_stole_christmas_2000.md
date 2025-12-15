@@ -11,10 +11,10 @@ film_url = """https://letterboxd.com/film/how-the-grinch-stole-christmas-2000/""
 tmdb_poster_path = """/1WZbbPApEivA421gCOluuzMMKCk.jpg"""
 year = 2000
 director = """Ron Howard"""
-runtime = 104
-countries = ["""Germany""", """USA"""]
+runtime = 105
+countries = ["""USA""", """Germany"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.55
+average_rating = 3.56
 cast = ["""Jim Carrey""", """Taylor Momsen""", """Jeffrey Tambor""", """Christine Baranski""", """Bill Irwin""", """Molly Shannon""", """Clint Howard""", """Josh Ryan Evans""", """Mindy Sterling""", """Bryce Dallas Howard""", """Lacey Kohl""", """Rachel Winfree""", """Rance Howard""", """Jeremy Howard""", """T.J. Thyne""", """Nadja Pionilla""", """Jim Meskimen""", """Michael Dahlen""", """David Costabile""", """Mary Stein""", """James Ritz""", """Deep Roy""", """Jessica Sara""", """Mason Lucero""", """Ben Bookbinder""", """Michaela Gallo""", """Landry Allbright""", """Reid Kirchenbauer""", """Rebecca Chace""", """Suzanne Krull""", """Steve Kehela""", """Lillias White""", """Rain Pryor""", """John Alexander""", """Kevin Isola""", """Gavin Grazer""", """Walter Franks""", """Verne Troyer""", """Clayton Martinez""", """Q'orianka Kilcher""", """Caroline Williams""", """John Short""", """Grainger Esch""", """Eva Burkley""", """Rick Baker""", """Bill Sturgeon""", """Mark Setrakian""", """Jurgen Heimann""", """Tim Blaney""", """Charles Croughwell""", """Frank Welker""", """Anthony Hopkins"""]
 +++

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """It's five years later and Tony Manero's Saturday Night Fever is still burning. Now he's strutting toward his biggest challenger yet - making it as a dancer on the Broadway stage."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Drama']
+xmas_genres = ['Music', 'Drama', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/staying-alive/"""

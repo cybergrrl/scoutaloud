@@ -15,6 +15,6 @@ runtime = 99
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English""", """French""", """Italian""", """German"""]
-average_rating = 3.79
+average_rating = 3.8
 cast = ["""Gene Wilder""", """Peter Ostrum""", """Jack Albertson""", """Michael Bollner""", """Julie Dawn Cole""", """Denise Nickerson""", """Paris Themmen""", """Nora Denney""", """Roy Kinnear""", """Leonard Stone""", """Ursula Reit""", """Günter Meisner""", """Diana Sowle""", """Aubrey Woods""", """David Battley""", """Peter Capell""", """Werner Heyking""", """Peter Stuart""", """Franziska Liebing""", """Ernst Ziegler""", """Dora Altmann""", """Pat Coombs""", """Michael Goodliffe""", """Kurt Großkurth""", """Stephen Dunne""", """Madeline Stuart""", """Gloria Manon""", """Walker Edmiston""", """Victor Beaumont""", """Tim Brooke-Taylor""", """Jack Latham""", """Michael Gahr""", """Ed Peck""", """Frank Delfino""", """Malcolm Dixon""", """George Claydon""", """Rusty Goffe""", """Ismed Hassan""", """Norman McGlen""", """Angelo Muscat""", """Pepi Poupee""", """Marcus Powell""", """Albert Wilkinson""", """Bob Roe"""]
 +++

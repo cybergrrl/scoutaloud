@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When the twins feel like their mom is tired of them, they take off on an exciting adventure to grandmother's house and encounter a pair of villains along the way."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'Family', 'TV Movie', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Adventure']
 
 [extra]
 film_url = """https://letterboxd.com/film/to-grandmothers-house-we-go/"""

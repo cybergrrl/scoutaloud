@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Ron Douglas has no luck in women. After his bride runs away on their wedding day, he goes on holiday up in the mountains and finds himself wrapped up in a bizarre series of events after attending a dinner party turned deadly."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Comedy']
+xmas_genres = ['Comedy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/lucky-stiff/"""

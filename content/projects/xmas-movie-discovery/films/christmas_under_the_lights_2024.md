@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Emily goes home to organize the Christmas carnival and meets a handsome artist. Starring Heather Hemmens and Marco Grazzini."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'TV Movie', 'Drama']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-under-the-lights/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.8
+average_rating = 2.74
 cast = ["""Heather Hemmens""", """Marco Grazzini""", """Hilary Jardine""", """Laura Mitchell""", """Antonio Cayonne""", """Eden Weiss"""]
 +++

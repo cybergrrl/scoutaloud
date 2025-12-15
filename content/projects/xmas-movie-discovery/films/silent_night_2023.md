@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A tormented father witnesses his young son die when caught in a gang's crossfire on Christmas Eve. While recovering from a wound that costs him his voice, he makes vengeance his life's mission and embarks on a punishing training regimen in order to avenge his son's death."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Crime', 'Action']
+xmas_genres = ['Thriller', 'Action', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/silent-night-2023-1/"""

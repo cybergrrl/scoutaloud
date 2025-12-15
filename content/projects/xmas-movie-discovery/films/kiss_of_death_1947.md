@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An ex-con trying to go straight must face a crazed criminal out for revenge."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Oldies', 'Crime']
+xmas_genres = ['Thriller', 'Crime', 'Oldies']
 
 [extra]
 film_url = """https://letterboxd.com/film/kiss-of-death/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Years have passed since Frosty left for the North Pole, but his promise is kept when he hears news of the first snowfall of the season, and decides to return."""
 
 [taxonomies]
-xmas_genres = ['Family', 'TV Movie', 'Animation']
+xmas_genres = ['Family', 'Animation', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/frostys-winter-wonderland/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After being dumped at the altar on her wedding day, Maggie Conway moves to the island town of Friday Harbor in Washington State, where she meets Mark Nagle, the local coffee shop owner."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Family', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Drama', 'Romance', 'Family', 'TV Movie', 'Hallmark']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-with-holly/"""

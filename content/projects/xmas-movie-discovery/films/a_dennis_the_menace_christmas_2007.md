@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A Dennis The Menace version of A Christmas Carol where Mr. Wilson plays his own version of Scrooge. While Dennis has problems of his own with the neighborhood bully, he does his best to try and give Mr. Wilson the Christmas Spirit. Dennis causes his usual damage and Mr. Wilson ends up breaking Dennis' spirit. An Angel of Christmas Past Present and Future steps in to help save Christmas for the Mitchells, the Wilsons, and everyone else."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Fantasy', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-dennis-the-menace-christmas/"""

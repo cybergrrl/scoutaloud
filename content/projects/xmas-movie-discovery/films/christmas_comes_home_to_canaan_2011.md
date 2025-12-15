@@ -4,11 +4,11 @@ template = "xmas-movie-page.html"
 description = """When Bobber undergoes experimental surgery to help him walk again, Daniel Burton falls in love with his beautiful rehabilitation doctor and invites her to spend Christmas at the farm."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Drama']
+xmas_genres = ['Family', 'Drama', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-comes-home-to-canaan/"""
-tmdb_poster_path = """/llycTLvu6R9ALZ5pHXQGJxMl8aQ.jpg"""
+tmdb_poster_path = """/wYfAPLe1hB5vHZgPMmAi2MW1NEU.jpg"""
 year = 2011
 director = """Neill Fearnley"""
 runtime = 85

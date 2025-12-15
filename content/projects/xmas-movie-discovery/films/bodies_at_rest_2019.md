@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Working in the morgue, a hardworking forensics expert and his assistant are suddenly accosted by masked intruders who demand access to a body involved in a recent crime."""
 
 [taxonomies]
-xmas_genres = ['Mystery', 'Thriller', 'Crime', 'Action']
+xmas_genres = ['Action', 'Thriller', 'Mystery', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/bodies-at-rest/"""

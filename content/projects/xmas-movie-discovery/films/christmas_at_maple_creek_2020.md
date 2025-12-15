@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sparks fly between a romance novelist and a blacksmith as they try to save a charming village during the holidays."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Romance', 'Comedy', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-at-maple-creek/"""
@@ -15,6 +15,6 @@ runtime = 85
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.91
+average_rating = 2.9
 cast = ["""Jake Epstein""", """Jeni Ross""", """Olivier Renaud""", """Sarita Van Dyke""", """Erin Eldershaw""", """Emily Kerr""", """Cassandre Mentor""", """Mary Long"""]
 +++

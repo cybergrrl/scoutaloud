@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Forced to take the intercontinental trip to Los Angeles by train, and determined to chronicle his adventure, disillusioned journalist Tom Langdon finds himself westbound with a variety of characters. While all passengers on the Christmas train appear to be headed for the same destination, Tom has no idea that the rugged locomotives taking him across America will instead detour straight into his heart."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Family', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Drama', 'Romance', 'Family', 'TV Movie', 'Hallmark']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-train/"""

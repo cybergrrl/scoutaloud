@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A widowed New York City architect and his young daughter take a Christmas vacation and end up in a small mystical town in Colorado where everyone believes in Santa Claus."""
 
 [taxonomies]
-xmas_genres = ['Family', 'TV Movie', 'Drama']
+xmas_genres = ['Family', 'Drama', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-gift/"""

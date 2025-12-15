@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Davey Stone, a 33-year old party animal, finds himself in trouble with the law after his wild ways go too far."""
 
 [taxonomies]
-xmas_genres = ['Animation', 'Comedy']
+xmas_genres = ['Comedy', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/eight-crazy-nights/"""

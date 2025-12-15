@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Mark, a low end South London hitman recently released from prison, tries to go straight for his daughter, but gets drawn back in by Alan, his former cellmate, to do one final job."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Crime', 'Drama']
+xmas_genres = ['Drama', 'Thriller', 'Crime', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/silent-night-2020/"""

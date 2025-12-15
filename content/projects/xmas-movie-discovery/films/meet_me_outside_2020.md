@@ -4,11 +4,11 @@ template = "xmas-movie-page.html"
 description = """Two young men, alone for the holidays for different reasons, gravitate towards each other on the day before Christmas after a conversation through the Blued app."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Drama']
+xmas_genres = ['Drama', 'Queer']
 
 [extra]
 film_url = """https://letterboxd.com/film/meet-me-outside-2020/"""
-tmdb_poster_path = """None"""
+tmdb_poster_path = """/xFPRBwV6ugam5259xBeRj7YIBak.jpg"""
 year = 2020
 director = """JP Habac"""
 runtime = 60

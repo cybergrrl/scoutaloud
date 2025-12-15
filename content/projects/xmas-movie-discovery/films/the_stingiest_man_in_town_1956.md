@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """This is a musical version of Charles Dickens' "A Christmas Carol". Ebenezer Scrooge is given a chance to reform and save his soul. He is visited by 4 ghosts and is shown visions of his past life and the consequences of his life on others."""
 
 [taxonomies]
-xmas_genres = ['Musical', 'TV Movie', 'Family', 'Drama', 'A Christmas Carol', 'Fantasy']
+xmas_genres = ['Drama', 'Fantasy', 'Family', 'Musical', 'TV Movie', 'A Christmas Carol']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-stingiest-man-in-town-1956/"""

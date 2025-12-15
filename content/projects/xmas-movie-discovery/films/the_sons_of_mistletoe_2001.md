@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A foster home for boys is in danger of being closed when its benefactor dies."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Drama']
+xmas_genres = ['Family', 'Drama', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-sons-of-mistletoe/"""

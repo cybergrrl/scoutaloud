@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A week before Christmas, Kyon wakes up in a world where the SOS Brigade doesn't exist. Mikuru and Yuki don't recognize him, and Haruhi and Itsuki seem to have vanished."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Animation', 'Drama', 'International', 'Mystery', 'Science Fiction']
+xmas_genres = ['Science Fiction', 'Drama', 'Global', 'Animation', 'Comedy', 'Mystery']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-disappearance-of-haruhi-suzumiya/"""

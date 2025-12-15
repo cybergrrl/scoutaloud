@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Feature-length documentary covering the making and cult following of Silent Night, Deadly Night 2."""
 
 [taxonomies]
-xmas_genres = []
+xmas_genres = ['Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/slay-bells-ring-again-the-story-of-silent/"""

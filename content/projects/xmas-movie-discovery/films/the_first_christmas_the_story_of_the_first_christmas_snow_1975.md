@@ -15,6 +15,6 @@ runtime = 24
 countries = ["""Japan""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.96
+average_rating = 2.95
 cast = ["""Angela Lansbury""", """Cyril Ritchard""", """David Kelley""", """Dina Lynn""", """Iris Rainer""", """Joan Gardner""", """Don Messick""", """Greg Thomas""", """Sean Manning""", """Hilary Momberger-Powers""", """Dru Stevens"""]
 +++

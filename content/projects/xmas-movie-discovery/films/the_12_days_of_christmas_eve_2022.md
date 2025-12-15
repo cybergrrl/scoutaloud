@@ -15,6 +15,6 @@ runtime = 88
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.66
+average_rating = 2.63
 cast = ["""Kelsey Grammer""", """Spencer Grammer""", """Mitch Poulos""", """Uschi Umscheid""", """Mark Jacobson""", """Diana Toshiko""", """Stewart Scott""", """Daym Drops""", """Lisa Gorlitsky""", """Alvin Keith""", """Lucinda Carr""", """Sandy Bainum""", """Charlie Carroccio""", """Joe Cassidy""", """Tempest Morgan""", """Amir Carr""", """Thomas Benton""", """Patrick R. Spadaccino""", """Eugene G. Swiss Thomas""", """Courtney Caruso""", """Elijah George""", """Kimbriel Louis""", """Sean McDermott""", """Steve Antonucci""", """Alex Barber""", """Gina Barber""", """Charles 'Buddy' Buder""", """Elizabeth Harnett"""]
 +++

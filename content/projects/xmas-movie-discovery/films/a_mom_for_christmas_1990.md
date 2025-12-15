@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A department store mannequin comes to life during the holiday season for a motherless little girl who wishes she had a mom for Christmas, and proceeds to charm her hard-working dad, too."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Fantasy']
+xmas_genres = ['Family', 'Fantasy', 'Comedy', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-mom-for-christmas/"""

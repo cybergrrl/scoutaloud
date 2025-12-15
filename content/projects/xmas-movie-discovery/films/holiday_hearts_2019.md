@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """While planning an annual Christmas party, Peyton is forced together with Ben to care for a friend's daughter. While finding their Christmas spirit, will there be some romance along the way?"""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/holiday-hearts/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two brothers who hate themselves are going to spend Christmas with their mother. She tries to get them together."""
 
 [taxonomies]
-xmas_genres = ['Western', 'International', 'Romance', 'Comedy']
+xmas_genres = ['Romance', 'Comedy', 'Global', 'Western']
 
 [extra]
 film_url = """https://letterboxd.com/film/troublemakers/"""

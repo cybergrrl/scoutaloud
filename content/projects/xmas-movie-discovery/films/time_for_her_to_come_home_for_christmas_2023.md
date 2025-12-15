@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Carly heads to a small town to lead a church choir at Christmastime, facing her first holiday season without her mother. While there, she connects with a man back in town after serving in the Army."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
+xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/time-for-her-to-come-home-for-christmas/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.89
+average_rating = 2.88
 cast = ["""Shenae Grimes-Beech""", """Chris Carmack""", """Janet Kidder""", """Lauren Jackson""", """Grace Leer""", """Brian Markinson""", """Kathleen Duborg""", """Katrina Reynolds""", """Jay Brazeau""", """Josh Zaharia""", """Madeleine Kelders"""]
 +++

@@ -15,6 +15,6 @@ runtime = 91
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.35
+average_rating = 3.34
 cast = ["""Seth Green""", """Kevin Smith""", """Paul Scheer""", """Taran Killam""", """'Weird Al' Yankovic""", """Bruce Vilanch""", """Gilbert Gottfried""", """Donny Osmond""", """Miki Herman""", """Jonathan W. Rinzler""", """Mick Garris""", """Jason Lenzi""", """Steve Binder""", """Patton Oswalt""", """Craig Miller""", """Leonard Ripps""", """Brian Ward""", """Peter Sears""", """Bobcat Goldthwait""", """Kyle Newman""", """Matthew Robbins""", """Marc Pevers""", """Anthony Caleca""", """Larry Heider""", """Bob Mackie""", """Beverly Abdurahmen""", """Scott Kirkwood""", """Steve Schuster""", """Gus Lopez""", """Steve Sansweet""", """Rolland Smith""", """Bonnie Burton""", """Harrison Ford"""]
 +++

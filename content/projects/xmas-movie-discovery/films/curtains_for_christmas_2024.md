@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Holly absolutely loves Christmas movies! After meeting a man with a similar love for Christmas, Holly decides that HER life deserves to be as perfect a the films she loves! By any means necessary."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Comedy']
+xmas_genres = ['Comedy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/curtains-for-christmas/"""
@@ -15,5 +15,6 @@ runtime = 70
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
+average_rating = 3.25
 cast = ["""Aleen Isley""", """Eric J Holmes""", """Sarah Brunner""", """Michael Barnett""", """Steve Rudzinski""", """Paul Stermer""", """Paul Anderson""", """Melissa Sapienza""", """Katy Grant""", """Michael Smyth""", """John Catheline""", """Andrew Gordon""", """David Dietz""", """Jess Uhler""", """Jessa Jupiter Flux""", """Drew Marvick"""]
 +++

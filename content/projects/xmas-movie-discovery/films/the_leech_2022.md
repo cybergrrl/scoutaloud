@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A devout priest welcomes a struggling couple into his house at Christmas time. What begins as a simple act of kindness quickly becomes the ultimate test of faith once the sanctity of his home is jeopardized."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Comedy']
+xmas_genres = ['Comedy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-leech/"""

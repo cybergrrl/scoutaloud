@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An eccentric wealthy family facing bankruptcy schemes to steal an inheritance, but an alcoholic ex-actor they take in for Christmas charity complicates their plan."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-cheaters-1945/"""

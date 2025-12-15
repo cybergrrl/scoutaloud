@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Horror', 'Drama']
+xmas_genres = ['Horror', 'Thriller', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/rosemarys-baby/"""

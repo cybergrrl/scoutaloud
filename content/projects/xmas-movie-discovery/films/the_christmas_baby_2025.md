@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a baby boy shows up on their doorstep days before Christmas with a note written specially for them, Erin and Kelly must learn how to navigate their new relationship and career dynamics while unexpectedly caring for a newborn."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Queer', 'Romance']
+xmas_genres = ['Romance', 'Queer', 'Hallmark']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-baby/"""

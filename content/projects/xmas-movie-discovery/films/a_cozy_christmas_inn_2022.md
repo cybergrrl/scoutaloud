@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Real estate exec, Erika, travels to Alaska during Christmastime to acquire a bed and breakfast, only to discover that it’s owned by her ex. While there, she finds herself falling in love with the town and quite possibly him."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-cozy-christmas-inn/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.74
+average_rating = 2.71
 cast = ["""Jodie Sweetin""", """David O'Donnell""", """Vivica A. Fox""", """Brian Doyle-Murray""", """Peter Jacobson""", """Jennifer Aspen""", """Kim Shaw""", """Page Petrucka""", """Anita Rice""", """Yolanda Stange""", """Antonio D. Charity""", """Jessica Deshong""", """Melanie Nelson""", """Scott Christopher""", """Alireza Mirmontazeri"""]
 +++

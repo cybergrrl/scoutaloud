@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A prince from Europe meets a charming waitress when he travels to America during the Christmas holiday to escape an arranged marriage."""
 
 [taxonomies]
-xmas_genres = ['Royal Christmas', 'Romance', 'TV Movie']
+xmas_genres = ['Romance', 'Royal Christmas', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-prince-for-christmas/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.52
+average_rating = 2.5
 cast = ["""Viva Bianca""", """Kirk Barker""", """Aaron O'Connell""", """Brittany Beery""", """Kelly LeBrock""", """Maxwell Caulfield""", """Mark Lindsay Chapman""", """Peter Johnson""", """Rich Lounello""", """Mary-Kate O'Connell""", """Brian Nolan""", """Anne Montavon""", """Peter Stickles""", """Luciana Vara""", """Anthony Wizner"""]
 +++

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Carpenter Andersen and Santa Claus makes a deal which saves Christmas for them both."""
 
 [taxonomies]
-xmas_genres = ['Family', 'International', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/santa-swap-merry-christmas-mr-andersen/"""
@@ -15,6 +15,6 @@ runtime = 70
 countries = ["""Norway"""]
 original_language = """Norwegian"""
 spoken_languages = ["""Norwegian"""]
-average_rating = 3.14
+average_rating = 3.15
 cast = ["""Trond Espen Seim""", """Anders Baasmo Christiansen""", """Ingeborg Raustøl""", """Johanna Mørck""", """Thias Salberg""", """Anders Pedersen""", """Ella Lockert""", """Jan Oscar Juvkam Wiedom""", """Rebecca Skogly""", """Filip Lubbock-Myrseth""", """Ann Carnarius Elseth""", """Thor Michael Aamodt""", """Erik Hivju""", """Dag Håvard Engebråten"""]
 +++

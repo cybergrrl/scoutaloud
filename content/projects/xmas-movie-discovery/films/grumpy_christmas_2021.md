@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Bitter, grumpy patriarch Don Servando and his family travel to spend Christmas with Doña Alicia, a relative who becomes his "ultimate nemesis". It may be Christmas, but Don Servando is set on proving to everyone that Doña Alicia is a terrible person."""
 
 [taxonomies]
-xmas_genres = ['International', 'Comedy']
+xmas_genres = ['Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/grumpy-christmas/"""

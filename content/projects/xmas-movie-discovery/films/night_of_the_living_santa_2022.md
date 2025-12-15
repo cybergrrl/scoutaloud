@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A santa toy has come alive - but it's not a merry christmas..."""
 
 [taxonomies]
-xmas_genres = []
+xmas_genres = ['Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/night-of-the-living-santa/"""

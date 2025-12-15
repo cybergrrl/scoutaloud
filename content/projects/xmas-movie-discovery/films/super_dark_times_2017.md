@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Teenagers Zach and Josh have been best friends their whole lives, but when a gruesome accident leads to a cover-up, the secret drives a wedge between them and propels them down a rabbit hole of escalating paranoia and violence."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Drama']
+xmas_genres = ['Drama', 'Thriller', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/super-dark-times/"""

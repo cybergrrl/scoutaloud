@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Lauren gets stuck working her IT job on Christmas Eve, a simple call for technical help turns into holiday magic."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Romance']
+xmas_genres = ['Romance', 'Queer']
 
 [extra]
 film_url = """https://letterboxd.com/film/holiday-help-desk/"""

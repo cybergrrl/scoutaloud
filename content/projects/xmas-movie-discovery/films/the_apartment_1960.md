@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Romance', 'Drama', 'Comedy']
+xmas_genres = ['Romance', 'Comedy', 'Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-apartment/"""

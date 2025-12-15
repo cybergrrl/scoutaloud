@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Marissa and Eric encourage their young son with autism, who is determined to set a Guinness World Record — and has the chance to do so on Christmas Eve."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-world-record-christmas/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.25
+average_rating = 3.24
 cast = ["""Nikki DeLoach""", """April Telek""", """Lucas Bryant""", """Matt Hamilton""", """Alison Wandzura""", """Daphne Hoskins""", """Aias Dalman"""]
 +++

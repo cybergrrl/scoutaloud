@@ -4,13 +4,13 @@ template = "xmas-movie-page.html"
 description = """Olaf is on a mission to harness the best holiday traditions for Anna, Elsa, and Kristoff."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'Comedy', 'Family', 'Animation', 'Fantasy']
+xmas_genres = ['Fantasy', 'Family', 'Animation', 'Adventure', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/olafs-frozen-adventure/"""
 tmdb_poster_path = """/As8WTtxXs9e3cBit3ztTf7zoRmm.jpg"""
 year = 2017
-director = """Kevin Deters, Stevie Wermers-Skelton"""
+director = """Stevie Wermers-Skelton, Kevin Deters"""
 runtime = 22
 countries = ["""USA"""]
 original_language = """English"""

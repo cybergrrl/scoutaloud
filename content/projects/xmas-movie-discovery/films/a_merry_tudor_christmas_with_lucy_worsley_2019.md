@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Recreating festivities from Henry VIII's era, Lucy Worsley dresses, eats, drinks, sings and parties like it is 500 years ago - discovering long-lost traditions as well as familiar customs."""
 
 [taxonomies]
-xmas_genres = ['Documentary', 'History']
+xmas_genres = ['History', 'Documentary']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-merry-tudor-christmas-with-lucy-worsley/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A college freshman returns to Los Angeles for Christmas at his ex-girlfriend's request, but discovers that his former best friend has an out-of-control drug habit."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Crime', 'Drama']
+xmas_genres = ['Romance', 'Drama', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/less-than-zero/"""

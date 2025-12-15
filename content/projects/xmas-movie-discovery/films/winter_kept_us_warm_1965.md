@@ -15,6 +15,6 @@ runtime = 81
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English""", """Finnish"""]
-average_rating = 3.53
+average_rating = 3.55
 cast = ["""John Labow""", """Henry Tarvainen""", """Joy Fielding""", """Janet Amos""", """Iain Ewing""", """Jack Messinger""", """Larry Greenspan""", """Sol Mandlsohn""", """David Pape""", """Eric James""", """Bob McCallum""", """Robert A. Silverman""", """George Appleby"""]
 +++

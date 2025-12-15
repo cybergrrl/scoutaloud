@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A New York gangster and his girlfriend attempt to turn street beggar Apple Annie into a society lady when the peddler learns her daughter is marrying royalty."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/pocketful-of-miracles/"""

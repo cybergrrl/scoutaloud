@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """On Christmas Eve, suffering from a case of writer's block, screenwriter Mark Christopher and his gofer Virgil get an unexpected visit from Sergeant Maizel. Knowing Christopher is working on a juvenile delinquent script, the sergeant brings by delinquent Susan thinking she will inspire Christopher while providing a place for her to spend the holidays outside of juvenile hall."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/susan-slept-here/"""

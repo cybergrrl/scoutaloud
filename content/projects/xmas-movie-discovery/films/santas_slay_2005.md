@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Santa Claus is actually a demon who lost a bet with an angel, so he became the giver of toys and happiness. But this year the bet is off, and Santa is about to return to his evil ways."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Comedy', 'Fantasy']
+xmas_genres = ['Comedy', 'Horror', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/santas-slay/"""

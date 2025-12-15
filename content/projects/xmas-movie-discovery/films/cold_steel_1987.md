@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """On Christmas Eve, Johnny Modine's father is murdered by a psycho cut-throat. The cop swears bloody revenge, though he's taken off the case. He doesn't suspect yet that he's also the target in a diabolic plan of revenge."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Drama', 'Action']
+xmas_genres = ['Drama', 'Thriller', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/cold-steel/"""

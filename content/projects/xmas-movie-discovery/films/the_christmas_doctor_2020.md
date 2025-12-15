@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A week before Christmas, Dr. Alicia Wright is offered an assignment away from home. A mysterious man from her past journeys to find her before Christmas and brings with him a revelation that could change Alicia’s life forever."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
+xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-doctor/"""
@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.07
+average_rating = 3.06
 cast = ["""Holly Robinson Peete""", """Adrian Holmes""", """Fred Henderson""", """Bronwen Smith""", """Nicole Anthony""", """Marlie Collins""", """Rhinnan Payne""", """Colleen Winton""", """Chris Wood""", """Mike Wasko""", """Alexander Jones""", """Rhona Rees""", """Eva Day""", """Sharon Crandall""", """Meghan Gardiner""", """Donny Lucas""", """Alvin Sanders""", """Eric Pollins""", """Kevin Tovaragui""", """Diana Tsoy"""]
 +++

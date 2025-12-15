@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Suffering from her mother's recent suicide, a delusional young girl falls for an alluring Goth, against the objections of a life-size talking muslin doll. The Melancholy Fantastic is a psychological thriller set during the holidays."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Romance', 'Drama', 'Thriller', 'Fantasy']
+xmas_genres = ['Drama', 'Horror', 'Fantasy', 'Romance', 'Thriller']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-melancholy-fantastic/"""

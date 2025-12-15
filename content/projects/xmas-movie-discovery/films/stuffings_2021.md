@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A self obsessed social media celebrity couple camp out in the Adelaide Hills on Christmas Eve only to stumble onto a community hiding a secret tradition to protect the 25th of December."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Comedy']
+xmas_genres = ['Comedy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/stuffings/"""

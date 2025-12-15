@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """​Every year the three Miles sisters, Jasmine, Kira, and Tisha, battle each other for a chance to win the neighborhood Christmas Church Cook-Off competition. But when Aaliyah, the vivacious Social Media Influencer, enters the competition, the sisters must choose to rise together, or fall divided."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Romance', 'Drama', 'Comedy']
+xmas_genres = ['Romance', 'Drama', 'Queer', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-clapback/"""

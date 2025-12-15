@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Eva and her younger brother Johnny own two sentient octopuses made out of strange matter. Will their parents divorce and ruin Christmas? Will a scientist find a way to use their pets as fuel? Live action film with stop-motion octopuses."""
 
 [taxonomies]
-xmas_genres = ['Family', 'International', 'Science Fiction', 'Comedy']
+xmas_genres = ['Family', 'Science Fiction', 'Global', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/merry-christmas-octopus/"""

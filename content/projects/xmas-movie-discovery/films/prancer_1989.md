@@ -15,6 +15,6 @@ runtime = 99
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.11
+average_rating = 3.12
 cast = ["""Rebecca Harrell Tickell""", """Sam Elliott""", """John Duda""", """Rutanya Alda""", """Cloris Leachman""", """Ariana Richards""", """Abe Vigoda""", """Michael Constantine""", """Mark Rolston""", """Johnny Galecki""", """Walter Charles""", """Victor Truro""", """Marcia Porter""", """Loren Janes""", """Robert Zimmermann""", """Shirley Starnes""", """Michael Luciano""", """Jesse Bradford""", """Eric Sardeson""", """Joseph Morano""", """Belinda Bremner""", """Terry Jayjack""", """Steven Pressler""", """Dale Balsbaugh""", """Sandra Olson""", """Dan Atherton"""]
 +++

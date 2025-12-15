@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A skeptical journalist is assigned to chronicle the 50th anniversary of Kris Kringle, a Santa Claus in the town of Mistletoe. As her involvement in the town grows, she begins to open up to the enchantment of Christmas and some other wonders of the season."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/farewell-mr-kringle/"""

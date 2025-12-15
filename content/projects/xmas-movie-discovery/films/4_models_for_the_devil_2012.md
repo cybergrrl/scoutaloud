@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Four "It-girls" celebrate the 5th of December on the countryside and meet a gruesome figure."""
 
 [taxonomies]
-xmas_genres = []
+xmas_genres = ['Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/4-models-for-the-devil/"""

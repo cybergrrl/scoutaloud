@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Crime', 'Horror', 'Drama']
+xmas_genres = ['Horror', 'Thriller', 'Crime', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/american-psycho/"""

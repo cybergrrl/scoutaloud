@@ -15,6 +15,6 @@ runtime = 76
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.53
-cast = ["""Scarlett Sperduto""", """Kaya Coleman""", """Dana Millican""", """Cissy Ly""", """Michelle Damis""", """William Earl Ray""", """Trey Anderson""", """David Mitchum Brown"""]
+average_rating = 2.51
+cast = ["""Kaya Coleman""", """Scarlett Sperduto""", """Trey Anderson""", """Cissy Ly""", """Dana Millican""", """David Mitchum Brown""", """Michelle Damis""", """William Earl Ray"""]
 +++

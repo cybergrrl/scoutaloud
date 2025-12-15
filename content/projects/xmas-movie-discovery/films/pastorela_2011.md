@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Agent Jesus Juarez (aka Chucho) has always played the Devil in his town's Nativity Play. This Christmas, when the new pastor of the church recasts the role, the two men engage in a battle between good and evil."""
 
 [taxonomies]
-xmas_genres = ['International', 'Romance', 'Fantasy', 'Comedy']
+xmas_genres = ['Romance', 'Fantasy', 'Global', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/pastorela/"""

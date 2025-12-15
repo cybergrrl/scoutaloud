@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Ava wishes her parents would go away for winter break, the next morning all the adults are gone. Now the kids can do whatever they want! But they soon wish their parents back again."""
 
 [taxonomies]
-xmas_genres = ['Family', 'International']
+xmas_genres = ['Family', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/hotel-sinestra/"""
@@ -15,5 +15,6 @@ runtime = 85
 countries = ["""Netherlands""", """Switzerland"""]
 original_language = """Dutch"""
 spoken_languages = ["""Dutch"""]
+average_rating = 3.11
 cast = ["""Bobbie Mulder""", """Elise Schaap""", """Jeroen Spitzenberger""", """Otto Naessens""", """Maxim Pojmetjev""", """Rogier Komproe""", """Sam Louwyck""", """Mona Wybaillie""", """Jashayra Oehlers""", """Isacco Limper""", """Michiel Kerbosch""", """Martijn Hillenius""", """Sara de Bosschere""", """Sinem Kavus""", """Steven Perceval"""]
 +++

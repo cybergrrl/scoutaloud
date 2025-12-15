@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After stepping down as CEO of her dream job, Maddie heads home for the holidays to gain perspective. She finds herself running into her old high school sweetheart Carter, and tensions quickly arise. When forced to put together a Christmas dance for the local high school, Carter and Maddie find themselves putting their differences aside and rediscover what made them fall in love all those years ago."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
+xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/homegrown-christmas/"""

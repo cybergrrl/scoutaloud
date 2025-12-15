@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Four mini-movie escapades starring the Minions, with various special guest appearances, all to celebrate the holidays!"""
 
 [taxonomies]
-xmas_genres = ['Family', 'Animation', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/minions-holiday-special/"""
@@ -15,6 +15,6 @@ runtime = 21
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.76
+average_rating = 2.77
 cast = ["""Pierre Coffin""", """Carlos Alazraqui""", """Brian T. Delaney""", """Jessica DiCicco""", """Elsie Fisher""", """Dana Gaier""", """Raymond S. Persi""", """Dave Rosenbaum""", """Nhev Scharrel""", """Régis Schuller""", """Cory Walls"""]
 +++

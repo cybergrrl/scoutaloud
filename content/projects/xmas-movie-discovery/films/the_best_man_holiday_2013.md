@@ -15,6 +15,6 @@ runtime = 123
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.29
+average_rating = 3.28
 cast = ["""Terrence Howard""", """Harold Perrineau""", """Morris Chestnut""", """Sanaa Lathan""", """Taye Diggs""", """Regina Hall""", """Nia Long""", """Monica Calhoun""", """Melissa De Sousa""", """John Michael Higgins""", """Eddie Cibrian""", """Millie Davis""", """Shailene Garnett""", """Michael Dunston"""]
 +++

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """While gathering evidence to support closing a tropical U.S. Air Force base, a congressional aide warms to its generous captain."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Romance', 'Family', 'Comedy', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/operation-christmas-drop/"""

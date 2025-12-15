@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A tough-on-crime street cop must protect the only surviving witness to a strange murderous cult with far reaching plans."""
 
 [taxonomies]
-xmas_genres = ['Crime', 'Thriller', 'Action']
+xmas_genres = ['Thriller', 'Action', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/cobra-1986/"""

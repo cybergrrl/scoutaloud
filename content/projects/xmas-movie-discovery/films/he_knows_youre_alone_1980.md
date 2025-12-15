@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A reluctant bride-to-be is stalked by a serial killer who only kills brides and the people around them. While her friends get whacked one by one, a hard-boiled renegade cop whose bride had been killed years before tries to hunt the killer down before it is too late."""
 
 [taxonomies]
-xmas_genres = ['Horror']
+xmas_genres = ['Horror', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/he-knows-youre-alone/"""

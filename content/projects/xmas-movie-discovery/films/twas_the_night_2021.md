@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A newly engaged couple tries to impress their soon-to-be in-laws with a lovely Christmas Eve dinner, but finds it a difficult task to complete while hiding a body in their house."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Comedy']
+xmas_genres = ['Comedy', 'Thriller']
 
 [extra]
 film_url = """https://letterboxd.com/film/twas-the-night-2021/"""

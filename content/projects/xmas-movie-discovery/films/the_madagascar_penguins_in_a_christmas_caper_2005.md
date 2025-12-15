@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """During the holiday season, when the animals of the Central Park Zoo are preparing for Christmas, Private, the youngest of the penguins notices that the Polar Bear is all alone. Assured that nobody should have to spend Christmas alone, Private goes into the city for some last-minute Christmas shopping. Along the way, he gets stuffed into a stocking"""
 
 [taxonomies]
-xmas_genres = ['Family', 'Animation', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-madagascar-penguins-in-a-christmas-caper/"""

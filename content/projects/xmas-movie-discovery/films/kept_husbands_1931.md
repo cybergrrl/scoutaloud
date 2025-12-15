@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A former All-American football star, now working as a steel mill supervisor in New Jersey, falls in love with the mill owner's wealthy, very spoiled daughter."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Drama']
+xmas_genres = ['Drama', 'Oldies']
 
 [extra]
 film_url = """https://letterboxd.com/film/kept-husbands/"""

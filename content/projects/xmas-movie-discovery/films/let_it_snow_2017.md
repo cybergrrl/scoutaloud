@@ -15,6 +15,6 @@ runtime = 95
 countries = ["""France"""]
 original_language = """French"""
 spoken_languages = ["""French"""]
-average_rating = 2.62
+average_rating = 2.61
 cast = ["""Lucien Jean-Baptiste""", """Firmine Richard""", """Anne Consigny""", """Roland Giraud""", """Michel Jonasz""", """Édouard Montoute""", """Jimmy Woha Woha""", """Loreyna Colombo""", """Ludovic François""", """Sadio Diallo""", """Medi Sadoun""", """François Bureloup""", """Gilles Benizio""", """Laurence Oltuski""", """Philippe Candeloro""", """Mamadou Gary""", """Grégoire Paturel""", """Joséphine Hélin"""]
 +++

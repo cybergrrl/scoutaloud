@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """At the time of the Greek junta, in an isolated army camp, a lieutenant forces a soldier to teach him the tango in order to ask the wife of his Colonel to dance with him."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'International']
+xmas_genres = ['Romance', 'Drama', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-tango/"""

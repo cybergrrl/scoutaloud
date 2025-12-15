@@ -15,6 +15,6 @@ runtime = 82
 countries = ["""South Korea""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 1.69
+average_rating = 1.68
 cast = ["""Tom Kenny""", """Joe Alaskey""", """Sean Hart""", """Jill Talley""", """Rex Piano"""]
 +++

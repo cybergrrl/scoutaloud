@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Lindsay is faced with a life-altering decision as Christmas approaches: Stay in her tiny hometown and marry boyfriend Jason or accept a coveted post teaching at an Ivy League college on the other side of the country. What to do? Fortunately for Lindsay, she has some big-time help in the form of a magical messenger who is able to transport her three years into the future to see how it would all turn out."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Romance', 'Drama', 'Hallmark', 'Fantasy']
+xmas_genres = ['Drama', 'Fantasy', 'Romance', 'TV Movie', 'Hallmark']
 
 [extra]
 film_url = """https://letterboxd.com/film/just-in-time-for-christmas/"""

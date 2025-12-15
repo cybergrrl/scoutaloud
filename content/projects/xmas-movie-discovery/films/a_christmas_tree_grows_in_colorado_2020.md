@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Erin is planning the town’s Christmas celebration and must win over firefighter Kevin in order to obtain the beautiful spruce tree from his property for the celebration."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Romance', 'Family', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-tree-grows-in-colorado/"""
@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.01
+average_rating = 2.98
 cast = ["""Rochelle Aytes""", """Mark Taylor""", """Laura Bertram""", """Peter Bryant""", """Dolores Drake""", """Matt Hamilton""", """Jason McKinnon""", """Candus Churchill""", """Deborah Finkel""", """Mark Dozlaw""", """Michael Meneer""", """Joel Stephanson""", """Grace Sunar""", """Liza Huget""", """Josh Byer"""]
 +++

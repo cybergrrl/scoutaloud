@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A group of air mail pilots risk their lives to deliver important mail through bad weather conditions."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'Oldies', 'Drama']
+xmas_genres = ['Drama', 'Oldies', 'Adventure']
 
 [extra]
 film_url = """https://letterboxd.com/film/air-mail/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.41
+average_rating = 3.42
 cast = ["""Ralph Bellamy""", """Gloria Stuart""", """Pat O'Brien""", """Slim Summerville""", """Lilian Bond""", """Russell Hopton""", """David Landau""", """Leslie Fenton""", """Frank Albertson""", """Hans Fuerberg""", """Thomas Carrigan""", """William Daly""", """Ward Bond""", """Wade Boteler""", """Francis Ford""", """Jim Thorpe"""]
 +++

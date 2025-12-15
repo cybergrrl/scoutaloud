@@ -15,6 +15,6 @@ runtime = 106
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.73
+average_rating = 2.7
 cast = ["""Jessica Anderson""", """Christopher Bower""", """Joseph Caban""", """Steve Christopher""", """Dixie Gers""", """Ryan King""", """David E. McMahon""", """Michael Merchant""", """Cassondra Brian""", """Ian F. Scott""", """Briar Boggs""", """Blair Hoyle""", """Julie Anne Prescott""", """Sadie Katz""", """Kevin Clark""", """Gerrimy Keiffer""", """Jeffrey Reddick""", """Greg Harpold"""]
 +++

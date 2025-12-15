@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """During the Christmas season, Megan and her father-figure Frank head out on a road trip to find his long-lost love. Along the way, Megan finds the love of her own life."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
+xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-together-with-you/"""

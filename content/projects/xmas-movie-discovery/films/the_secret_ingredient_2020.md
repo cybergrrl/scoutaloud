@@ -15,6 +15,6 @@ runtime = 80
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.14
+average_rating = 3.13
 cast = ["""Erin Cahill""", """Brendan Penny""", """Amy Groening""", """Adam Hurtig""", """Erik Athavale""", """Cherissa Richards""", """Aidan Moreno""", """Cheryl Soluk""", """Mariam Bernstein""", """Shannon Guile""", """Shannon Coast""", """Maneet Chauhan""", """Gwynyth Walsh""", """Tom Anniko""", """Chelsea Rankin""", """Nan Fewchuk""", """Garth Merkeley""", """David Lawrence Brown""", """Paul Magel""", """Susan Loewen""", """Ernie Pitts""", """Elena Howard-Scott""", """Daina Leitold""", """Aaron Merke"""]
 +++

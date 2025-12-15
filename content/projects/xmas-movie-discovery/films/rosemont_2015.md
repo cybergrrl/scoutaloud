@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Four people become trapped in the once-vibrant Rosemont Lodge during a blizzard before Christmas."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Drama']
+xmas_genres = ['Drama', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/rosemont/"""

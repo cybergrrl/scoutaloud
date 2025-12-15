@@ -1,10 +1,10 @@
 +++
 title = """Anna and the Apocalypse"""
 template = "xmas-movie-page.html"
-description = """A zombie apocalypse threatens the sleepy town of Little Haven – at Christmas – forcing Anna and her friends to fight, slash and sing their way to survival, facing the undead in a desperate race to reach their loved ones. But they soon discover that no one is safe in this new world, and with civilization falling apart around them, the only people they can truly rely on are each other."""
+description = """A zombie apocalypse threatens the sleepy town of Little Haven—at Christmas—forcing Anna and her friends to fight, slash, and sing their way to survival. In a desperate race to reach their loved ones, they soon learn that no one is safe in this new world, and with civilization falling apart around them, the only people they can truly rely on are each other."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Musical', 'Comedy', 'Queer', 'Fantasy']
+xmas_genres = ['Fantasy', 'Horror', 'Queer', 'Musical', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/anna-and-the-apocalypse/"""

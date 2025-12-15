@@ -15,6 +15,6 @@ runtime = 75
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.64
+average_rating = 2.62
 cast = ["""Mark Polonia""", """Titus Himmelberger""", """Dave Fife""", """Natalie Himmelberger""", """Adrienne Fife""", """Christopher Beacom""", """Ethan Maldona"""]
 +++

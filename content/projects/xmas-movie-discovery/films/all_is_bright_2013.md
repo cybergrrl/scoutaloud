@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two ne’er-do-wells from Quebec travel to New York City with a scheme to get rich quick selling Christmas trees."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/all-is-bright/"""

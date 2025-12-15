@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The Tanners decide to spend Christmas in a cabin in the woods but ALF soon gets trapped in a box of toys going to a children's hospital."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Science Fiction', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Science Fiction']
 
 [extra]
 film_url = """https://letterboxd.com/film/alfs-special-christmas/"""

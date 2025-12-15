@@ -15,6 +15,6 @@ runtime = 73
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.3
+average_rating = 3.31
 cast = ["""Ken Lerner""", """Ray Sharkey""", """Hervé Villechaize""", """Victor Argo""", """George Memmoli""", """Donne Daniels""", """Rose Marshall""", """Marina Anderson""", """Danny Elfman""", """Marie-Pascale Elfman""", """Shelby Leverington""", """Vincent Palmieri""", """Orson Welles""", """Marian Beeler""", """Sonia Berman""", """Janet Brandt""", """David Garfield""", """Edith Gwinn""", """Paul Schumacher""", """Dennis Madden""", """Sondra Lowell""", """Esther Cohen"""]
 +++

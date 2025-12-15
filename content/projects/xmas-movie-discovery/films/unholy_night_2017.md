@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An anthology of Christmas-themed horror stories."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Comedy']
+xmas_genres = ['Comedy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/unholy-night-2017/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.84
+average_rating = 2.83
 cast = ["""Jennifer Allanson""", """Jim McDonald""", """Brad Abramenko""", """Emily Shanley"""]
 +++

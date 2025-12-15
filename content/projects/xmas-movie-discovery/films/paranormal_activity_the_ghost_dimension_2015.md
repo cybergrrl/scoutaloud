@@ -15,6 +15,6 @@ runtime = 87
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 1.91
+average_rating = 1.92
 cast = ["""Chris J. Murray""", """Brit Shaw""", """Ivy George""", """Dan Gill""", """Olivia Taylor Dudley""", """Chloe Csengery""", """Jessica Tyler Brown""", """Don McManus""", """Michael Krawic""", """Hallie Foote""", """Aiden Lovekamp""", """Cara Pifko""", """Mark Steger"""]
 +++

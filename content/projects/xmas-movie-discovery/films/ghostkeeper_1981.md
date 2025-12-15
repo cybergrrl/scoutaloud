@@ -15,6 +15,6 @@ runtime = 87
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.72
+average_rating = 2.73
 cast = ["""Riva Spier""", """Murray Ord""", """Sheri McFadden""", """Georgie Collins""", """Les Kimber""", """Bill Grove""", """John MacMillan"""]
 +++

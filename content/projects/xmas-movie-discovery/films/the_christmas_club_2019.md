@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two busy strangers meet when they help an elderly woman find her lost Christmas savings. Thanks to fate and Christmas magic, they also find something they were both missing: true love."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-club-2019/"""

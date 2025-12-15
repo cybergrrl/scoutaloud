@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After receiving a magic crystal from a dying elf and a message to save the North and the fading spirit of Christmas, Ayden, an orphaned girl, sets out along with her friends to fulfil his last wish."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Adventure', 'Fantasy']
+xmas_genres = ['Family', 'Fantasy', 'Adventure']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-dragon/"""
@@ -15,6 +15,6 @@ runtime = 106
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.4
+average_rating = 2.39
 cast = ["""Bailee Michelle Johnson""", """Melanie Stone""", """Jake Stormoen""", """Adam Johnson""", """Michael Flynn""", """Heather Beers""", """Jacob Buster""", """Renny Grames""", """Eve Mauro""", """Talon G. Ackerman""", """Danny James""", """David DeVilliers""", """Paul D. Hunt""", """James Gaisford"""]
 +++

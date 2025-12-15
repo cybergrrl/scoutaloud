@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sam is a shy boy who is afraid of almost everything until he meets a polar bear named Bernard who takes him on an epic adventure across the world to help him lose his fears."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'Comedy', 'Family', 'Animation', 'International']
+xmas_genres = ['Family', 'Global', 'Animation', 'Adventure', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/my-friend-bernard/"""
@@ -15,5 +15,5 @@ runtime = 76
 countries = ["""South Korea""", """Spain"""]
 original_language = """Korean"""
 spoken_languages = ["""Korean"""]
-average_rating = 2.99
+average_rating = 3.01
 +++

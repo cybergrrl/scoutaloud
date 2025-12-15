@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A year after being mysteriously dumped by his girlfriend Olivia, Conrad takes a box of her mementos to his self-storage unit only to be trapped on the top floor in a twisted game of cat-and-mouse with a knife-wielding killer."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Comedy']
+xmas_genres = ['Comedy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/self-storage-2020/"""

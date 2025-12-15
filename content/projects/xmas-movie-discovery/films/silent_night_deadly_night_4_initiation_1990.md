@@ -15,6 +15,6 @@ runtime = 87
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.56
+average_rating = 2.55
 cast = ["""Maud Adams""", """Tommy Hinkley""", """Allyce Beasley""", """Clint Howard""", """Neith Hunter""", """Marjean Holden""", """Jeanne Bates""", """Laurel Lockhart""", """Ben Slack""", """Conan Yuzna""", """Hugh Fink""", """Richard N. Gladstein""", """Reggie Bannister""", """Glen Chin""", """Ilsa Setzoil""", """David Wells""", """Dani Klein""", """Ashley""", """Adele Daniller""", """Dienna Kirby""", """Linda Limone""", """Ron Martin""", """Elizabeth Minor""", """Cassie Vallarano"""]
 +++

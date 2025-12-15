@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In the year 3010, Cookie reads us two short stories about hell and ghosts. During these stories, Cookie is haunted by a grandma ghost that seems to have a crush on him."""
 
 [taxonomies]
-xmas_genres = []
+xmas_genres = ['Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-with-cookie-the-watching/"""

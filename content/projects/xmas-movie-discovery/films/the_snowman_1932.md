@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young Eskimo and his animal friends build a snow man, only for it to come to life and terrorize the local wildlife."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Animation', 'Fantasy']
+xmas_genres = ['Fantasy', 'Horror', 'Animation', 'Oldies']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-snowman-1932/"""

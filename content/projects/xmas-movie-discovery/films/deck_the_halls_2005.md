@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In the tradition of such classic films as "Miracle On 34th Street", a hip, eccentric marketing genius teaches a widow and her son the miracle of Christmas."""
 
 [taxonomies]
-xmas_genres = ['Family', 'TV Movie', 'Drama']
+xmas_genres = ['Family', 'Drama', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/deck-the-halls-2005/"""

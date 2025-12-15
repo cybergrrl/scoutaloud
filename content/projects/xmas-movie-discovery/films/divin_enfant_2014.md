@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A large house surrounded by vineyards. A Christmas Eve in a very blended family turns into an absolute nightmare when the mistress of the house tells her new husband that she is pregnant. She doesn't know that he can't have children..."""
 
 [taxonomies]
-xmas_genres = ['International', 'Comedy']
+xmas_genres = ['Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/divin-enfant/"""

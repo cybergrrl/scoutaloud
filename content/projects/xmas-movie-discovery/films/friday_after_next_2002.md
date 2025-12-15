@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Craig and his cousin Day Day have finally moved out of their parents' houses and into their own crib, working nights at a local mall as security guards. When their house is robbed on Christmas Eve they set out to track down the culprit."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/friday-after-next/"""

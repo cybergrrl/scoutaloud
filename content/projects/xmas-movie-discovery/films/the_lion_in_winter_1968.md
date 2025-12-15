@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Henry II and his estranged queen, Eleanor of Aquitaine, battle over the choice of an heir."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'History']
+xmas_genres = ['History', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-lion-in-winter/"""

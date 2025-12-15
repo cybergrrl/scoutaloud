@@ -16,5 +16,5 @@ countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
 average_rating = 2.81
-cast = ["""Jamie Lee Curtis""", """Ben Johnson""", """Hart Bochner""", """David Copperfield""", """Derek MacKinnon""", """Sandee Currie""", """Timothy Webber""", """Anthony Sherwood""", """Howard Busgang""", """Steve Michaels""", """Greg Swanson""", """Vanity""", """Joy Boushel""", """Victor Knight""", """Donald Lamoreux""", """Charles Biddle Sr.""", """Elizabeth Cholette""", """Thom Haverstock""", """Peter Feingold""", """Richard Weinstein""", """John Busby""", """Roland Nincheri""", """Andrea Kenyon"""]
+cast = ["""Ben Johnson""", """Jamie Lee Curtis""", """Hart Bochner""", """Sandee Currie""", """Timothy Webber""", """Derek McKinnon""", """Anthony Sherwood""", """Joy Boushel""", """Vanity""", """Greg Swanson""", """Howard Busgang""", """David Copperfield""", """Steve Michaels""", """Victor Knight""", """Donald Lamoreux""", """Charles Biddle Sr.""", """Elizabeth Cholette""", """Thom Haverstock""", """Peter Feingold""", """Richard Weinstein""", """John Busby""", """Roland Nincheri""", """Andrea Kenyon""", """Elaine Lakeman""", """Gerald Eastman""", """Charles Biddles Jr.""", """Nadia Rona""", """Larry Cohen""", """Brenda Gagnier""", """Phil Albert"""]
 +++

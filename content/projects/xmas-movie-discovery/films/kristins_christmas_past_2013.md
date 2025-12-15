@@ -1,7 +1,7 @@
 +++
 title = """Kristin's Christmas Past"""
 template = "xmas-movie-page.html"
-description = """Given the opportunity to revisit her estranged family on Christmas Eve, 1996, Kristin Cartwright discovers that while its impossible to change the past, its important to learn from it."""
+description = """Kristin, a cynical 34-year-old, drinks a mysterious champagne on Christmas Eve and wakes up seventeen years in the past, sharing a room with her 17-year-old self. Given the chance to change the worst Christmas of her life, she attempts to fix past mistakes, only to discover surprising truths about her family that may help her mend her present-day relationships."""
 
 [taxonomies]
 xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Fantasy']

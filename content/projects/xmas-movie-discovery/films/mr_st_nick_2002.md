@@ -15,6 +15,6 @@ runtime = 100
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English""", """French"""]
-average_rating = 2.84
+average_rating = 2.83
 cast = ["""Kelsey Grammer""", """Katherine Helmond""", """Ana Ortiz""", """Elaine Hendrix""", """Charles Durning""", """Brian Bedford""", """Luis Garcia""", """Colin Cunningham""", """Wallace Shawn"""]
 +++

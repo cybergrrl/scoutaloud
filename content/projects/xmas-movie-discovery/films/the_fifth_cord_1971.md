@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A journalist finds himself on the trail of a murderer who's been targeting people around him, while the police are considering him a suspect in their investigation."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Mystery', 'Thriller']
+xmas_genres = ['Horror', 'Thriller', 'Mystery']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-fifth-cord/"""

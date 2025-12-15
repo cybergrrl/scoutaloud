@@ -11,6 +11,7 @@ film_url = """https://letterboxd.com/film/gerbert-the-gift-of-giving/"""
 tmdb_poster_path = """/6IZFIhDxAAaQFjn80I6aXIR1JqJ.jpg"""
 year = 1991
 director = """Richard Tiffany"""
+runtime = 25
 original_language = """English"""
 spoken_languages = ["""English"""]
 cast = ["""Greta Muller""", """Robert Tekampe""", """Lou Michaels""", """David Price""", """Courtney Smith""", """John Berry"""]

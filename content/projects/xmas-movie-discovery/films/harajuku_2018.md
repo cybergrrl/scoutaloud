@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The evening before Christmas eve, Vilde is hanging out with her friends at the central station, when she learns that her mother has been in an accident. She is forced to contact her biological father, but wants to run away to Tokyo."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'International']
+xmas_genres = ['Drama', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/harajuku/"""

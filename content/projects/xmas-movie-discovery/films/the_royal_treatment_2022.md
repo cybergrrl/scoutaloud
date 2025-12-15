@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Isabella runs her own salon and isn’t afraid to speak her mind, while Prince Thomas runs his own country and is about to marry for duty rather than love. When Izzy and her fellow stylists get the opportunity of a lifetime to do the hair for the royal wedding, she and Prince Thomas learn that taking control of their own destiny requires following their hearts."""
 
 [taxonomies]
-xmas_genres = ['Royal Christmas', 'Romance', 'Comedy']
+xmas_genres = ['Romance', 'Comedy', 'Royal Christmas']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-royal-treatment/"""

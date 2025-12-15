@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Lisa and Patrik have patched up their marriage after Patrik's infidelity, but everything turns upside down when they receive a letter from the district court about their divorce papers, which Lisa had forgotten she had filed."""
 
 [taxonomies]
-xmas_genres = ['International', 'Romance', 'Drama', 'Comedy']
+xmas_genres = ['Romance', 'Comedy', 'Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/long-live-the-bonus-family/"""

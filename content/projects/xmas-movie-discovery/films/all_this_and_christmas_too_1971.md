@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sid's daughter may be pregnant, but he is more interested in catching a pesky mouse. Things are further complicated by visits from an assortment of strange neighbours and relatives."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy']
+xmas_genres = ['Comedy', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/all-this-and-christmas-too/"""

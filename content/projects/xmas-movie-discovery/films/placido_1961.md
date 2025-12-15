@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In a small Spanish town, during the Christmas holidays, a group of rich old ladies organize a peculiar event that consists of inviting a homeless person to sit down to dinner at their wealthy table. Plácido, a humble worker, is hired by the organizers to participate in a parade with his three-wheeled vehicle, a seemingly simple mission that will not be easy for him to accomplish."""
 
 [taxonomies]
-xmas_genres = ['International', 'Comedy']
+xmas_genres = ['Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/placido/"""

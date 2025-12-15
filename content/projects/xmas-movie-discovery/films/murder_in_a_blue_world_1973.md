@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Set in the future, the story follows a nurse who tries to bring her own style of relief to people condemned to die. Her identity is a mystery and she may not be quite what she seems."""
 
 [taxonomies]
-xmas_genres = ['Crime', 'Thriller', 'International']
+xmas_genres = ['Thriller', 'Global', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/murder-in-a-blue-world/"""

@@ -15,6 +15,6 @@ runtime = 89
 countries = ["""USA""", """Canada""", """Germany"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.73
+average_rating = 2.7
 cast = ["""Jenny McCarthy""", """Ivan Sergei""", """George Wendt""", """Kandyse McClure""", """Michael Moriarty""", """Tobias Mehler""", """Lynne Griffin""", """Lyle W. Edge""", """Sykes Powderface""", """Richard Side""", """James Higuchi""", """Gabe Khouth""", """Jessica Parker Kennedy""", """Tom Carey""", """Chris Enright""", """Gordon Rix""", """Shannon Tuer"""]
 +++

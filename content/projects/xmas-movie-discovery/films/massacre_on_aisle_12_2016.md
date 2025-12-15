@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A hardware store employee's first night on the job is disrupted by the discovery of a dead body and a duffel bag full of cash. He and his co-workers soon descend into madness as they try to figure out a solution to their predicament in this unsettling horror comedy."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Comedy']
+xmas_genres = ['Comedy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/massacre-on-aisle-12/"""

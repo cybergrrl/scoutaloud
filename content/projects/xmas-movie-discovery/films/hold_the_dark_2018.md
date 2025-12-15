@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In the grim Alaskan winter, a naturalist hunts for wolves blamed for killing a local boy, but he soon finds himself swept into a chilling mystery."""
 
 [taxonomies]
-xmas_genres = ['Crime', 'Thriller', 'Mystery']
+xmas_genres = ['Mystery', 'Thriller', 'Crime', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/hold-the-dark/"""

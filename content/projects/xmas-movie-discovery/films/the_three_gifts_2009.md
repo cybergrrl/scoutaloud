@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Jack Green inherited a southern Californian horse ranch and an all-natural toy factory in the barn. With his wife Cherie, he accepts taking in the three 'holy terrors' from his bossy aunt Rita's orphanage during renovations, until the holidays. Resourceful Mike and his buddies, Henry and Ray, prove handfuls, but Jack proves father-potential. Will the trio find a real home for Christmas?"""
 
 [taxonomies]
-xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Drama']
+xmas_genres = ['Family', 'Drama', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-three-gifts/"""

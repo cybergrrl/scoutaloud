@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A teenager has his Sitka Spruce tree chosen to be planted outside the White House as the new national Christmas Tree."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Drama']
+xmas_genres = ['Family', 'Drama', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-national-tree/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sequel to the indie thriller She Was So Pretty"""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Horror', 'Drama']
+xmas_genres = ['Horror', 'Thriller', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/she-was-so-pretty-be-good-for-goodness-sake/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """At Christmas time, Mickey Mouse, Minnie and Pluto are beset by an enormous litter of bratty orphan cats."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Animation', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/mickeys-orphans/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Inspired by O. Henry's short story about a young bride and groom, each of whom foolishly--but quite lovingly--sacrifices a treasured possession to buy the perfect Christmas gift for their mate."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'TV Movie', 'Drama']
+xmas_genres = ['Romance', 'Drama', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-gift-of-love-1978/"""

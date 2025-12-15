@@ -15,6 +15,6 @@ runtime = 26
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.5
+average_rating = 3.51
 cast = ["""Sean Marshall""", """William Woodson""", """Olan Soule""", """Joe Higgins""", """Gordon Jump""", """Hal Smith"""]
 +++

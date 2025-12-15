@@ -15,6 +15,6 @@ runtime = 97
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.52
-cast = ["""Chevy Chase""", """Beverly D'Angelo""", """Juliette Lewis""", """Johnny Galecki""", """John Randolph""", """Diane Ladd""", """E.G. Marshall""", """Doris Roberts""", """Randy Quaid""", """Miriam Flynn""", """Cody Burger""", """Ellen Hamilton Latzen""", """William Hickey""", """Mae Questel""", """Sam McMurray""", """Nicholas Guest""", """Julia Louis-Dreyfus""", """Nicolette Scorsese""", """Keith MacKechnie""", """Brian Doyle-Murray""", """Natalija Nogulich""", """Tony Epper""", """Billy Hank Hooker""", """Alexander Folk""", """Jeremy Roberts""", """Woody Weaver""", """Michael Kaufman""", """Doug Llewelyn""", """Devin Bailey""", """Frank Foti Jr.""", """Traci Kochendorfer"""]
+average_rating = 3.51
+cast = ["""Chevy Chase""", """Beverly D'Angelo""", """Juliette Lewis""", """Johnny Galecki""", """John Randolph""", """Diane Ladd""", """E.G. Marshall""", """Doris Roberts""", """Julia Louis-Dreyfus""", """Randy Quaid""", """Miriam Flynn""", """Mae Questel""", """Nicholas Guest""", """Cody Burger""", """Ellen Hamilton Latzen""", """William Hickey""", """Sam McMurray""", """Nicolette Scorsese""", """Keith MacKechnie""", """Brian Doyle-Murray""", """Natalija Nogulich""", """Tony Epper""", """Billy Hank Hooker""", """Alexander Folk""", """Jeremy Roberts""", """Woody Weaver""", """Michael Kaufman""", """Doug Llewelyn"""]
 +++

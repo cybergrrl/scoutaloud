@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """All cards are on the table when a queer, Muslim, South Asian American woman introduces her Latinx partner for the first time at a family game night."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Comedy']
+xmas_genres = ['Comedy', 'Queer']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-syed-family-xmas-eve-game-night/"""

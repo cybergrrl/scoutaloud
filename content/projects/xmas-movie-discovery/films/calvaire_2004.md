@@ -15,6 +15,6 @@ runtime = 88
 countries = ["""Belgium""", """France""", """Luxembourg"""]
 original_language = """French"""
 spoken_languages = ["""French"""]
-average_rating = 3.12
+average_rating = 3.13
 cast = ["""Laurent Lucas""", """Jackie Berroyer""", """Jean-Luc Couchard""", """Philippe Nahon""", """Philippe Grand'Henry""", """Jo Prestia""", """Marc Lefebvre""", """Alfred David""", """Alain Delaunois""", """Brigitte Lahaie""", """Gigi Coursigny""", """Vincent Cahay""", """Johan Meys""", """Romain Protat""", """Damien Waselle"""]
 +++

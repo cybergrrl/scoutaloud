@@ -15,6 +15,6 @@ runtime = 83
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.71
+average_rating = 2.68
 cast = ["""Caroline Williams""", """Lauren-Marie Taylor""", """Tom Malloy""", """Nicholas Vince""", """David Lenik""", """Tom Moynahan""", """Cedric Gegel""", """Johnny Vivash""", """Peyton Michelle Edwards""", """Natalie Veater""", """Scott Bolger""", """Scot Scurlock""", """David Josh Lawrence""", """Reagan Kelly""", """Christopher Kahler""", """Nellie Spackman""", """Law Tarello""", """Quinn McGillion"""]
 +++

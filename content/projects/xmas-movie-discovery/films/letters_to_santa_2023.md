@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Young siblings use a magic pen from Santa to wish for their parents to get back together."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/letters-to-santa-2023/"""

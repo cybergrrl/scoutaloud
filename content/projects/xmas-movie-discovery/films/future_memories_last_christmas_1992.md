@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Yuko dreams of being a best selling children's author, but as an adult she has made little progress. In her depression, she bonds with Ginko, a roadside fortune teller who has had a tragic love life. Both die the next day but appear 10 years before with their memories intact. Will they choose more wisely or be sunk by new unfulfilling choices between career and romance?"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'International']
+xmas_genres = ['Romance', 'Drama', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/future-memories-last-christmas/"""
@@ -15,5 +15,6 @@ runtime = 118
 countries = ["""Japan"""]
 original_language = """Japanese"""
 spoken_languages = ["""Japanese"""]
+average_rating = 3.49
 cast = ["""Shizuka Kudo""", """Misa Shimizu""", """David Ito""", """Motoya Izumi""", """Toshiaki Karasawa""", """Fujiko F. Fujio""", """Isao Hashizume""", """Ichirôta Miyakawa""", """Kimie Shingyoji""", """Tsuyoshi Ujiki""", """Kyoka Suzuki""", """Fujio Akatsuka""", """Fujiko A. Fujio""", """Shotaro Ishinomori""", """Go Nagai""", """Takao Saito""", """Jirō Tsunoda"""]
 +++

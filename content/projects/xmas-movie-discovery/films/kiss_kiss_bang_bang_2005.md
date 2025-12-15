@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A petty thief posing as an actor is brought to Los Angeles for an unlikely audition and finds himself in the middle of a murder investigation along with his high school dream girl and a detective who's been training him for his upcoming role..."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Mystery', 'Crime', 'Comedy']
+xmas_genres = ['Action', 'Crime', 'Thriller', 'Comedy', 'Mystery']
 
 [extra]
 film_url = """https://letterboxd.com/film/kiss-kiss-bang-bang-2005/"""

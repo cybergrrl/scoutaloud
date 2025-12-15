@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Working through some difficult decisions, Mitchell family matriarch Phylis and patriarch Bill, have summoned their two grown sons – TV stars Mike Mitchell and Brandon Mitchell – home for the holidays. It is their hope that bringing the family together to recreate the Christmas house, will help them find resolution and make a memorable holiday for the entire family and community."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Queer', 'Romance', 'TV Movie']
+xmas_genres = ['Romance', 'Queer', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-house/"""

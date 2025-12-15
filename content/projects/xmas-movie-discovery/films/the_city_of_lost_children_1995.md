@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A scientist in a surrealist society kidnaps children to steal their dreams, hoping that they slow his aging process."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'Science Fiction', 'Fantasy']
+xmas_genres = ['Fantasy', 'Horror', 'Science Fiction', 'Adventure']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-city-of-lost-children/"""

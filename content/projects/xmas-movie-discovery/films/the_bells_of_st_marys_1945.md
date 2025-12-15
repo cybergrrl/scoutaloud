@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Father O'Malley is sent to St. Mary's, a run-down parochial school on the verge of condemnation. He and Sister Benedict work together in an attempt to save the school, though their differing methods often lead to good-natured disagreements."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-bells-of-st-marys/"""

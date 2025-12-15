@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Get in the holiday spirit with this cozy, crackling fire."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Science Fiction', 'Comedy']
+xmas_genres = ['Science Fiction', 'Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/adult-swim-yule-log/"""

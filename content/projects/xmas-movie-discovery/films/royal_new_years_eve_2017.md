@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An aspiring fashion designer falls in love with her socialite client's prospective fiance, Prince Jeffrey."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/royal-new-years-eve/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.51
+average_rating = 2.49
 cast = ["""Jessy Schram""", """Sam Page""", """Crystal Balint""", """Hayley Sales""", """Cheryl Ladd""", """Andrew Kavadas""", """Nicole LaPlaca""", """Gerard Plunkett""", """Mike Carpenter""", """Derek Schnobb"""]
 +++

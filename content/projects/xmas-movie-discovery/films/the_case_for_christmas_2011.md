@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An up-and-coming attorney risks it all to help defend Santa when Christmas is in jeopardy of cancellation."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Drama', 'Hallmark', 'Fantasy']
+xmas_genres = ['Drama', 'Fantasy', 'TV Movie', 'Hallmark', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-case-for-christmas/"""

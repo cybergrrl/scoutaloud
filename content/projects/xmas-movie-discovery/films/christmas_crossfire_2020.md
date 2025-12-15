@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A man foils an attempted murder, then flees the crew of would-be killers along with their intended target as a woman he's just met tries to find him."""
 
 [taxonomies]
-xmas_genres = ['Crime', 'International', 'Thriller', 'Comedy']
+xmas_genres = ['Comedy', 'Thriller', 'Global', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-crossfire/"""

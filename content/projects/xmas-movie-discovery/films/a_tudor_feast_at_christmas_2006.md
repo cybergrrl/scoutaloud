@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A group of historians and archaeologists prepare a Tudor feast as it would have been over 400 years ago, including the use of period clothes, recipes from the era, food sourced from the land and the absence of modern conveniences."""
 
 [taxonomies]
-xmas_genres = ['Documentary', 'History']
+xmas_genres = ['History', 'Documentary']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-tudor-feast-at-christmas/"""

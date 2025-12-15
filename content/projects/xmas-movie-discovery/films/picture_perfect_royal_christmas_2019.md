@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Amanda is the assistant to a famous photographer. Her boss receives an invitation to photograph the Christmas festivities in the kingdom of Pantrea and Amanda goes posing as her. She will soon fall for Prince Leopold, despite not being a royalty."""
 
 [taxonomies]
-xmas_genres = ['Royal Christmas', 'TV Movie', 'Comedy', 'Romance', 'Drama']
+xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Royal Christmas', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/picture-perfect-royal-christmas/"""
@@ -15,6 +15,6 @@ runtime = 85
 countries = ["""Bulgaria""", """France""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.79
+average_rating = 2.78
 cast = ["""Roxanne McKee""", """David Witts""", """Sophie Ward""", """Sophie Vavasseur""", """James Weber Brown""", """Yana Marinova""", """Manal El-Feitury""", """Atanas Srebrev""", """Robert Kelly""", """Roxanne Phillip Roth""", """Tamar Weisert"""]
 +++

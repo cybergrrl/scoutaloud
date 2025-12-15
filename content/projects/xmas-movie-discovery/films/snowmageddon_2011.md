@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An Alaskan town is in danger of destruction by a mystical snow globe that appears on a family's doorstep, wrapped like a Christmas gift, and causes deadly "natural" disasters in their own town, while simultaneously occurring in the snow globe."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'TV Movie', 'Science Fiction']
+xmas_genres = ['Science Fiction', 'TV Movie', 'Adventure']
 
 [extra]
 film_url = """https://letterboxd.com/film/snowmageddon/"""

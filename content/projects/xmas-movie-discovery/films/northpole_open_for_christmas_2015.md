@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A successful businesswoman, Mackenzie, inherits her beloved aunt's inn, and chooses to restore the hotel to its original grandeur only to sell it right before Christmas. Unbeknownst to Mackenzie, she receives some unexpected help from a team of elves headed by the cheerful Clementine, who helps Mackenzie rediscover the true meaning of Christmas."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Fantasy']
+xmas_genres = ['Family', 'Fantasy', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/northpole-open-for-christmas/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.88
+average_rating = 2.87
 cast = ["""Lori Loughlin""", """Bailee Madison""", """Dermot Mulroney""", """Paul Stewart""", """Marcia Bennett""", """Ava Telek""", """James Thomas""", """Anana Rydvald""", """Ella Rose Coderre""", """Donovan Scott""", """Jake Manley""", """Claudia Besso""", """Lisa Berry""", """Derek McGrath""", """Arthur Holden""", """Christian Paul""", """Christine Lan""", """Aldo Lopez""", """Aiza Ntibarikure""", """Rachelle Glait""", """Vlasta Vrana""", """Nancy Helms""", """Noel Burton""", """Bill Corday""", """Sam Chamas""", """Nathaly Thibault"""]
 +++

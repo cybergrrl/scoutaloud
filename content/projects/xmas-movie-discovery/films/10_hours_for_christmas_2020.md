@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Three siblings devise a plan to get their divorced parents to spend Christmas together."""
 
 [taxonomies]
-xmas_genres = ['Family', 'International', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/10-hours-for-christmas/"""
@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""Brazil"""]
 original_language = """Portuguese"""
 spoken_languages = ["""Portuguese""", """German"""]
-average_rating = 2.85
+average_rating = 2.84
 cast = ["""Luís Lobianco""", """Karina Ramil""", """Giulia Benite""", """Pedro Miranda""", """Lorena Queiroz""", """Jandira Martini""", """Arthur Kohl""", """Eliana Guttman""", """Amélia Bittencourt""", """Marcelo Laham""", """Márcio Américo""", """Hermes Carpes""", """Rosana Maris""", """Eline Porto""", """Samuel de Assis""", """Marcos Aguena""", """Rodrigo Arijon""", """Paulo Américo""", """David Pond""", """Waldemar Misiura""", """Mário Matias""", """Mônica Augusto""", """Bibba Chuqui""", """Renata Brás""", """Renata Tavares""", """Jacqueline Sato""", """Camila Tanaka"""]
 +++

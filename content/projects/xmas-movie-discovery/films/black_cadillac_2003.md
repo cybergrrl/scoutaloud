@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Three young men become terrorized in a high-speed car chase with a mysterious pursuant."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Horror', 'Drama']
+xmas_genres = ['Horror', 'Thriller', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/black-cadillac/"""

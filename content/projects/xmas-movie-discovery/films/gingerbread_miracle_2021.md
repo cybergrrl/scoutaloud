@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Maya and Alex, old friends from high school, work together over Christmas to sell his uncle’s Mexican bakery famous for its gingerbread cookies that the patrons believe grants wishes."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/gingerbread-miracle/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.01
+average_rating = 2.99
 cast = ["""Merritt Patterson""", """Jon Ecker""", """Jorge Montesi""", """Elyse Maloway""", """Sunita Prasad""", """Lini Evans""", """Sean Martin Savoy""", """Patch May""", """Preston Vanderslice""", """Robert Wisden""", """Jacqueline Samuda""", """Brittany Mitchell""", """Olivia Poon""", """Eileen Pedde""", """Shiraine Haas""", """Annabel Kershaw""", """Javier Lacroix"""]
 +++

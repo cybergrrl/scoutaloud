@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Successful yet recluse author Harrington returns to his hometown for an annual Christmas festival, where he must face his publicist there for damage control."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/magic-in-mistletoe/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.87
+average_rating = 2.86
 cast = ["""Lyndie Greenwood""", """Paul Campbell""", """Mila Jones""", """Oliver Rice""", """Robyn Bradley""", """Jacqueline Samuda""", """Raugi Yu"""]
 +++

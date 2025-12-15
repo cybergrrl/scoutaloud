@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The passing of a beloved old neighbor reunites six friends for a hometown holiday treasure hunt, where sparks fly once again between brand strategist Austin and his former best friend Everett."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Romance', 'Comedy', 'Queer', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-to-treasure/"""
@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.56
+average_rating = 2.53
 cast = ["""Taylor Frey""", """Kyle Dean Massey""", """Katie Walder""", """Mary-Margaret Humes""", """Roberto Aguire""", """Nikki McKenzie""", """Cort McCown""", """Norman Towns""", """Autumn Federici""", """Sherry Mandujano""", """Constantine Rousouli"""]
 +++

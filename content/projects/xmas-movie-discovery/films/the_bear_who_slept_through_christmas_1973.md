@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """While the rest of the world is getting ready for Christmas, all the bears in Bearbank are getting ready to sleep… except for Ted E. Bear. Ted gets curious about the holiday, and sets out to learn the meaning of it from Santa Claus himself."""
 
 [taxonomies]
-xmas_genres = ['Family', 'TV Movie', 'Animation']
+xmas_genres = ['Family', 'Animation', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-bear-who-slept-through-christmas/"""
@@ -15,6 +15,6 @@ runtime = 30
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.39
+average_rating = 3.38
 cast = ["""Tom Smothers""", """Arte Johnson""", """Barbara Feldon""", """Casey Kasem""", """Bob Holt""", """Michael Bell""", """Kelly Lange""", """Caryn Paperny"""]
 +++

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A haunting ghost story set against the backdrop of a busy winter sales period in a department store, following the life of a cursed dress as it passes from person to person, with devastating consequences."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Mystery', 'Comedy', 'Fantasy']
+xmas_genres = ['Comedy', 'Horror', 'Mystery', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/in-fabric/"""

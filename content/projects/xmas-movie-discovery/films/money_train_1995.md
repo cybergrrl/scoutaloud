@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a vengeful New York transit cop decides to steal a trainload of subway fares, his foster brother—a fellow cop—tries to protect him."""
 
 [taxonomies]
-xmas_genres = ['Crime', 'Comedy', 'Action']
+xmas_genres = ['Comedy', 'Action', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/money-train/"""

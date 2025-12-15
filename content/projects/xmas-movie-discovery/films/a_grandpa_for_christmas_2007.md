@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An old-time movie-star singer/ hoofer rebonds with his estranged daughter and 9-year-old granddaughter."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'TV Movie', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'Drama', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-grandpa-for-christmas/"""

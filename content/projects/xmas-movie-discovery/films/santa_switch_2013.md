@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A struggling dad gets a new start after a strange encounter replaces his mall Santa gig with the real thing."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/santa-switch/"""

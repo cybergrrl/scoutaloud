@@ -14,6 +14,6 @@ director = """Nigel Dick"""
 runtime = 74
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.56
+average_rating = 3.57
 cast = ["""Bob Geldof""", """Midge Ure""", """Bono""", """Adam Clayton""", """Phil Collins""", """Steve Norman""", """Chris Cross""", """John Taylor""", """George Michael""", """Boy George""", """Simon Le Bon""", """Sting""", """Paul Weller""", """Annabel Giles""", """Marilyn""", """Paula Yates""", """Holly Johnson""", """Nigel Dick""", """Sara Dallin""", """Keren Woodward""", """Siobhan Fahey""", """Jon Moss""", """Gary Kemp""", """Martin Kemp""", """Tony Hadley""", """Nigel Planer""", """Rick Parfitt""", """Francis Rossi""", """Glenn Gregory""", """Martyn Ware""", """Paul Young""", """Trevor Horn""", """Peter Blake"""]
 +++

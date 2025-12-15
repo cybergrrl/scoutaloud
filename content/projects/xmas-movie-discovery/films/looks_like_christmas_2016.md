@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When two type-A single parents battle it out for control of the Christmas holiday at their kid’s middle school, they get more than they bargained for when they learn a little something about the true meaning of Christmas, while opening themselves up for the possibility of a new romance."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/looks-like-christmas/"""

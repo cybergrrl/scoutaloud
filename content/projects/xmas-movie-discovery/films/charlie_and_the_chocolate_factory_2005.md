@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Adventure', 'Comedy', 'Fantasy']
+xmas_genres = ['Family', 'Comedy', 'Adventure', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/charlie-and-the-chocolate-factory/"""
@@ -15,6 +15,6 @@ runtime = 115
 countries = ["""UK""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.32
+average_rating = 3.33
 cast = ["""Johnny Depp""", """Freddie Highmore""", """David Kelly""", """Helena Bonham Carter""", """Noah Taylor""", """Missi Pyle""", """James Fox""", """Deep Roy""", """Christopher Lee""", """Adam Godley""", """Franziska Troegner""", """AnnaSophia Robb""", """Julia Winter""", """Jordan Fry""", """Philip Wiegratz""", """Blair Dunlop""", """Liz Smith""", """Eileen Essell""", """David Morris""", """Nitin Ganatra""", """Shelley Conn""", """Chris Cresswell""", """Philip Philmar""", """Tony Kirwood""", """Todd Boyce""", """Nayef Rashed""", """Menis Yousry""", """Harry Taylor""", """Hubertus Geller""", """Francesca Hunt""", """Garrick Hagon""", """Kevin Eldon""", """Mark Heap""", """Roger Frost""", """Oscar James""", """Colette Appleby""", """Debora Weston""", """Annette Badland""", """Steve Hope Wynne""", """Geoffrey Holder""", """Elena Buda""", """Rene Costa""", """Danny Elfman""", """Aiko Horiuchi""", """Brigitte Millar""", """Valery Richardson""", """John Warman""", """Tracy Yarkoni""", """Jynine James"""]
 +++

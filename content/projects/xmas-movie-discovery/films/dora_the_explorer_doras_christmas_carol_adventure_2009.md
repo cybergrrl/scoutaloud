@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Feliz Navidad! It's Christmas time, but Swiper is up to no good! After he lands on Santa's naughty list, Dora must help the sneaky fox discover the true spirit of Christmas. You can help too as you join Dora in this retelling of a holiday classic!"""
 
 [taxonomies]
-xmas_genres = ['Family', 'A Christmas Carol', 'Animation']
+xmas_genres = ['Family', 'Animation', 'A Christmas Carol']
 
 [extra]
 film_url = """https://letterboxd.com/film/doras-christmas-carol-adventure/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Charlie Sawyer, a data analyst at a toy store chain, discovers the only way to keep their brick and mortar locations open is to replicate whatever the company’s best performing location is doing, she's sent by corporate to meet convivial, yet stubborn, store manager, Grant Levinson, whose secret to success will challenge her to open up her mind… and her heart."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-in-toyland/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.9
+average_rating = 2.88
 cast = ["""Vanessa Lengies""", """Jesse Hutch""", """Lara Amersey""", """Jane Moffat""", """Benjamin Sutherland""", """Emily Wyatt""", """Tavaree Daniel-Simms""", """Imali Perera""", """Elena V. Wolfe""", """Elva Mai Hoover""", """Mitzi Andrews"""]
 +++

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Mallory Dearborn is one of the best-selling mystery writers in the market. Against the wishes of her manager Michael, she's decided to end her long-running detective franchise and focus on more personal matters. Desperate for a big payday, Michael takes her prisoner and, convincing the world she's passed away, forces her to write a new, posthumous novel. Now, Mallory will spend the holidays writing her most thrilling story yet: her own escape.""""
 
 [taxonomies]
-xmas_genres = ['Mystery', 'TV Movie']
+xmas_genres = ['Horror', 'Mystery', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/silent-night-fatal-night/"""

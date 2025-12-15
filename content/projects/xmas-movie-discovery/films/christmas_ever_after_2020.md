@@ -15,6 +15,6 @@ runtime = 80
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.96
+average_rating = 2.94
 cast = ["""Ali Stroker""", """Daniel Di Tomasso""", """Ellen David""", """Charlotte Legault""", """Bill Marchant""", """Kim Nelson""", """Gita Miller""", """Melia Charlotte Cressaty""", """Nicole Leroux"""]
 +++

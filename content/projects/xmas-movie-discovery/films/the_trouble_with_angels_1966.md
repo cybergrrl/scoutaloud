@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Mary and her friend, Rachel, are new students at St. Francis Academy, a boarding school run by the iron fist of Mother Superior. The immature teens grow bored and begin playing pranks on both the unsuspecting nuns and their unpleasant classmates, becoming a constant thorn in Mother Superior's side. However, as the years pass, Mary and Rachel slowly mature and begin to see the nuns in a different light."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-trouble-with-angels/"""

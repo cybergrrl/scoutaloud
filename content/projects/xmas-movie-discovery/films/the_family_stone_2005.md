@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An uptight, conservative businesswoman accompanies her boyfriend to his eccentric and outgoing family's annual Christmas celebration and finds that she's a fish out of water in their free-spirited way of life."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Romance', 'Drama', 'Comedy']
+xmas_genres = ['Romance', 'Comedy', 'Queer', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-family-stone/"""
@@ -15,6 +15,6 @@ runtime = 103
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.08
+average_rating = 3.07
 cast = ["""Dermot Mulroney""", """Sarah Jessica Parker""", """Diane Keaton""", """Luke Wilson""", """Claire Danes""", """Rachel McAdams""", """Craig T. Nelson""", """Tyrone Giordano""", """Brian J. White""", """Elizabeth Reaser""", """Paul Schneider""", """Savannah Stehlin""", """Jamie Kaler""", """Robert Dioguardi""", """Carol Locatell""", """Ginna Carter""", """Gus Buktenica""", """Michael Pemberton""", """Ron Wall""", """Christopher Parker""", """Steve Alterman""", """Johnny Gidcomb""", """Susan Leslie""", """Hope Levy""", """Randall Montgomery""", """Jill Remez"""]
 +++

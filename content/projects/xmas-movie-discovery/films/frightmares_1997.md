@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A trilogy of horror stories from the director of Evil Night, Death Metal Zombie and The Dummy."""
 
 [taxonomies]
-xmas_genres = []
+xmas_genres = ['Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/frightmares/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Inspired by Mickey Guyton’s song of the same name, “Heaven Down Here” tells the story of four disparate people who find themselves stranded in a local diner on Christmas Eve when a snowstorm hits the town."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'TV Movie', 'Drama']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/heaven-down-here/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.07
+average_rating = 3.06
 cast = ["""Krystal Joy Brown""", """Tina Lifford""", """Juan Riedinger""", """Richard Harmon""", """Phylicia Rashād""", """Kelcey Mawema""", """Carlo Fortin""", """Jace Fleming""", """Jorge Montesi""", """Isabel Birch""", """Jayden Oniah"""]
 +++

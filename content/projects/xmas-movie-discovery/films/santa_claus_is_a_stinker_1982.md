@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two neurotics, working for a suicide hotline on the night of Christmas Eve, get caught up in a catastrophe when a pregnant woman, her abusive boyfriend, and a transvestite visit their office."""
 
 [taxonomies]
-xmas_genres = ['International', 'Comedy']
+xmas_genres = ['Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/santa-claus-is-a-stinker/"""

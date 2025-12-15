@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After a genial spirit shows the benevolent Ebenezer Blackadder visions of his unscrupulous ancestors, he resolves to mend his generous ways."""
 
 [taxonomies]
-xmas_genres = ['A Christmas Carol', 'TV Movie', 'Comedy']
+xmas_genres = ['Comedy', 'A Christmas Carol', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/blackadders-christmas-carol/"""

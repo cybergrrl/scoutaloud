@@ -15,6 +15,6 @@ runtime = 93
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.38
+average_rating = 2.39
 cast = ["""Danny DeVito""", """Matthew Broderick""", """Kristin Davis""", """Kristin Chenoweth""", """Alia Shawkat""", """Fred Armisen""", """Jorge Garcia""", """Dylan Blue""", """Kelly Aldridge""", """Sabrina Aldridge""", """Sean O'Bryan""", """Gillian Vigman""", """Ryan Devlin""", """SuChin Pak""", """Jackie Burroughs""", """Garry Chalk""", """Nicola Peltz Beckham""", """Zak Santiago""", """David James Lewis""", """Daniel Bacon""", """Ken Kramer""", """Jill Morrison""", """Alf Humphreys""", """Brenda Crichlow""", """Jill Krop""", """Agam Darshi""", """David Stuart""", """Quinn Lord""", """Nathaniel DeVeaux""", """Fulvio Cecere""", """Eliza Norbury""", """Randi Lynne""", """Dan Joffre""", """Aurora Faulkner-Killam""", """Melissa Howell""", """Lori Johnson""", """David Shaw""", """Myles Wolfe""", """Ty Olsson""", """Stephen Holmes""", """Andrew Hedge""", """Cory Monteith""", """Cassidy Bot-Devire""", """Aaron Craven""", """Blair Gorrell""", """Rachel Lana Li""", """Lochlyn Munro""", """Kal Penn""", """Caroline Redekopp""", """Arden Rhine""", """Calum Worthy"""]
 +++

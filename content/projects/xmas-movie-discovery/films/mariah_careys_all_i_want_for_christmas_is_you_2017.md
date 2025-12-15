@@ -15,6 +15,6 @@ runtime = 91
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.33
+average_rating = 2.31
 cast = ["""Mariah Carey""", """Breanna Yde""", """Henry Winkler""", """Laya DeLeon Hayes""", """Montse Hernandez""", """Issac Ryan Brown""", """Bria Danielle Singleton""", """Phil Morris""", """Lacey Chabert""", """Charlie Adler""", """Rachel Eggleston""", """Julian Zane""", """Karim Saleh""", """Connie Jackson""", """Keiko Agena""", """Dee Bradley Baker""", """Ali Eagle""", """Michelle Bonilla""", """Monroe Cannon""", """Moroccan Cannon"""]
 +++

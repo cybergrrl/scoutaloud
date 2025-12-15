@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Jesus Christ and Gautama Buddha, the founders of Christianity and Buddhism, are living together as roommates in a Tokyo apartment while taking a vacation on Earth. The comedy often involves jokes about Christianity, Buddhism, and all things related, as well as the main characters' attempts to hide their identities and understand modern society in Japan."""
 
 [taxonomies]
-xmas_genres = ['Animation', 'Comedy']
+xmas_genres = ['Comedy', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/saintyoung-men/"""

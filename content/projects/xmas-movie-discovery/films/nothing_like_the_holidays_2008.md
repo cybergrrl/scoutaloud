@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """It’s Christmastime and the far-flung members of the Rodriguez family are converging at their parents’ home in Chicago to celebrate the season and rejoice in their youngest brother’s safe return from combat overseas."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Comedy']
+xmas_genres = ['Romance', 'Comedy', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/nothing-like-the-holidays/"""
@@ -15,6 +15,6 @@ runtime = 98
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.98
-cast = ["""Alfred Molina""", """Elizabeth Peña""", """Freddy Rodríguez""", """Luis Guzmán""", """Jay Hernandez""", """John Leguizamo""", """Debra Messing""", """Vanessa Ferlito""", """Melonie Díaz""", """Ramses Jimenez""", """Manny Perez""", """Claudia Michelle Wallace""", """Cheryl Hamada""", """Manny Sosa""", """Jessica Camacho""", """Piper Curda"""]
+average_rating = 2.97
+cast = ["""Alfred Molina""", """Elizabeth Peña""", """Freddy Rodríguez""", """Luis Guzmán""", """Jay Hernandez""", """John Leguizamo""", """Debra Messing""", """Vanessa Ferlito""", """Melonie Díaz""", """Alexander Bautista""", """Ramses Jimenez""", """Manny Perez""", """Claudia Michelle Wallace""", """Cheryl Hamada""", """Manny Sosa""", """David Hernandez""", """Sam Dyer""", """Nydia Rodriguez Terracina""", """Ulises Acosta""", """Gail Rastorfer""", """Ana María Alvarez""", """Marcia Wright""", """Jessica Zweig""", """Jessica Camacho""", """Eduardo N. Martinez""", """Jaslene González""", """Michael Reyes""", """Brian Sills""", """Tanya Saracho""", """Brandy McClendon""", """Llou Johnson""", """Patrick Zielinski""", """Cedric Young""", """Gennae Bewernick""", """Johnny Starks""", """Tony Castillo"""]
 +++

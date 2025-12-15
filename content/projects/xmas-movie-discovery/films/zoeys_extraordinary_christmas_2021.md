@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """On her first holiday without her father, Zoey attempts to create a magical Christmas for her family just like the ones Mitch used to do."""
 
 [taxonomies]
-xmas_genres = ['Music', 'TV Movie', 'Comedy', 'Queer', 'Drama']
+xmas_genres = ['Drama', 'Queer', 'Music', 'TV Movie', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/zoeys-extraordinary-christmas/"""
@@ -15,6 +15,6 @@ runtime = 99
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.38
+average_rating = 3.37
 cast = ["""Jane Levy""", """Skylar Astin""", """Alex Newell""", """John Clarence Stewart""", """Andrew Leeds""", """Alice Lee""", """Michael Thomas Grant""", """Kapil Talwalkar""", """David St. Louis""", """Mary Steenburgen""", """Peter Gallagher""", """Bernadette Peters""", """Noah Weisberg""", """Morgan Taylor Campbell""", """David James Elliott""", """Amarah Taylor""", """April Cameron""", """Lola Clare""", """Gracyn Shinyei""", """Oscar Chark""", """Ella Wejr"""]
 +++

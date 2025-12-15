@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A diverse group of friends gather for the festive season in a remote lodge but soon plans go awry. One of the friends goes missing and the truth behind why the lodge was booked for the holiday is disclosed. Christmas quickly turns to chaos and a bloody nightmare ensues."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Comedy']
+xmas_genres = ['Comedy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/why-hide-2018/"""
@@ -15,6 +15,6 @@ runtime = 85
 countries = ["""UK"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.21
+average_rating = 2.19
 cast = ["""Charlotte Atkinson""", """Elsie Bennett""", """Lorna Brown""", """Mark Chatterton""", """Orla Cottingham""", """William Holstead""", """Danny Webb"""]
 +++

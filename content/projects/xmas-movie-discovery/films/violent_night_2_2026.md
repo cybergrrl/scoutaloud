@@ -4,11 +4,11 @@ template = "xmas-movie-page.html"
 description = """The sequel to the 2022 film. Plot TBA."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Fantasy', 'Action']
+xmas_genres = ['Comedy', 'Action', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/violent-night-2/"""
-tmdb_poster_path = """/kcxPrk4VXcz6LSUCL11YbrIWJS5.jpg"""
+tmdb_poster_path = """/sI9m5PUoZT6upungDXVTSPTtfgX.jpg"""
 year = 2026
 director = """Tommy Wirkola"""
 countries = ["""USA"""]

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A Disgruntled elf named " Stuffy" will get fired, and a new zombie boss will arise. He will seek revenge on the North Pole. The robot stuffed zombies he creates will not be after brains, but after presents."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Comedy']
+xmas_genres = ['Comedy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-zombies/"""

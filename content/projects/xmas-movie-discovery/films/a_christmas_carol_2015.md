@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When the miserly Ebeneezer Scrooge receives ghostly visitations one fateful Christmas Eve, he is shown the error of his ways."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Musical', 'Drama', 'A Christmas Carol', 'Fantasy']
+xmas_genres = ['Drama', 'Fantasy', 'Music', 'Musical', 'A Christmas Carol']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-carol-2015/"""

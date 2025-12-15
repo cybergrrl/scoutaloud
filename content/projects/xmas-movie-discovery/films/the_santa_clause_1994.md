@@ -15,6 +15,6 @@ runtime = 97
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.21
+average_rating = 3.22
 cast = ["""Tim Allen""", """Judge Reinhold""", """Wendy Crewson""", """Eric Lloyd""", """David Krumholtz""", """Larry Brandenburg""", """Mary Gross""", """Paige Tamada""", """Peter Boyle""", """Judith Scott""", """Jayne Eastwood""", """Melissa King""", """Bradley Wentworth""", """Azura Bates""", """Joshua Satok""", """Zachary McLemore""", """Joyce Guy""", """Lindsay Lupien""", """Alexandra Petrocci""", """Jesse Collins""", """David-Paul Grove""", """Steve Vinovich""", """Aimee McIntyre""", """Tabitha Lupien""", """Lachlan Murdoch""", """David Sparrow""", """Ron Hartmann""", """Nic Knight""", """Scott Wickware""", """Gene Mack""", """Brett Moon""", """Ryan Moon""", """Jack Newman""", """Michael Caruana""", """Micha Jackson""", """Cody Jones""", """Kenny Vadas""", """Brian Reilly""", """Gordon Masten""", """Philip Williams""", """Chris Benson""", """Laura Catalano""", """Peter Kosaka""", """Ivanka Kotalto""", """Todd Davis""", """Marc Pichette""", """John Pasquin""", """Tony Krolo""", """Alec Bachlow""", """Jimmy Labriola""", """Steve Kosaka""", """Lawrence Nakamura""", """Hun Sun Tran""", """Steve Tsukamoto""", """Frank Welker""", """Kerrigan Mahan""", """Bob Dermer""", """Nina Keogh""", """Dennis O'Connor"""]
 +++

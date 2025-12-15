@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A man looking for the release of a long-time prisoner takes a police officer, his daughter, and a group of strangers hostage."""
 
 [taxonomies]
-xmas_genres = ['Crime', 'Drama', 'Action']
+xmas_genres = ['Drama', 'Action', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/police-story-lockdown/"""

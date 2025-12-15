@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After discovering the dead body of her teenage daughter's lover, a housewife takes desperate measures to protect her family from scandal."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Drama']
+xmas_genres = ['Drama', 'Thriller']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-reckless-moment/"""

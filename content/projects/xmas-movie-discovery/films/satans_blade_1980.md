@@ -15,6 +15,6 @@ runtime = 82
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.4
+average_rating = 2.39
 cast = ["""Tom Bongiorno""", """Stephanie Leigh Steel""", """Thomas Cue""", """Elisa R. Malinovitz""", """Janeen Lowe""", """Ramona Andrada""", """Diane Taylor""", """Susan Bennett""", """L. Scott Castillo Jr."""]
 +++

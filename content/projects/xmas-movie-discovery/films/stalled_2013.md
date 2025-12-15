@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A janitor gets trapped in a women's restroom and encounters an all-out attack by a horde of zombies."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Comedy']
+xmas_genres = ['Comedy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/stalled/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""UK"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.61
+average_rating = 2.6
 cast = ["""Dan Palmer""", """Antonia Bernath""", """Tamaryn Payne""", """Giles Alderson""", """Victoria Broom""", """Marcus Kelly""", """Victoria Eldon""", """Chris R. Wright""", """Rick Edwards""", """Russell Biles""", """Mark Holden"""]
 +++

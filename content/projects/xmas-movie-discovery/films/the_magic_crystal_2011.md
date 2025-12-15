@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A magic crystal causes double the number of gifts Santa can deliver all over the world and this makes for many happy gezinnetjes. His criminal assistant Basil however has a diabolical plan: he wants to steal the crystal so as to gain control over the minds of the children. The brave boy Yotan act to prevent and concocts a plan."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Adventure', 'Animation']
+xmas_genres = ['Family', 'Animation', 'Adventure']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-magic-crystal/"""

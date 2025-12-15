@@ -8,13 +8,13 @@ xmas_genres = ['Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/krampus-the-return/"""
-tmdb_poster_path = """/4EZ60Bag2rCqK6C6QlE8efwdXYW.jpg"""
+tmdb_poster_path = """/tU6W3mjDZE1gJkNjVAF8qTSySCP.jpg"""
 year = 2022
 director = """David Gregory"""
 runtime = 79
 countries = ["""UK"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.44
+average_rating = 2.42
 cast = ["""Amber Doig-Thorne""", """Natasha Rose Mills""", """Dan Robins""", """Stephen Staley""", """Charlie Esquér""", """Elspeth Foster""", """Osian Dixon"""]
 +++

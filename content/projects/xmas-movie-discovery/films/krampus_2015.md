@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A couple spends their first Christmas together, but their holiday is threatened when a dark secret is revealed."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Comedy', 'Fantasy']
+xmas_genres = ['Comedy', 'Horror', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/krampus-2015/"""

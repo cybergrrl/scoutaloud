@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Set right before Christmas, young reindeer Niko must deal with his mother's remarriage and his being tasked with looking after his little stepbrother."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'Comedy', 'Family', 'Animation', 'International']
+xmas_genres = ['Family', 'Global', 'Animation', 'Adventure', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/niko-2-little-brother-big-trouble/"""

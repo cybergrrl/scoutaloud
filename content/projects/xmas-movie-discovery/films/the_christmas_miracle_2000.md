@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """During Christmas, in the winter sky are shining magic stars and miracles happen. The story of a talented man who had a gift and love."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'International']
+xmas_genres = ['Romance', 'Drama', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-miracle-2000/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A CNN Documentary covering the history and impact of Christmas movies and TV."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Documentary']
+xmas_genres = ['Documentary', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/tis-the-season-the-holidays-on-screen/"""

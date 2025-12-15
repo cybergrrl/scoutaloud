@@ -15,6 +15,6 @@ runtime = 38
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.11
+average_rating = 3.12
 cast = ["""Mariah Carey""", """Babyface""", """Kelsey Grammer""", """Billy Gardell""", """Lacey Chabert""", """Cameron Mathison""", """Brennan Elliott""", """Fina Strazza""", """John William Young""", """Jaeden Bettencourt"""]
 +++

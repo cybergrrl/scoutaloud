@@ -15,6 +15,6 @@ runtime = 98
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 1.9
+average_rating = 1.91
 cast = ["""Hulk Hogan""", """Ed Begley Jr.""", """Don Stark""", """Robin Curtis""", """Clint Howard""", """Mila Kunis""", """Adam Wylie""", """Aria Noelle Curzon""", """William Newman""", """Jennifer Paz""", """Steve Valentine""", """Kevin West""", """Diane Robin""", """Kai Ephron""", """Garrett Morris""", """Robert Apisa""", """Pierre Dulat""", """Eddy Donno""", """Andre Jamal Kinney""", """Bentley Shuster""", """Troy Robinson""", """Pete Apisa""", """Brenda Song""", """Malone Brinton""", """Bridget Michele""", """Ed Leslie""", """Blake Shuster"""]
 +++

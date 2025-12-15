@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The Mitchell brothers compete to see who can create the best Christmas House."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Queer', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Drama', 'Queer', 'Romance', 'TV Movie', 'Hallmark']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-house-2-deck-those-halls/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.98
+average_rating = 2.97
 cast = ["""Robert Buckley""", """Ana Ayora""", """Jonathan Bennett""", """Brad Harder""", """Treat Williams""", """Sharon Lawrence""", """Michelle Harrison""", """Matthew James Dowden""", """Teryl Rothery""", """Chris Gauthier""", """Robyn Driscoll""", """Alycia Escoval"""]
 +++

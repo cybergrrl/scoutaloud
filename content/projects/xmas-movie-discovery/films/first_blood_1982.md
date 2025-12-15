@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, he is forced to flee into the mountains and wage an escalating one-man war against his pursuers."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'Action', 'Thriller', 'War']
+xmas_genres = ['Action', 'Thriller', 'War', 'Adventure']
 
 [extra]
 film_url = """https://letterboxd.com/film/first-blood/"""

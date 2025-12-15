@@ -15,6 +15,6 @@ runtime = 24
 countries = ["""USA""", """Japan"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.96
+average_rating = 2.94
 cast = ["""Greer Garson""", """Zero Mostel""", """David Jay""", """Bob McFadden""", """Ray Owens""", """Allen Swift"""]
 +++

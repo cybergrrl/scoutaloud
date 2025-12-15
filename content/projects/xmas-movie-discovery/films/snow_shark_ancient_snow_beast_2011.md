@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """12 years ago during a scientific expedition 3 animal biologists stumbled upon a great discovery that ended in tragedy. Whatever killed them has awoken and now the legend of the Ancient Snow Beast could prove to be more than just a legend."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Science Fiction']
+xmas_genres = ['Science Fiction', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/snow-shark-ancient-snow-beast/"""
@@ -15,6 +15,6 @@ runtime = 80
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.5
+average_rating = 2.51
 cast = ["""Sam Qualiana""", """Michael O'Hear""", """Jackey Hall""", """C.J. Qualiana""", """Kathy Murphy""", """Andrew Elias""", """Robert Bozek""", """Jason John Beebe""", """Sherri Lyn Litz""", """Brenda Rickert""", """Daniel James"""]
 +++

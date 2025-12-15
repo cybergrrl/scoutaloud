@@ -15,6 +15,6 @@ runtime = 95
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.97
+average_rating = 2.95
 cast = ["""Dolly Parton""", """Roddy McDowall""", """Allison Mack""", """Eli Marienthal""", """Brian Kerwin""", """Maria del Mar"""]
 +++

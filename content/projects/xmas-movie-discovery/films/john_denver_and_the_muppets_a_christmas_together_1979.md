@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In this beloved holiday classic, Kermit the Frog, Miss Piggy and all the Muppets join the singer for a heart-warming Christmas celebration, with traditional carols as well as lesser-known holiday songs."""
 
 [taxonomies]
-xmas_genres = ['Family', 'TV Movie', 'Comedy', 'Music']
+xmas_genres = ['Music', 'Family', 'Comedy', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/john-denver-and-the-muppets-a-christmas-together/"""
@@ -15,6 +15,6 @@ runtime = 50
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.43
+average_rating = 3.44
 cast = ["""John Denver""", """Jim Henson""", """Frank Oz""", """Richard Hunt""", """Dave Goelz""", """Jerry Nelson""", """Steve Whitmire""", """Kathryn Mullen""", """Brian Muehl""", """Cheryl Henson""", """Phillip Huber""", """Bob Payne""", """Michael Earl"""]
 +++

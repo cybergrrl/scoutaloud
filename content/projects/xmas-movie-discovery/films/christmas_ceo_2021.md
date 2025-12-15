@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A small toy company CEO gets a once in a lifetime offer to merge with a mega toy company but will need her estranged ex-business partner's signature to seal the deal. What he helps her rediscover will change both of their lives."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-ceo/"""
@@ -14,7 +14,7 @@ director = """Jonathan Wright"""
 runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
-spoken_languages = ["""English""", """German""", """French"""]
-average_rating = 2.64
+spoken_languages = ["""English""", """French""", """German"""]
+average_rating = 2.61
 cast = ["""Paul Greene""", """Marisol Nichols""", """Veronica Marin-Estrada""", """Tedd Dillon""", """Daniella Dela Peña""", """Barbara Eve Harris""", """Amanda Martínez""", """Bert Cardozo"""]
 +++

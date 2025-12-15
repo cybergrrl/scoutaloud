@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """With Christmas approaching, Santa Claus has to contend with the fact that the North Pole is melting and find a way to rid the holiday of its capitalist nature."""
 
 [taxonomies]
-xmas_genres = ['International', 'Comedy']
+xmas_genres = ['Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-inc/"""

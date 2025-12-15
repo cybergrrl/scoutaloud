@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A miser is reformed by visions of past, present and future."""
 
 [taxonomies]
-xmas_genres = ['A Christmas Carol', 'Drama']
+xmas_genres = ['Drama', 'A Christmas Carol']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-carol-1914/"""

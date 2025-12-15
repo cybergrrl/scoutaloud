@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Linus and Lucy's younger brother Rerun wants a dog for Christmas, and Snoopy's brother Spike may be the answer."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Animation']
+xmas_genres = ['Family', 'Comedy', 'Animation', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/i-want-a-dog-for-christmas-charlie-brown/"""

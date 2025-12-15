@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Drama', 'Comedy']
+xmas_genres = ['Drama', 'Queer', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/mean-girls/"""

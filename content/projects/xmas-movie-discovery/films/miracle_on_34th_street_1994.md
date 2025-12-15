@@ -15,6 +15,6 @@ runtime = 114
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.33
+average_rating = 3.35
 cast = ["""Mara Wilson""", """Richard Attenborough""", """Dylan McDermott""", """Elizabeth Perkins""", """J. T. Walsh""", """James Remar""", """Robert Prosky""", """Jack McGee""", """Jennifer Morrison""", """Jane Leeves""", """Joss Ackland""", """Allison Janney""", """Simon Jones""", """Kathrine Narducci""", """Mary McCormack""", """Rosanna Scotto""", """Michele Marsh""", """Susie Park""", """Janet Kauss""", """Eliza Harris""", """Peter Siragusa""", """Samantha Krieger""", """Horatio Sanz""", """Lisa Sparrman""", """Kimberly Smith""", """Mike Bacarella""", """Bianca Rose Pucci""", """Jimmy Joseph Meglio""", """Margo Buchanan""", """Alexandra Michelle Stewart""", """Paige Walker Leavell""", """Joe Moskowitz""", """Lester Holt""", """Melinda Chilton"""]
 +++

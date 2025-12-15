@@ -15,6 +15,6 @@ runtime = 88
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.79
+average_rating = 2.8
 cast = ["""James Marsden""", """Jay R. Ferguson""", """Christine Taylor""", """Christopher Masterson""", """Kim Murphy""", """Ron Livingston""", """Jennifer MacDonald""", """Hawthorne James""", """Alex McKenna""", """Devon Odessa""", """Jonathan Fuller""", """Glenn Quinn""", """Jacinda Barrett""", """Amy Smart""", """Rick Lawrence""", """Stewart J. Zully""", """Paul Salamoff""", """Bill Zahn""", """Gary Jensen""", """Ben Jensen""", """Suzanne Goddard-Smythe""", """Michael Dempsey""", """Otin""", """Denny Arnold""", """Meleva Barbula""", """David Cooper""", """Eric Fleeks""", """Mike Terner""", """Matt Cooper""", """Larry Weinberg"""]
 +++

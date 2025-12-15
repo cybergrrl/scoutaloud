@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Famous musician Heath and small-town girl Cara are each traveling back to Oklahoma for the holidays when they get stranded in Chicago. Despite his fame, she has no idea who he is, but they hit it off—and she even ends up providing some inspiration for the Christmas song he's writing."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
+xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/time-for-me-to-come-home-for-christmas/"""
@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.89
+average_rating = 2.87
 cast = ["""Megan Park""", """Josh Henderson""", """Lindsay Maxwell""", """Eric Keenleyside""", """Susan Hogan""", """Paul McGillion""", """Lucie Guest""", """Jett Klyne""", """Tom McBeath""", """Enid-Raye Adams""", """Jesse Stanley""", """Dolores Drake""", """Billy Wickman""", """Philip Prajoux""", """Trevor Lerner"""]
 +++

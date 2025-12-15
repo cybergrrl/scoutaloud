@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Julia Crawley and Ryan Mason must unite their families during Crestridge's Centennial Christmas celebration in order to save their family inns from a chain resort."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/check-inn-to-christmas/"""

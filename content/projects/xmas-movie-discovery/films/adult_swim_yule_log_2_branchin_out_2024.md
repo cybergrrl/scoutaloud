@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Zoe tries to escape the horrors of the first film by fleeing to a new country, but the murder log has travel plans of its own."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Romance', 'Comedy']
+xmas_genres = ['Romance', 'Comedy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/adult-swim-yule-log-2-branchin-out/"""

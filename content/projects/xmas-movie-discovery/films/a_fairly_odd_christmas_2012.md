@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After Timmy Turner causes Santa amnesia he must become the new Santa in order to save Christmas."""
 
 [taxonomies]
-xmas_genres = ['Family', 'TV Movie', 'Fantasy']
+xmas_genres = ['Family', 'Fantasy', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-fairly-odd-christmas/"""

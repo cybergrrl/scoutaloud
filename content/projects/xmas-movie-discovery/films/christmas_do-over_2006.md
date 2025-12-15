@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.0
+average_rating = 2.97
 cast = ["""Jay Mohr""", """Daphne Zuniga""", """David Millbern""", """Adrienne Barbeau""", """Tim Thomerson""", """Logan Grove""", """Ruta Lee""", """Steve Hart""", """Sonia Izzolena"""]
 +++

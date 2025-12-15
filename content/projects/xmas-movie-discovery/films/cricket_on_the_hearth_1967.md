@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A delightful, animated musical version of Charles Dickens' classic tale. A Cricket on the Hearth, tells the story of a poor toymaker and his daughter whom a helpful Cricket named Crocket befriends on Christmas morning. When tragedy strikes the family, it's Crocket who comes to the rescue and restores peace and happiness."""
 
 [taxonomies]
-xmas_genres = ['Family', 'TV Movie', 'Animation']
+xmas_genres = ['Family', 'Animation', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/cricket-on-the-hearth/"""
@@ -15,6 +15,6 @@ runtime = 49
 countries = ["""USA""", """Japan"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.38
+average_rating = 2.37
 cast = ["""Danny Thomas""", """Marlo Thomas""", """Roddy McDowall""", """Hans Conried""", """Paul Frees""", """Ed Ames""", """Abbe Lane"""]
 +++

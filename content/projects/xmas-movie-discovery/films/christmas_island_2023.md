@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a snowstorm diverts Kate's first private flight bound for Switzerland, to Christmas Island in Nova Scotia, she must team up with an air traffic controller to secure her dream job as the family's pilot."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-island/"""

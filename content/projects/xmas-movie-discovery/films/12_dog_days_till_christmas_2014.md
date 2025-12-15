@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.28
+average_rating = 2.27
 cast = ["""Reginald VelJohnson""", """Vincent Giovagnoli""", """Lunden De'Leon""", """Lilly Nelson""", """Lexi Giovagnoli""", """Deborah Rogers""", """Robert Bacon"""]
 +++

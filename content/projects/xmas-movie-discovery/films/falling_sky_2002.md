@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Reidar is a resident at Solihøgda psychiatric institution. He is expecting the Earth to be hit by a huge meteor any time now, but until then he is busy trying to keep his fellow patient, Juni, from killing herself."""
 
 [taxonomies]
-xmas_genres = ['International', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/falling-sky-2002/"""

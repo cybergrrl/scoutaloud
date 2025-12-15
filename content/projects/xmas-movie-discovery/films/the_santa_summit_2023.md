@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Amidst a sea of Santas at their town's annual Christmas celebration, three friends all find what they’re looking for: Christmas spirit, potential romance, and a strengthened bond of friendship."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-santa-summit/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.17
+average_rating = 3.15
 cast = ["""Hunter King""", """Benjamin Hollingsworth""", """Amy Groening""", """Stephanie Sy""", """Rodrigo Beilfuss""", """Dan De Jaeger""", """Adam Hurtig""", """Erik Athavale""", """Niall Matter""", """Eldon Wu""", """Diana Botelho-Urbanski""", """Lam An"""]
 +++
