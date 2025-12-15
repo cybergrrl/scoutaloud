@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An imaginary world comes to life in a holiday tale of an eccentric toymaker, his adventurous granddaughter, and a magical invention that has the power to change their lives forever."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Fantasy', 'Musical', 'Music']
+xmas_genres = ['Family', 'Musical', 'Fantasy', 'Music']
 
 [extra]
 film_url = """https://letterboxd.com/film/jingle-jangle-a-christmas-journey/"""

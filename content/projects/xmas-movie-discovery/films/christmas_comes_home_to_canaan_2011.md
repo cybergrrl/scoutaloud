@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Bobber undergoes experimental surgery to help him walk again, Daniel Burton falls in love with his beautiful rehabilitation doctor and invites her to spend Christmas at the farm."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-comes-home-to-canaan/"""

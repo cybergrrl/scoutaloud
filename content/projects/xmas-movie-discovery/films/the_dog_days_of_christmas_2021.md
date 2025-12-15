@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """As Dylan and Annie work together to save an animal rescue and get its dogs adopted, Annie discovers that finding love — and making a difference in the world — can happen right at home."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'TV Movie']
+xmas_genres = ['Comedy', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-dog-days-of-christmas/"""

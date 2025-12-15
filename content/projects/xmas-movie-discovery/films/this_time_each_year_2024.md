@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Despite a trial separation, Lauren pretends to still be with her husband Kevin to placate her overbearing mother. The ruse may be just what the couple needs to finally work on their marriage."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/this-time-each-year/"""

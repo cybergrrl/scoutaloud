@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In modern-day London, an unkind British-Indian businessman is compelled by three ghosts to reflect on his life and to consider the needs of those around him."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Drama', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-karma/"""

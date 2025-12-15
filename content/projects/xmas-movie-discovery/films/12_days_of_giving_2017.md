@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A Good Samaritan wins a small fortune and decides to play secret Santa to the residents of his small town, soon finding love in the process."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'TV Movie']
+xmas_genres = ['TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/12-days-of-giving/"""

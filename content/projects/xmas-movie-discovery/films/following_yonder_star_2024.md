@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a scandal upends a famous TV mother’s life ahead of the holidays, she heads to a luxury Vermont resort for Christmas. Upon arriving, a booking error leads her to a quaint B&B owned by an astronomy teacher."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/following-yonder-star/"""

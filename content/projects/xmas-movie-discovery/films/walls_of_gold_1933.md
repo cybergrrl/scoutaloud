@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A career woman marries her boyfriend's rich uncle when the boyfriend marries her sister."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/walls-of-gold/"""

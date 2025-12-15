@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Paxton, an amateur archeologist, travels to the town of Seaburgh and inadvertently stumbles across one of the lost crowns of Anglia, which, according to legend, protect the county from invasion. On digging the crown up, Paxton is stalked by its supernatural guardian."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Drama', 'TV Movie']
+xmas_genres = ['Horror', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-warning-to-the-curious/"""

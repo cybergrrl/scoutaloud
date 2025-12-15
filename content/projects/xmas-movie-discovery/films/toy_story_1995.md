@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Animation', 'Adventure']
+xmas_genres = ['Family', 'Comedy', 'Adventure', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/toy-story/"""

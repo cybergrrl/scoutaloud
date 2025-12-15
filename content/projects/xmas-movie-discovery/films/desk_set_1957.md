@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A computer expert tries to prove his electronic brain can replace a television network's research staff."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Oldies']
+xmas_genres = ['Comedy', 'Oldies', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/desk-set/"""

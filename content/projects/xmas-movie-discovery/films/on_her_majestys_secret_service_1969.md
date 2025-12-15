@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """James Bond tracks his archnemesis, Ernst Blofeld, to a mountaintop retreat in the Swiss alps where he is training an army of beautiful, lethal women. Along the way, Bond falls for Italian contessa Tracy Draco, and marries her in order to get closer to Blofeld."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Action', 'Adventure']
+xmas_genres = ['Thriller', 'Adventure', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/on-her-majestys-secret-service/"""

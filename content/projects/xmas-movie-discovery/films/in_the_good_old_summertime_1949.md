@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two co-workers in a music shop dislike one another during business hours but unwittingly carry on an anonymous romance through the mail."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Oldies', 'Music']
+xmas_genres = ['Comedy', 'Oldies', 'Music', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/in-the-good-old-summertime/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A queer lady holiday movie that follows the lives of three very different couples in dealing with their love lives in various loosely interrelated tales all set right before Christmas through New Years."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Queer']
+xmas_genres = ['Queer', 'Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/season-of-love/"""

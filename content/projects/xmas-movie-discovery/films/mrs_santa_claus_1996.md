@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Neglected by her husband during the pre-Christmas rush, Mrs. Claus takes the reindeer and sleigh out for a drive, only to end up stranded in the neighborhood of Manhattan's Lower East Side."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Music', 'Family', 'TV Movie', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Music', 'TV Movie', 'Family']
 
 [extra]
 film_url = """https://letterboxd.com/film/mrs-santa-claus/"""

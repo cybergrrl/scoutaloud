@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Fingers is planning a half-million-dollar bank robbery in gang boss Cobra Collins' territory. Fingers' moll Connie tries to bluff Cobra into thinking the hit won't be for another week when the call comes through saying it's now."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies', 'Crime']
+xmas_genres = ['Oldies', 'Crime', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/outside-the-law-1930/"""

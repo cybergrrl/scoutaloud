@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A team of explorers discover a clue to the origins of mankind on Earth, leading them on a journey to the darkest corners of the universe. There, they must fight a terrifying battle to save the future of the human race."""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Horror', 'Action', 'Adventure', 'Mystery']
+xmas_genres = ['Horror', 'Adventure', 'Mystery', 'Action', 'Science Fiction']
 
 [extra]
 film_url = """https://letterboxd.com/film/prometheus/"""

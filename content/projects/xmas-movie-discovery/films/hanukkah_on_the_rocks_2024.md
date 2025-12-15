@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A week before Hanukkah, recently unemployed lawyer Tory embarks on a journey to find Hanukkah candles, leading her to a Chicago bar where she transforms the holiday spirit, discovers love, and finds the courage to pursue a new path in life."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark']
+xmas_genres = ['Hanukkah', 'Hallmark', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/hanukkah-on-the-rocks/"""

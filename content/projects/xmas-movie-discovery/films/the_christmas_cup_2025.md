@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After an injury, Staff Sergeant Kelly Brandt returns home for the holidays and her family pushes her to get involved in the annual Christmas Cup against the rival town; with that, she teams up with Fire Captain Quinn Stokley."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark']
+xmas_genres = ['Hallmark', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-cup/"""

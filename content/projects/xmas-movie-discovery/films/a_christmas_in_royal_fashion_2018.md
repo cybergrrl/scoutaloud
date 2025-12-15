@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A handsome prince hopes to convince an American fashion company to bring more business to his kingdom. He hosts a Christmas fashion show, where he meets an intriguing young assistant."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Royal Christmas', 'TV Movie']
+xmas_genres = ['Royal Christmas', 'Drama', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-in-royal-fashion/"""

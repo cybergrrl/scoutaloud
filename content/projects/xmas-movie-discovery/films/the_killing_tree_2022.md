@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """On Christmas Eve, a scorned widow casts an ancient spell to resurrect her executed husband. However, when the spell goes wrong, the husband is brought back as an Evil Christmas Tree. Hell-bent on getting revenge on the one who caused his execution, the body count keeps rising as the Tree hunts her down."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-killing-tree/"""

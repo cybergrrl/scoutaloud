@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A burglar falls for an heiress as she dies in his arms. When he learns that he has the gift of reincarnation, he sets out to save her."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Mystery', 'Fantasy']
+xmas_genres = ['Fantasy', 'Drama', 'Mystery', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/winters-tale/"""

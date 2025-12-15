@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """On a quest to reconnect with the man of her dreams, Layla races across New York City to find a ticket to a sold-out Pentatonix Christmas Eve concert."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Musical']
+xmas_genres = ['Comedy', 'Musical', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/meet-me-next-christmas/"""

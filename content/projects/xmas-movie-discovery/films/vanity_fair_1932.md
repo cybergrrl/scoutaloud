@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In early 19th century England, ambitious and ruthless orphan Rebecca Sharp advances from the position of governess to the heights of British society."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/vanity-fair-1932/"""

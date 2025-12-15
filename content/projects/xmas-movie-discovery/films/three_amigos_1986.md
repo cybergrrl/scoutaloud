@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A trio of unemployed silent film actors are mistaken for real heroes by a small Mexican village in search of someone to stop a malevolent bandit."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Drama', 'Western', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Western', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/three-amigos/"""

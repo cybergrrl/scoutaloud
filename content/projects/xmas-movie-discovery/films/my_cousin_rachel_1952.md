@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young man plots revenge against the woman he believes murdered his cousin, but his plans are shaken when he comes face to face with the enigmatic beauty."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies', 'Mystery']
+xmas_genres = ['Oldies', 'Drama', 'Mystery', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/my-cousin-rachel/"""

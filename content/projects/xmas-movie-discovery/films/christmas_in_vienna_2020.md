@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Jess, a concert violinist whose heart just isn’t in it anymore, goes to Vienna for a performance. While there, she finds the inspiration she has been missing, and a new love."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-in-vienna-2020/"""

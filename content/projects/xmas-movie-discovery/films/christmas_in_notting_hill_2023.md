@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Football star, Graham Savoy, has always been too busy for love, but when he comes home to Notting Hill for Christmas, he changes his mind after meeting the one person who has no idea who he is."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-in-notting-hill/"""

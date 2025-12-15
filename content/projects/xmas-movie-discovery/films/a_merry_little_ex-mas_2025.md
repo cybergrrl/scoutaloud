@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """All Kate and Everett want for Christmas is an amicable divorce and one last holiday as a family, but new flames and old feelings complicate their plans."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Queer']
+xmas_genres = ['Queer', 'Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-merry-little-ex-mas/"""

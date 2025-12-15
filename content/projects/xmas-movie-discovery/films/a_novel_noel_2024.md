@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A successful New York book editor is chosen to run a bookstore in the small town of Saint Ives for the month of December."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-novel-noel/"""

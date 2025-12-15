@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A toy maker's creations display some very human -- and deadly -- tendencies."""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Horror']
+xmas_genres = ['Horror', 'Science Fiction']
 
 [extra]
 film_url = """https://letterboxd.com/film/silent-night-deadly-night-5-the-toy-maker/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A doctor returns home for Christmas to find that her father has decided to retire from his own practice. After reuniting with her high school sweetheart, she wonders if she should stay and take over her father's practice."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-cure/"""

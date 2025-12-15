@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """As Christmas approaches, a department store worker whose life lacks fulfillment meets her guardian angel, who offers her a chance to change her circumstances by magically transporting her to Christmases past whenever she tries on a new pair of shoes."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Fantasy', 'Romance', 'TV Movie', 'Hallmark']
+xmas_genres = ['Fantasy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-shoe-addicts-christmas/"""

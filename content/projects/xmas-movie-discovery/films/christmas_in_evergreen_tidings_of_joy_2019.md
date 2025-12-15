@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A skeptical writer shows up in Evergreen to get the scoop on the town's famed passion for Christmas during a search for a long-lost time capsule."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-in-evergreen-tidings-of-joy/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In this stop-motion animated holiday short, the Predator tangles with his most formidable foes yet – Santa and his reindeer."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'Science Fiction', 'Animation']
+xmas_genres = ['Horror', 'Comedy', 'Science Fiction', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-predator-holiday-special/"""

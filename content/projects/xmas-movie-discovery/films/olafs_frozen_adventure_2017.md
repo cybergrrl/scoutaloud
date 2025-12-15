@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Olaf is on a mission to harness the best holiday traditions for Anna, Elsa, and Kristoff."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Family', 'Animation', 'Adventure', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Adventure', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/olafs-frozen-adventure/"""

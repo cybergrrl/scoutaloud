@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A separated couple feign marital bliss on national television to help their town’s Christmas festival – and their business. But what will the future hold for them when rekindled love is complicated by new opportunities?"""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/cranberry-christmas/"""

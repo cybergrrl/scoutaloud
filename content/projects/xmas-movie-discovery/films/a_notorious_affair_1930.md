@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A scheming musician seduces a wealthy woman for love and money."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-notorious-affair/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An animated version, starring the Care Bears, of the fairy tale that inspired the famous ballet."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Fantasy', 'Comedy', 'Animation']
+xmas_genres = ['Family', 'Comedy', 'Fantasy', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/care-bears-nutcracker-suite/"""

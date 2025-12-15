@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A scorned woman dreams of revenge on the man who betrayed her."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/you-cant-buy-everything/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An early experimental television broadcast of Dickens's famous novel."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'A Christmas Carol', 'TV Movie', 'Fantasy']
+xmas_genres = ['Fantasy', 'TV Movie', 'A Christmas Carol', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-carol-1943/"""

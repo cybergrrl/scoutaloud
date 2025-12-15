@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A hard-working, single mom gets into a war of words with a neighbor who she feels is ruining Christmas, only to find that this misunderstood grouch just may steal her heart."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/noel-next-door/"""

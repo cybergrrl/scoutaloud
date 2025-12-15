@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When an antique nutcracker set to be auctioned at the Warby family Christmas charity goes missing, a demanding event planner and the heir to the Warby dynasty try to track it down."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/operation-nutcracker/"""

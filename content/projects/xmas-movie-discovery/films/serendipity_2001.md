@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Although strangers Sara and Jonathan are both already in relationships, they realize they have genuine chemistry after a chance encounter – but part company soon after. Years later, they each yearn to reunite, despite being destined for the altar. But to give true love a chance, they have to find one another again."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy']
+xmas_genres = ['Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/serendipity/"""

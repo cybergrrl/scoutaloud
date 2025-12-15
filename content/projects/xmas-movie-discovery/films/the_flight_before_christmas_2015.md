@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two strangers who both happen to be in marketing, share a room at a bed-and-breakfast when a snowstorm strands their flight in Montana on Christmas Eve."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Drama', 'TV Movie']
+xmas_genres = ['Comedy', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-flight-before-christmas-2015/"""

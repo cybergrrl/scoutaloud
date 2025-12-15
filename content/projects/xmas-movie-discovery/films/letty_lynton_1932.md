@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Socialite Letty Lynton is returning to New York, abandoning one-time lover Emile Renaul in South America, when she strikes up a shipboard romance with Jerry Darrow. Renault is waiting for her in New York and will not leave her alone, so she poisons him. When detectives take her to the D.A.s office, Jerry cooks up an alibi."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/letty-lynton/"""

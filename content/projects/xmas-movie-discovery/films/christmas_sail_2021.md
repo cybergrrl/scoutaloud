@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Liz returns home to take care of her estranged father, she is determined to give her daughter a perfect Christmas and reconnects with her best friend."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-sail/"""

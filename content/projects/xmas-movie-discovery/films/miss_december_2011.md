@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A dark romantic comedy about Ari, a young woman whose poor taste in men may be the death of her when she tries to find love with her would-be killer. The elusive Miss December killer has been terrorizing the city of Philadelphia, stalking and killing a different women each month in order to complete his morose calendar full of unwilling pin-ups."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/miss-december/"""

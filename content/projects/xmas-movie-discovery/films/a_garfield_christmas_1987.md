@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Garfield, Jon and Odie go to Jon's family farm for Christmas, where Garfield finds a present for Grandma."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Family', 'TV Movie', 'Animation', 'Adventure', 'Comedy']
+xmas_genres = ['Comedy', 'Music', 'Adventure', 'TV Movie', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-garfield-christmas/"""

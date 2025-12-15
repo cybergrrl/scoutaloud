@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Isobel Gray plans a storybook Christmas with her boyfriend, including a snow-covered cottage in the Northwest, and a carefully composed bucket list of classic holiday traditions. But when the boyfriend goes AWOL, the list proves challenging and a tempting new romance turns her life upside down. Will Isobel have a White Christmas ending under the mistletoe?"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-list/"""

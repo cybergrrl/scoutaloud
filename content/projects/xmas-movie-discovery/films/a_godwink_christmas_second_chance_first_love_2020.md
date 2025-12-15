@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After 15 years, Pat moves home from Hawaii with his two sons and through a series of coincidences, or Godwinks, ends up stuck in traffic next to his high school sweetheart, Margie, at Christmas."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-godwink-christmas-second-chance-first-love/"""

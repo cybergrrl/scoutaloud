@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Virginia, who studies at a boarding school for upper-class girls, falls in love with a medical intern who works as a waiter for a living. Both the director of the school and her mother oppose such a relationship."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/finishing-school/"""

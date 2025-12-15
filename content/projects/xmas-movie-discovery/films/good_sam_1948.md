@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sam Clayton has a good heart and likes to help out people in need. In fact, he likes to help them out so much that he often finds himself broke and unable to help his own family buy the things they need--like a house."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Oldies', 'Drama']
+xmas_genres = ['Comedy', 'Oldies', 'Romance', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/good-sam/"""

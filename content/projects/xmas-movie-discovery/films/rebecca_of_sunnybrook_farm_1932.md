@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young girl from Sunnybrook goes to live with her wealthy relatives and falls in love with a doctor. Adapted from Kate Douglas Wiggin's famous novel."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/rebecca-of-sunnybrook-farm-1932/"""

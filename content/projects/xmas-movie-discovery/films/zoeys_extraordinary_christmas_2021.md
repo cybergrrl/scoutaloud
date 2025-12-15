@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """On her first holiday without her father, Zoey attempts to create a magical Christmas for her family just like the ones Mitch used to do."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Queer', 'Music', 'TV Movie', 'Comedy']
+xmas_genres = ['Comedy', 'Queer', 'Music', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/zoeys-extraordinary-christmas/"""

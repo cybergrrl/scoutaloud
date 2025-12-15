@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A barber turns down a promising business venture in order to take his sick son to a drier climate out west."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-sins-of-the-children/"""

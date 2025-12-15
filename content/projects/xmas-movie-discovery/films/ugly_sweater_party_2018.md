@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An ugly sweater party turns into a bloodbath when an evil Christmas sweater possesses one of the partygoers."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/ugly-sweater-party/"""

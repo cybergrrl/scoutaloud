@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Single mom Abbey takes a leap of faith to pursue her passion for interior design. When she gets hired to decorate the estate of local businessman Nick, Abbey must complete the job by Christmas Eve. With the holidays fast approaching, Abbey must figure out how to break down the wall between her and Nick, as this could be the opportunity that jump-starts her career."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-wishes-mistletoe-kisses/"""

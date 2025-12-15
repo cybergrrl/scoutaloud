@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The passing of a beloved old neighbor reunites six friends for a hometown holiday treasure hunt, where sparks fly once again between brand strategist Austin and his former best friend Everett."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Queer', 'TV Movie']
+xmas_genres = ['Queer', 'Comedy', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-to-treasure/"""

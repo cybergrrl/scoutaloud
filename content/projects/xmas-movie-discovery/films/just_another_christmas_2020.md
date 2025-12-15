@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After taking a very nasty fall on Christmas Eve, grinchy Jorge blacks out and wakes up one year later, with no memory of the year that has passed. He soon realizes that he’s doomed to keep waking up on Christmas Eve after Christmas Eve, having to deal with the aftermath of what his other self has done the other 364 days of the year."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Drama', 'Family', 'Global', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Global', 'Family', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/just-another-christmas/"""

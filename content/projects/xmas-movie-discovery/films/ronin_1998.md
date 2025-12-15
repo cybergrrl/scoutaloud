@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A briefcase with undisclosed contents – sought by Irish terrorists and the Russian mob – makes its way into criminals' hands. An Irish liaison assembles a squad of mercenaries, or 'ronin', and gives them the thorny task of recovering the case."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Action', 'Crime']
+xmas_genres = ['Thriller', 'Crime', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/ronin/"""

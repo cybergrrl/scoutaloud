@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A webpage editor spending the holidays alone is drawn into an unusual encounter when she encounters a stray dog."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/happy-howlidays/"""

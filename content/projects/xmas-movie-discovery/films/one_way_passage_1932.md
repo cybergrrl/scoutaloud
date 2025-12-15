@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A terminally ill woman and a debonair murderer facing execution meet and fall in love on a trans-Pacific crossing, each without knowing the other's secret."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/one-way-passage/"""

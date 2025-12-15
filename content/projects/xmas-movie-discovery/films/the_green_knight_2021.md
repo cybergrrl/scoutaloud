@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur's reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Adventure', 'Fantasy']
+xmas_genres = ['Fantasy', 'Adventure', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-green-knight/"""

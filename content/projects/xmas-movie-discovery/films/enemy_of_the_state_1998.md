@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When the videotape of the murder of a congressman unknowingly ends up in the hands of labor lawyer and dedicated family man Robert Clayton Dean, he is framed for the murder. With the help of the mysterious Brill, Dean attempts to throw the NSA off his trail and prove his innocence."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Thriller', 'Action']
+xmas_genres = ['Thriller', 'Drama', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/enemy-of-the-state/"""

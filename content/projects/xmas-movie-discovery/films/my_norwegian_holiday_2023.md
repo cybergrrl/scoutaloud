@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """JJ, grieving the loss of her grandmother, jumps at the chance to join a new friend, Henrik, on a trip to Norway to discover her grandmother’s history and look into how she landed a troll figurine from his hometown."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/my-norwegian-holiday/"""

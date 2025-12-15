@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A charitable and spirited Newport socialite in 1905 finds out her father intends for her to become engaged to a man she’s never met at the upcoming Christmas Eve ball. When she wishes for a different life, a man appears — and she somehow time-travels to 2025."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Fantasy', 'Hallmark']
+xmas_genres = ['Fantasy', 'Hallmark', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-newport-christmas/"""

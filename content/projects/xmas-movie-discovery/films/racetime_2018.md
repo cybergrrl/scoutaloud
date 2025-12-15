@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A spectacular sled race through the village. Frankie-Four-Eyes and his team, including Sophie as the driver, take on the newcomers: the mysterious and conceited Zac and his athletic cousin Charlie."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Animation', 'Adventure']
+xmas_genres = ['Family', 'Comedy', 'Adventure', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/racetime/"""

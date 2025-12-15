@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """There’s nothing like the holidays in Apocalypseburg!"""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Animation', 'Fantasy']
+xmas_genres = ['Family', 'Comedy', 'Fantasy', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/emmets-holiday-party-a-lego-movie-short/"""

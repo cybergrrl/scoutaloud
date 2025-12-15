@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A stuffy family man cheats on his wife but she refuses him a divorce at first. Meanwhile his mistress resents her second class status."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/husbands-holiday/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """While her life is falling apart, single mother Christine finds a magical family heirloom that leads to love and good fortune during Christmas."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'Family', 'TV Movie', 'Hallmark']
+xmas_genres = ['Hallmark', 'TV Movie', 'Family', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-secret-2014/"""

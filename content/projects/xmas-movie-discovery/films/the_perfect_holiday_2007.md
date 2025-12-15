@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Nancy Taylor, a divorced mother of three, feels especially lonely during the holidays. All she wants for Christmas is to meet a nice man - even just a nice compliment would make her day. Sensing her sadness, Nancy's little girl, Emily, has a plan to make her mom happy again. She shares her Mommy's wish with shopping mall Santa, Benjamin Armstrong. And Benjamin, who is also a struggling songwriter, knows exactly the right words to say."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'Comedy', 'Drama']
+xmas_genres = ['Family', 'Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-perfect-holiday/"""

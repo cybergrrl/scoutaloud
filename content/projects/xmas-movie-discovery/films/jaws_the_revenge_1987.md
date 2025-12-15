@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After another deadly shark attack, Ellen Brody decides she has had enough of New England's Amity Island and moves to the Caribbean to join her son, Michael, and his family. But a great white shark has followed her there, hungry for more lives."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Thriller', 'Action', 'Adventure']
+xmas_genres = ['Horror', 'Thriller', 'Adventure', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/jaws-the-revenge/"""

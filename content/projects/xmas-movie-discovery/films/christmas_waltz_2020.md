@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After Avery’s storybook Christmas wedding is canceled unexpectedly, dance instructor Roman helps her rebuild her dreams."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-waltz/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """From the depths of Hell, the lord of darkness summons the demon Christmas spirit Krampus to wreak havoc on the living and only BIGFOOT can stop him."""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Horror']
+xmas_genres = ['Horror', 'Science Fiction']
 
 [extra]
 film_url = """https://letterboxd.com/film/bigfoot-vs-krampus/"""

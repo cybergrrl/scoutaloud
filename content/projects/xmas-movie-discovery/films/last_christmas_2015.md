@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Six people celebrate Christmas together close to the Swedish-Norwegian border. In no way will the old myth of the Yule Goat, a creature who knocks on doors around Yule, come to life and present a problem."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'Drama']
+xmas_genres = ['Horror', 'Comedy', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/last-christmas-2015/"""

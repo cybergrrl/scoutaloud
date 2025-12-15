@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A Christmas Carol was a 1949 syndicated, black and white television special narrated by Vincent Price."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'A Christmas Carol', 'Drama', 'TV Movie']
+xmas_genres = ['Fantasy', 'TV Movie', 'A Christmas Carol', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-carol/"""

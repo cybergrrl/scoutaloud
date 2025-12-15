@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a young widow's magic scarf brings a dashing snowman to life, can he help her rediscover romance, laughter and holiday cheer before he melts away?"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy']
+xmas_genres = ['Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/hot-frosty/"""

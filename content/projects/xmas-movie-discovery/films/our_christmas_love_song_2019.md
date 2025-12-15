@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When country star Melody Jones is accused of plagiarizing her holiday single, she returns home to spend Christmas with her estranged family and old flame and learns what is important in life."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/our-christmas-love-song/"""

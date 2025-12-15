@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Considered to be lost."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Horror']
+xmas_genres = ['Horror', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-right-to-be-happy/"""

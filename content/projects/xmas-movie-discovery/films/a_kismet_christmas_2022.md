@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sarah is a children’s book author who returns to her hometown, where she reconnects with her family and Travis, her teenage crush. She soon discovers that a long-held family legend might actually be true."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-kismet-christmas/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Max, an angel in exile, walks around the United States to help humans. In a small town in Maine, he meets a young woman without a family named Sally. As she struggles to get custody of her younger brother, Max immediately believes that his new mission is to help Sally. But Jo, a strict angel, is sent to explain to his colleague that this is not exactly what is expected of him. Indeed, Max's mission is not to help Sally, but Karl, the manager of a small factory of Christmas decorations. His business is barely surviving because its traditional products do not meet the success of yesteryear. First bored, Max notices that Karl knows Sally ..."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Fantasy', 'Family', 'TV Movie', 'Hallmark']
+xmas_genres = ['Fantasy', 'Hallmark', 'TV Movie', 'Family', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/when-angels-come-to-town/"""

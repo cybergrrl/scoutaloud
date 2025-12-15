@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two rival toy shop owners reluctantly join forces when an unscrupulous toy magnate opens a box store in their town."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'TV Movie']
+xmas_genres = ['Family', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-very-merry-toy-store/"""

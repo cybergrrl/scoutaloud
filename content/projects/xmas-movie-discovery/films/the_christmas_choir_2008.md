@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A chance encounter with a homeless man named Bob inspires a workaholic accountant to start a choir at a homeless shelter, allowing him to find a purpose to his life and discover the power of music, while providing the choir members with a chance at a new, better life."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-choir/"""

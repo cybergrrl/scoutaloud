@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Royston Vasey's miserable vicar, the Reverend Bernice Woodall, is in a typically un-festive mood, haunted by a terrible Christmas memory, when three visitors appear at her church, each with their own chilling tale to recall."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'TV Movie']
+xmas_genres = ['Horror', 'Comedy', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-league-of-gentlemens-christmas-special/"""

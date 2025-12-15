@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Fantasy', 'Music', 'Family', 'Musical', 'Comedy', 'A Christmas Carol']
+xmas_genres = ['Fantasy', 'Comedy', 'Music', 'A Christmas Carol', 'Musical', 'Family', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-muppet-christmas-carol/"""

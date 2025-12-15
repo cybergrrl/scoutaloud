@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A college professor connects with a guide dog trainer after losing his eyesight and adopting a seeing eye dog."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/my-christmas-guide/"""

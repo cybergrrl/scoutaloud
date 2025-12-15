@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In 1958, Maggie is an heiress from Philadelphia who puts her high-society wedding plans on hold in order to sneak to New York City and make her secret dream of dancing live on stage in the Christmas Spectacular at Radio City Music Hall come true."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-holiday-spectacular/"""

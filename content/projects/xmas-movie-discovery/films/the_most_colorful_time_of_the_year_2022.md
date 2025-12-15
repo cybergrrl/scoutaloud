@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Ryan is an elementary school teacher, who learns that he is colorblind. Michelle, an optometrist, and mother of one of his students, helps bring color into his life in time for the holidays."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-most-colorful-time-of-the-year/"""

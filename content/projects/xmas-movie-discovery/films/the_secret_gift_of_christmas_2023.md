@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Bonnie is a personal shopper who helps her new, widowed client Patrick reconnect with his young daughter. Though Bonnie and Patrick's ideas of shopping couldn't be more different, she is determined to get Patrick and his daughter everything on their wish list."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-secret-gift-of-christmas/"""

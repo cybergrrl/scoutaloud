@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Tom Jacobs is Mr Christmas! He's built an entire business around helping clients find the perfect gift. But what happens when he falls for one lucky recipient?"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-perfect-christmas-present/"""

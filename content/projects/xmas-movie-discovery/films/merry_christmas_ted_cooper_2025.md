@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A Christmas-loving weatherman has had a tough year; upon returning to his hometown, he bumps into a former teacher who always cheered him on, and his former crush — and things start to look up."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark']
+xmas_genres = ['Comedy', 'Hallmark', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/merry-christmas-ted-cooper/"""

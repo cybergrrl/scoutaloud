@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """As Christmas approaches, ambitious Mel struggles to host a grand Eve dinner for his “Santa” business and, seeing his younger self in hapless employee Grzesiek, vows to save him from repeating old mistakes. Meanwhile, Karina and Szczepan’s quiet holiday is disrupted by a burst pipe that introduces repairman Lucek and stranded traveler Józek into their home. And Wojciech, fresh from London, plans a serene reunion, until he meets mysterious Ewa, who’s flown in to see an internet love."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Global']
+xmas_genres = ['Comedy', 'Global', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/letters-to-santa-6/"""

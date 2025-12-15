@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Three interconnected tales of technology run amok during the Christmas season are told by two men at a remote outpost in a frozen wilderness."""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Horror', 'Drama', 'Thriller', 'TV Movie']
+xmas_genres = ['Horror', 'Thriller', 'TV Movie', 'Science Fiction', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/black-mirror-white-christmas/"""

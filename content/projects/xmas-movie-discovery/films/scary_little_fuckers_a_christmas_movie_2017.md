@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """It's Christmas eve. An inebriated dad brings home to his adolescent son a gift he hopes will mend their faltering relationship, a Fookah, a devilish and disgusting creature that in turns wrecks havoc on their lives."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/scary-little-fuckers-a-christmas-movie/"""

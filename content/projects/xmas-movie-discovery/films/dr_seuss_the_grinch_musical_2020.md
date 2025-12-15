@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A musical version of the classic story of the mean spirited Grinch who plots to steal Christmas from Whoville."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Family', 'Music', 'Musical', 'TV Movie']
+xmas_genres = ['Fantasy', 'Music', 'Musical', 'TV Movie', 'Family']
 
 [extra]
 film_url = """https://letterboxd.com/film/dr-seuss-the-grinch-musical/"""

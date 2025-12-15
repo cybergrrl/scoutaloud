@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Arthur, D.W., and their family and friends prepare to make the best Christmas ever in Elwood City - but obstacles get in their way."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Animation', 'TV Movie']
+xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/arthurs-perfect-christmas-2000-1/"""

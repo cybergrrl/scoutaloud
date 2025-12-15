@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """All roads lead to magical, merry Toyland as Mary Contrary and Tom Piper prepare for their wedding! But villainous Barnaby wants Mary for himself, so he kidnaps Tom, setting off a series of comic chases, searches, and double-crosses! The "March Of The Wooden Soldiers" helps put Barnaby in his place, and ensures a "happily ever after" for Tom and Mary!"""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Family', 'Music', 'Musical', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Music', 'Musical', 'Family']
 
 [extra]
 film_url = """https://letterboxd.com/film/babes-in-toyland/"""

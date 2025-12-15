@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A veteran cop and an unstable detective become partners who must put their differences aside in order to bring down a heroin-smuggling ring run by ex-Special Forces."""
 
 [taxonomies]
-xmas_genres = ['Action', 'Crime', 'Thriller', 'Adventure', 'Comedy']
+xmas_genres = ['Comedy', 'Adventure', 'Action', 'Thriller', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/lethal-weapon/"""

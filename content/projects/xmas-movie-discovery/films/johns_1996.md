@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """It's the day before Christmas, the day before John's 21st birthday. He's a prostitute on Santa Monica Blvd in L.A., and he wants to spend that night and the next day at the posh Park Plaza Hotel. Meanwhile, Donner, a lad new to the streets, wants John to leave the city with him. John spends the day trying to figure out how to deal with Donner's friendship."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama']
+xmas_genres = ['Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/johns/"""

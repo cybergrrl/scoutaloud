@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Overwhelmed widower Seth Webster is searching for a housekeeper to help him with his unruly six year old twin sons. "Mrs. Miracle" mysteriously appears and quickly becomes an irreplaceable nanny, chef, friend... and matchmaker."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Hallmark', 'Family', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Hallmark', 'TV Movie', 'Family', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/mrs-miracle/"""

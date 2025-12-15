@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A successful businesswoman, Mackenzie, inherits her beloved aunt's inn, and chooses to restore the hotel to its original grandeur only to sell it right before Christmas. Unbeknownst to Mackenzie, she receives some unexpected help from a team of elves headed by the cheerful Clementine, who helps Mackenzie rediscover the true meaning of Christmas."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Fantasy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Family', 'TV Movie', 'Hallmark', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/northpole-open-for-christmas/"""

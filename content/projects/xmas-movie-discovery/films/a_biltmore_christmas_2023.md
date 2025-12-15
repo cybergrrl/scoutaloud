@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Lucy is hired to write the script for a remake of a holiday movie. She joins a tour of the grounds and when she knocks an hourglass over, she finds herself transported back in time to 1946."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Fantasy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Fantasy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-biltmore-christmas/"""

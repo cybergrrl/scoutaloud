@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two competing TV hosts are sent to a festive small town over Christmas. While pretending to get along for the sake of appearances, they discover that there’s more to each other than they thought."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/good-morning-christmas/"""

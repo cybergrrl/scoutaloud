@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The sequel to the 2022 film. Plot TBA."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Action', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/violent-night-2/"""

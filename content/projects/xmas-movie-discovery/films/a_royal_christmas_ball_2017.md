@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Dateless for the Christmas ball, 39-year-old bachelor, King Charles of Baltania, tracks down his American college sweetheart, only to discover Allison has never been married, yet raised a 17-year-old daughter, Lily, who mathematically might be Charles' biological princess."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Royal Christmas', 'TV Movie']
+xmas_genres = ['Royal Christmas', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-royal-christmas-ball/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Margot, a world-renowned pianist, returns to Chateau Newhaus to spend the holidays with her family and is reunited with an ex who helps her rediscover her passion for music."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/chateau-christmas/"""

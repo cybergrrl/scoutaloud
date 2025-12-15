@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Naughty or Nice inspector Isabel Haynes doesn’t anticipate anything out of the ordinary when she’s assigned to evaluate 11-year-old Charlie Duncan. However, soon, Isabel falls for Charlie’s widowed father Jason, which makes her question the rigid rules of her job. As Christmas approaches, Isabel must choose between following the holiday algorithm or following her heart."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/shes-making-a-list/"""

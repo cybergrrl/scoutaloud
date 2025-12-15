@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The Winter Feast is Po's favorite holiday. Every year he and his father hang decorations, cook together, and serve noodle soup to the villagers. But this year Shifu informs Po that as Dragon Warrior, it is his duty to host the formal Winter Feast at the Jade Palace. Po is caught between his obligations as the Dragon Warrior and his family traditions: between Shifu and Mr. Ping."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Family', 'Animation', 'TV Movie', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'TV Movie', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/kung-fu-panda-holiday/"""

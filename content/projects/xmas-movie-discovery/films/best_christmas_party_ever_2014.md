@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """With the holidays approaching, a young party planner arranges a special Christmas party for a New York toy store. When a powerful corporation threatens to shut her down, she decides to follow her heart, moving forward with the party plans and finding true love in time for Christmas."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Hallmark', 'Comedy', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/best-christmas-party-ever/"""

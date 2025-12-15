@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Max Causey was six, he accidentally killed Santa. 12 years later, Max rectifies his mistake by resurrecting him, but soon realizes the creature he created is a bloodthirsty killer and it's headed right to his friend's Christmas party."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'Fantasy']
+xmas_genres = ['Horror', 'Comedy', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/santastein/"""

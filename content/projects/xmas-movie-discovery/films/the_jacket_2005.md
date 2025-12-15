@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A military veteran goes on a journey into the future, where he can foresee his death and is left with questions that could save his life and those he loves."""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Drama', 'Fantasy', 'Action', 'Thriller', 'Mystery']
+xmas_genres = ['Fantasy', 'Mystery', 'Action', 'Thriller', 'Science Fiction', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-jacket/"""

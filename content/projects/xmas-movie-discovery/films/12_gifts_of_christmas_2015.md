@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Anna Parisi, an unemployed fine arts painter, is unable to make ends meet, she is hired to become a personal Christmas shopper for Marc, an uptight corporate exec. As they begin working together, Marc learns that Christmas giving has less to do with the amount of money spent and more to do with the importance of the gift, while Anna discovers she might find success as an artist in a way she never expected. The best gift of all of course is the love they discover with one another."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Family', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/12-gifts-of-christmas/"""

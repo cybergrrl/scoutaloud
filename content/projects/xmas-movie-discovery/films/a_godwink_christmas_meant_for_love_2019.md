@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Multiple coincidences and a chance meeting bring together Alice and Jack, two strangers from very different family backgrounds, for an unexpected Christmastime courtship filled with personal revelations, misread signals, and a very real health scare that will either destroy or strengthen the budding romance."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-godwink-christmas-meant-for-love/"""

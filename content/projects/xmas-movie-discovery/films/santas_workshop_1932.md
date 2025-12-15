@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Santa's little helpers must hurry to finish the toys before Christmas Day."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Oldies', 'Comedy', 'Animation']
+xmas_genres = ['Fantasy', 'Comedy', 'Oldies', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/santas-workshop/"""

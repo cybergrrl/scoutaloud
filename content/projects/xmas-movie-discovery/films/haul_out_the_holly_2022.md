@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Emily arrives home, hoping to visit her parents, only to discover that they are leaving on a trip of their own. As she stays at their house for the holidays, their HOA is determined to get Emily to participate in the neighborhood’s many Christmas festivities."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/haul-out-the-holly/"""

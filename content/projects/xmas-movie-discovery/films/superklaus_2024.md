@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Santa Claus's wish comes true when he accidentally bumps his head and starts believing he's SuperKlaus. With the help of Billie and Leo his elf-xecutive assistant, SuperKlaus will take on a toy-obsessed businessman to save Christmas."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Animation', 'Adventure']
+xmas_genres = ['Family', 'Comedy', 'Adventure', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/superklaus/"""

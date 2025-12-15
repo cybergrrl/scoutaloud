@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Despite recently going on a break, couple Liv and Daniel had planned to host their families together for Christmas. So, they decide to keep their original plans and pretend to still be together for the holidays."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-make-or-break-holiday/"""

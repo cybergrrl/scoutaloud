@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Single mother Ryan has just about given up on dating after her divorce, happily accepting her young son as the most important man in her life. That all changes when Ryan's brother Owen, also feeling unlucky in love after a bad breakup, swaps his home in their small North Carolina town with New York City adman Sean."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Family', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/finding-christmas/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Boy who thought his father a war hero finds he was really a deserter."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/tom-brown-of-culver/"""

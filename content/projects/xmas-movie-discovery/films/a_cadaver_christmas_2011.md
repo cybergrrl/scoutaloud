@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a dark force takes over the morgue during the Christmas holiday, a ragtag band of heroes has to save humanity from the growing army of the walking dead."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-cadaver-christmas/"""

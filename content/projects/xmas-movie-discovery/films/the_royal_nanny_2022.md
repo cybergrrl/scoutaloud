@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Claire is an MI5 agent who goes undercover as the royal nanny. She must overcome the challenges of her assignment, like resisting the charms of Prince Colin, while keeping the family safe at Christmas."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-royal-nanny/"""

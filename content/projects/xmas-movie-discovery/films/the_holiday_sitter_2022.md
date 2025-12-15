@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sam is a workaholic bachelor who babysits his niece and nephew before the holidays when his sister and her husband have to go out of town. Completely out of his element, he recruits help from their handsome neighbor Jason and finds himself in an unexpected romance."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Queer', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-holiday-sitter/"""

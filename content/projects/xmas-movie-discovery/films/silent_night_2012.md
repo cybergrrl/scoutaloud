@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """As their small Midwestern town prepares for its annual Christmas Eve parade, a sheriff and his deputy discover that a maniac in a Santa suit is murdering those he judges as naughty."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Thriller', 'Mystery', 'Horror']
+xmas_genres = ['Horror', 'Comedy', 'Thriller', 'Mystery']
 
 [extra]
 film_url = """https://letterboxd.com/film/silent-night-2012/"""

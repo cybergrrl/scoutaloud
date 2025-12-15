@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Santa has been turned into a vampire, and only Billy and Mandy can turn him back and save Christmas."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Fantasy', 'Action', 'Family', 'TV Movie', 'Animation', 'Adventure', 'Comedy']
+xmas_genres = ['Horror', 'Fantasy', 'Comedy', 'Adventure', 'Action', 'TV Movie', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/billy-and-mandy-save-christmas/"""

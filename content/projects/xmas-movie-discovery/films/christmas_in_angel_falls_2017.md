@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Gabby Messinger, a Guardian Angel who has trouble following the rules and is known for meddling in the love live’s of others, is tasked by the Angel Michael to help the town of Angel Falls find its Christmas spirit again."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-in-angel-falls/"""

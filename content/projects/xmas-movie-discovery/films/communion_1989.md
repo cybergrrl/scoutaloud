@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A novelist's wife and son see him changed by an apparent encounter with aliens in the mountains."""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Thriller', 'Horror', 'Drama']
+xmas_genres = ['Horror', 'Thriller', 'Science Fiction', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/communion/"""

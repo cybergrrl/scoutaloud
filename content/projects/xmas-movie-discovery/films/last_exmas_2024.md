@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Maggie and Julianne are ex-girlfriends who unexpectedly rekindle the spark during a hometown visit for the holidays. Are they meant to be? They'll have to navigate their feelings, the gossiping town, and ghosts of exes past to find out."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Queer']
+xmas_genres = ['Queer', 'Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/last-exmas/"""

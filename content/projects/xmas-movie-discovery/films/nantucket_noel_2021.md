@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """During the Seaside Noel celebrations, Christin learns of a developer who is planning to tear down the wharf that is home to her toy store. Tensions rise as she falls for the developer's son, Andy."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/nantucket-noel/"""

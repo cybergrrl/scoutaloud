@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Nicky finds an unopened Christmas card from a high school secret admirer, she and her best friend Simone search to find and thank the anonymous author."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/open-by-christmas/"""

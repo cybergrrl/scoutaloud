@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When an evil spirit known as Pitch lays down the gauntlet to take over the world, the immortal Guardians must join forces for the first time to protect the hopes, beliefs and imagination of children all over the world."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Action', 'Family', 'Animation', 'Adventure']
+xmas_genres = ['Fantasy', 'Adventure', 'Action', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/rise-of-the-guardians/"""

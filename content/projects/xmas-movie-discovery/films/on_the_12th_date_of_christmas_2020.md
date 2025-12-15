@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two seemingly incompatible game designers team up to create a romantic, city-wide scavenger hunt themed for the "12 Days of Christmas.""""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/on-the-12th-date-of-christmas/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The gingerdead man travels back in time to 1976 and carries out an epic disco killing spree."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'Science Fiction']
+xmas_genres = ['Horror', 'Comedy', 'Science Fiction']
 
 [extra]
 film_url = """https://letterboxd.com/film/gingerdead-man-3-saturday-night-cleaver/"""

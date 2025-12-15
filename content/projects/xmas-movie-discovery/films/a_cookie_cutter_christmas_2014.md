@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two longtime rivals and elementary school teachers duke it out during the holidays in a Christmas cookie bake-off, but their real feud ignites over a shared interest in a handsome single dad. With both determined to win the prize and the romance, their competitiveness could jeopardize what matters most this Christmas season."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-cookie-cutter-christmas/"""

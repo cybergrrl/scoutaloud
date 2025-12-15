@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Charlie, Itchy and Sasha itch and scratch their way through everything and anything in an effort to save Christmas from the wicked hellhound Belladonna, who wants to use dogs from all over the world to ruin Christmas."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Animation', 'A Christmas Carol']
+xmas_genres = ['Family', 'Comedy', 'A Christmas Carol', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/an-all-dogs-christmas-carol/"""

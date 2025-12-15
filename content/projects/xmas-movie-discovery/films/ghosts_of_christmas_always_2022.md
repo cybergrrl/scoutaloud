@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Katherine is a Ghost of Christmas Present and she must help one soul, Peter, rediscover his Christmas spirit. But this year has something unusual in store."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/ghosts-of-christmas-always/"""

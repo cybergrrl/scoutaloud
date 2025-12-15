@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'Fantasy']
+xmas_genres = ['Horror', 'Comedy', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/gremlins/"""

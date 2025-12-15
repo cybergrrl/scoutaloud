@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Right before Christmas, realtor Abigail agrees to help her sister with what she believes will be an easy flip of an inherited home. Things get tricky when the co-beneficiary Bo has a different idea."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/flipping-for-christmas/"""

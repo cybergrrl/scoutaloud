@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """For years Lucy has played Santa to her small town’s community by making their holiday wishes come true. But when Lucy grants a little girl’s wish for a Christmas like she used to have with her mom, she unexpectedly finds her own wishes coming true in life and love."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'Hallmark', 'TV Movie']
+xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/project-christmas-wish/"""

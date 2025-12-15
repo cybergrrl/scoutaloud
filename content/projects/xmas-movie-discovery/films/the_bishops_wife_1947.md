@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An Episcopal Bishop, Henry Brougham, has been working for months on the plans for an elaborate new cathedral which he hopes will be paid for primarily by a wealthy, stubborn widow. He is losing sight of his family and of why he became a churchman in the first place. Enter Dudley, an angel sent to help him. Dudley does help everyone he meets, but not necessarily in the way they would have preferred. With the exception of Henry, everyone loves him, but Henry begins to believe that Dudley is there to replace him, both at work and in his family's affections, as Christmas approaches."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Oldies', 'Drama', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-bishops-wife/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young girl named Addie, living in Nebraska in 1946 wants nothing more for the holidays than a Christmas tree, but her widowed father, is bitter and refuses due to events from the family's past."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Drama', 'TV Movie']
+xmas_genres = ['Family', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-house-without-a-christmas-tree/"""

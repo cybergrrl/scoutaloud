@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Serial killing cookie, Gingerdead Man, tracks down the lone survivor of his murderous rampage, who unleashes the Evil Bong once again."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/gingerdead-man-vs-evil-bong/"""

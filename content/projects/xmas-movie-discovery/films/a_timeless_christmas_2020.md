@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Charles Whitley travels from 1903 to 2020 where he meets Megan Turner, a tour guide at his historic mansion, and experiences a 21st Century Christmas."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-timeless-christmas/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Burned out from the hubbub of the Chicago gallery world, artist Kelly returns home to the picturesque Grand Valley just in time for Christmas. Leo, businessman and all-star dad to his children, struggles to balance his time this holiday season. When he is assigned to review a hotel in Grand Valley for its value, he sees this as the perfect opportunity for a Christmas family vacation. It isn’t long until Kelly and Leo’s worlds collide."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'Hallmark', 'TV Movie']
+xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-at-grand-valley/"""

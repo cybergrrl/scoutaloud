@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """To celebrate their engagement, Thea takes Jashan home — but his Indian roots and her family's Norwegian traditions clash in a chaotic Christmas."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Global', 'Drama']
+xmas_genres = ['Comedy', 'Drama', 'Global', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-as-usual/"""

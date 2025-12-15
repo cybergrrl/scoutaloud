@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Tearjerker about an estranged couple and their terminally ill son."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Global']
+xmas_genres = ['Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/this-is-love-1978/"""

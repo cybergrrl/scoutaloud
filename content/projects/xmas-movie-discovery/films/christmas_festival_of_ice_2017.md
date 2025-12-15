@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young woman faces her future as a lawyer in a small New England town where the annual Christmas ice sculpting competition in which she and her father have always competed has been cancelled. Working to save the festival, she meets a reluctant sculptor who reignites her passion, in more ways than one."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-festival-of-ice/"""

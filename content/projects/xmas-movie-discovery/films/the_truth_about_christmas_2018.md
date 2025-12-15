@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Jillian, a successful political consultant whose next big project is the upcoming mayoral campaign for her boyfriend, is on the way to meet George’s family for the first time. After an unusual confrontation with a toy store Santa, Jillian can’t stop herself from wildly spilling the truth. Jillian must find a way to make it stop before her holidays, her job and her relationship are ruined."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Drama', 'TV Movie']
+xmas_genres = ['Comedy', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-truth-about-christmas/"""

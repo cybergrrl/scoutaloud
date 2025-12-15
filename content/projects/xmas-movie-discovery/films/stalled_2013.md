@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A janitor gets trapped in a women's restroom and encounters an all-out attack by a horde of zombies."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/stalled/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """France, 1914, during World War I. On Christmas Eve, an extraordinary event takes place in the bloody no man's land that the French and the Scots dispute with the Germans…"""
 
 [taxonomies]
-xmas_genres = ['War', 'Drama', 'Romance', 'Global', 'History']
+xmas_genres = ['Romance', 'War', 'History', 'Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/joyeux-noel/"""

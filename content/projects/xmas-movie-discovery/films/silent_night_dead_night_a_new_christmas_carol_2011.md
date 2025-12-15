@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Charles Dickens' classic heart warming tale...not really. The Jewish mafia has decided to steal Scrooge's whoring business and ruin the holidays; all the while Scrooge is visited by the three ghosts of Christmas, who attempt to show him the errors of his greedy ways."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'Crime']
+xmas_genres = ['Horror', 'Comedy', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/silent-night-dead-night-a-new-christmas-carol/"""

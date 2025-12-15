@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A year after Amber helped Richard secure the crown. The two are set to tie the knot in a royal Christmas wedding — but their plans are jeopardized when Amber finds herself second-guessing whether or not she's cut out to be queen, and Richard is faced with a political crisis that threatens to tarnish not only the holiday season but the future of the kingdom."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Royal Christmas', 'TV Movie']
+xmas_genres = ['Comedy', 'TV Movie', 'Romance', 'Royal Christmas']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-prince-the-royal-wedding/"""

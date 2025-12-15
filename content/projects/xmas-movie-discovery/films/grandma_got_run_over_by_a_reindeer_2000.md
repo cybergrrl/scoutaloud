@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When his beloved Grandma appears to be missing on Christmas Eve, young Jake Spankenheimer goes on the misadventure of a lifetime to try and prove that Santa Claus is indeed real. With his spirit, smarts and determination, Jake must outmaneuver his greedy and curvaceous Cousin Mel and the all-powerful businessman Austin Bucks to the disbelief of his doting parents, rebellious sister and goofy Grandpa. All the while, it is up to Jake to save Santa from his fretful fate in this colorful Christmas mystery."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Family', 'Animation', 'TV Movie', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'TV Movie', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/grandma-got-run-over-by-a-reindeer/"""

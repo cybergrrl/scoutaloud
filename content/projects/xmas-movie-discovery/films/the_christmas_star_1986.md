@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A counterfeiter finds the true meaning of the holidays."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Drama', 'TV Movie']
+xmas_genres = ['Family', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-star/"""

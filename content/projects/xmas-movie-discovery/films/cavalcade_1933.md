@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A cavalcade of English life from New Year's Eve 1899 until 1933 is seen through the eyes of well-to-do Londoners Jane and Robert Marryot. Amongst events touching their family are the Boer War, the death of Queen Victoria, the sinking of the Titanic, and the Great War."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies', 'War']
+xmas_genres = ['Oldies', 'Drama', 'War']
 
 [extra]
 film_url = """https://letterboxd.com/film/cavalcade/"""

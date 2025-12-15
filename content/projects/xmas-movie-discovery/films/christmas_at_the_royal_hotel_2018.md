@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In 1941, Hong Kong was the Casablanca of the East, a city full of war refugees, profiteers and spies. With the sudden attack by Japanese troops, a Canadian soldier's Christmas promise is broken during the Battle of Hong Kong."""
 
 [taxonomies]
-xmas_genres = ['History', 'Drama', 'Global', 'War']
+xmas_genres = ['History', 'Global', 'Drama', 'War']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-at-the-royal-hotel/"""

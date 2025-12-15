@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Four sisters come of age in America in the aftermath of the Civil War."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'History', 'Drama', 'Queer']
+xmas_genres = ['History', 'Queer', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/little-women-2019/"""

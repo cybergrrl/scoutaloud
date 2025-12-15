@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After a small-town photographer saves a man’s life, she learns he’s in town to buy her family’s parkland, the location of the annual Christmas celebration."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/to-all-a-good-night/"""

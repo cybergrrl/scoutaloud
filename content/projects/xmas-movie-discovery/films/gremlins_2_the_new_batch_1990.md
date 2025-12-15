@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Young sweethearts Billy and Kate move to the Big Apple, land jobs in a high-tech office park and soon reunite with the friendly and lovable Gizmo. But a series of accidents creates a whole new generation of Gremlins. The situation worsens when the devilish green creatures invade a top-secret laboratory and develop genetically altered powers, making them even harder to destroy!"""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'Fantasy']
+xmas_genres = ['Horror', 'Comedy', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/gremlins-2-the-new-batch/"""

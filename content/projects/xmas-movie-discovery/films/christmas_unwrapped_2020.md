@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Charity, an ambitious reporter, learns the true meaning of Christmas when she investigates Erik Gallagher, a beloved member of the town who insists all the gifts he provides every Christmas are from none-other than Santa himself."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Drama', 'TV Movie']
+xmas_genres = ['Comedy', 'Drama', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-unwrapped/"""

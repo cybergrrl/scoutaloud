@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Carley is determined to get through her list of abandoned resolutions from last year and enlists the help of coworker Wyatt."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/sealed-with-a-list/"""

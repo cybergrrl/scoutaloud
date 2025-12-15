@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """None"""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Global', 'Mystery']
+xmas_genres = ['Fantasy', 'Mystery', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/its-never-too-late-1953/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sensing their relationship is crumbling, Christian avoids celebrating Christmas with his girlfriend Julia and heads for Paris."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Global']
+xmas_genres = ['Drama', 'Global', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/silent-night-1995/"""

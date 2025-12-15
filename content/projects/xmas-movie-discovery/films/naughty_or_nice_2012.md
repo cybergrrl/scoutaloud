@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Krissy Kringle receives a delivery intended for Santa Claus. A magical book that shows if a person has been naughty or nice. She uses the book's power to find out about those around her, which leads to some very unusual and unintended results. Krissy realizes that everyone has some good and some not so good in them."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Fantasy', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Hallmark', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/naughty-or-nice/"""

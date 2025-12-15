@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Christmas angels used to working alone to bring “destined soulmates together” over the holidays, are unexpectedly paired; soon, their “clashing styles – and the undeniable spark growing between them – complicate their mission.”"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-angel-match/"""

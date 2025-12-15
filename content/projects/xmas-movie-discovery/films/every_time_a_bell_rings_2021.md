@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Three reunited sisters discover their late father planned one last scavenger hunt - an annual holiday tradition when they were young. As their sisterly bond gets rekindled, they soon learn important lessons about what they want in life and in love."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Queer', 'Hallmark', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Queer', 'Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/every-time-a-bell-rings/"""

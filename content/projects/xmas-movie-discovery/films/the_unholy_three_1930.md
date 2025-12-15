@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A trio of former sideshow performers double as the "Unholy Three" in a scam to nab some shiny rocks."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies', 'Crime']
+xmas_genres = ['Oldies', 'Crime', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-unholy-three-1930/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A career woman reassesses her parents' lives after she is forced to care for her cancer-stricken mother."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama']
+xmas_genres = ['Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/one-true-thing/"""

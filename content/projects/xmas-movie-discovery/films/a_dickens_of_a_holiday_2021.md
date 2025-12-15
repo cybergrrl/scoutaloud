@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """To make the 100th anniversary of her hometown's Victorian festival a success, Cassie invites action movie star and former high school classmate Jake to play Scrooge in A Christmas Carol."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-dickens-of-a-holiday/"""

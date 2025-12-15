@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The story that happened on the farm near Dikanka on the night before Christmas, when the village blacksmith Vakula, having saddled the Devil, brought to his beloved Oksana, the daughter of a rich Cossack Chub, queen's "сherevichki"(the little women shoes) from the capital — St. Petersburg."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Fantasy', 'Global', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Global', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/evenings-on-a-farm-near-dikanka/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Phineas and Ferb turn the city of Danville into a giant thank you card for Santa Claus because they feel nobody ever thanks him for all the joy he brings to the world. Doofenshmirtz uses a device called the "Naughty-inator" to put the city of Danville on Santa's naughty list."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Action', 'Animation']
+xmas_genres = ['Comedy', 'Animation', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/phineas-and-ferb-christmas-vacation/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """It’s Christmas Eve, and Ewa has plotted to pass the hours until morning with her former lover Janusz, a family man, by making him believe her husband has gone missing. During this night of recklessness and lies, the pair grapple with choices made when their affair was discovered three years ago, and with the value of their present lives."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'TV Movie']
+xmas_genres = ['Drama', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/decalogue-iii/"""

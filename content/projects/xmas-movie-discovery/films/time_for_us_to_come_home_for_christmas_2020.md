@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Five guests are mysteriously invited to an inn to celebrate Christmas. With the help of the owner Ben, Sarah discovers that an event from the past may connect them and change their lives forever."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/time-for-us-to-come-home-for-christmas/"""

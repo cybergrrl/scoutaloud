@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Michelle, a dreamer determined to help her sister, embarks on a journey to trade a Christmas stocking for a house, all while finding love and renewed hope with a local reporter who believes in her vision."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/trading-up-christmas/"""

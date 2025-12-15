@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A broke single mother lands a job at a small town diner where the kindly patrons and staff help her family to have a happy holiday."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Family', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Family', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-wish/"""

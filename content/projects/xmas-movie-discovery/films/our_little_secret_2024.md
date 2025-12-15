@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After discovering their significant others are siblings, two resentful exes must spend Christmas under one roof — while hiding their romantic history."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Drama']
+xmas_genres = ['Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/our-little-secret/"""

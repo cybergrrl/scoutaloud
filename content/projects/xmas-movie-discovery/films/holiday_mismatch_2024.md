@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """New retiree Barb joins a Holiday Committee but clashes with long standing member Kath. When they realize their kids have started dating, they conspire to break up the happy couple."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Family', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/holiday-mismatch/"""

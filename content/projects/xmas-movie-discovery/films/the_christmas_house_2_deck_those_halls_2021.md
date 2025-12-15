@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The Mitchell brothers compete to see who can create the best Christmas House."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Queer', 'Romance', 'TV Movie', 'Hallmark']
+xmas_genres = ['Queer', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-house-2-deck-those-halls/"""

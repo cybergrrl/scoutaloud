@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """World War I veteran Tom Holmes is marked by the unbearable suffering caused by his battle wounds. Over the years, he comes to experience both the pain of misfortune and a love for other human beings."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/heroes-for-sale/"""

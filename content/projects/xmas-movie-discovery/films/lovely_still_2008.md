@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A holiday fable that tells the story of an elderly man discovering love for the first time."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama']
+xmas_genres = ['Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/lovely-still/"""

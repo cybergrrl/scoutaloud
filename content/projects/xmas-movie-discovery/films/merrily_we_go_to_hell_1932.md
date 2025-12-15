@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A drunken newspaperman, Jerry Corbett, is rescued from his alcoholic haze by an heiress, Joan Prentice, whose love sobers him up and encourages him to write a play, but he lapses back into dipsomania."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Oldies', 'Drama']
+xmas_genres = ['Comedy', 'Oldies', 'Romance', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/merrily-we-go-to-hell/"""

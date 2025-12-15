@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Assistant Pastor Josef Mohr arrived in Oberndorf in 1818. In a time of political upheaval and economic hardship he writes a Christmas carol together with the teacher Franz Gruber. The main roles in Franz Xaver Bogners fictive history of the most famous Christmas song in the world "Das ewige Lied" play Tobias Moretti, Heio von Stetten and Erwin Steinhauer."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Global', 'TV Movie']
+xmas_genres = ['TV Movie', 'Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/das-ewige-lied/"""

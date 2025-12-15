@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In their farm house in a New York village, Ma Shelby prepares breakfast for her four children, Isaac, Tommy, Johnny and Susan, and then awakens them. The racket the boys make as they play and fight awakens their father, who spanks the eldest, Isaac. When a visitor chides Pa for not working, Ma sticks up for her husband, saying that he has a weak back and that he is waiting for a promised government job."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/over-the-hill-1931/"""

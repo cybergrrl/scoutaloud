@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In the season of giving, the department took his badge. Criminals took his wife. Now, one cop is taking matters into his own hands"""
 
 [taxonomies]
-xmas_genres = ['Action', 'TV Movie']
+xmas_genres = ['TV Movie', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-rush/"""

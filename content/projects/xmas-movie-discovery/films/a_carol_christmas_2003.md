@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Carol Cartman, a tempestuous talk show host, is a high-heeled, high-maintenance Scrooge. This insensitive, self-centered and stingy woman is about to experience a holiday she'll never forget."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Family', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Hallmark', 'TV Movie', 'Family']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-carol-christmas/"""

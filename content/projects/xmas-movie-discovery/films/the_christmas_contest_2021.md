@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Exes Lara and Ben compete in a Christmas contest to win money for the charity of their choosing. The city watches them battle and choose what is more important, victory or love."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-contest/"""

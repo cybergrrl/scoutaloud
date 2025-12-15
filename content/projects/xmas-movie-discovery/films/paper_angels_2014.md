@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An abused wife leaves her alcoholic husband and moves with her children to another town. There their lives become entwined with another family in trouble."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'TV Movie']
+xmas_genres = ['TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/paper-angels/"""

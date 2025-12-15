@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """It’s Christmastime and the far-flung members of the Rodriguez family are converging at their parents’ home in Chicago to celebrate the season and rejoice in their youngest brother’s safe return from combat overseas."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Drama']
+xmas_genres = ['Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/nothing-like-the-holidays/"""

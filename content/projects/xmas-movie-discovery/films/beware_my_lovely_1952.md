@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A psychopath on the run takes a job as a handyman at the house of a lonely widow."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Thriller', 'Crime', 'Oldies']
+xmas_genres = ['Oldies', 'Thriller', 'Crime', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/beware-my-lovely/"""

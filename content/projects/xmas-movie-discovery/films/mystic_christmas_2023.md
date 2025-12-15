@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """During the holidays, Juniper reconnects with the owner of the pizza shop in to Mystic, Connecticut, where she's working at the rehabilitation center and aquarium."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/mystic-christmas/"""

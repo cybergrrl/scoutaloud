@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When students all flee an elite university in Vermont for winter break, the locals and faculty hunker down for their favorite time of year - the annual Christmas Bar Trivia Tournament. For Celeste, a Type-A astronomy professor, this event combines the magic of Christmas with her greatest comfort in life: knowing the right answer. But when her colleague drops out of the tournament to do a month-long lecture tour in Asia, Celeste's team must adopt Max, the football team's new offensive coordinator. To Celeste, Max seems like nothing more than a grown-up class clown - though he brings an undeniable knowledge of sports trivia (a category their team has always fallen short in). Initial clashes between the two eventually turn into mutual appreciation as the team enjoys scavenger hunts on campus, decorating the international house with Christmas lights, baking Christmas cookies, and advancing toward the championship trivia game."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/trivia-at-st-nicks/"""

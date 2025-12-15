@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A ne’er-do-well thirty-something attempts to appease her family by kidnapping herself an attractive boyfriend for the family Christmas. Despite unlikely odds and dysfunctional family moments, the two fall in love and share a magical Christmas."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'Comedy', 'TV Movie']
+xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/holiday-in-handcuffs/"""

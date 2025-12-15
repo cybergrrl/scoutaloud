@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When her best friend invites her along for a holiday themed sail, an aspiring novelist, Pam, unexpectedly finds the love of her life on board. But what will happen when the ship returns to port for Christmas?"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'Drama', 'TV Movie']
+xmas_genres = ['Family', 'Drama', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-cruise/"""

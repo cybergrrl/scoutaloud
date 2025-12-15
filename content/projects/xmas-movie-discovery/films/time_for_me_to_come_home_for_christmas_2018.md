@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Famous musician Heath and small-town girl Cara are each traveling back to Oklahoma for the holidays when they get stranded in Chicago. Despite his fame, she has no idea who he is, but they hit it off—and she even ends up providing some inspiration for the Christmas song he's writing."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/time-for-me-to-come-home-for-christmas/"""

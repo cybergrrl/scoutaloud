@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Rose, a Chicago-based interior designer, returns to her Ohio hometown to save her brother's Christmas charity house flip, only to face her past, rekindle an old rivalry with her brother's best friend, and unexpectedly find love and purpose."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/deck-the-walls/"""

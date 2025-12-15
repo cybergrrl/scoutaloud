@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Kindhearted Samantha Parkington's world starts to change the day Nellie O'Malley walks into her life. Nellie, her father, and her two little sisters have moved in next door to be servants for the Ryland family. Though they come from completely different backgrounds, Samantha and Nellie become fast friends. The girls turn to each other in happiness and sorrow, adventure and danger."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Drama', 'TV Movie']
+xmas_genres = ['Family', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/samantha-an-american-girl-holiday/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Action', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/red-one/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Gentry Woods, who gave up music after her father's death decades ago, must confront her past when Nashville's Grand Ole Opry invites her to honor her late country star dad at their Christmas celebration."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-grand-ole-opry-christmas/"""

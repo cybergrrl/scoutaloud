@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Luke is expecting twins, Taylor is debating a life-changing job, and Stephan is planning a wedding — all while their mom is planning to put the family home up for sale."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Family', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/three-wisest-men/"""

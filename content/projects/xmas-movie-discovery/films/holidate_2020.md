@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Fed up with being single on holidays, two strangers agree to be each other's platonic plus-ones all year long, only to catch real feelings along the way."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy']
+xmas_genres = ['Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/holidate/"""

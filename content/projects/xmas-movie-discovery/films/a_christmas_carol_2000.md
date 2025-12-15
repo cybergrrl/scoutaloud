@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A modern version of the classic Dickens tale, in which Eddie Scrooge is a mean loan shark who sees the error of his ways."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Fantasy', 'Family', 'TV Movie', 'A Christmas Carol']
+xmas_genres = ['Fantasy', 'A Christmas Carol', 'TV Movie', 'Family', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-carol-2000/"""

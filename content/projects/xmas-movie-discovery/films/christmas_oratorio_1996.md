@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The 1930s. Sidner's mother Solveig dies in a very unfortunate bicycle accident involving some cows. Sidner, his sister and his father Aron move to Sunne to work at a hotel. Aron tries hard to leave the sweet memories of his wife behind him but that isn't made easier by the fact that he always meets her ghost. Aron gets himself a pen friend, a young girl in New Zealand called Tessa. He starts to dream of beginning a new life on the other side of the world. Will his dreams come true and can they help him to cure his regret over the death of his wife?"""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Global']
+xmas_genres = ['Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-oratorio/"""

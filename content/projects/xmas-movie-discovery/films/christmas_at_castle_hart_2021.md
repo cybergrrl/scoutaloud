@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Brooke Bennett goes to Ireland for Christmas to search for her Irish roots. While there, she meets Aiden Hart, Earl of Glaslough. Mistaken for an elite event planner, she’s hired to host his castle’s epic Christmas party."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-at-castle-hart/"""

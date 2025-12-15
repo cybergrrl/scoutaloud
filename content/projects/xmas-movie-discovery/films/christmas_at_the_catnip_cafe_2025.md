@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a marketing executive learns she’s short on the down payment for her dream condo, she’s informed that her great aunt left her half of a cat café in upstate New York. Hoping to sell it before the holidays, she then meets Dr. Ben Kane, the veterinarian who owns the other half, and has no intention of closing."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-at-the-catnip-cafe/"""

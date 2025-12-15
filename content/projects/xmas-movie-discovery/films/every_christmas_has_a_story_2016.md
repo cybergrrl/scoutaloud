@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A TV personality has an on-air snafu and admits she hates Christmas. Following the debacle, she is invited to the Most Christmas-y town in America to try and repair her image. Forced to work with her ex-boyfriend Jack, the show’s producer, the magic of Christmas and this special town will change the way she views Christmas and her life."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/every-christmas-has-a-story/"""

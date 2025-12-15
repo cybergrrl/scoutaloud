@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sam hates the holidays. Bailey loves the holidays. On a lonely Valentine’s Day the two meet-cute, quickly bond, and become friends. With every passing holiday Sam and Bailey spend together, they fall further in love with each other."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Queer', 'Drama']
+xmas_genres = ['Queer', 'Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-holiday-club/"""

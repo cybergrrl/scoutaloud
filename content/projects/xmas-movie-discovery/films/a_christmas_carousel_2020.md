@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Lila is hired by the Royal Family of Ancadia to repair a carousel, she must work with the Prince to complete it by Christmas."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-carousel/"""

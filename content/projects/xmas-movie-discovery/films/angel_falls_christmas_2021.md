@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A devoted doctor with little time for the Christmas spirit is in desperate need of an intervention from the unlikeliest of places."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'TV Movie']
+xmas_genres = ['Comedy', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/angel-falls-christmas/"""

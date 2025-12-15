@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """On a frosty winter's morning, Hemulen wakes the sleeping Moomins to prepare them for the approaching Christmas. But the Moomintrolls, who normally go dormant during the winter months, have never celebrated Christmas and have no idea what the holiday means. Their confusion and delight in the white winter landscape lead to a journey of discovery, where they are forced to understand the true meaning of Christmas."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Animation', 'TV Movie']
+xmas_genres = ['Family', 'TV Movie', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-comes-to-moominvalley/"""

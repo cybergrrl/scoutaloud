@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Single mom Emma Sanderson is looking for a Christmas miracle to write about for the lifestyle magazine where she's landed a temporary job. Along the way Emma discovers unexpected romance with a supportive colleague and brings about a Christmas miracle for a lonely street musician."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-miracle-2019/"""

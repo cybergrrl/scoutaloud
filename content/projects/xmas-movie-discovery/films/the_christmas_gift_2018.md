@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A son's letter to Santa for Christmas turns his father's evening into a thriller he did not ask for."""
 
 [taxonomies]
-xmas_genres = ['History', 'Drama', 'Global']
+xmas_genres = ['History', 'Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-gift-2018/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Ellie Hartman is an aspiring crafter working in her small town’s bakery making famous Christmas Kringles. When the new, big-city CEO Nick Carlingson visits the bakery, he arrives filled with modernization ideas destined to lay off many employees."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Family', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-in-love-2018/"""

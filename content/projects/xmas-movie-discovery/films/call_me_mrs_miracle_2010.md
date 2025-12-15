@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Mrs Merkle (or Mrs. Miracle as she is know by some) finds herself in a toy department of a department store that is having all kinds of financial problems, but leave it to this kind lady as she will get the Christmas spirit flowing very freely at this store."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Drama', 'Hallmark', 'Family', 'TV Movie', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Hallmark', 'TV Movie', 'Family', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/call-me-mrs-miracle/"""

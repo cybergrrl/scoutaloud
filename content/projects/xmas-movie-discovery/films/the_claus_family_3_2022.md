@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When the delivery of presents goes wrong and Grandpa Noël gets in trouble, siblings Jules and Noor must work together to save Christmas."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Fantasy', 'Global', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Global', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-claus-family-3/"""

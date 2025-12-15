@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A recently single Jessica sends Christmas cards to people who have impacted her life—the aunt who raised her, her younger brother in the military, a popstar who was part of the soundtrack of her life, the music teacher who inspired her, and the best friend who always tells the truth."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/write-before-christmas/"""

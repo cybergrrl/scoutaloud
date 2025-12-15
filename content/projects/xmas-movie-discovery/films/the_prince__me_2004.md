@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A fairy tale love-story about pre-med student Paige who falls in love with a Danish Prince "Eddie" who refused to follow the traditions of his parents and has come to the US to quench his thirst for rebellion. Paige and Edward come from two different worlds, but there is an undeniable attraction between them."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Royal Christmas']
+xmas_genres = ['Comedy', 'Romance', 'Royal Christmas']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-prince-me/"""

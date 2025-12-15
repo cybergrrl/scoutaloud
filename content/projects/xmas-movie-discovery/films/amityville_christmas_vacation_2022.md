@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Wally has won a vacation to sunny Amityville! While there he has met a woman: a GHOST woman! Can the spirit of Christmas bring these two opposites together?"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/amityville-christmas-vacation/"""

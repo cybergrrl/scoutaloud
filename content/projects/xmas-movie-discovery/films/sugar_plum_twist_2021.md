@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After failing to get the coveted role of the Sugar Plum Fairy in this year's production of The Nutcracker, Vivíana Serrano joins forces with Natalia, to create a surprise reprise of the Dance of the Sugar Plum Fairy...with a Latin twist."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/sugar-plum-twist/"""

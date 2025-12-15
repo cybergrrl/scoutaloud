@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Katie, a former professional ice skater, is hired by the king of San Senova, Alexander, to help his daughter in a Christmas ice skating performance. As Katie spends time in the castle and with the king, she and Alex begin to develop feelings for each other and ultimately fall in love. But will the tradition-loving people of San Senova allow their king to make a foreigner their queen?"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'Royal Christmas', 'TV Movie']
+xmas_genres = ['Royal Christmas', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-at-the-palace/"""

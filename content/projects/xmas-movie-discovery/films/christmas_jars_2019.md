@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Aspiring reporter Hope Jensen uncovers the remarkable secret behind a holiday phenomenon: money-filled glass jars anonymously given to people in need."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Drama', 'TV Movie']
+xmas_genres = ['Comedy', 'Drama', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-jars/"""

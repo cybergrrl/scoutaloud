@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Maggie and Sam are crashing Christmas. When he proposes they team up against his sister's perfect Christmas, neither of them are prepared for the blended family challenges that lie ahead."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Family', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/crashing-through-the-snow/"""

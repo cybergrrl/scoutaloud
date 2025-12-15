@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In the year 2019, after global destruction and descent into savagery, the immortal Kuzman tried to discover his destiny in order to learn how to die. As he enters the whirling circles of time, we discover the blasphemy of our century, and how it is to close its circle."""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Fantasy', 'Horror', 'Adventure', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Horror', 'Adventure', 'Science Fiction']
 
 [extra]
 film_url = """https://letterboxd.com/film/goodbye-20th-century/"""

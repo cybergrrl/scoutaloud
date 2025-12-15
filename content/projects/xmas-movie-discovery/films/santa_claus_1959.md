@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Pitch, the mean-spirited devil, is trying to ruin Christmas. Santa Claus teams up with Merlin the Magician and the children of the world in order to save the day!"""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Global', 'Fantasy']
+xmas_genres = ['Family', 'Comedy', 'Fantasy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/santa-claus-1959/"""

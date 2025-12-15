@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An aspiring fashion designer falls in love with her socialite client's prospective fiance, Prince Jeffrey."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/royal-new-years-eve/"""

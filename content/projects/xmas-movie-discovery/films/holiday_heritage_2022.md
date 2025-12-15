@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Ella returns to her hometown to mend fences with her fractured family. With the help of Griffin, her ex-boyfriend, she encourages her family to celebrate Christmas and Kwanzaa and to heal their past wounds before it’s too late."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Hallmark', 'Romance', 'Family', 'TV Movie', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Family', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/holiday-heritage/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young man is torn between his free-thinking lifestyle and the tradition of his wealthy fiancée's family."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Oldies', 'Drama']
+xmas_genres = ['Comedy', 'Oldies', 'Romance', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/holiday-1930/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """To keep their annual Holiday Heist-tacular afloat, Mr. Wolf and his crew of animal outlaws will have to restore the whole city's Christmas spirit — fast!"""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Action', 'Animation']
+xmas_genres = ['Family', 'Comedy', 'Animation', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-bad-guys-a-very-bad-holiday/"""

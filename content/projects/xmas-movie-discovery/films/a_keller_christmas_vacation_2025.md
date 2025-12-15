@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The Keller family, including the parents and their three adult children, decide to take a European river cruise touring the Christmas Markets over the holidays, and each sibling is going through their own life challenge."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Hallmark', 'Family', 'TV Movie', 'Comedy', 'Adventure']
+xmas_genres = ['Queer', 'Comedy', 'Hallmark', 'Adventure', 'TV Movie', 'Family']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-keller-christmas-vacation/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Based on Gogol's story. It is Christmas Eve, and the town witches’ son, a blacksmith, seeks an honest marriage to his love who wishes for a pair of shoes fit for the Tsarina. A mischievous devil is trapped into providing service to the smith."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'Global', 'Fantasy']
+xmas_genres = ['Horror', 'Comedy', 'Fantasy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-night-before-christmas-1913/"""

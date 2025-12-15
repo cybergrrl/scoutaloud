@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Eight very different couples deal with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Drama']
+xmas_genres = ['Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/love-actually/"""

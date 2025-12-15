@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Peggy and her friend Millie are strolling down Broadway while Jimmy and Mac are trolling Broadway, and the four get together..."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/hello-sister/"""

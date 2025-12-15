@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Byung-ki is a clumsy village policeman who helps out with trivial tasks like distributing promotional papers, though he dreams of fighting evil. One day, he runs into Min-kyong, an employee at the neighborhood bowling alley, and falls for her at first sight. However, his attempts to woo her go unnoticed. Meanwhile, Sang-doo, the boss of the local gang—with whom Byung-ki harbors a boyhood grudge—also swoons over Min-kyong and vows to take her virginity on Christmas Eve."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Global']
+xmas_genres = ['Comedy', 'Global', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/happy-ero-christmas/"""

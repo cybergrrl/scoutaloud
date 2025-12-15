@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """As Christina prepares her restaurant for its busiest time of year, she gets back a DNA test revealing that she’s Jewish. The discovery leads her to a new family and an unlikely romance over eight nights."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hanukkah', 'Hallmark', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/love-lights-hanukkah/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The holidays get overly festive as Olaf "Gunn" Gunnunderson, an out-and-proud gay college student, crawls back into the closet to survive the holidays with his parents. But when his boyfriend, Nathan, shows up at their doorstep unannounced, Gunn must put on a charade to keep the relationship a secret. With pressure mounting from all sides, will Gunn come out before the truth does?"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Queer', 'Drama']
+xmas_genres = ['Queer', 'Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/make-the-yuletide-gay/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Mary Class is a highly successful business executive - who just happens to be the daughter of Santa Claus. But when her father falls ill, Mary returns to the North Pole and the life she left behind to take over for her dad and implement her innovative ideas for running Christmas."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'TV Movie', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/santa-baby/"""

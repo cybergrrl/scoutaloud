@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Emily goes home to organize the Christmas carnival and meets a handsome artist. Starring Heather Hemmens and Marco Grazzini."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-under-the-lights/"""

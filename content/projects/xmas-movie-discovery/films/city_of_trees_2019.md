@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A 20-something woman goes back to her hometown for the holidays for the first time in several years and is not only met with people from her past, but she's forced to deal with unresolved feelings too."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Queer']
+xmas_genres = ['Queer', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/city-of-trees-2019/"""

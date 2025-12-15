@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A priceless relic is stolen from identical royals Queen Margaret and Princess Stacy, who enlist the help of their sketchy look-alike cousin Fiona Pembroke to retrieve it."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Royal Christmas']
+xmas_genres = ['Comedy', 'Romance', 'Royal Christmas']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-princess-switch-3-romancing-the-star/"""

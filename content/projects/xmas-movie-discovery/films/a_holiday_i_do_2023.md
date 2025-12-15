@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a small town single mom falls for her ex-husband's beautiful and sophisticated wedding planner, she'll need some Christmas magic to fix the chaos that ensues."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Queer', 'Comedy']
+xmas_genres = ['Comedy', 'Queer', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-holiday-i-do/"""

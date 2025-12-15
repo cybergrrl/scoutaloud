@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a down-to-earth Chicago baker and a soon-to-be princess discover they look like twins, they hatch a Christmastime plan to trade places."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Royal Christmas']
+xmas_genres = ['Comedy', 'Romance', 'Royal Christmas']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-princess-switch/"""

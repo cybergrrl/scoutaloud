@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A woman's Christmas wish is answered in unexpected ways when her late grandfather's journal turns up and reveals an untold romance."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/five-more-minutes/"""

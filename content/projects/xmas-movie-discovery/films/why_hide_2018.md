@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A diverse group of friends gather for the festive season in a remote lodge but soon plans go awry. One of the friends goes missing and the truth behind why the lodge was booked for the holiday is disclosed. Christmas quickly turns to chaos and a bloody nightmare ensues."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/why-hide-2018/"""

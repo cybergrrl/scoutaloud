@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A workaholic television producer receives a visit from her recently deceased mentor, who warns her that her current path leads to a dark future."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-nashville-christmas-carol/"""

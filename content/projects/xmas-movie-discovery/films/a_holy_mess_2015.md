@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A comedy about the new alternative family and how different family situations and relationships come to a head during the premier family weekend."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Global', 'Queer', 'Drama']
+xmas_genres = ['Queer', 'Comedy', 'Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-holy-mess/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After a water line break at Temple Beth Am, the members search for a place to celebrate Hannukkah, and are welcomed into St. Joseph’s Episcopal Church. With the last night of Hanukkah and Christmas Eve falling on the same day this year, the St. Joseph’s youth choir director must team up with the temple’s substitute youth choir director — and they’re old high school rivals."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hanukkah', 'Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/oy-to-the-world-2025/"""

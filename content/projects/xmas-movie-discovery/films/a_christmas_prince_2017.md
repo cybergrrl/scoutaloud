@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a reporter goes undercover as a nanny to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Royal Christmas', 'TV Movie']
+xmas_genres = ['Royal Christmas', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-prince/"""

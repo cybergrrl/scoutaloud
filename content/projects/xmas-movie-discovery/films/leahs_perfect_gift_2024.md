@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Leah Meyer, a Jewish woman who has always dreamed of experiencing a traditional Christmas, faces unexpected challenges when she spends the holidays with her boyfriend's uptight Connecticut family."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Hanukkah', 'Comedy', 'Queer', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/leahs-perfect-gift/"""

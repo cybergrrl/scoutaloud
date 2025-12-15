@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After assuming his dead cellmate's identity to get with his girlfriend, an ex-con finds himself the reluctant participant in a casino heist."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Action', 'Crime']
+xmas_genres = ['Thriller', 'Crime', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/reindeer-games/"""

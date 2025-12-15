@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An aspiring Broadway actress falls in love with a soldier on leave during a weekend in New York City."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Oldies']
+xmas_genres = ['Comedy', 'Oldies', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-voice-of-the-turtle/"""

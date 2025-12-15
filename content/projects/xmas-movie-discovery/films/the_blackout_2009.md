@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """It's Christmas Eve, the city goes dark, and the few remaining tenants of The Ravenwood find themselves trapped in their building. And they are not alone."""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Thriller', 'Horror']
+xmas_genres = ['Horror', 'Thriller', 'Science Fiction']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-blackout-2009/"""

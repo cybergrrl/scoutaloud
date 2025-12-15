@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After undergoing radical surgery for injuries from a motorcycle accident, a young woman develops a retractable, vampiric stinger in her armpit and a thirst for human blood."""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Horror']
+xmas_genres = ['Horror', 'Science Fiction']
 
 [extra]
 film_url = """https://letterboxd.com/film/rabid/"""

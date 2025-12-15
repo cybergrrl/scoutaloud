@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A British explorer brings an Eskimo hunter to London, where he misreads a woman."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/man-of-two-worlds/"""

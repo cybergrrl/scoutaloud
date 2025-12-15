@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A house flipper heads to Ireland to renovate and sell a cottage, but her plans change when she meets a local realtor determined to preserve his town’s heritage."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/tis-the-season-to-be-irish/"""

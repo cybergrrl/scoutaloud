@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Maya and Alex, old friends from high school, work together over Christmas to sell his uncle’s Mexican bakery famous for its gingerbread cookies that the patrons believe grants wishes."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/gingerbread-miracle/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a travel agent up for a promotion is directed to forgo her tropical vacation to instead visit the world-famous Ice Hotel, she discovers her sacrifices are more than compensated."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'TV Movie']
+xmas_genres = ['Comedy', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/baby-its-cold-inside/"""

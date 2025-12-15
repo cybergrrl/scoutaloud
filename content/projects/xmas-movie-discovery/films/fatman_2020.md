@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A rowdy, unorthodox Santa Claus is fighting to save his declining business. Meanwhile, Billy, a neglected and precocious 12 year old, hires a hit man to kill Santa after receiving a lump of coal in his stocking."""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Drama', 'Fantasy', 'Horror', 'Action', 'Crime', 'Thriller', 'Comedy']
+xmas_genres = ['Fantasy', 'Horror', 'Comedy', 'Action', 'Thriller', 'Science Fiction', 'Crime', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/fatman/"""

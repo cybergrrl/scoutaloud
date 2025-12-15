@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Eric Randall, an author of bachelor lifestyle books, is left in charge of his young niece and nephew for the holidays. Eric turns to his neighbor April, a lover of all things Christmas, for help."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-next-door/"""

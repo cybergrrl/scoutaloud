@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When six elementary school students suspect their missing teacher is Befana, a Christmas witch who delivers presents to good children, they set off on a magical journey to save her."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Fantasy', 'Family', 'Global', 'Comedy']
+xmas_genres = ['Horror', 'Comedy', 'Fantasy', 'Global', 'Family']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-legend-of-the-christmas-witch/"""

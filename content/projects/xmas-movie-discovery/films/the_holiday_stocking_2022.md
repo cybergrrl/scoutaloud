@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """RJ is a new angel, who is given the chance to address his one regret, that he didn’t help his sisters reconcile while he was still alive. Returning to earth as a stranger, he gets each of them to revive The Holiday Stocking, their parent’s old tradition to encourage charity at Christmas."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-holiday-stocking/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Oldies', 'Drama']
+xmas_genres = ['Comedy', 'Oldies', 'Romance', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-shop-around-the-corner/"""

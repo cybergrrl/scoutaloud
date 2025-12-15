@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Adventure', 'Fantasy']
+xmas_genres = ['Family', 'Comedy', 'Fantasy', 'Adventure']
 
 [extra]
 film_url = """https://letterboxd.com/film/charlie-and-the-chocolate-factory/"""

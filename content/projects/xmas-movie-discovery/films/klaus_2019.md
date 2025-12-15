@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A selfish postman and a reclusive toymaker form an unlikely friendship, delivering joy to a cold, dark town that desperately needs it."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Family', 'Animation', 'Adventure', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Adventure', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/klaus/"""

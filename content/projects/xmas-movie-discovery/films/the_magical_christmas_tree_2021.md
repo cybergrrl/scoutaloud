@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After an employee’s cruel boss sends them up to a forest to chop down a Christmas tree, the Ghosts of Christmas and a little magic intervene."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Fantasy', 'Queer']
+xmas_genres = ['Fantasy', 'Queer', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-magical-christmas-tree/"""

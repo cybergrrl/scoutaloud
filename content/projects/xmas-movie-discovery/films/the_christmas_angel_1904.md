@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A poor family in a rundown house where snow falls through the broken roof, there's no coal to heat the pathetic little stove, mother is sick, father sends daughter out to beg. Rejected by other beggars, the girl collapses in the snow…"""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Global']
+xmas_genres = ['Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-angel/"""

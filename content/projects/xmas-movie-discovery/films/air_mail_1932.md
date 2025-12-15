@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A group of air mail pilots risk their lives to deliver important mail through bad weather conditions."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies', 'Adventure']
+xmas_genres = ['Oldies', 'Adventure', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/air-mail/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A department store manager sets out to create an amazing holiday display window to impress the owner. She asks a recently-fired employee to help her make the display, and as they work together, they start to fall in love."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/my-christmas-dream/"""

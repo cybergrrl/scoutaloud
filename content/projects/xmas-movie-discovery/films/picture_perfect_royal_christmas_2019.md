@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Amanda is the assistant to a famous photographer. Her boss receives an invitation to photograph the Christmas festivities in the kingdom of Pantrea and Amanda goes posing as her. She will soon fall for Prince Leopold, despite not being a royalty."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Royal Christmas', 'Comedy']
+xmas_genres = ['Comedy', 'Royal Christmas', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/picture-perfect-royal-christmas/"""

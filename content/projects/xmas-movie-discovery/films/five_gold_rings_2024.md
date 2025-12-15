@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """New York City painter Audrey Moss returns to her small hometown in Minnesota for the holidays and is met with an unexpected quest from her beloved late grandmother: find the owners of five mysterious gold rings and return them to their rightful homes before Christmas morning, only nine days away."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/five-gold-rings/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A romantic comedy that brings together three interrelated tales of gay men seeking family, love and sex during the holiday season."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Queer', 'Comedy']
+xmas_genres = ['Comedy', 'Queer', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/shared-rooms/"""

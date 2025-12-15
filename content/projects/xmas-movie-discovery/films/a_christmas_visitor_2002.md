@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The Boyajian family learned of 18-year-old John's death in the Persian Gulf War on Christmas Eve eleven years earlier and have not celebrated Christmas since. They have been so consumed by his death that they have forgotten the joys of the holidays, until a mysterious visitor enters their lives and rekindles the spirit of the season."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-visitor/"""

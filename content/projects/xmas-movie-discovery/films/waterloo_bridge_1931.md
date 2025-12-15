@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In World War I London, Myra is an American out-of-work chorus girl making ends meet by picking up men on Waterloo Bridge. During a Zeppelin air raid she meets Roy, a naive young American who enlisted in the Canadian army. After they fall for each other, Roy tricks Myra into visiting his family, who live in a country estate outside London, his mother having remarried to a retired British Major. Myra is reluctant to continue the relationship with Roy, he not aware of her past."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies', 'War']
+xmas_genres = ['Oldies', 'Drama', 'Romance', 'War']
 
 [extra]
 film_url = """https://letterboxd.com/film/waterloo-bridge-1931/"""

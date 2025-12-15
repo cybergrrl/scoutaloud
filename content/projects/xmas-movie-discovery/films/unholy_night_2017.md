@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An anthology of Christmas-themed horror stories."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/unholy-night-2017/"""

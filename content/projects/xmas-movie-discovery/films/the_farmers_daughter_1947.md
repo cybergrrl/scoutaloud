@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After leaving her family's farm to study nursing in the city, a young woman finds herself on an unexpected path towards politics."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Oldies']
+xmas_genres = ['Comedy', 'Oldies', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-farmers-daughter/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A street-wise teen from Baltimore who has been raised by a single mother travels to New York City to spend the Christmas holiday with his estranged relatives, where he embarks on a surprising and inspirational journey."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Family', 'Drama', 'Musical']
+xmas_genres = ['Family', 'Musical', 'Music', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/black-nativity/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A couple falls in love and agrees to meet in six months at the Empire State Building - but will it happen?"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/an-affair-to-remember/"""

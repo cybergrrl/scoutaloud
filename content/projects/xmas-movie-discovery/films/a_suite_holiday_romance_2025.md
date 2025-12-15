@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """During Christmas week, Sabrina Post jumps at the opportunity to ghostwrite a memoir for a famous art dealer at the iconic Grand Fairbanks Hotel in New York City. The week gets complicated when she meets a handsome British visitor at the hotel bar; she thinks he’s a member of the British aristocracy, and he thinks she’s a wealthy hotel guest."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-suite-holiday-romance/"""

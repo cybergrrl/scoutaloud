@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Lauren Gabriel leaves everything behind in Boston to embark on a new chapter in her life and career. But an unforeseen detour to the charming town of Grandon Falls has her discover unexpected new chapters - of the heart and of family - helping her to embrace, once again, the magic of Christmas."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-town-1/"""

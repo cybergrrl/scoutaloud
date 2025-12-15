@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Holly absolutely loves Christmas movies! After meeting a man with a similar love for Christmas, Holly decides that HER life deserves to be as perfect a the films she loves! By any means necessary."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/curtains-for-christmas/"""

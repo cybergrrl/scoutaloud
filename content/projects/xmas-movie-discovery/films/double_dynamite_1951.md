@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An innocent bank teller, suspected of embezzlement, is aided by an eccentric, wisecracking waiter."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Music', 'Adventure', 'Comedy', 'Oldies']
+xmas_genres = ['Comedy', 'Music', 'Adventure', 'Oldies', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/double-dynamite/"""

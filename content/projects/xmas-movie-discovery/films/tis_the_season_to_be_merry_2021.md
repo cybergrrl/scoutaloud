@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Looking for a fresh angle to her book on relationships, Merry heads to snow-covered Vermont. She finds a new perspective and Christmas cheer with charismatic aid worker Chris."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/tis-the-season-to-be-merry/"""

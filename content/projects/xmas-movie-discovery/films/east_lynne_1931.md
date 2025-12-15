@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The refined Lady Isabel Carlisle, after leaving her family and enduring nearly a decade of hardships, learns that her son has fallen ill. Despite being nearly blinded as the result of an explosion, she returns home to see her son again."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/east-lynne/"""

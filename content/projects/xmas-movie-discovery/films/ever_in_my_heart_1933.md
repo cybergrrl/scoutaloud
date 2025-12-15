@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """World War I brings tribulations to an American woman married to a German."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies', 'War']
+xmas_genres = ['Oldies', 'Drama', 'Romance', 'War']
 
 [extra]
 film_url = """https://letterboxd.com/film/ever-in-my-heart/"""

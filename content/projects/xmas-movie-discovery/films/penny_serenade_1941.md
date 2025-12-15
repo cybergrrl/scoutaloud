@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Julie and Roger are a love-struck married couple who desperately want to have a child. Tragedy after tragedy gets in their way, as the two attempt to rise above their troubles and fulfill their dreams of parenthood."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/penny-serenade/"""

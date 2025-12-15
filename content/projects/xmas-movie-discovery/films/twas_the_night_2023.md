@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """On Christmas Eve, Mya tells chilling tales of Jack Frost, The Gingerbread Man, and Krampus, revealing their terrifying, brutal sides instead of heartwarming stories."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Horror', 'TV Movie']
+xmas_genres = ['Fantasy', 'TV Movie', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/twas-the-night-2023/"""

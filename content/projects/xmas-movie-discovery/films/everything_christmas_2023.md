@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Christmas lover Lori Jo and her roommate head to Yuletide Springs for a longtime tradition to honor her late grandmother — and meet two men, Carl and Jason, along the way."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/everything-christmas/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """While Rachel is stuck in a time loop, reliving the night of her parents' Hanukkah party, she leans on the boy her grandmother is trying to set her up with to make it out."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Hallmark', 'Family', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Hanukkah', 'Queer', 'Comedy', 'Hallmark', 'TV Movie', 'Family', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/round-and-round-2023/"""

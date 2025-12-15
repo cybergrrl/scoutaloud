@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Set in the 1960s, Christmas in Canaan is a drama about a black family and a white family that learn to love each other out of their Christian beliefs."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-in-canaan/"""

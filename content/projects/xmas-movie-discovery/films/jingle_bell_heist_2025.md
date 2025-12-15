@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Crime']
+xmas_genres = ['Comedy', 'Crime', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/jingle-bell-heist/"""

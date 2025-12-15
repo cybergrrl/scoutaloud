@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """As Christmas nears, heiress Jessica Morgan seizes what seems like her last chance to experience a relaxed Christmas and heads off to the small town of Glenbrooke, where she meets a handsome fireman."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-glenbrooke-christmas/"""

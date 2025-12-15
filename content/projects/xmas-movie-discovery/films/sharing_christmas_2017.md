@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A real estate developer is given the opportunity of his career to transform an old shopping complex into a prime location. Unfortunately, there is one tenant who is holding out—the Christmas shop owner he met by happenstance just days ago."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/sharing-christmas/"""

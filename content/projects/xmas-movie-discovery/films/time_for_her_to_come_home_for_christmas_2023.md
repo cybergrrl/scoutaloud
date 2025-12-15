@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Carly heads to a small town to lead a church choir at Christmastime, facing her first holiday season without her mother. While there, she connects with a man back in town after serving in the Army."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/time-for-her-to-come-home-for-christmas/"""

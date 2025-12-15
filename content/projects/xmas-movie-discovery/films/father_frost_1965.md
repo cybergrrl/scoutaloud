@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A fairy tale about a conceited young man and a young woman with a tyrannical step-mother, who must overcome magical trials in order to be together."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Family', 'Romance', 'Global', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Global', 'Family', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/father-frost/"""

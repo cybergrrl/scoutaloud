@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Recently divorced, Laurel struggles to get into the holiday spirit while heading up her hometown Christmas parade. With the help of a Christmas sleigh and a handsome woodworker, Laurel is destined to turn her luck around, rekindle her holiday spirit and even find time for love."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'Hallmark', 'TV Movie']
+xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/sleigh-bells-ring/"""

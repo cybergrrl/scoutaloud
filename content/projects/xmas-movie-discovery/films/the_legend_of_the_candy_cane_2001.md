@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The night a mysterious stranger rode into the lonely prairie town of West Sage, no one realized their lives would never be the same."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Animation', 'TV Movie']
+xmas_genres = ['Comedy', 'TV Movie', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-legend-of-the-candy-cane/"""

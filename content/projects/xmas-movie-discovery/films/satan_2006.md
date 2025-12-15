@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A group of young people leave a disco and bump into a shepherd who is ready to spend his night worshipping Satan."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Thriller', 'Horror']
+xmas_genres = ['Horror', 'Comedy', 'Thriller']
 
 [extra]
 film_url = """https://letterboxd.com/film/satan-2006/"""

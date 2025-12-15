@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After a one night stand Deb wakes up in the middle of a zombie apocalypse."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/night-of-the-living-deb/"""

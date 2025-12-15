@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Daniel Pardway, starting with almost nothing after the great Chicago fire, builds the biggest department store in town. He wants to pass on the business to his three sons and daughter, but has to deal with their lack of interest or aptitude."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/sweepings/"""

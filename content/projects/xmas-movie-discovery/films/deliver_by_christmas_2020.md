@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Bakery owner Molly meets Josh, a widower who recently moved to town with his young son, but she is also charmed by a mysterious client whom she’s never met in person and she doesn’t realize that they’re the same man."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/deliver-by-christmas/"""

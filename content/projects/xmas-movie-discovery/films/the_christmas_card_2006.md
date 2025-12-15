@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sergeant Cody Cullen is deeply touched by a homemade Christmas card he receives while serving in Afghanistan. Upon his discharge, he treks to the picturesque California town of Nevada City. Cody is soon welcomed into the Spelman home and unexpectedly falls in love with the woman who sent the card, Faith."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-card/"""

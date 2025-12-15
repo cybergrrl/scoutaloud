@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young woman jeopardizes the relationship with the man she loves when a no-account from her past shows up."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Oldies', 'Drama']
+xmas_genres = ['Comedy', 'Oldies', 'Romance', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/indiscreet/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The Christmas Board of Directors has decided to cancel Christmas since children everywhere have lost the true spirit of giving. But Santa Claus, not willing to give up his favorite holiday without a fight, demands 30 days to prove them wrong. The board assigns him what seems like an impossible mission: he must change the hearts of two self-absorbed kids and make them see the true meaning of Christmas."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Horror', 'Family', 'TV Movie', 'Hallmark']
+xmas_genres = ['Fantasy', 'Horror', 'Hallmark', 'TV Movie', 'Family']
 
 [extra]
 film_url = """https://letterboxd.com/film/cancel-christmas/"""

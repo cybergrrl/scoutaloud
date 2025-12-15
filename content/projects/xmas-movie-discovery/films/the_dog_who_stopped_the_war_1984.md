@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """As the Christmas holidays begin, a group of 10 war-obsessed kids have a wave of inspiration: What if they spend the next two weeks engaged in a simulated war, armed only with shields, wooden swords, snowballs, and a fierce sense of competition? With a bounty chest waiting for the winners, the two sides gradually grow in size, and the war grows in importance, taking over all aspects of their lives."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Family', 'Global', 'Adventure', 'Comedy']
+xmas_genres = ['Comedy', 'Adventure', 'Global', 'Family', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-dog-who-stopped-the-war/"""

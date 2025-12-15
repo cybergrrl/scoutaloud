@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """At Christmastime in Bikini Bottom, everyone's excited except Plankton, who always gets a lump of coal from Santa. But he vows this year he'll finally get his wish – the Krabby Patty formula! And it won't be by being good. He's gonna make everyone in Bikini Bottom bad!"""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Animation', 'TV Movie']
+xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/its-a-spongebob-christmas/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A teenager named Noriko Shimabara runs away from her family in Toyokawa, to meet Kumiko, the leader of an Internet BBS, Haikyo.com. She becomes involved with Kumiko's family circle, which grows darker after the mass suicide of 54 high school girls."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Thriller', 'Horror']
+xmas_genres = ['Horror', 'Thriller', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/norikos-dinner-table/"""

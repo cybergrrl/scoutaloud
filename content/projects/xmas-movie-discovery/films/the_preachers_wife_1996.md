@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Good-natured Reverend Henry Biggs finds that his marriage to choir mistress Julia is flagging, due to his constant absence caring for the deprived neighborhood they live in. On top of all this, his church is coming under threat from property developer Joe Hamilton. In desperation, Biggs prays to God for help – which arrives in the form of an angel named Dudley."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Fantasy', 'Family', 'Romance', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Family', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-preachers-wife/"""

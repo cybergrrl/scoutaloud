@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A princess looking to decompress before the holidays heads to a Montana ranch and meets a charming guide."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-royal-montana-christmas/"""

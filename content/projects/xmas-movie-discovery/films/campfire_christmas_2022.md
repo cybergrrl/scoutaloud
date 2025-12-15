@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Romance rekindles for Peyton and her closest friends when her parents decide to host a holiday themed reunion before selling their family owned summer camp."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Queer', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/campfire-christmas/"""

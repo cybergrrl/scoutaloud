@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The Doctor and Clara face their Last Christmas. Trapped on an Arctic base, under attack from terrifying creatures, who are you going to call? Santa Claus!"""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Drama', 'Adventure']
+xmas_genres = ['Adventure', 'Science Fiction', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/doctor-who-last-christmas/"""

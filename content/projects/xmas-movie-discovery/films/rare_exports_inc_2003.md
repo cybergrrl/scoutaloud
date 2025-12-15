@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An elite trio of expert hunters venture into the woods to track and capture an especially rare and dangerous prey for the Christmas season."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'Action']
+xmas_genres = ['Horror', 'Comedy', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/rare-exports-inc/"""

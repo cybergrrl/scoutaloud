@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """One year ago, Sarah Caldwell was stalked and her friends murdered by a killer Santa Claus. Now she must escape from the same storage facility in a fight for her life against an all new Santa."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Horror', 'Action']
+xmas_genres = ['Horror', 'Drama', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/axemas-2-blood-slay/"""

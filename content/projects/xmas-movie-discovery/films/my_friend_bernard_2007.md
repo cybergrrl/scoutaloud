@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sam is a shy boy who is afraid of almost everything until he meets a polar bear named Bernard who takes him on an epic adventure across the world to help him lose his fears."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Global', 'Animation', 'Adventure', 'Comedy']
+xmas_genres = ['Comedy', 'Adventure', 'Global', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/my-friend-bernard/"""

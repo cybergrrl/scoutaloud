@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """High-tech robots equipped with state-of-the-art security devices have been recruited as the new mechanical "night watchmen" for the Park Plaza Mall. When a jolting bolt of lightning short-circuits the main computer control, the robots turn into "killbots" on the loose after unsuspecting shoppers!"""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Horror']
+xmas_genres = ['Horror', 'Science Fiction']
 
 [extra]
 film_url = """https://letterboxd.com/film/chopping-mall/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Caesar and Otto are employed with Xmas Enterprises and have run into a little problem. It seems a disgruntled Santa (employee) has a new list this year…instead of checking who’s Naughty or Nice…he has Who’s Next on the Kill List. That’s right Santa is on a Killing Spree and looks to blame Caesar and Otto!"""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/caesar-and-ottos-deadly-xmas/"""

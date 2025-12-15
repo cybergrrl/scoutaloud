@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Martians fear their children have become lazy and joyless due to their newfound obsession with Earth TV shows. After ancient Martian leader Chochem suggests that the children of Mars need more fun—including their own Santa Claus—supreme leader Lord Kimar assembles an expedition to Earth. Once there, they kidnap two children who lead them to the North Pole, then capture the real Santa Claus, taking all three back to Mars in an attempt to bring the Martian children happiness."""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Horror', 'Comedy', 'Fantasy']
+xmas_genres = ['Horror', 'Comedy', 'Fantasy', 'Science Fiction']
 
 [extra]
 film_url = """https://letterboxd.com/film/santa-claus-conquers-the-martians/"""

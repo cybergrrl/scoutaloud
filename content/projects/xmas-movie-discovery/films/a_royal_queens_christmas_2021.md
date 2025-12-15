@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A prince finds his way to Queens during Christmas when a local woman enlists his help with a children's Christmas show."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Hallmark', 'Romance', 'TV Movie', 'Royal Christmas', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'Royal Christmas', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-royal-queens-christmas/"""

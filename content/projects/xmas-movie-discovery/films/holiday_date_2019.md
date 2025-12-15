@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Brooke’s boyfriend, Ethan, breaks up with her just before the holidays, she agrees to go home with Joel, an actor who will pose as her boyfriend."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/holiday-date/"""

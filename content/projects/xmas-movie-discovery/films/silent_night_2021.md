@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Nell, Simon, and their boy Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Comedy', 'Horror', 'Science Fiction']
+xmas_genres = ['Comedy', 'Queer', 'Science Fiction', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/silent-night-2021/"""

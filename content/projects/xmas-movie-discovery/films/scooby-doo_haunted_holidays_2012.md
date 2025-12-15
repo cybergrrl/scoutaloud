@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Scooby-Doo and the gang participate in a toy store's holiday parade where they discover the abandoned haunted clock tower with a troubled past. A sinister snowman haunts the streets and accompanied with a large blizzard, threatens to close down the toy store for good."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Animation', 'Adventure', 'Comedy', 'Mystery']
+xmas_genres = ['Comedy', 'Adventure', 'Mystery', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/scooby-doo-haunted-holidays/"""

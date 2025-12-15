@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Maddie, a reporter for a Norfolk newspaper, embarks on a Tiger Cruise during Christmastime where she meets a handsome naval officer and stumbles upon a mystery in the ship’s archive room."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Mystery', 'TV Movie']
+xmas_genres = ['Mystery', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/uss-christmas/"""

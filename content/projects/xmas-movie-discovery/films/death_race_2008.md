@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Terminal Island, New York: 2020. Overcrowding in the US penal system has reached a breaking point. Prisons have been turned over to a monolithic Weyland Corporation, which sees jails full of thugs as an opportunity for televised sport. Adrenalized inmates, a global audience hungry for violence and a spectacular, enclosed arena come together to form the 'Death Race', the biggest, most brutal event."""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Thriller', 'Action']
+xmas_genres = ['Thriller', 'Science Fiction', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/death-race/"""

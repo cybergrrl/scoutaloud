@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A wealthy and successful career woman gets a second chance in life when a magical wish transports her back in time eight years to when she walked away from her fiance to lead a business life in New York."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Hallmark', 'Drama', 'TV Movie']
+xmas_genres = ['Fantasy', 'Hallmark', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/eves-christmas/"""

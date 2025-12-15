@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Christmas elves, cursed by a witch, go on a killing spree in a neighborhood in Utah"""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/killer-christmas-elves-the-movie/"""

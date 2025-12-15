@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Julie is adjusting to being a single mother to a grieving child while facing her first Christmas without her husband when she develops an unexpected friendship with her older neighbor Irene."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Queer', 'Hallmark', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Queer', 'Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/we-need-a-little-christmas-2022/"""

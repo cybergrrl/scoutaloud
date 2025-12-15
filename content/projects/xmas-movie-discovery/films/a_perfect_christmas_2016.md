@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Steve and Cynthia are a newlywed couple celebrating their first Christmas together. They invite their families to join them for the holidays, but when Steve is laid off just before Christmas and Cynthia discovers she's pregnant, they both keep their news secret in hopes that the celebration runs smoothly."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Family', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-perfect-christmas/"""

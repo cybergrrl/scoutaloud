@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A man tries to find a son he gave up for adoption years ago."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/these-wilder-years/"""

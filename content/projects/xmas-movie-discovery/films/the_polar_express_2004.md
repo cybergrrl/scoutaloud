@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Family', 'Musical', 'Animation', 'Adventure']
+xmas_genres = ['Fantasy', 'Adventure', 'Musical', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-polar-express/"""

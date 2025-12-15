@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The gruesome Nazi Zombies are back to finish their mission, but our hero is not willing to die. He is gathering his own army to give them a final fight."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'Action']
+xmas_genres = ['Horror', 'Comedy', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/dead-snow-2-red-vs-dead/"""

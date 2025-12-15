@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The second holiday story inspired by Scotty McCreery’s song “Five More Minutes,” a young widow’s Christmas wish for her son is answered in unexpected ways when she returns to their old home for the holidays."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/five-more-minutes-moments-like-these/"""

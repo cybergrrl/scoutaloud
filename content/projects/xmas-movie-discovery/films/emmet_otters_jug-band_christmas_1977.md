@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A poor otter family risks everything for the chance to win the cash prize of a talent contest for Christmas."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Family', 'Musical', 'Music', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Music', 'Musical', 'Family']
 
 [extra]
 film_url = """https://letterboxd.com/film/emmet-otters-jug-band-christmas/"""

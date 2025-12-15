@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """One night in his near-empty tower block in contemporary London, Adam has a chance encounter with a mysterious neighbor Harry, which punctures the rhythm of his everyday life."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Queer', 'Fantasy']
+xmas_genres = ['Fantasy', 'Queer', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/all-of-us-strangers/"""

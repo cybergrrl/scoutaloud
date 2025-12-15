@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """None"""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/garland-2021/"""

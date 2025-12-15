@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A man proposes to his boyfriend. The offer of marriage is accepted, and then quickly rejected -- all in the days leading up to Christmas."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Queer', 'Drama']
+xmas_genres = ['Queer', 'Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/red-lodge/"""

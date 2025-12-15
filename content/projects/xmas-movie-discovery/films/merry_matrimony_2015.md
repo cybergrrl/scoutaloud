@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Brie Traverston is up for partner at her firm if she can successfully coordinate a Christmas wedding reshoot and ignore all the feelings that come with working with the one-that-got-away Eddie Chapman and his possibly new girlfriend Isabella."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/merry-matrimony/"""

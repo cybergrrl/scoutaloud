@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a mysterious key and a holiday riddle arrive on their doorsteps, Kate and Kevin embark on a Christmas romance adventure they’ll never forget."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/unlocking-christmas/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Thirty-year-old Hlynur still lives with his mother and spends his days drinking, watching porn and surfing the net while living off unemployment checks. A girl is interested in him, but he stands back from commitment. His mother's Spanish flamenco teacher, Lola, moves in with them for Christmas. On New Year's Eve, while his mother is away, Hlynur finds out Lola is a lesbian, but also ends up having sex with her. He soon finds out he and his mother are sharing more than a house. Eventually he must find out where he fits into the puzzle, and how to live life less selfishly."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Drama']
+xmas_genres = ['Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/101-reykjavik/"""

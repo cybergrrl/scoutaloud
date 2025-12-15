@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Before the Christmas Eve deadline, Sonny helps Will write a holiday movie that includes stories about Salem favorites as they embrace the holiday spirit with their typical extra spice and flavor."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Queer']
+xmas_genres = ['Queer', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/days-of-our-lives-a-very-salem-christmas/"""

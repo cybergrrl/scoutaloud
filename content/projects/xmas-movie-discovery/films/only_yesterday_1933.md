@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """On the back of the Wall Street Crash of 1929, a young businessman is about to commit suicide. With a note to his wife scribbled down and a gun in his hand, he notices an envelope addressed to him on his desk. As he begins to read, we're taken back to World War One and his meeting with a young woman named Mary Lane."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/only-yesterday-1933/"""

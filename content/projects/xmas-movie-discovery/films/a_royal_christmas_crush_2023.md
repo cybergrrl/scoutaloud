@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Ava accepts the opportunity of a lifetime to work at the Royal Ice Hotel which leads her to a surprise whirlwind romance with the most important guest of all, the Royal Prince himself."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-royal-christmas-crush/"""

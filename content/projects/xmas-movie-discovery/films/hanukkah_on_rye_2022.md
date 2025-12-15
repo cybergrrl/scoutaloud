@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A matchmaker connects Molly and Jacob, but their new romance is put to the test when they realize that they are competing deli owners. Will a Hanukkah miracle keep them together?"""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Hallmark', 'Romance', 'Family', 'TV Movie', 'Comedy']
+xmas_genres = ['Hanukkah', 'Comedy', 'Hallmark', 'TV Movie', 'Family', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/hanukkah-on-rye/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A week before Christmas a viral outbreak turns the citizens of Los Angeles into the walking dead. On the brink of severing ties with both his wife and longtime partner, L.A.P.D. officer Frank Talbot finds himself trapped with them. As death closes in their survival is further threatened by the fact that both men love the same woman."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Horror', 'Action']
+xmas_genres = ['Horror', 'Comedy', 'Romance', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/silent-night-zombie-night/"""

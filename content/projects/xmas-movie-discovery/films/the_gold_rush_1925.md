@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A gold prospector in Alaska struggles to survive the elements and win the heart of a dance hall girl."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Drama', 'Comedy', 'Adventure']
+xmas_genres = ['Family', 'Comedy', 'Adventure', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-gold-rush/"""

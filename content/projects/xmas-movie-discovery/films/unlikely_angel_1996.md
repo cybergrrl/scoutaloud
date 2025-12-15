@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A country singer dies prematurely, but cannot enter heaven until she performs a good deed back on earth."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'TV Movie', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/unlikely-angel/"""

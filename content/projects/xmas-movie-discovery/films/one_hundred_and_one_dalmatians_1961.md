@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a litter of dalmatian puppies are abducted by the minions of Cruella De Vil, the parents must find them before she uses them for a diabolical fashion statement."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Animation', 'Adventure']
+xmas_genres = ['Family', 'Comedy', 'Adventure', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/one-hundred-and-one-dalmatians/"""

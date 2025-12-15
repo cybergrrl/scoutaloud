@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Jules Claus has embraced Christmas again and is getting ready for the busiest time of the year together with grandpa Noël. Everything seems to go according to plan, until Jules receives a very special letter with an intriguing question..."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Fantasy', 'Global', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Global', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-claus-family-2/"""

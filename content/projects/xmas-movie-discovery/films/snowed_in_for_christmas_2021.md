@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Kaley, a young Au Pair, finds herself unable to return home for the holidays when a snowstorm derails her plans. In spite of her own disappointment she is determined to teach the girls she watches, alongside their charming Uncle, the magic of Christmas. Will this series of events lead to a perfect Christmas?"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'Comedy', 'TV Movie']
+xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/snowed-in-for-christmas/"""

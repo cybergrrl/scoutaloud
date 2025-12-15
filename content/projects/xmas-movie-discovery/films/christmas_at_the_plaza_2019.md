@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """With Christmas approaching in New York City, historian Jessica is hired to create an exhibition honoring the history of Christmas at The Plaza Hotel. When she is paired with Nick, a handsome decorator, they wind up enjoying a host of holiday traditions together and find themselves falling for each other."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-at-the-plaza/"""

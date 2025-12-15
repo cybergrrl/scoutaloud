@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Follows Andie, who runs a decorating company with her mother. After her mother's passing, Andie navigates her first Christmas alone while trying to find love."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Queer', 'TV Movie']
+xmas_genres = ['Queer', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-holiday-junkie/"""

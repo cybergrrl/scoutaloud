@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sparks fly between a romance novelist and a blacksmith as they try to save a charming village during the holidays."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'TV Movie']
+xmas_genres = ['Comedy', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-at-maple-creek/"""

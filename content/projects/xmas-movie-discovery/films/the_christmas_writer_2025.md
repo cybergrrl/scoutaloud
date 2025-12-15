@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a bestselling lesbian Christmas author is paralyzed by writer's block after her mother's passing, she returns to her hometown searching for inspiration-and finds it in the form of a charming single mom who owns the local bookstore, forcing her to choose between the life she built and the love she never saw coming."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Queer']
+xmas_genres = ['Queer', 'Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-writer/"""

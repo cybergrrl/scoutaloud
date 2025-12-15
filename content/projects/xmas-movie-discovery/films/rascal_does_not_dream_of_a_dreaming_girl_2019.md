@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In Fujisawa, Sakuta Azusagawa is in his second year of high school. Blissful days with his girlfriend and upperclassman, Mai Sakurajima, are interrupted by the appearance of his first crush, Shoko Makinohara."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Drama', 'Romance', 'Global', 'Animation']
+xmas_genres = ['Fantasy', 'Global', 'Animation', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/rascal-does-not-dream-of-a-dreaming-girl/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In this magical story, a scientist sets out to prove that reindeer can fly and along the way discovers the true meaning of faith, family and Christmas."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Fantasy', 'Family', 'TV Movie', 'Hallmark']
+xmas_genres = ['Fantasy', 'Hallmark', 'TV Movie', 'Family', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-secret/"""

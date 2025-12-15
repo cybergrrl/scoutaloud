@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A bookish husband tries to win back the affections of his horse-breeding wife."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Oldies']
+xmas_genres = ['Comedy', 'Oldies', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-bride-wore-boots/"""

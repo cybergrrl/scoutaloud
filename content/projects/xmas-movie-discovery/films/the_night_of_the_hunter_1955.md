@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In Depression-era West Virginia, a serial-killing preacher hunts two young children who know the whereabouts of a stash of money."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Horror', 'Crime', 'Thriller', 'Oldies']
+xmas_genres = ['Horror', 'Thriller', 'Oldies', 'Crime', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-night-of-the-hunter/"""

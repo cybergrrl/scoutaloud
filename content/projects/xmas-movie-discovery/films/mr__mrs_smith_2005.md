@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A husband and wife struggle to keep their marriage alive until they realize they are both secretly working as assassins. Now, their respective assignments require them to kill each other."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Thriller', 'Action', 'Drama']
+xmas_genres = ['Comedy', 'Thriller', 'Drama', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/mr-mrs-smith-2005/"""

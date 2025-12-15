@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Kirk is enjoying the annual Christmas party extravaganza thrown by his sister until he realizes he needs to help out Christian, his brother-in-law who has a bad case of the bah-humbugs."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/saving-christmas/"""

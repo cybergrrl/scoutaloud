@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """It's Christmas Eve in Tinseltown and Sin-Dee is back on the block. Upon hearing that her pimp boyfriend hasn't been faithful during the 28 days she was locked up, the working girl and her best friend, Alexandra, embark on a mission to get to the bottom of the scandalous rumor. Their rip-roaring odyssey leads them through various subcultures of Los Angeles, including an Armenian family dealing with their own repercussions of infidelity."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Queer', 'Drama']
+xmas_genres = ['Queer', 'Comedy', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/tangerine/"""

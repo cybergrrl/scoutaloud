@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Black Beauty is being trained to run in the steeplechase race, upon which the Cameron family has staked its fortune. However, the horse is injured racing for a doctor when its owner is hurt, and it looks like it won't recover in time to compete in the race."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/black-beauty-1933/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Jackie Foster, a dynamic Assistant District Attorney and single mom, is looking forward to wrapping up her latest case and spending Christmas with Gracie, her adorable and precocious, eight-year old daughter. But when Jackie’s estranged dad, Jack , a gruff retired police officer, unexpectedly shows up at her door, they will be forced to confront old wounds."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/ill-be-home-for-christmas-2016/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Johnny Case, a freethinking financier, has finally found the girl of his dreams — Julia Seton, the spoiled daughter of a socially prominent millionaire — and she's agreed to marry him. But when Johnny plans a holiday for the two to enjoy life while they are still young, his fiancée has other plans & that is for Johnny to work in her father's bank!"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Oldies', 'Drama']
+xmas_genres = ['Comedy', 'Oldies', 'Romance', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/holiday/"""

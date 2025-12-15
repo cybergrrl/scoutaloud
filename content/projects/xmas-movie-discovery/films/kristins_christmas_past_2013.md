@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Kristin, a cynical 34-year-old, drinks a mysterious champagne on Christmas Eve and wakes up seventeen years in the past, sharing a room with her 17-year-old self. Given the chance to change the worst Christmas of her life, she attempts to fix past mistakes, only to discover surprising truths about her family that may help her mend her present-day relationships."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Fantasy']
+xmas_genres = ['Family', 'Comedy', 'Fantasy', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/kristins-christmas-past/"""

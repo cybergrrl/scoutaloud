@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A Los Angeles extreme-sports photographer returns home for the holiday to take care of her grandmother, only to have a neighbor grab her attention as he needs assistance watching his young nephew."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/picture-a-perfect-christmas/"""

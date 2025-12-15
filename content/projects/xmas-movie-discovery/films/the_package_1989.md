@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Experienced Green Beret sergeant Johnny Gallagher is escorting a prisoner, Airborne Ranger Thomas Boyette, back to the US, but Boyette escapes and Gallagher must risk life and limb to catch him."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Action', 'Crime']
+xmas_genres = ['Thriller', 'Crime', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-package/"""

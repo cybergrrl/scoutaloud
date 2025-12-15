@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A bank robbery goes completely to pot, a pair of shoplifters get both an old man and a cop behind them. It is the beginning of this zany comedy, including the guys from boy band V6."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Global', 'Action', 'Crime']
+xmas_genres = ['Comedy', 'Global', 'Crime', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/hold-up-down/"""

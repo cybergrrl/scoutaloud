@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, they make a crucial mistake and leave her home alone. Fed up and feeling under appreciated, she sets off on an impromptu adventure of her own. As her family scrambles to find her, Claire discovers the unexpected magic of a Christmas gone off-script."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Queer']
+xmas_genres = ['Queer', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/oh-what-fun/"""

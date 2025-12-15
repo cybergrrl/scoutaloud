@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After moving back to her hometown, Lisa (Lenz) plots with her siblings and grandparents to help her father's bed and breakfast get a five-star review from an incognito travel critic (Webster), but ends up falling for him, not knowing he is the real critic."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/five-star-christmas/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Laurel, a Chicago-based business executive, travels to Memphis to secure one of the city's oldest family-owned banks. While in Memphis, Laurel reunites with old flame Clay, a local music promoter with loftier aspirations. Though Laurel tries to keep her eye on the prize of the business acquisition, Clay is very persuasive reminding her of the days when they were a performing duo on the brink of stardom. Now Laurel's focus turns to the home of the Blues and dreams of making music again."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'Hallmark', 'TV Movie']
+xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-at-graceland/"""

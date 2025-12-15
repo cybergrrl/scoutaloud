@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young schoolteacher descends into personal moral degradation after finding himself stranded in a brutal, menacing town in outback Australia."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Thriller', 'Horror']
+xmas_genres = ['Horror', 'Thriller', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/wake-in-fright/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a restless young married woman is granted a wish by a Christmas Angel to be single again, she soon discovers her new life isn't what she bargained for, and embarks on a quest to win her husband back."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-dream-of-christmas/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An overwhelmed doctor is left to look after and care for three very pregnant women by herself during a storm on Christmas Eve, until she is joined by an intriguing colleague."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Drama', 'Hallmark', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-more-the-merrier-2025/"""

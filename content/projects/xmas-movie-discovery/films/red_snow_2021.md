@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A struggling vampire romance novelist must defend herself against real-life vampires during Christmas in Lake Tahoe."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/red-snow-2021/"""

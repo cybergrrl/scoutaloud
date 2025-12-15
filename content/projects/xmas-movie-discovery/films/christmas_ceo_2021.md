@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A small toy company CEO gets a once in a lifetime offer to merge with a mega toy company but will need her estranged ex-business partner's signature to seal the deal. What he helps her rediscover will change both of their lives."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-ceo/"""

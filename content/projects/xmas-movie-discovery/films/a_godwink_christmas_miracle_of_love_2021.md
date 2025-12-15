@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Brought together by community service, Eric and Joy find new purpose at Christmas. As they help a family rebuild their home, coincidences and a medical miracle lead them to believe in destiny."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-godwink-christmas-miracle-of-love/"""

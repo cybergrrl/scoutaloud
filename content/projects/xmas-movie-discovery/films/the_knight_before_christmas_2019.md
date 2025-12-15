@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A medieval English knight is magically transported to present day where he ends up falling for a high school science teacher."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Royal Christmas']
+xmas_genres = ['Comedy', 'Romance', 'Royal Christmas']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-knight-before-christmas/"""

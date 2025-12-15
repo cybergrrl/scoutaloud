@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A horror film that depicts St. Nicholas as a murderous bishop who kidnaps and murders children when there is a full moon on December 5."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'Global']
+xmas_genres = ['Horror', 'Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/saint/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Shop owner Alice Chapman is nervous to meet her future in-laws at Christmas, especially because she is arriving ahead of her new fiance Will Mitchum. Alice's trip becomes more stressful when her luggage is lost and her phone is damaged, leaving her no way to find Will's family!"""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-very-merry-mix-up/"""

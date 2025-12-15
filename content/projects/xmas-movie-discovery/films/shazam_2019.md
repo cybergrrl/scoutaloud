@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A boy is given the ability to become an adult superhero in times of need with a single magic word."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Action', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/shazam/"""

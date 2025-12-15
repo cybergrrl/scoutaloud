@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Join the gang as they settle in for a holiday adventure loosely based on the seasonal classic, “T’was the Night Before Christmas”."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/old-time-radio-the-specter-of-christmas/"""

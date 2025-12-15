@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Ally, a final contestant on a dating show, must face her high school sweetheart when she is chosen for the Hometown Date."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/love-in-winterland/"""

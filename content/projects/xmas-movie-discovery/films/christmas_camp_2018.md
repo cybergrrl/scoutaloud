@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """To get a big promotion, Hayley, an advertising executive who specializes in social media and all things hip, must land a toy company that is all about traditional Christmas as an account."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-camp/"""

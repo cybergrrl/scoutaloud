@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In this adaptation of Charles Dickens' A Christmas Carol, Daffy Duck is the greedy proprietor of the Lucky Duck Mega-Mart and all he can think about is the money to be made during the holiday season."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Animation', 'A Christmas Carol']
+xmas_genres = ['Family', 'Comedy', 'A Christmas Carol', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/bah-humduck-a-looney-tunes-christmas/"""

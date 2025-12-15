@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Successful yet recluse author Harrington returns to his hometown for an annual Christmas festival, where he must face his publicist there for damage control."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/magic-in-mistletoe/"""

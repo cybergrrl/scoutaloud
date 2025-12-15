@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After her life in New York unexpectedly falls apart, powerhouse stockbroker Sam Wallace returns to her small town for the holidays and reconnects with her high school sweetheart who helps reignite her humanitarian spirit just in time to help their community on Christmas."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/heart-of-the-holidays/"""

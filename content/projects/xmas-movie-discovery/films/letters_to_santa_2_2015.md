@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In their pursuit of perfect Christmas well - known characters accompanied by some new faces happen to experience tiny miracles! The adventures they come across help them realize that the most important things in life - hope, acceptance and family - are within their reach and that real love is the best Christmas present!"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Global']
+xmas_genres = ['Comedy', 'Global', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/letters-to-santa-2/"""

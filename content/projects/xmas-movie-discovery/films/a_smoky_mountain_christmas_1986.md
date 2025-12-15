@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A country-western singer on a trip through the Tennessee mountains runs into a reclusive backwoodsman — and a witch."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Fantasy', 'TV Movie']
+xmas_genres = ['Fantasy', 'TV Movie', 'Music']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-smoky-mountain-christmas/"""

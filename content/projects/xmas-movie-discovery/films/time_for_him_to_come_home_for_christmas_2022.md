@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Four days before Christmas, Elizabeth Athens receives a voicemail from a number she doesn’t recognize. On the message, a man she doesn’t know makes one final plea to the love of his life for a second chance."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/time-for-him-to-come-home-for-christmas/"""

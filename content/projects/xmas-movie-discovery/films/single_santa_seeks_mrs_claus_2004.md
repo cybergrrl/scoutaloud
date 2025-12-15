@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Nick's plan to let fate bring his wife to him must be altered because he must replace his father as Santa Claus on December 26. Ernst, the right-hand man to several generations of Santas, generates a list of potential mates. Nick dutifully sets off to meet them, but fate may have a candidate after all."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Family', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Hallmark', 'TV Movie', 'Family']
 
 [extra]
 film_url = """https://letterboxd.com/film/single-santa-seeks-mrs-claus/"""

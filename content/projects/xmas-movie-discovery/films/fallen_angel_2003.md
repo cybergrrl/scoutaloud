@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When his father dies, Terry (Gary Sinese) returns to the house where he grew up, planning to stay only long enough to clean and settle the estate. Yet something indescribable keeps him there longer than expected. Soon, he is reunited with memories and people from his past and his life is changed forever."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/fallen-angel-2003/"""

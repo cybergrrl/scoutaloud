@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Claire Tree spends the night in the hotel room of her friend and confidante, saying goodbye to him before her impending marriage the following day. When she returns to the hotel with her husband the following night, the house detective accuses her of prostitution and throws them out. Now Claire must explain everything to her unsympathetic husband."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies', 'Music']
+xmas_genres = ['Oldies', 'Drama', 'Music', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/peacock-alley/"""

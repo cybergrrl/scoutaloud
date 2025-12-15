@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Another version of the Dickens classic. Originally an episode of Fredric March Presents Tales from Dickens. Later released on home video on it's own."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'A Christmas Carol', 'TV Movie']
+xmas_genres = ['TV Movie', 'A Christmas Carol', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-carol-1959/"""

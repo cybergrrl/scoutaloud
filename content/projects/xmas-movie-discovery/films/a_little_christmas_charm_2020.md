@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Holly, a jewelry designer finds a lost charm bracelet and teams up with investigative reporter Greg in hopes of finding the owner and returning it by Christmas Eve."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-little-christmas-charm/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Newly engaged Asha Singh and Jake O'Brien are excited to spend Christmas together, but their relationship is tested when their families' cultural and holiday traditions clash."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Family', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-with-the-singhs/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """It’s Holiday Season in Reno, and Lieutenant Dangle wishes he’d never been born. With the help of a roller skating “Angel,” he learns how much better the lives of the other deputies would be if he never existed. Will he decide to live on anyway? There’s still Christmas criminals to catch!"""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'TV Movie', 'Crime', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'TV Movie', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/reno-911-its-a-wonderful-heist/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Karate champion Matt Logan is enlisted by the police to train officers in self-defense after narcotics agents are killed by an assailant using the martial arts."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Action', 'Crime', 'Thriller', 'Adventure']
+xmas_genres = ['Adventure', 'Action', 'Thriller', 'Crime', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-force-of-one/"""

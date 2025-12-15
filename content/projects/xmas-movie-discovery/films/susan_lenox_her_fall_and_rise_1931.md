@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young woman runs away from an abusive home and pre-arranged marriage only to be frustrated in her attempts to find happiness with a handsome engineer."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/susan-lenox-her-fall-and-rise/"""

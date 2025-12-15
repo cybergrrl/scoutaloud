@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A holiday-hating detective is forced to solve a murder — and save Christmas — with help from famous trainees who must improv their way through the case."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Crime', 'TV Movie']
+xmas_genres = ['Comedy', 'TV Movie', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/who-killed-santa-a-murderville-murder-mystery/"""

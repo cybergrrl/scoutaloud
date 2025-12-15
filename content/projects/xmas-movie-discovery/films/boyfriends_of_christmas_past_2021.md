@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Leading up to Christmas, marketing executive, Lauren, is visited by the ghosts of four ex-boyfriends. She must learn to open her heart or risk losing her best friend, Nate."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/boyfriends-of-christmas-past/"""

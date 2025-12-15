@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Popelka, a resourceful and independent young girl, is a servant in her stepmother's house and confides in her closest friend the owl. When she comes across three magical acorns, she's granted a single wish for each one of them."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'Fantasy']
+xmas_genres = ['Family', 'Fantasy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/three-wishes-for-cinderella/"""

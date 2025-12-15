@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Business executive Jazmin Carter is known for two things: turning fledgling businesses into profit producers and avoiding Christmas in Harlem, the neighborhood where she grew up."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark']
+xmas_genres = ['Comedy', 'Hallmark', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-holiday-in-harlem/"""

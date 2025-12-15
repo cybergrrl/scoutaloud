@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Follows the story of New York lawyer Hugo who heads to Milwaukee with his best friend Madelyn to spend the holidays with his brother Aiden and his mom Kate, who is also in charge of the local Christmas celebrations. Ever the matchmaker, Kate arranges for Hugo to run into Patrick, Hugo’s high school friend and secret crush, who has recently returned after a successful stint in Silicon Valley. As they enjoy the local holiday festivities together, Hugo and Patrick’s attraction to each other is undeniable and it looks as though Kate’s Santa-style matchmaking is a success. But as Hugo receives word of a big promotion requiring a move to London, he must decide what is most important to him."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Queer', 'TV Movie']
+xmas_genres = ['Queer', 'Drama', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-setup/"""

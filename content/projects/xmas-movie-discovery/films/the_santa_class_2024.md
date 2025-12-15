@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Kate North reluctantly takes over her father’s struggling Santa School, where she and a colleague discover an amnesiac Santa Claus and must help him regain his memories through their training program to save both the school and Christmas."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-santa-class/"""

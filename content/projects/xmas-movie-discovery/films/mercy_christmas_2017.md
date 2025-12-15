@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Michael Briskett meets the perfect woman, his ideal Christmas dream comes true when she invites him to her family's holiday celebration. Dreams shattered, Michael struggles to survive once he realizes HE will be Christmas dinner."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'Action']
+xmas_genres = ['Horror', 'Comedy', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/mercy-christmas/"""

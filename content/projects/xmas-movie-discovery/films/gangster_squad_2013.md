@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Los Angeles, 1949. Ruthless, Brooklyn-born mob king Mickey Cohen runs the show in this town, reaping the ill-gotten gains from the drugs, the guns, the prostitutes and — if he has his way — every wire bet placed west of Chicago. And he does it all with the protection of not only his own paid goons, but also the police and the politicians who are under his control. It’s enough to intimidate even the bravest, street-hardened cop… except, perhaps, for the small, secret crew of LAPD outsiders led by Sgt. John O’Mara and Jerry Wooters who come together to try to tear Cohen’s world apart."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Thriller', 'Action', 'Crime']
+xmas_genres = ['Thriller', 'Crime', 'Drama', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/gangster-squad/"""

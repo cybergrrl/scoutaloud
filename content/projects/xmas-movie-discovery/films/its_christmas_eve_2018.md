@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Interim school superintendent Eve Morgan finds herself in a tough spot when she is assigned to shut down a school's failing music program and must come to terms with her musical past."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'Music', 'TV Movie', 'Hallmark']
+xmas_genres = ['Hallmark', 'Music', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/its-christmas-eve/"""

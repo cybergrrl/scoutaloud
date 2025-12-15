@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Three couples at different parts of life navigate big turning points in their lives over the holidays."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Queer', 'Hallmark', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Queer', 'Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-on-cherry-lane/"""

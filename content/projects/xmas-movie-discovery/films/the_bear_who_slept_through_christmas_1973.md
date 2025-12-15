@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """While the rest of the world is getting ready for Christmas, all the bears in Bearbank are getting ready to sleep… except for Ted E. Bear. Ted gets curious about the holiday, and sets out to learn the meaning of it from Santa Claus himself."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Animation', 'TV Movie']
+xmas_genres = ['Family', 'TV Movie', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-bear-who-slept-through-christmas/"""

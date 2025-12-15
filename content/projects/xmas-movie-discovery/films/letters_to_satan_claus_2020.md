@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After returning to her hometown of Ornaments as a big city news reporter, she faces the demon of her past following a simple typo in her letter to Santa, a harmless mistake that summoned Satan to kill her parents."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'TV Movie']
+xmas_genres = ['Horror', 'Comedy', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/letters-to-satan-claus/"""

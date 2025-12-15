@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A journeyman hockey player falls for a real estate agent in a career crisis when he's traded to her hometown and moves into the cottage in her hockey-loving family's backyard."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/checkin-it-twice/"""

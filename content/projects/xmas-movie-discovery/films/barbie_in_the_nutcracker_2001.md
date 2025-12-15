@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """"Barbie" stars as Clara in this animated retelling of the classic Christmas ballet, complete with Tchaikovsky soundtrack and ballet choreography."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Animation', 'Musical']
+xmas_genres = ['Family', 'Musical', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/barbie-in-the-nutcracker/"""

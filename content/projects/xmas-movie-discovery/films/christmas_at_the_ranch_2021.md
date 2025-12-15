@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Haley Hollis returns to her family ranch to try and save it from closure, she wasn't banking on spending so much time with ranch hand Kate - or falling for her."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Queer', 'Drama']
+xmas_genres = ['Queer', 'Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-at-the-ranch/"""

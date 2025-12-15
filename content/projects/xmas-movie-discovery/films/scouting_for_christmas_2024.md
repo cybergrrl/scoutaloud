@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Busy realtor and single mom Angela meets bakery owner William after her daughter tries to set them up by having him cater her scout troop’s holiday event."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/scouting-for-christmas/"""

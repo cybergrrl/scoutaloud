@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """As Geppetto prepares for Christmas, Pinocchio joins a puppet show to earn money for a present. There he meets and elopes with the beautiful girl puppet, Julietta, leaving Geppetto alone and worried."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Fantasy', 'Animation', 'TV Movie']
+xmas_genres = ['Family', 'TV Movie', 'Fantasy', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/pinocchios-christmas/"""

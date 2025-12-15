@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."""
 
 [taxonomies]
-xmas_genres = ['Action', 'Drama', 'Crime']
+xmas_genres = ['Crime', 'Drama', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-godfather/"""

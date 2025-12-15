@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Just before the holidays Jessica Lew is ending her tenure as the assistant to her wealthy boss to use her recently earned law degree within his company, but offers to help his charming, younger brother as he looks after his orphaned nieces and nephew over Christmas."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Queer', 'Hallmark', 'TV Movie']
+xmas_genres = ['Queer', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-with-the-darlings/"""

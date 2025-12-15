@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """During a time of robber barons, child labor, and rising industry, two orphan girls get a little help from their unexpected guardian angels who turn the tide of events and change their lives forever."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Family', 'Drama']
+xmas_genres = ['Family', 'Music', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/buttons-2018/"""

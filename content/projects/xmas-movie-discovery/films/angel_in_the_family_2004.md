@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sisters separated by a lifetime of misunderstanding and their family desperately in need of healing old wounds, find themselves brought back together on one amazing Christmas."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/angel-in-the-family/"""

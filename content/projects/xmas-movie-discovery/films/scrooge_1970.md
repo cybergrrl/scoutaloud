@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A musical adaptation of Charles Dickens' classic ghost tale starring Albert Finney."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Drama', 'Family', 'Musical', 'A Christmas Carol']
+xmas_genres = ['Fantasy', 'A Christmas Carol', 'Musical', 'Family', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/scrooge-1970/"""

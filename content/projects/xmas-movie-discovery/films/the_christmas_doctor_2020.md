@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A week before Christmas, Dr. Alicia Wright is offered an assignment away from home. A mysterious man from her past journeys to find her before Christmas and brings with him a revelation that could change Alicia’s life forever."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-doctor/"""

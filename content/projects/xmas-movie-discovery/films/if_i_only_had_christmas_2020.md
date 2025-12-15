@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """At Christmas, a cheerful publicist teams up with a cynical business owner and his team to help a charity in need."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/if-i-only-had-christmas/"""

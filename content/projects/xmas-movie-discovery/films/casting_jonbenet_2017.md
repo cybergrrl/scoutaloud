@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Twenty years after the modern world's most notorious child murder, the legacy of the crime and its impact are explored."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Documentary', 'Crime']
+xmas_genres = ['Crime', 'Documentary', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/casting-jonbenet/"""

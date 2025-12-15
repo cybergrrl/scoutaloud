@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A bandleader tries to romance a dancer by sending her boyfriend, a musician, out of town. However, things get complicated when he finds out that a gangster has designs on her too."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/dancers-in-the-dark/"""

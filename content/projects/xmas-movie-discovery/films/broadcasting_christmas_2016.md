@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When the opportunity to co-host a talk show with the fabulous talk show diva Veronika presents itself two weeks before Christmas, Emily thinks this is her big break. To her surprise, she discovers she has stiff competition with Charlie, the local TV anchor who is her near equal on another station. With such interest and support for both reporters, a contest is created: for the two weeks leading up to Christmas, who can cover the best and most meaningful Christmas stories on the local news?"""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/broadcasting-christmas/"""

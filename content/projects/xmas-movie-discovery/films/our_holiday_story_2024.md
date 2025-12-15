@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Dave and Nell recount the Christmas where they unknowingly fell in love while working as rivals on a town festival, as their daughter’s boyfriend struggles to navigate his own relationship."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/our-holiday-story/"""

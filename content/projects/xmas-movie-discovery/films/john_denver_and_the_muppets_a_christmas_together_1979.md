@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In this beloved holiday classic, Kermit the Frog, Miss Piggy and all the Muppets join the singer for a heart-warming Christmas celebration, with traditional carols as well as lesser-known holiday songs."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Family', 'Comedy', 'TV Movie']
+xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Music']
 
 [extra]
 film_url = """https://letterboxd.com/film/john-denver-and-the-muppets-a-christmas-together/"""

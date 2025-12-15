@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Heidi heads to the Heidelberg Christmas market to sell her hand-painted ornaments. While there, she falls for a local artisan who helps her reconnect with her lost heritage."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'Family', 'TV Movie', 'Hallmark']
+xmas_genres = ['Hallmark', 'TV Movie', 'Family', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-heidelberg-holiday/"""

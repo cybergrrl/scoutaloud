@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Taylor, a journalist, and Luke, in the military, share a special bond that grows between them over the course of several Christmases that they spend together and apart."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/my-grown-up-christmas-list/"""

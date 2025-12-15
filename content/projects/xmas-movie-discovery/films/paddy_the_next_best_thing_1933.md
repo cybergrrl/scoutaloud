@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In Ireland, Major Adair’s older daughter Eileen is about to marry Lawrence Blake for his money in order to pay off her father’s debts, even though she really loves Jack Breen."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Oldies']
+xmas_genres = ['Comedy', 'Oldies', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/paddy-the-next-best-thing/"""

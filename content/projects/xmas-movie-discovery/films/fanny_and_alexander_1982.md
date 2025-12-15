@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Global', 'Mystery', 'Fantasy']
+xmas_genres = ['Fantasy', 'Mystery', 'Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/fanny-and-alexander/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """While visiting his hometown during Christmas, a man comes face-to-face with his old high school crush whom he was best friends with – a woman whose rejection of him turned him into a ferocious womanizer."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy']
+xmas_genres = ['Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/just-friends/"""

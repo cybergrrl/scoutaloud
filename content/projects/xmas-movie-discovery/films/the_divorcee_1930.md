@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a woman discovers that her husband has been unfaithful, she decides to pay him back in kind."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-divorcee-1930/"""

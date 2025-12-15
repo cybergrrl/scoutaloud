@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Manhattanite Catherine O'Mara (Heche) bonds with a young man who has run away from his father. When the father returns to New York a year later to sell his Christmas trees, he and Catherine cross paths."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/silver-bells/"""

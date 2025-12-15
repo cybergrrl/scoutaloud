@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A martian comes to a small town in Quebec and becomes friends with the town children. He gives them candy to get the children into his spacecraft. This alarms the parents but he wins them over and they have a great big Christmas party."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Science Fiction', 'Global', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Global', 'Science Fiction']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-martian/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Event planner Rachel lands her biggest job yet – Dollywood's 30th Smoky Mountain Christmas celebration, where she’s teamed with operations director Luke to plan an event as glamorous as Dolly Parton herself. Sparks fly, but it takes matchmaking by Dolly to help them find their way."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-at-dollywood/"""

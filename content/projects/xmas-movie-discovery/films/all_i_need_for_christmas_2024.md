@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Struggling singer/songwriter Maggie is worried she's unable to compete with such a tech-savvy world. Upon returning home to help her parents on their farm she meets Archer, an entrepreneur who has come back to town to spend the holidays alone."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/all-i-need-for-christmas/"""

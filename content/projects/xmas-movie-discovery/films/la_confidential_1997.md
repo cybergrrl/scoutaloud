@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Action', 'Crime', 'Thriller', 'Mystery']
+xmas_genres = ['Mystery', 'Action', 'Thriller', 'Crime', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/la-confidential/"""

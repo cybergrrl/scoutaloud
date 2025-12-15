@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """With Christmas approaching, a struggling single mom finds herself working as a department store Santa Claus, as a real-life angel delivers good fortune and the possibility of holiday romance."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'Family', 'TV Movie', 'Hallmark']
+xmas_genres = ['Hallmark', 'TV Movie', 'Family', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-at-cartwrights/"""

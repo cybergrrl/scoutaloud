@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Strangeville's famous stoners set out to help Santa finish his Christmas deliveries after he accidentally smokes some yule-tide zombie weed."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/nixon-and-hogan-smoke-christmas/"""

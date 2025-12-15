@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A story about a forming friendship between an elderly nun, Sister Anthony, and New York's Rockefeller Center's head landscape architect Richard Reilly, who wants to fell a tree she's been growing for decades and move it to New York for Christmas display."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Drama', 'TV Movie']
+xmas_genres = ['Family', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-tree/"""

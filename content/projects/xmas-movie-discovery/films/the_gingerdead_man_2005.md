@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An evil yet adorable Gingerbread man comes to life with the soul of a convicted killer, and this real life cookie monster wreaks havoc on the girl who sent the killer to the electric chair."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'Fantasy']
+xmas_genres = ['Horror', 'Comedy', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-gingerdead-man/"""

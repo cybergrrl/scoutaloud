@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young woman uses her body and her sexuality to help her climb the social ladder, but soon begins to wonder if her new status will ever bring her happiness."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/baby-face/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart..."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Musical', 'Fantasy']
+xmas_genres = ['Family', 'Comedy', 'Fantasy', 'Musical']
 
 [extra]
 film_url = """https://letterboxd.com/film/how-the-grinch-stole-christmas-2000/"""

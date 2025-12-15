@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Broadway star Becca comes home for the holidays to see her family and find out if there is still a spark with her high school sweetheart Sam. Sam is hesitant to let Becca in, but their moms have other plans."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Queer', 'TV Movie']
+xmas_genres = ['Queer', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/merry-gay/"""

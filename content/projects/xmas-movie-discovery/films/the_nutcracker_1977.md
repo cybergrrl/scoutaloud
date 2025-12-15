@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The Nutcracker is Mikhail Baryshnikov's breathtaking and critically acclaimed Emmy-nominated production. This spectacular performance is danced by the magnificent team of Baryshnikov, one of the greatest classical dancers of the century, and Gelsey Kirkland, both showcased at the peak of their careers, with members of the American Ballet Theatre."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Fantasy']
+xmas_genres = ['Fantasy', 'Music']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-nutcracker/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """It follows Kathy, a food critic in New York City. Her parents ask her to come home for Christmas, and there she meets a handsome police officer, which now complicates her situation."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Drama']
+xmas_genres = ['Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-at-the-holly-hotel/"""

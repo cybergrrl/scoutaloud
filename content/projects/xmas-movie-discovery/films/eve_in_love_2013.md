@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Set within the Tokyo DisneySea theme park, the love lives of various people are told. Gakkun has been preparing for his accounting license exam. Nao Nanami works in the gift wrapping section of a department store."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'Global', 'TV Movie', 'Comedy']
+xmas_genres = ['Comedy', 'TV Movie', 'Global', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/eve-in-love/"""

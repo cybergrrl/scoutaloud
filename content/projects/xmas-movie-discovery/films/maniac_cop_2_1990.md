@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Undead cop Matt Cordell rises from the grave, and is after the criminals who murdered him in prison."""
 
 [taxonomies]
-xmas_genres = ['Action', 'Horror', 'Thriller', 'Crime']
+xmas_genres = ['Horror', 'Thriller', 'Crime', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/maniac-cop-2/"""

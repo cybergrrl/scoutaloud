@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Best friends Naomi and Liz return home for the holidays and simultaneously enter a love triangle when they both reconnect with their high school crush Chris Silver."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hanukkah', 'Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/never-been-chrisd/"""

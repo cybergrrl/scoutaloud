@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When carolling all-stars We Three Queens wake up on Christmas Eve-- their most high stakes day of the year-- to discover they've been kidnapped, they'll have to engage in a battle of wit and song to negotiate their freedom before the clock strikes twelve."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Thriller', 'Horror']
+xmas_genres = ['Horror', 'Comedy', 'Thriller']
 
 [extra]
 film_url = """https://letterboxd.com/film/we-three-queens/"""

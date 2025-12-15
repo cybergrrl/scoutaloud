@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Action', 'Adventure']
+xmas_genres = ['Adventure', 'Science Fiction', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/iron-man-3/"""

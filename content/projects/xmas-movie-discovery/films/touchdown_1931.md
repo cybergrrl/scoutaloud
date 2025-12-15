@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Football coach Dan Curtis is eager for his small college team to win at all costs."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/touchdown/"""

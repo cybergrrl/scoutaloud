@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Duchess Margaret unexpectedly inherits the throne & hits a rough patch with Kevin, it’s up to Stacy to save the day before a new lookalike — party girl Fiona — foils their plans."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'TV Movie', 'Royal Christmas', 'Comedy']
+xmas_genres = ['Comedy', 'Royal Christmas', 'TV Movie', 'Family', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-princess-switch-switched-again/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Anything can happen during Christmas Eve. Mel has to face new professional challenges and adapt to the new standards prevailing at work. Then Karina and Stephan plan to introduce serious changes in raising children. They decide to change their approach and apply somewhat sophisticated educational methods. A new woman will step in between Karolina and Filip, and the past will be reminded of Rudolf."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Global']
+xmas_genres = ['Comedy', 'Global', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/letters-to-santa-4/"""

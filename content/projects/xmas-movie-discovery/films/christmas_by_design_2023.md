@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """During a Christmas challenge to create a holiday-theme clothing line, a designer looks closer at most important in life."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-by-design/"""

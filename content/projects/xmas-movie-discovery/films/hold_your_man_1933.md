@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Ruby falls in love with small-time con man Eddie. During a botched blackmail scheme, Eddie accidentally kills the man they were setting up. Eddie takes off and Ruby is sent to a reformatory for two years."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/hold-your-man/"""

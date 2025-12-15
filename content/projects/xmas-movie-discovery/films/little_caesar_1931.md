@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A small-time hood shoots his way to the top, but how long can he stay there?"""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Oldies', 'Crime']
+xmas_genres = ['Oldies', 'Crime', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/little-caesar/"""

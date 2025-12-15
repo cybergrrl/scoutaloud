@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A Manhattan ad agency boss, John Holiday, entrusts Lauren to deliver the big pre-holiday client pitch, but only winds up annoying her when she’s teamed up with a European consultant. To Lauren's surprise, this consultant turns out to be the handsome Prince Edward of Candashire, masquerading as his consultant pal to escape his royal duties for an incognito American Christmas."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'Royal Christmas', 'TV Movie']
+xmas_genres = ['Family', 'Royal Christmas', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-royal-christmas-engagement/"""

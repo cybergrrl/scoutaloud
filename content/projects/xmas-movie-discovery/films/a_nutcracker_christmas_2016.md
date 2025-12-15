@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When her niece is cast in The Philadelphia Ballet’s production of the Nutcracker, a jaded ex-ballerina is forced to come to terms with the life and love she left behind."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'Family', 'TV Movie', 'Hallmark']
+xmas_genres = ['Hallmark', 'TV Movie', 'Family', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-nutcracker-christmas/"""

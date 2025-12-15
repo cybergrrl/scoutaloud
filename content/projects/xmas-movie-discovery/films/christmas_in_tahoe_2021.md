@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """To save her family hotel's Christmas show, talent booker Claire must ask for help from her ex-boyfriend Ryan, the lead guitarist of a now-famous band that fired her as their manager years ago."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-in-tahoe/"""

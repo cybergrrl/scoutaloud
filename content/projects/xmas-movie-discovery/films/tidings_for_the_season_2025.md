@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A local newscaster’s life changes when he meets a 10-year-old fan — and his single mother — during the holidays."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Drama', 'Hallmark', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/tidings-for-the-season/"""

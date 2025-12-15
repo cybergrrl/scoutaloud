@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When aspiring romance novelist Kim Rossi is unceremoniously dumped by her soon-to-be-published romance novelist boyfriend, Kim takes stock and decides to take a leap. She signs up for a romance writing retreat at a quaint Vermont Inn shortly before Christmas, where a top romance novelist is scheduled to attend and read the work of one lucky writer. Shortly after arriving, she crosses paths with Zeke, whom she initially finds to be intrusive and, naturally, ends up being her assignment partner. Worse yet, her ex is also at the retreat. Despite these bumps in the road, Kim steps outside her comfort zone and plunges into the writing exercises, surprising herself. Equally unexpected is the attraction that seems to be building between her and Zeke that promises to take her down a road she never imagined traveling. Based on the book by Richard Paul Evans."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-mistletoe-inn/"""

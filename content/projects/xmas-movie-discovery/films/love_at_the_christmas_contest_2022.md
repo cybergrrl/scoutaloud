@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young woman enters a Christmas tree decorating contest to honor the memory of her mother, only to discover that the competition includes her recently-widowed high school sweetheart, and his adorable 10-year-old daughter."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/love-at-the-christmas-contest/"""

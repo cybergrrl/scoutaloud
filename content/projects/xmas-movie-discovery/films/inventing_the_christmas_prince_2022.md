@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Shelby is about to quit her job as a rocket engineer when her daughter becomes convinced that her Scrooge-like boss, Evan, is the Christmas Prince from a story Shelby invented years ago."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/inventing-the-christmas-prince/"""

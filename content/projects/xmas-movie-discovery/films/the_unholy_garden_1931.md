@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """At a hotel in the middle of the Sahara, an old man and his daughter try to keep the location of a hidden treasure from a collection of thieves and criminals staying at the hotel who are determined to get it. A suave gentleman thief arrives at the hotel one day with his own plan to get the loot, but complications ensue when he begins to fall for the daughter."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-unholy-garden/"""

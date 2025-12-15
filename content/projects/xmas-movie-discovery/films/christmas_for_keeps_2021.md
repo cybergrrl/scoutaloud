@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """At Christmastime, a close-knit group of childhood friends returns home after 10 years to take part in the celebration of life of their beloved high school teacher."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-for-keeps/"""

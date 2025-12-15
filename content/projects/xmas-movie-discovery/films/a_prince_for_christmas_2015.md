@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A prince from Europe meets a charming waitress when he travels to America during the Christmas holiday to escape an arranged marriage."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Royal Christmas', 'TV Movie']
+xmas_genres = ['Royal Christmas', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-prince-for-christmas/"""

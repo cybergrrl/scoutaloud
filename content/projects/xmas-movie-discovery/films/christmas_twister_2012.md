@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """During the holiday season, Ethan, a meteorologist, and his wife Addison, a TV news reporter, must put aside their differences and band together to help save others and rescue their missing children from a massive F6 twister that has unexpectedly descended upon their small Texas town."""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Drama', 'Horror', 'Action', 'Thriller', 'TV Movie', 'Adventure']
+xmas_genres = ['Horror', 'Adventure', 'Action', 'Thriller', 'TV Movie', 'Science Fiction', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-twister/"""

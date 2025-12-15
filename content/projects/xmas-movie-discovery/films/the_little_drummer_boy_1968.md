@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After being kidnapped and escaping, young drummer boy Aaron searches for his camel and finds him in the Nativity of the Baby Jesus. Aaron gives Baby Jesus the only gift he has, a song on his drum."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Drama', 'Animation', 'TV Movie']
+xmas_genres = ['Family', 'TV Movie', 'Animation', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-little-drummer-boy/"""

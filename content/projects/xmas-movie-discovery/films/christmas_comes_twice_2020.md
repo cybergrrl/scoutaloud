@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Cheryl visits the Christmas carnival in her hometown, she gets a second chance in life when she is transported to Christmas five years in the past."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-comes-twice-2020/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Maggie, a single mom has to balance between her career and her son, Jordan. Jordan finds a tutor named Casey to help him at school, and Casey becomes like a father figure. Will the three of them find happiness and love once again?"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/karen-kingsburys-maggies-christmas-miracle/"""

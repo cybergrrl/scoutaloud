@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two best friends travel to Christmasland, a place filled with hope and miracles."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/believe-in-christmas-2024/"""

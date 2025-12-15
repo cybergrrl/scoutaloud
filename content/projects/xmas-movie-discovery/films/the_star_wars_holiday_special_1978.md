@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Luke Skywalker and Han Solo battle evil Imperial forces to help Chewbacca reach his imperiled family on the Wookiee planet - in time for Life Day, their most important day of the year!"""
 
 [taxonomies]
-xmas_genres = ['Family', 'Science Fiction', 'TV Movie', 'Adventure']
+xmas_genres = ['Family', 'TV Movie', 'Science Fiction', 'Adventure']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-star-wars-holiday-special/"""

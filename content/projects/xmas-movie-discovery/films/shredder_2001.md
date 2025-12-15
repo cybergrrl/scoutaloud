@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """At an exclusive, secluded North American ski resort up on Mount Rocky Summit, brutal slashing, severing and beheading on a group of teenagers are taking place and are believed to be the work of a mysterious skier dressed in black."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/shredder/"""

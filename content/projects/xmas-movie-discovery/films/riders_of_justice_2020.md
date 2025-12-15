@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Markus returns home to care for his daughter when his wife dies in a tragic train accident. However, when a survivor of the wreck surfaces and claims foul play, Markus suspects his wife was murdered and embarks on a mission to find those responsible."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Thriller', 'Action', 'Drama']
+xmas_genres = ['Comedy', 'Thriller', 'Drama', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/riders-of-justice/"""

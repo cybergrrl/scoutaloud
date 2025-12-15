@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A small suburban town receives a visit from a castaway unfinished science experiment named Edward."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Horror', 'Fantasy']
+xmas_genres = ['Horror', 'Drama', 'Fantasy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/edward-scissorhands/"""

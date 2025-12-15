@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young boy whose grieving family has forgotten about Christmas forms an unexpected, healing bond with a bubbly girl full of holiday spirit."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Drama', 'Family', 'Global', 'Adventure']
+xmas_genres = ['Fantasy', 'Adventure', 'Global', 'Family', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-snow-sister/"""

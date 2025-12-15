@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sam Whipple, an attorney in once-upon-a-time-land, is startled to receive a visit from Santa Claus shortly before Christmas. It seems that when he was a child, Sam wrote a letter thanking Santa for the presents he'd received, and offering to return the favor someday. That day is now - a mean old soul named Phineas Prune, who holds the deed to the North Pole, is demanding back rent. Otherwise, he's going to evict Santa, Mrs. Claus and the elves and take all the Christmas toys. It's up to Sam and Santa to find a way to pay off Prune and prevent Christmas from being canceled."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Fantasy', 'Global']
+xmas_genres = ['Family', 'Global', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-that-almost-wasnt/"""

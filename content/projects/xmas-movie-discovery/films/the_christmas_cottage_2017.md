@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Lacey takes a rare break from work for her friend Ava's Christmas Eve wedding, she reconnects with her former flame, Ean. The two decorate the cottage where the newlyweds will spend their honeymoon – a cottage said to bring true love to anyone who stays there – and feel their chemistry return."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-cottage/"""

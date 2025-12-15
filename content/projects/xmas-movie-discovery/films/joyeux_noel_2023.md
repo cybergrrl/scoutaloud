@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Copy editor Lea and pragmatic reporter Mark head to France to learn about a mysterious artist behind a romantic Christmas painting."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/joyeux-noel-2023/"""

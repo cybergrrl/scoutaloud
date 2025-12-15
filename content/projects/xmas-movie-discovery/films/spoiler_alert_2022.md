@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Journalist Michael Ausiello embarks on a rollercoaster ride of emotions when Kit Cowan, his partner of 14 years, is diagnosed with terminal cancer."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Queer', 'Comedy']
+xmas_genres = ['Comedy', 'Queer', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/spoiler-alert-2022/"""

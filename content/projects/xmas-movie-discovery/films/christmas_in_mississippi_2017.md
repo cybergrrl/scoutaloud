@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Photographer Holly Logan returns to her hometown of Gulfport, Mississippi for Christmas. The town is resurrecting their traditional holiday light show for the first time since a terrible hurricane struck five years earlier. Holly volunteers to pitch in, but soon has second thoughts when she discovers the festival is run by her high school sweetheart, Mike."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'TV Movie']
+xmas_genres = ['TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-in-mississippi/"""

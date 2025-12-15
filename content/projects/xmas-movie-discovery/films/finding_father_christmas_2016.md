@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Orphaned at a young age at Christmas, Miranda finds a clue that could unveil the truth about her father - and maybe a little something else will rekindle her Christmas spirit."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/finding-father-christmas/"""

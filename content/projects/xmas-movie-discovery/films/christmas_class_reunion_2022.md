@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """High school classmates, who once dubbed themselves the “cursed class,” reconnect at Christmas for their 15-year reunion. Over the course of their time reconnecting, the classmates challenge each other to remember who they were, who they are, and who they want to be."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-class-reunion/"""

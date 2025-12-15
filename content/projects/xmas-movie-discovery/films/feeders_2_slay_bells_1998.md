@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Aliens invade Earth over the Christmas holidays, and it's up to Santa Claus and his elves to save the world."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'Science Fiction']
+xmas_genres = ['Horror', 'Comedy', 'Science Fiction']
 
 [extra]
 film_url = """https://letterboxd.com/film/feeders-2-slay-bells/"""

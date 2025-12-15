@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Hilarity, romance, and transcendence prevail after a power outage traps six different groups of New Yorkers inside elevators on Christmas Eve."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-eve-2015/"""

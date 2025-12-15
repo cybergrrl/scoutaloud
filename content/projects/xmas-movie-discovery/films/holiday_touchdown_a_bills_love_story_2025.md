@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The Quinns and DeLucas have lived next door to each other for decades in the shadow of Highmark Stadium – the home of their beloved Buffalo Bills. With their longtime friendship rooted in being proud members of Bills Mafia, the two clans have enjoyed cherished traditions that revolve around cheering for their favorite team – especially at the holidays when they celebrate the last home game before Christmas."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'Comedy', 'Hallmark']
+xmas_genres = ['Family', 'Comedy', 'Hallmark', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/holiday-touchdown-a-bills-love-story/"""

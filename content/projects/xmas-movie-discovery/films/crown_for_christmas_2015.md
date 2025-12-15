@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Allie Foster, a struggling New York artist, reluctantly accepts to act as a governess to a rebellious Princess Theodora of Winshire. When Allie forms an unlikely bond with the princess, she attracts the attention of the handsome King Maximillian, who’s facing an arranged marriage against his heart’s wishes. As Christmas Eve draws near, Allie finds herself swept up in romance, royalty and the spirit of the holidays."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'Royal Christmas', 'TV Movie']
+xmas_genres = ['Royal Christmas', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/crown-for-christmas/"""

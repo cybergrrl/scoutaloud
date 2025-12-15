@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A Christmas obsessed Jewish boy on his way to sunny Florida figures out how to get the Christmas of his dreams by trading airline tickets and places with another boy on his way to snowy Christmastown, WA."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Hanukkah']
 
 [extra]
 film_url = """https://letterboxd.com/film/switchmas/"""

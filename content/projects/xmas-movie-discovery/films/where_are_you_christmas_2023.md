@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After Addy wishes for a year without Christmas, she wakes up in a black and white world and works with the town mechanic to restore Christmas."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Hallmark', 'Drama', 'TV Movie']
+xmas_genres = ['Fantasy', 'Hallmark', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/where-are-you-christmas/"""

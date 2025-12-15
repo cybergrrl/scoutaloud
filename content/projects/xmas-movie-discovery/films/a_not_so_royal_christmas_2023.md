@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When tabloid journalist Charlotte requests an interview with a famously private Count — not knowing he fled town years ago — the royal family convinces their groundskeeper to pose as him."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-not-so-royal-christmas/"""

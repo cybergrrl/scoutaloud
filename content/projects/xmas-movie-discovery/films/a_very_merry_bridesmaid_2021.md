@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Leah's 30th birthday is on Christmas Eve, the same day as her brother's wedding. Her childhood crush is back in town for the wedding and he is determined to make sure her birthday does not go by the wayside."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-very-merry-bridesmaid/"""

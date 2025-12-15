@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Recently divorced Melanie brings her son to a remote island for Christmas, where she connects with a lighthouse owner."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/navigating-christmas/"""

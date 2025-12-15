@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a drug heist swerves lethally out of control, a jaded cop fights his way through a corrupt city's criminal underworld to save a politician's son."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Action', 'Crime']
+xmas_genres = ['Thriller', 'Crime', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/havoc-2025/"""

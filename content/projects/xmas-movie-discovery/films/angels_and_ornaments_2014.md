@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Corrine's holiday season gets an unexpected dose of romance when she meets the mysterious Harold, who is on a deadline from a higher power to help Corrine find her true love by Christmas Eve. As the clock ticks down to Harold's deadline, Corrine must decide if she will open up to Christmas love."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'Hallmark', 'TV Movie']
+xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/angels-and-ornaments/"""

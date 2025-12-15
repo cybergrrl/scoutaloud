@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Jenny and Sharon are stalked by a killer chef ... again? This time ... It's Christmas."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/bikini-bloodbath-christmas/"""

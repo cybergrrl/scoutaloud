@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Cat lovers Zachary and Marilee are thrown back together at Christmas when they're tasked with finding homes for a litter of adorable kittens."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Drama', 'Hallmark', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-nine-kittens-of-christmas/"""

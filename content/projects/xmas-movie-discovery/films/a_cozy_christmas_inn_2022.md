@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Real estate exec, Erika, travels to Alaska during Christmastime to acquire a bed and breakfast, only to discover that it’s owned by her ex. While there, she finds herself falling in love with the town and quite possibly him."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-cozy-christmas-inn/"""

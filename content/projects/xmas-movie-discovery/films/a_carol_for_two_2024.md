@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Violette dreams of Broadway, but lands a singing waitress gig at Fiore's. Her Christmas Eve duet with Alex, who resents her connections, could be her big break. As they rehearse, Alex's cousin Brad, with Alex's secret help, woos Violette. Alex develops feelings too, creating a messy love triangle that jeopardizes their shot at stardom."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Music', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'Music', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-carol-for-two/"""

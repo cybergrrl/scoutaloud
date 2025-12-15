@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sally Brown, a successful children's book author and Army widow loses her late husband's German Shepherd, Buddy, only to later find him adopted by a new family - single father Mark Green and his teenage daughter Emma. Each finds a sense of Christmas spirit as they struggle to decide with whom the dog really belongs."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-shepherd/"""

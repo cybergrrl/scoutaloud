@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The made for television movie Munster's Scary Little Christmas, created three decades after the demise of the original series, concerns son Eddie missing his home in Transylvania. Soon the entire family bands together to teach the young boy everything great about the holiday season."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Horror', 'TV Movie']
+xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-munsters-scary-little-christmas/"""

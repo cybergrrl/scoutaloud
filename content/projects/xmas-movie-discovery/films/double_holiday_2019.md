@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Rebecca must throw the company holiday party with office rival, Chris. It coincides with Hanukkah, so she must juggle her work, family traditions, and nemesis to make the party a success."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hanukkah', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/double-holiday/"""

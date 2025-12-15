@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Over five years, Alice and her old theater school rival, Max, reunite each holiday season to work at a Chicago catering company's Christmas parties. While their undeniable chemistry grows, the timing is never right for romance - until the company's final season pushes them to confront their true feelings."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-5-year-christmas-party/"""

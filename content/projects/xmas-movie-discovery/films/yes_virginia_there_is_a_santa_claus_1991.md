@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """While newspaper writer Church struggles with the death of his wife, he receives a "special" assignment. He must answer a little girl's question about whether Santa Claus really exists."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Fantasy', 'TV Movie']
+xmas_genres = ['Family', 'TV Movie', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/yes-virginia-there-is-a-santa-claus-1991/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """This Christmas, a super frozen object is going to slam into the Earth. In the middle of a small town, and very quickly, dreams of a "White Christmas" will turn into a FROZEN NIGHTMARE."""
 
 [taxonomies]
-xmas_genres = ['Science Fiction', 'Horror', 'Drama', 'TV Movie']
+xmas_genres = ['Horror', 'TV Movie', 'Science Fiction', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-icetastrophe/"""

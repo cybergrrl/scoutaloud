@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young couple move into a remote country house in the middle of a stone circle. They employ workmen who disturb an ancient menhir, unleashing a supernatural force."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Mystery', 'Drama', 'TV Movie']
+xmas_genres = ['Horror', 'Mystery', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/stigma-1977/"""

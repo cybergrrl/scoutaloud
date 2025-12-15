@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Lisa's trip home to Evergreen for the holidays finds her shepherding an effort to save the town's beloved general store, fulfilling the wishes of a Christmas past and finding a romance full of Christmas magic."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'Hallmark', 'TV Movie']
+xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-in-evergreen-letters-to-santa/"""

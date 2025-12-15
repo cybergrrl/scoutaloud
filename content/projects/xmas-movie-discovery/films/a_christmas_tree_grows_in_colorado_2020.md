@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Erin is planning the town’s Christmas celebration and must win over firefighter Kevin in order to obtain the beautiful spruce tree from his property for the celebration."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'Hallmark', 'TV Movie']
+xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-tree-grows-in-colorado/"""

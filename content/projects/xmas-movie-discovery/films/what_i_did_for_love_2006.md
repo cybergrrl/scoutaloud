@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Call him a city slicker. Call him a tenderfoot. But don't call him a member of the family--yet. Rising L.A. lawyer James White is going home for the holidays with his fiancée, Sadie Ryder, to finally meet her family in rural Pine Gap. After blundering through a bad first impression, James attempts to win over Sadie's lawyer-loathing father Karl by pretending to be a horse-riding, hay-baling, game-hunting, seasoned square dancer. But a pair of worn jeans and a ten-gallon hat don't make a cowboy, and it's going to take more than mere posturing to charm Mr. Ryder... in fact, it just might take a miracle."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/what-i-did-for-love/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A woman's love for and devotion to a married man results in her being relegated to the "back streets" of his life."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/back-street-1932/"""

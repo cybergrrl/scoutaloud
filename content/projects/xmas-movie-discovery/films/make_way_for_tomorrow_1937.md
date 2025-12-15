@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An elderly couple are forced to separate themselves from each other after their children refuse to take both into one house."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Oldies']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/make-way-for-tomorrow/"""

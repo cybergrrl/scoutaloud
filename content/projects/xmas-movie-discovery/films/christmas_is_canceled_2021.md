@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A father begins dating his 29-year-old daughter Emma's high school frenemy soon after his wife passes away. His daughter embarks on a mission to break up the happy couple."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Queer']
+xmas_genres = ['Queer', 'Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-is-canceled/"""

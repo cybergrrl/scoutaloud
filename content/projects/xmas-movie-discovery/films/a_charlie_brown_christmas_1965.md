@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Charlie Brown complains about the overwhelming materialism that he sees amongst everyone during the Christmas season, Lucy suggests that he become director of the school Christmas pageant. Charlie Brown accepts, but it is a frustrating struggle. When an attempt to restore the proper spirit with a forlorn little fir Christmas tree fails, he needs Linus' help to learn the meaning of Christmas."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Animation', 'TV Movie']
+xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-charlie-brown-christmas/"""

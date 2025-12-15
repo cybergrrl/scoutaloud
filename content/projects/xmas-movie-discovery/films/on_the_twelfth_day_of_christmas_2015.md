@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Maggie Chalke is torn between her journalistic integrity and helping her long time crush Mitch O'Grady when her boss orders her to write a story for the paper about the Secret Santa gifts she's been sending Mitch to help him relearn his love for Christmas."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/on-the-twelfth-day-of-christmas/"""

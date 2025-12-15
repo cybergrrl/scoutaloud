@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A grouchy bear doses Santa Claus with a sleeping potion in order to ruin Christmas in this animated feature."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Fantasy', 'Global', 'Animation']
+xmas_genres = ['Family', 'Global', 'Fantasy', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/santas-christmas-snooze/"""

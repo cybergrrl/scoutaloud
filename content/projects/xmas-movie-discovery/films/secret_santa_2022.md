@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Robin is Santa's biggest fan. It's Christmas Eve and Robin has hatched a plan to stow away in Santa's sleigh and hitch a ride to the North Pole. Won't Santa be surprised! But it's Robin who’ll be getting the surprise. Robin is about to find out that you should never meet your heroes."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'Animation']
+xmas_genres = ['Horror', 'Comedy', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/secret-santa-2022-1/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Princess Violet of Wingravia must complete a tough leadership boot camp in Colorado or risk losing her throne to her uncle."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/private-princess-christmas/"""

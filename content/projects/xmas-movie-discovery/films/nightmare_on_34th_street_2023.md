@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A mysterious and psychopathic Santa Claus visits a small, rural town with a bag full of unusual gifts and twisted holiday stories."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/nightmare-on-34th-street/"""

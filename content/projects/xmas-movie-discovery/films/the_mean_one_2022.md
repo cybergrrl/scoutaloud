@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In a sleepy mountain town, Cindy witnesses the murder of her parents by a blood-thirsty green figure in a red Santa suit. Twenty years later, the Christmas-hating monster begins to terrorize the town once more. Cindy finds new purpose in stopping the creature and saving the holiday."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-mean-one/"""

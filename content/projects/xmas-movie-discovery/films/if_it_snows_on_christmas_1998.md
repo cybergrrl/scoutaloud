@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """None"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Global']
+xmas_genres = ['Global', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/if-it-snows-on-christmas/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Taylor is headed home for the holidays and her family is finally ready to meet her girlfriend "Jess". The only problem is, Jess isn't really her girlfriend. Taylor holds open auditions for someone to play the part for the holidays."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Queer', 'Drama']
+xmas_genres = ['Queer', 'Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/looking-for-her-2022/"""

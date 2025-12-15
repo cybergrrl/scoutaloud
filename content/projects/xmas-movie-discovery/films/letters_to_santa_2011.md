@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A romantic comedy set on Christmas Eve in Warsaw and centered around a series of characters."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Global']
+xmas_genres = ['Comedy', 'Global', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/letters-to-santa/"""

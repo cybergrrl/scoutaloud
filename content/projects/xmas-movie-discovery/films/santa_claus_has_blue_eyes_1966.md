@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Daniel needs some money to buy a duffle coat that is in fashion, so he agrees to work for a photographer by dressing up as Santa Claus. He discovers that it is much easier to meet girls when he is in his costume."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Global']
+xmas_genres = ['Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/santa-claus-has-blue-eyes/"""

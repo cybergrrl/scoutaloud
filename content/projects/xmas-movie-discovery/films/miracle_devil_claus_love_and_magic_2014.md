@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The intertwined love story of four young people on Christmas night."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Global']
+xmas_genres = ['Comedy', 'Global', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/miracle-devil-claus-love-and-magic/"""

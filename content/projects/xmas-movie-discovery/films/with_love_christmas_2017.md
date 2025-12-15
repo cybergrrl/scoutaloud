@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Advertising execs Melanie Welsh and Donovan Goodwin disagree on a cellphone Christmas commercial they’re pitching. He says his sleek design will win over the client but she knows it lacks holiday spirit."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/with-love-christmas/"""

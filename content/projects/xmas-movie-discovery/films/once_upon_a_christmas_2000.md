@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The daughter of Santa Claus vows to transform a single father and his spoiled children to prove that the spirit of Christmas exists."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Fantasy', 'Comedy', 'TV Movie']
+xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/once-upon-a-christmas/"""

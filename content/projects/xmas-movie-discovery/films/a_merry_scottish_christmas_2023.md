@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When estranged siblings Lindsay and Brad travel to Scotland at Christmas to reunite with their mother Jo, a big family secret is revealed."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-merry-scottish-christmas/"""

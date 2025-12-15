@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Emmy's book about living on an Australian farm is about to be a publishing sensation - and the CEO publisher and her handsome son are coming to see her country life firsthand. Only problem is, it's not her life!"""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Queer', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Comedy', 'Queer', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-on-the-farm/"""

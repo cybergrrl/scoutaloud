@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A big-city veterinarian falls for a small-town doctor when he sets out to recreate a New York City Christmas in her Vermont hometown."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'TV Movie']
+xmas_genres = ['Comedy', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-furry-little-christmas/"""

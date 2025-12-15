@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Yugoslavia, late 1980s. Parents and son are hastily making the final preparations for Christmas Eve dinner. Their beloved uncle will be turning up from Germany any minute now. But, hang on, are things really as they seem? An unnerving debut à la Haneke that cleverly balances on the edge of farce and oppressive thriller while ingeniously toying with narrative structure."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Thriller', 'Global', 'Mystery']
+xmas_genres = ['Horror', 'Thriller', 'Mystery', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-uncle-2022/"""

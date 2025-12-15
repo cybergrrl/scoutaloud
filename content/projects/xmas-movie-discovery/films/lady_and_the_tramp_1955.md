@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Lady, a golden cocker spaniel, meets up with a mongrel dog who calls himself the Tramp. He is obviously from the wrong side of town, but happenings at Lady's home make her decide to travel with him for a while."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'Animation', 'Adventure', 'Comedy']
+xmas_genres = ['Comedy', 'Romance', 'Adventure', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/lady-and-the-tramp/"""

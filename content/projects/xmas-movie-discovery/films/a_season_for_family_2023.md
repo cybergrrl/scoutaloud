@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """While Maddie’s adopted son wants to meet his brother Cody, who was adopted into another family, Cody’s father, isn’t ready."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-season-for-family/"""

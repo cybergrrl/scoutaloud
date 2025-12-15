@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Zombie elves are unleashed on a tabloid writer who is determined to uncover a Christmas conspiracy."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror']
+xmas_genres = ['Horror', 'Comedy']
 
 [extra]
 film_url = """https://letterboxd.com/film/two-front-teeth/"""

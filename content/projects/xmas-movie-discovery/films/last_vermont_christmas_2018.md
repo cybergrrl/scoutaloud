@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When widowed mom Megan returns home for Christmas, she and her two sisters Audrey and Bethany are surprised to learn their parents are selling their childhood home, making this their last Christmas together in Vermont. Megan is even more surprised to discover that the buyer is her high school sweetheart, Nash, who plans to use the house as an investment property."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/last-vermont-christmas/"""

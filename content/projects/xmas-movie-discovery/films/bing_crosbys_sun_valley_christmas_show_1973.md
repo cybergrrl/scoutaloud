@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Bing's 1973 primetime Christmas special from NBC, with his family and guest stars."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Family', 'Comedy', 'TV Movie']
+xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Music']
 
 [extra]
 film_url = """https://letterboxd.com/film/bing-crosbys-sun-valley-christmas-show/"""

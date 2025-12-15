@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Horror', 'Family', 'Musical', 'Animation']
+xmas_genres = ['Fantasy', 'Horror', 'Musical', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-nightmare-before-christmas/"""

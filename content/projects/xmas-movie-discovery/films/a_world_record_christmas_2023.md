@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Marissa and Eric encourage their young son with autism, who is determined to set a Guinness World Record — and has the chance to do so on Christmas Eve."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-world-record-christmas/"""

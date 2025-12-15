@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Molly and Jared have both sworn off holiday events. When they find themselves stuck at a Christmas-themed ranch, they have no choice but to allow their cynical hearts to melt."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/romance-at-reindeer-lodge/"""

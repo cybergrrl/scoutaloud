@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """King Nicholas XX is ready to retire and pass the throne to his son, Nick St. Nicholas. But he is a no-show, preferring his lavish seaside lifestyle and sexy girlfriend."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'TV Movie', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/mr-st-nick/"""

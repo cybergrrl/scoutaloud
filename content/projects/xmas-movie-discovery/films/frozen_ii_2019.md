@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom."""
 
 [taxonomies]
-xmas_genres = ['Fantasy', 'Family', 'Animation', 'Adventure', 'Comedy']
+xmas_genres = ['Fantasy', 'Comedy', 'Adventure', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/frozen-2/"""

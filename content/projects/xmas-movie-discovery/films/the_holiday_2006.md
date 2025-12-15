@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two women, one American and one British, swap homes at Christmastime following bad breakups. Each woman finds romance with a local man but realizes that the imminent return home may end the relationship."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy']
+xmas_genres = ['Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-holiday/"""

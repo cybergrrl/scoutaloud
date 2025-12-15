@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Single mom Maggie is facing Christmas alone until Lucas crashes into her life and becomes an unexpected house guest. Together they overcome Christmas while finding comfort in their growing bond."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/never-kiss-a-man-in-a-christmas-sweater/"""

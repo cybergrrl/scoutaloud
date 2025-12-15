@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """On Anna's birthday, Elsa and Kristoff are determined to give her the best celebration ever, but Elsa's icy powers may put more than just the party at risk."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Animation', 'Adventure']
+xmas_genres = ['Family', 'Comedy', 'Adventure', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/frozen-fever/"""

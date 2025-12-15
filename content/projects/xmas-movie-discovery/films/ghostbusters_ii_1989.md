@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Horror', 'Fantasy']
+xmas_genres = ['Horror', 'Comedy', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/ghostbusters-ii/"""

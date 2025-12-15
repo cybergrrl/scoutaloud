@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Ricky wants to give his crush Nicole a Christmas gift, but when he does she angrily rejects it as "cheap." She later regrets her mistake and decides to find it."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Family', 'Animation', 'TV Movie']
+xmas_genres = ['Family', 'TV Movie', 'Music', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-rapsittie-street-kids-believe-in-santa/"""

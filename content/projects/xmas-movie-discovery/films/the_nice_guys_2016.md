@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A private eye investigates the apparent suicide of a fading porn star in 1970s Los Angeles and uncovers a conspiracy."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Action', 'Crime']
+xmas_genres = ['Comedy', 'Crime', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-nice-guys/"""

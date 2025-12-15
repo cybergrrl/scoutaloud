@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An uptight, conservative businesswoman accompanies her boyfriend to his eccentric and outgoing family's annual Christmas celebration and finds that she's a fish out of water in their free-spirited way of life."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Queer', 'Drama']
+xmas_genres = ['Queer', 'Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-family-stone/"""

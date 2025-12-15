@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Belinda heads back to her hometown for the holidays, things get complicated when she is forced to team up with her ex at the town's annual Christmas scavenger hunt."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Hallmark', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-scavenger-hunt/"""

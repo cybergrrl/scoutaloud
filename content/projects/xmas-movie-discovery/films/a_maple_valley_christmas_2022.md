@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Erica is a rancher who has spent her whole life working the family farm with her mother and sister. When Aaron arrives and disrupts her plans, she starts to question what it is she actually wants."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-maple-valley-christmas/"""

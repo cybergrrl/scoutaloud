@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Thanks to some Christmas magic, Emma gets to experience two different Christmases – one where she stays in the city and celebrates with a new crush and his friends, and one where she returns home for all the traditions with her family…and Drew, a longtime friend who may have feelings for her. Emma’s double holiday ultimately helps her discover what will truly make her happy in life as well as in love."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Romance', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-tale-of-two-christmases/"""

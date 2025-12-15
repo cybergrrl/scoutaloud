@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A wealthy landowner uncovers a bronze statue of Venus on his property. He asks an antique expert to examine the statue and confirm its wealth. Upon arrival, the expert is striken with love by the landowner’s daughter-in-law who bears an uncanny resemblance to the statue."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Horror', 'Global', 'TV Movie']
+xmas_genres = ['Horror', 'TV Movie', 'Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-venus-of-ille/"""

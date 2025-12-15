@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Holly, a passionate glassblower, has big dreams of showcasing her art at the local fair, but keeps getting rejected. So, she jumps at the opportunity to help a legendary glassblower while also helping Jack, the man who oversees the entries. Things get complicated when Holly starts secretly displaying her own art under a pseudonym — and it becomes a hit — but she also starts getting closer to Jack."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/melt-my-heart-this-christmas/"""

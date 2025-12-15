@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two music managers must put their history aside to oversee the televised reunion performance of their rock star fathers with a fractured past."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Family', 'TV Movie', 'Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Family', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/one-december-night/"""

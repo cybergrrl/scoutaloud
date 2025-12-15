@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A charming but ruthless criminal holds the family of a bank manager hostage as part of a cold-blooded plan to steal £90,000."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Thriller', 'Mystery', 'Crime']
+xmas_genres = ['Thriller', 'Mystery', 'Crime', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/cash-on-demand/"""

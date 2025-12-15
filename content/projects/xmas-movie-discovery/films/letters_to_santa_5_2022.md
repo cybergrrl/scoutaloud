@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Wojciech, who does not feel the ubiquitous joyful atmosphere, meets someone who changes his holiday plans. In turn, Karina and Szczepan get embroiled in a fight for an inheritance that may divide even their loved ones. They will see if the only thing that comes out well with the family is in the photos."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Global']
+xmas_genres = ['Comedy', 'Global', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/letters-to-santa-5/"""

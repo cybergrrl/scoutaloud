@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Christmas enthusiast party planners Ella and her sister, Marianne, clash with their client, Edward, who is a not-so-jolly toy company CEO."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Hallmark', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/sense-sensibility-snowmen/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After being told by her boss that the company needs to attract more clients, Elizabeth, a skilled executive, meets one of Santa’s helpers, who blesses her with an extraordinary gift allowing Elizabeth to hear everyone’s unspoken thoughts. While first using her new-found power to get ahead at work, she soon learns to become a better person, turning an office rivalry into romance while learning the true meaning of Christmas along the way."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Fantasy']
+xmas_genres = ['Family', 'Comedy', 'Fantasy', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/all-i-want-for-christmas-2013/"""

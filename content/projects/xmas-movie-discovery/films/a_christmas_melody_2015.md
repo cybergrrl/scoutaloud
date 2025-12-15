@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Kristin has just had to close her small Manhattan clothing boutique to return to her Ohio home town and live in her parents' former home. It's an adjustment for Kristin and her young daughter— especially when she runs into her former high school rival. Kristen and Emily struggle to find their new normal with the help of the hunky local music teacher."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy', 'Hallmark', 'TV Movie']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-melody/"""
