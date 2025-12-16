@@ -15,6 +15,6 @@ runtime = 46
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.27
+average_rating = 3.28
 cast = ["""Macdonald Carey""", """Teresa Wright""", """Thomas Mitchell""", """Sandy Descher""", """Dick Foran""", """Hans Conried""", """Ray Collins""", """John Abbott"""]
 +++

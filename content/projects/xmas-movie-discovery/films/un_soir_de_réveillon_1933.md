@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """None"""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'International']
+xmas_genres = ['Oldies', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/un-soir-de-reveillon/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """With Christmas fast approaching, concert violinist Beth returns to her hometown after the recent death of her mother, the elementary school’s beloved music department head."""
 
 [taxonomies]
-xmas_genres = ['Music', 'TV Movie', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Hallmark', 'Music', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-in-my-heart/"""

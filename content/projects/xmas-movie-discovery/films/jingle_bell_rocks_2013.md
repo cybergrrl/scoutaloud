@@ -15,6 +15,6 @@ runtime = 94
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.46
+average_rating = 3.45
 cast = ["""Bill Adler""", """Clarence Carter""", """Wayne Coyne""", """Miles Davis""", """Joseph Simmons""", """Mitchell Kezin""", """John Waters"""]
 +++

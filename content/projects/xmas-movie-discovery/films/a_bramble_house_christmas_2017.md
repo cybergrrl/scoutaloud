@@ -15,6 +15,6 @@ runtime = 85
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.01
+average_rating = 2.99
 cast = ["""Autumn Reeser""", """David Haydn-Jones""", """Teryl Rothery""", """Liam Hughes""", """Hilary Jardine""", """Julia Benson""", """Andrew Airlie""", """Bruce Dawson"""]
 +++

@@ -15,5 +15,5 @@ runtime = 73
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-cast = ["""Debbie Rochon""", """Rachael Robbins""", """Niki Rubin""", """Lloyd Kaufman""", """Phil Hall""", """Dick Boland""", """Sheri Lynn""", """Monique Dupree""", """Margaret Rose Champagne""", """Sarah Dauber""", """Dana Fay Ensalata"""]
+cast = ["""Debbie Rochon""", """Rachael Robbins""", """Niki Rubin""", """Lloyd Kaufman""", """Phil Hall""", """Dick Boland""", """Sheri Lynn""", """Monique Dupree""", """Margaret Rose Champagne""", """Sarah Dauber""", """Dana Fay Ensalata""", """Thomas Edward Seymour""", """Philip Guerette""", """Matt Ford""", """Kate Gorman""", """Kris Keyes""", """David James Sheehan""", """Johnathan Gorman""", """Leigh Radziwon""", """Isaiah Entsua-Mensah""", """Michael Romsky""", """Anthony Saint Thomas"""]
 +++

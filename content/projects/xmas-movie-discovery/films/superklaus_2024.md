@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Santa Claus's wish comes true when he accidentally bumps his head and starts believing he's SuperKlaus. With the help of Billie and Leo his elf-xecutive assistant, SuperKlaus will take on a toy-obsessed businessman to save Christmas."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Adventure', 'Animation', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Adventure', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/superklaus/"""
@@ -15,6 +15,6 @@ runtime = 88
 countries = ["""Canada""", """Spain"""]
 original_language = """English"""
 spoken_languages = ["""English""", """Danish"""]
-average_rating = 2.77
+average_rating = 2.75
 cast = ["""Harland Williams""", """Colm Feore""", """Millie Davis""", """Paul Van Dyck""", """Lucinda Davis""", """Antonio Daniel Hidalgo""", """Tallula Dinsmoore""", """Wyatt Bowen""", """Eleanor Noble"""]
 +++

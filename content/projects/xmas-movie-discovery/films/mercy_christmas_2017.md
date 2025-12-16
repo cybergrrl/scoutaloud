@@ -15,6 +15,6 @@ runtime = 83
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.7
+average_rating = 2.68
 cast = ["""Steven Hubbell""", """Casey O'Keefe""", """Gwen Van Dam""", """D.J. Hale""", """Whitney Nielsen""", """David Ruprecht""", """Dakota Shepard""", """Joseph Keane""", """Cole Gleason""", """Ryan Carnahan""", """Dani Haberman"""]
 +++

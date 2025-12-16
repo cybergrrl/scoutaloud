@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A husband and wife detective team takes on the search for a missing inventor and almost get killed for their efforts."""
 
 [taxonomies]
-xmas_genres = ['Mystery', 'Oldies', 'Crime', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Mystery', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-thin-man/"""

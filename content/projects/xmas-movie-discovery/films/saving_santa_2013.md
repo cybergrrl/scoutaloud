@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A lowly stable elf finds that he is the only one who can stop an invasion of the North Pole by using the secret of Santa's Sleigh, a TimeGlobe, to travel back in time to Save Santa - twice."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Animation', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/saving-santa/"""
@@ -15,6 +15,6 @@ runtime = 83
 countries = ["""UK""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.51
+average_rating = 2.5
 cast = ["""Martin Freeman""", """Tim Curry""", """Tim Conway""", """Pam Ferris""", """Ashley French""", """Joan Collins""", """David Cowgill""", """Noel Clarke""", """Newell Alexander""", """Holly Dorff""", """Moosie Drier""", """Jackie Gonneau""", """Nicholas Guest""", """Richard Steven Horvitz""", """David Zyler""", """Toby Williams""", """Craig Fairbrass""", """Tom Baker""", """Chris Barrie""", """Mellanie Hubert""", """Katarzyna Łaska"""]
 +++

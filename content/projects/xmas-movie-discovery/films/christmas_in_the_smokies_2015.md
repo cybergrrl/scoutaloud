@@ -15,6 +15,6 @@ runtime = 85
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.43
+average_rating = 2.41
 cast = ["""Sarah Lancaster""", """Barry Corbin""", """Alan Powell""", """Jill Wagner""", """Gregory Alan Williams""", """Rebecca Koon""", """Danny Vinson""", """Dave Blamy""", """Karen Boles""", """Brett Rice"""]
 +++

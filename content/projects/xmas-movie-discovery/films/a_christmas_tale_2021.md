@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A tale of a boy from a wealthy family who during his work at the post office steals Christmas gifts from the wealthy to give to the poor people of Stockholm."""
 
 [taxonomies]
-xmas_genres = ['Family', 'International', 'Drama', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-tale-2021/"""

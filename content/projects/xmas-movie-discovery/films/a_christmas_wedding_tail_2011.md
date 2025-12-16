@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """It's love at first sight when Rusty the Labrador and Cheri the Poodle meet one day while jogging in the park. Even better- their owners fall in love too! But love is more complicated for the people, Susan and Jake, who marry and attempt to join together their large family of five children. With kids fighting and a household in complete chaos, it's up to the dogs to keep the family together."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-wedding-tail/"""

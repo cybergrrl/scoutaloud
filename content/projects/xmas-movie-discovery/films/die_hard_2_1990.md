@@ -8,7 +8,7 @@ xmas_genres = ['Thriller', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/die-hard-2/"""
-tmdb_poster_path = """/lDFO7D4MdbhjOwaPwe18QG69Rt0.jpg"""
+tmdb_poster_path = """/ybki0UWO3OPhaM6MSniuKC7sy1R.jpg"""
 year = 1990
 director = """Renny Harlin"""
 runtime = 124

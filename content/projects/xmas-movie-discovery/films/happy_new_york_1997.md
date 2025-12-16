@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The story of six Polish emigrants living in New York City, who try to live their American Dream and cope with the realities of the Big Apple."""
 
 [taxonomies]
-xmas_genres = ['International', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/happy-new-york/"""

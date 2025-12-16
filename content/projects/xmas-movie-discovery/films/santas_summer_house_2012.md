@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.41
+average_rating = 2.4
 cast = ["""Gary Daniels""", """Cynthia Rothrock""", """Daniel Bernhardt""", """Kathy Long""", """Jessica Morris""", """Rachel Rosenstein""", """Yung Woo Hwang""", """Elijah Adams""", """Christopher Mitchum"""]
 +++

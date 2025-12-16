@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When an antique nutcracker set to be auctioned at the Warby family Christmas charity goes missing, a demanding event planner and the heir to the Warby dynasty try to track it down."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/operation-nutcracker/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.91
+average_rating = 2.89
 cast = ["""Ashley Newbrough""", """Christopher Russell""", """Mia SwamiNathan""", """Darryl Hinds""", """Lara Amersey""", """Ann Pirvu""", """Kent Sheridan""", """Lily Gao""", """Jennifer Dale""", """Cassie Cao""", """Patrice Goodman""", """Keda Edwards Pierre""", """Viphusan Vani"""]
 +++

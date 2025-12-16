@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Damien Thorn is dead, but his prophecy is reborn in a mysterious girl named Delia, who is adopted by two attorneys."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Mystery', 'TV Movie', 'Thriller']
+xmas_genres = ['Horror', 'Thriller', 'Mystery', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/omen-iv-the-awakening/"""

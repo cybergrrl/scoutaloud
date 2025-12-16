@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A reporter searches for the love story behind an antique engagement ring. With the help of the ring’s owner’s grandson, they learn the legacy his grandparent’s left behind."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-ring/"""
@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.94
+average_rating = 2.92
 cast = ["""Nazneen Contractor""", """David Alpay""", """Chelsey Reist""", """Colleen Wheeler""", """Kazumi Evans""", """Veronika Hadravá""", """Casey Manderson""", """Milo Shandel""", """Beverley Elliott""", """Sam Quinn""", """Justin Stone""", """Peter Anderson"""]
 +++

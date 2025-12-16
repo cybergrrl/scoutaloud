@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """While delivering toys, Santa's son (Nick Stabile) is arrested for trespassing. Dispirited, he turns for help to a public defender (Lauren Holly)."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Hallmark', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/santa-jr/"""

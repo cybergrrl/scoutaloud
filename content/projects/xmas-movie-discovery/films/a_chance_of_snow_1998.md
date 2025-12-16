@@ -15,5 +15,5 @@ runtime = 87
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-cast = ["""JoBeth Williams""", """Michael Ontkean""", """Barbara Barrie""", """Dey Young""", """Peter Syvertsen""", """Dina Merrill""", """Charles Durning""", """Angelica Chitwood""", """Tonia Jackson""", """Gary Groomes""", """John Paul Gamoke""", """Edgar L. Davis""", """Patrick Coyle""", """Ryan Stockstad""", """Paul Cram"""]
+cast = ["""JoBeth Williams""", """Michael Ontkean""", """Barbara Barrie""", """Dey Young""", """Peter Syvertsen""", """Dina Merrill""", """Charles Durning""", """Angelica Rose Torres""", """Traci Christofore""", """Evan Gabriel""", """Tonia Jackson""", """James Cada""", """Marquetta Senters""", """Rebecca Kolls""", """Kelly Bertenshaw""", """Gary Groomes""", """Robert Pall""", """John Paul Gamoke""", """Edgar L. Davis""", """Patrick Coyle""", """Laurie Coleman""", """Mary Rehbein""", """Buffy Sedlachek""", """Joe Minjares""", """Margi Simmons"""]
 +++

@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.86
+average_rating = 2.84
 cast = ["""Eloise Mumford""", """Sean Faris""", """Miriam McDonald""", """Jacob Blair""", """Richard Waugh""", """Amanda Lisman""", """Jenna Weir""", """Mary Long""", """Jess Brown"""]
 +++

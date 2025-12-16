@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Six romantic stories unfold in a New York hotel during the week leading up to Christmas."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Romance', 'Drama']
+xmas_genres = ['Queer', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-in-new-york/"""

@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.8
+average_rating = 2.74
 cast = ["""Heather Hemmens""", """Marco Grazzini""", """Hilary Jardine""", """Laura Mitchell""", """Antonio Cayonne""", """Eden Weiss"""]
 +++

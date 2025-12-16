@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Years after she was presumed dead in a shipwreck, Ellen Arden returns home to the surprise of her husband recently remarrying. But he too gets a shock when he learns that Ellen spent her time alone on an island with another man."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Romance', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/my-favorite-wife/"""

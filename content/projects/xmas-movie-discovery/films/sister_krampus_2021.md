@@ -15,5 +15,6 @@ runtime = 77
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
+average_rating = 2.69
 cast = ["""Rebecca Rinehart""", """Marie DeLorenzo""", """Danielle Donahue""", """Tim Hatch""", """Jeff Kirkendall""", """Michael Korotitsch""", """Jamie Morgan""", """Yolie Canales"""]
 +++

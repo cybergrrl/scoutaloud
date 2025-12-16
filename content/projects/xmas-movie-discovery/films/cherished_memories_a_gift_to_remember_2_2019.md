@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """As Darcy and Aiden prepare to celebrate their second Christmas together, an unexpected guest and a fight to save the beloved community center unites everyone for an unforgettable holiday."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/cherished-memories-a-gift-to-remember-2/"""

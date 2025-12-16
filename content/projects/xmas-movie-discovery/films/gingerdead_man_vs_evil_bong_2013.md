@@ -15,6 +15,6 @@ runtime = 83
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 1.79
+average_rating = 1.78
 cast = ["""John Patrick Jordan""", """Robin Sydney""", """Michelle Mais""", """Robert Ramos""", """Sonny Carl Davis""", """Peter Donald Badalamenti II""", """Michael Shepperd""", """Amy Paffrath""", """Chance A. Rearden""", """Ryan Curry""", """Victoria Levine""", """Tian Wang""", """Jinhee Joung""", """Mindy Robinson""", """Victoria De Mare""", """John Karyus""", """Jacques Aime LaBite""", """Philip Kreyche""", """Tokie Jazman""", """Masuimi Max""", """Chanell Heart"""]
 +++

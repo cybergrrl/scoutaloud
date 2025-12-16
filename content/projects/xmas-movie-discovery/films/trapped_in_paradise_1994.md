@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Residents of a friendly Pennsylvania town foil three brothers' plan to rob a bank on Christmas Eve."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'Romance', 'Crime', 'Comedy']
+xmas_genres = ['Comedy', 'Adventure', 'Crime', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/trapped-in-paradise/"""

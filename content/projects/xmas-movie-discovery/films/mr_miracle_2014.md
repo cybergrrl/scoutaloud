@@ -15,6 +15,6 @@ runtime = 86
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.83
+average_rating = 2.82
 cast = ["""Rob Morrow""", """Michelle Harrison""", """Britt Irvin""", """Kendra Anderson""", """Andrew Francis""", """Rami Kahlon""", """Ingrid Kavelaars""", """Kehli O'Byrne""", """Scott Patey""", """Sarah-Jane Redmond""", """Malcolm Stewart""", """Vanesa Tomasino""", """William Vaughan""", """Candus Churchill"""]
 +++

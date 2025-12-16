@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A special Christmas tree decorated with handwritten wishes helps Evan and his group of orphaned students develop a connection and a sense of family."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-wishing-tree/"""

@@ -15,6 +15,6 @@ runtime = 18
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.32
+average_rating = 3.31
 cast = ["""Wesley Singerman""", """Serena Berman""", """Corey Padnos""", """Megan Taylor Harvey""", """Christopher Johnson""", """Timmy Deters""", """Lauren Schaffel""", """Bill Melendez"""]
 +++

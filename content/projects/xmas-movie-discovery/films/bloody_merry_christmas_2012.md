@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Twelve old high school friends are murdered one by one during a reunion party that takes place on Christmas eve."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Comedy']
+xmas_genres = ['Horror', 'Comedy', 'Thriller']
 
 [extra]
 film_url = """https://letterboxd.com/film/bloody-merry-christmas/"""

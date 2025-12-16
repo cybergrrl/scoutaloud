@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """To keep the family home from being sold, four very modern March sisters tackle home improvement on their own. But their romantic entanglements involving the boy next door, an old flame and a new acquaintance become a distraction."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-march-sisters-at-christmas/"""

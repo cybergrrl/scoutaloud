@@ -15,6 +15,6 @@ runtime = 1
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.88
+average_rating = 2.87
 cast = ["""Sarah Chalke"""]
 +++

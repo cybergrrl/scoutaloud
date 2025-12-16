@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Cubelles, Tarragona, Spain, Christmas 1985. Five friends make an unexpected discovery in the forest: a woman disguised as Santa Claus trapped in a deep hole dug in the middle of nowhere."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'TV Movie', 'Drama', 'International']
+xmas_genres = ['Horror', 'Thriller', 'Global', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-tale-2005/"""
@@ -15,6 +15,6 @@ runtime = 75
 countries = ["""Spain"""]
 original_language = """Spanish"""
 spoken_languages = ["""Spanish"""]
-average_rating = 3.28
+average_rating = 3.27
 cast = ["""Maru Valdivielso""", """Christian Casas""", """Roger Babià""", """Pau Poch""", """Daniel Casadellà""", """Ivana Baquero""", """Elsa Pataky""", """José Torija""", """Loquillo""", """Saurí""", """Nacho Moliné""", """Antonio Duque""", """La China"""]
 +++

@@ -15,6 +15,6 @@ runtime = 86
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.65
+average_rating = 2.64
 cast = ["""Jason 'Wee Man' Acuña""", """Jeffrey Combs""", """Mirelly Taylor""", """Carly Robell""", """Marty Terry""", """Dave Coyne""", """Joe Hansard""", """Mackenzie Astin""", """Blake Kaiser""", """Larry Nichols""", """Mike Diesel""", """Jack Hoke""", """Teale Sperling""", """Larry Levinson II""", """Ceire Kenny""", """Devin Gaither""", """Kim Tuvin"""]
 +++

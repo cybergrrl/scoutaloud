@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Almost as soon as Jake and Cassie decide to get married on Christmas Eve, complications arise."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Hallmark', 'Drama', 'Fantasy']
+xmas_genres = ['Family', 'Hallmark', 'Fantasy', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-good-witchs-gift/"""

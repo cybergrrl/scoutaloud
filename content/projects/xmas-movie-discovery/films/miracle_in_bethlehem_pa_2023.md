@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In this new DaySpring movie, successful Mary Ann Brubeck adopts a daughter right before Christmas. When bad weather lands her and her new baby stranded in Bethlehem, PA, their only option is to stay with the innkeeper’s brother Joe, a quintessential bachelor."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/miracle-in-bethlehem-pa/"""

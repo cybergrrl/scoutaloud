@@ -14,6 +14,6 @@ director = """Steven Morris"""
 runtime = 100
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.72
+average_rating = 2.71
 cast = ["""Julie Anne Prescott""", """Lynn Lowry""", """Jessa Jupiter Flux""", """Shawn C. Phillips""", """Kayla Kelly""", """Morgan Pyle""", """Brian Bowles""", """Jordan Mullins""", """Zach Meiser""", """Raymond Kester""", """Jonni Shandor""", """Dakota Bruton""", """Anson Days""", """Xander Goldman""", """Jason Crowe""", """Steven Hugh Nelson""", """Xavier Mikal""", """Steven Morris""", """Britt Baker""", """Joshua Scantland""", """Ricky Wilson Jr""", """Brent W. Black""", """Seth Hacker""", """Devon Lewis""", """Brad Jacobs""", """Morgan Bow""", """Sherman Woods""", """Rick Nugent""", """Diane Fraker""", """Shannon Covel""", """Joslyn Eckert""", """Jim Buchanan""", """Stephanie Riley"""]
 +++

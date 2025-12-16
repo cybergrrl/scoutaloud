@@ -8,13 +8,13 @@ xmas_genres = ['Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/krampus-origins/"""
-tmdb_poster_path = """/7eXPgPhYoCSzRhJQQAGWHw7ExaF.jpg"""
+tmdb_poster_path = """/vB7aWuuRWn3COLcYvlYaGchynaj.jpg"""
 year = 2018
 director = """Joseph Mbah"""
 runtime = 86
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.33
+average_rating = 2.31
 cast = ["""Maria Olsen""", """Anna Harr""", """Katie Peabody""", """Amelia Haberman""", """Shannyn Hall""", """Luke Waxman""", """Linda Cushma""", """Noah Clark""", """Michael Harrelson""", """Ethan Drew""", """Chandler Mantione""", """Grace Lopez""", """Cleon Gionet""", """Owen Conway""", """Helynn Castro""", """Robert Conway""", """Greg Lutz""", """Dustin Leighton""", """Dakota Morgan""", """Casey Likes"""]
 +++

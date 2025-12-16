@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Things get complicated for the expecting Prince Alexander and Dr. Tasha when a Royal State Visit is planned abroad, passing through her hometown. The couple must struggle with defying tradition and delivering, literally, on expectations."""
 
 [taxonomies]
-xmas_genres = ['Royal Christmas', 'Romance', 'TV Movie']
+xmas_genres = ['Royal Christmas', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-with-a-prince-the-royal-baby/"""

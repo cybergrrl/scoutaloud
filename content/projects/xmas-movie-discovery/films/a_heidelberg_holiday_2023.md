@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Heidi heads to the Heidelberg Christmas market to sell her hand-painted ornaments. While there, she falls for a local artisan who helps her reconnect with her lost heritage."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Family', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Hallmark', 'TV Movie', 'Family', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-heidelberg-holiday/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Germany""", """Serbia""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English""", """German"""]
-average_rating = 2.52
+average_rating = 2.51
 cast = ["""Ginna Claire""", """Frédéric Brossier""", """Nick Wilder""", """Rebecca Immanuel""", """Zoe Moore""", """Alexander Schubert""", """Patricia Meeden""", """Anne Alexander Sieder""", """Adam Johnson""", """Eric Carter""", """Nela Bartsch""", """Katarina Gojković""", """Sydney Lafaire""", """Sara Sofia""", """Dylan Blake Mendoza""", """Elliott Woodruff""", """Robert Nickisch""", """Simon Morzé""", """Sara Bousiali""", """Maclain Nelson""", """Maša Medić""", """Aleksandra Medić"""]
 +++

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """To inherit her father's company, socialite Ellen must first visit his small hometown, where she learns the value of hard work and helping others."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy']
+xmas_genres = ['Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-inheritance/"""

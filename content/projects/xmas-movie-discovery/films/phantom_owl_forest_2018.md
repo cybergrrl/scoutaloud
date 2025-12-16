@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A 10-year old girl's Christmas plans take an unexpected turn after she is brought to a mysterious Estonian farm."""
 
 [taxonomies]
-xmas_genres = ['Family', 'International']
+xmas_genres = ['Family', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/phantom-owl-forest/"""
@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""Estonia"""]
 original_language = """Estonian"""
 spoken_languages = ["""Estonian"""]
-average_rating = 3.43
+average_rating = 3.44
 cast = ["""Paula Rits""", """Siim Oskar Ots""", """Jaan Rekkor""", """Liis Lemsalu""", """Priit Võigemast""", """Mirtel Pohla""", """Märt Pius""", """Priit Pius""", """Juhan Ulfsak""", """Tambet Tuisk""", """Tõnu Oja""", """Meelis Rämmeld""", """Anne Reemann""", """Marvin Inno""", """Annabrith Heinmaa""", """Maria Annus""", """Robert Annus""", """Riho Kütsar"""]
 +++

@@ -15,6 +15,6 @@ runtime = 87
 countries = ["""France"""]
 original_language = """French"""
 spoken_languages = ["""French"""]
-average_rating = 2.77
+average_rating = 2.74
 cast = ["""Franck Dubosc""", """Emmanuelle Devos""", """Danièle Lebrun""", """Danielle Fichaud""", """Jean-François Cayrey""", """Frédéric Deleersnyder"""]
 +++

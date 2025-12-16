@@ -15,6 +15,6 @@ runtime = 49
 countries = ["""Japan"""]
 original_language = """Japanese"""
 spoken_languages = ["""Japanese"""]
-average_rating = 3.17
+average_rating = 3.18
 cast = ["""Seiko Iwaido""", """Takamasa Suga""", """Yoko Mitsuya""", """Hitomi Kurihara""", """Kazuyuki Nishio""", """Sadayoshi Shimane""", """Kiyo Ôshiro""", """Go Narumi""", """Randall Himes"""]
 +++

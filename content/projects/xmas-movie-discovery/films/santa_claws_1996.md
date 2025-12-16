@@ -15,6 +15,6 @@ runtime = 83
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.24
+average_rating = 2.21
 cast = ["""Debbie Rochon""", """Grant Kramer""", """John Mowod""", """Dawn Michelucci""", """Savannah Calhoun""", """Marilyn Eastman""", """Julie Wallace Deklavon""", """Christopher Boyle""", """Terri Lewandowski""", """Ed Lewandowski""", """Christine Cavalier""", """Lisa Delien""", """Sue Ellen White""", """Karl Hardman""", """Mary Beth Boyle""", """S. William Hinzman""", """Terry Weston""", """Don Crotsley""", """Jack Smith""", """Diana Michelucci""", """Rob Michelucci""", """Mary Lou Russo""", """Julia Ann Russo""", """Robert V. Michelucci""", """John A. Russo"""]
 +++

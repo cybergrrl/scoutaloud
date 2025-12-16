@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.94
+average_rating = 2.93
 cast = ["""Candace Cameron Bure""", """Oliver Hudson""", """Tom Skerritt""", """Brooke Nevin""", """Meghan Heffern""", """Gwynyth Walsh""", """Raven Stewart""", """Claire Rankin""", """Doug Murray""", """Kyle Buchanan""", """Christianna Dupas""", """Mary Ashton""", """Samantha Munro""", """Connor Peterson"""]
 +++

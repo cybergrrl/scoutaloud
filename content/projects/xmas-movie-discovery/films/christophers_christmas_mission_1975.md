@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """"Christopher's Christmas Mission"- A tale about a boy who steals Christmas gifts from the wealthy to give to the poor people of Stockholm, while working in a post office on Christmas Eve."""
 
 [taxonomies]
-xmas_genres = ['Family', 'International', 'TV Movie', 'Animation']
+xmas_genres = ['Family', 'TV Movie', 'Global', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/christophers-christmas-mission/"""
@@ -15,6 +15,6 @@ runtime = 23
 countries = ["""Sweden"""]
 original_language = """Swedish"""
 spoken_languages = ["""Swedish"""]
-average_rating = 3.84
+average_rating = 3.85
 cast = ["""Tage Danielsson""", """Per Andrén""", """Toivo Pawlo""", """Marianne Stjernqvist""", """Åke Fridell""", """Catrin Westerlund"""]
 +++

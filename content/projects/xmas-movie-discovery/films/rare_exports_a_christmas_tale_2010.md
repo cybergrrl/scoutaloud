@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Young Pietari lives with his reindeer-herding father in arctic Finland. On the eve of Christmas, a nearby excavation makes a frightening discovery and an evil Santa Claus is unleashed…"""
 
 [taxonomies]
-xmas_genres = ['Horror', 'International', 'Fantasy']
+xmas_genres = ['Fantasy', 'Global', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/rare-exports-a-christmas-tale/"""

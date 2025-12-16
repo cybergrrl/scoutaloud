@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Four Italian men are suddenly involved in awkward situations, while they are spending the Christmas holiday, stuck in Amsterdam."""
 
 [taxonomies]
-xmas_genres = ['International', 'Comedy']
+xmas_genres = ['Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/merry-christmas/"""

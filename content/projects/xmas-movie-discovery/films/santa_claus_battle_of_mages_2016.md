@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Young girl Masha accidentally discovers the organization of snow and ice mages fighting the global devil under the leadership of Santa Claus."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'International', 'Fantasy', 'Action']
+xmas_genres = ['Fantasy', 'Global', 'Adventure', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/santa-claus-battle-of-mages/"""

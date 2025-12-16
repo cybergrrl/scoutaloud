@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Christmas Eve. On his way to his in-laws with his family, Frank Harrington decides to try a shortcut, for the first time in 20 years. It turns out to be the biggest mistake of his life."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Mystery', 'Thriller']
+xmas_genres = ['Horror', 'Thriller', 'Mystery']
 
 [extra]
 film_url = """https://letterboxd.com/film/dead-end-2003/"""

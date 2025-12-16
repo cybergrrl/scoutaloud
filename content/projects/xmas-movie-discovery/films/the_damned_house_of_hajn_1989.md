@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Sonya is the heiress to the riches of a Czech noble family—the Hajns. Petr, a social climber marries her, ignoring some shady goings-on—in particular, an insane uncle who prowls the mansion believing himself invisible, a peccadillo the family indulges. The uncle’s stalking every corner of the house, popping out of cupboards and out from behind curtains slowly takes its toll on the young bride."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Drama', 'International', 'Thriller', 'Mystery']
+xmas_genres = ['Horror', 'Mystery', 'Thriller', 'Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-damned-house-of-hajn/"""

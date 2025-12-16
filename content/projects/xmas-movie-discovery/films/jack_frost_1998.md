@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A father, who can't keep his promises, dies in a car accident. One year later, he returns as a snowman, who has the final chance to put things right with his son before he is gone forever."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Drama', 'Fantasy']
+xmas_genres = ['Family', 'Comedy', 'Fantasy', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/jack-frost/"""

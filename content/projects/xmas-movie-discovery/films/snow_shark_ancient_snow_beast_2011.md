@@ -15,6 +15,6 @@ runtime = 80
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.5
+average_rating = 2.51
 cast = ["""Sam Qualiana""", """Michael O'Hear""", """Jackey Hall""", """C.J. Qualiana""", """Kathy Murphy""", """Andrew Elias""", """Robert Bozek""", """Jason John Beebe""", """Sherri Lyn Litz""", """Brenda Rickert""", """Daniel James"""]
 +++

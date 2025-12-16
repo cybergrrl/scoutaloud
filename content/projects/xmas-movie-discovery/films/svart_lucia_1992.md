@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """High school student Mikaela is attracted by her Swedish teacher Göran and writes an erotic novel for his class."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Mystery', 'Drama']
+xmas_genres = ['Horror', 'Thriller', 'Mystery', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/svart-lucia/"""

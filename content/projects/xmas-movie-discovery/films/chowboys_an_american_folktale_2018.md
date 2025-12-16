@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Three stupid cowboys are lost in the woods without any food on the coldest night of the year. Will they succumb to the cold, cannibalism or the Christmas Spirit? Canada's infamous Astron-6 return to short form to challenge the very idea of storytelling. Grotesque. Absurd. Buñuel by way of the Zuckers and Abrahams."""
 
 [taxonomies]
-xmas_genres = ['Western', 'Horror']
+xmas_genres = ['Horror', 'Western']
 
 [extra]
 film_url = """https://letterboxd.com/film/chowboys-an-american-folktale/"""

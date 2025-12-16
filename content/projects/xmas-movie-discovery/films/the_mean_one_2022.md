@@ -15,6 +15,6 @@ runtime = 92
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 1.73
+average_rating = 1.72
 cast = ["""David Howard Thornton""", """Krystle Martin""", """Chase Mullins""", """John Bigham""", """Erik Baker""", """Amy Schumacher""", """Flip Kobler""", """Christopher Sanders""", """Stephanie Bates""", """Robert DiTillio""", """Rachel Winfree""", """Jessie Holder Tourtellotte""", """Allyson Sereboff""", """Saphina Chanadet""", """Steven Busby""", """Victoria Ippolito""", """Alexandra Vaughan""", """Brian Waters""", """Andrew Fultz""", """Ernie Charles""", """Whit Spurgeon""", """Christine DiTillio""", """Tina Van Berk""", """Josh Arnold""", """Kale Shepherd""", """Aubrey Mozino""", """Molly Flanagan"""]
 +++

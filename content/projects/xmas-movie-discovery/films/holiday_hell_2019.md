@@ -15,6 +15,6 @@ runtime = 100
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.61
+average_rating = 2.6
 cast = ["""Jeffrey Combs""", """Lisa Coronado""", """Joel Murray""", """Amber Stonebraker""", """Jeffrey Arrington""", """Brian Sutherland""", """Lisa Carswell""", """Meagan Karimi-Naser""", """Scott C. Brown""", """Forrest Campbell""", """Mandy Stockholm""", """Jeff Bryan Davis""", """Ailsa Marshall""", """Reza Leal-Smartt""", """Natasha Duvall""", """Charnie Dondrea""", """McKenna Ralston""", """Jordan Nancarrow"""]
 +++

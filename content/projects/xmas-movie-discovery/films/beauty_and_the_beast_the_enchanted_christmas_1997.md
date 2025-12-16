@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Astonished to find the Beast has a deep-seeded hatred for the Christmas season, Belle endeavors to change his mind on the matter."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Musical', 'Animation', 'Fantasy']
+xmas_genres = ['Family', 'Musical', 'Fantasy', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/beauty-and-the-beast-the-enchanted-christmas/"""

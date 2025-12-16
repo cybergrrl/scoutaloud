@@ -15,6 +15,6 @@ runtime = 96
 countries = ["""USA""", """Canada""", """France"""]
 original_language = """English"""
 spoken_languages = ["""English""", """Akan"""]
-average_rating = 3.26
-cast = ["""Rohan Campbell""", """Ruby Modine""", """David Tomlinson""", """Erik Athavale""", """Mark Acheson""", """David Lawrence Brown""", """Toni Reimer""", """Rick Skene""", """Sharon Bajer""", """Logan Sawyer"""]
+average_rating = 3.09
+cast = ["""Rohan Campbell""", """Ruby Modine""", """Mark Acheson""", """David Lawrence Brown""", """David Tomlinson""", """Logan Sawyer""", """Erik Athavale""", """Rick Skene""", """Sharon Bajer""", """Krystle Snow""", """Toni Reimer"""]
 +++

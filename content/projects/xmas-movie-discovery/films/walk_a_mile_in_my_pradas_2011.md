@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A little Christmas magic causes two coworkers with contrasting lifestyles to switch sexual orientations."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Comedy', 'Romance', 'Fantasy']
+xmas_genres = ['Queer', 'Comedy', 'Fantasy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/walk-a-mile-in-my-pradas/"""

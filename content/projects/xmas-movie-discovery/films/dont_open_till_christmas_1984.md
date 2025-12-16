@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """It's just days before Christmas in London, but not everyone is full of good cheer - as a maniac with a pathological hatred of Santa Claus stalks the streets, butchering any man that’s unlucky enough to be wandering around dressed as Old Saint Nick."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Mystery', 'Thriller']
+xmas_genres = ['Horror', 'Thriller', 'Mystery']
 
 [extra]
 film_url = """https://letterboxd.com/film/dont-open-till-christmas/"""

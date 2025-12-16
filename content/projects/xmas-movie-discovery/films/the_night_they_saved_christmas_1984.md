@@ -15,6 +15,6 @@ runtime = 92
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.06
+average_rating = 3.03
 cast = ["""Jaclyn Smith""", """Art Carney""", """Paul Le Mat""", """Mason Adams""", """June Lockhart""", """Paul Williams""", """Scott Grimes""", """Laura Jacoby""", """R.J. Williams""", """Anne Haney"""]
 +++

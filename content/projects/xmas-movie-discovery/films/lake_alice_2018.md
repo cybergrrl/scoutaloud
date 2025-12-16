@@ -15,6 +15,6 @@ runtime = 80
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 1.73
+average_rating = 1.71
 cast = ["""Brando Eaton""", """Michael Shamus Wiles""", """Peter O'Brien""", """Eileen Dietz""", """Laura Niemi""", """Craig Rees""", """Brad Schmidt""", """Caroline Tudor""", """Patrick Burch"""]
 +++

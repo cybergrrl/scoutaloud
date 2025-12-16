@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Harmony is tricked into auditioning for the Holiday Chorus — directed by an ex-boyfriend. By Christmas Eve, they could be harmonizing in the key of love."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-in-harmony/"""

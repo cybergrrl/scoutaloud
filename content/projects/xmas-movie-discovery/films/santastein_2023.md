@@ -10,11 +10,11 @@ xmas_genres = ['Horror', 'Comedy', 'Fantasy']
 film_url = """https://letterboxd.com/film/santastein/"""
 tmdb_poster_path = """/dOLDjeHdCrEalwyWTU5uC7j4bz1.jpg"""
 year = 2023
-director = """Manuel Camilion, Benjamin Edelman"""
+director = """Benjamin Edelman, Manuel Camilion"""
 runtime = 88
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.71
+average_rating = 2.68
 cast = ["""Jared Korotkin""", """Ophelia Rivera""", """Michael Vitovich""", """Kaylie Heyner""", """Damien Edwards""", """Heather Fisch""", """Fernando Morales""", """Leo Pereira""", """Claire Veater""", """Maisy Kay""", """Rafa Llama""", """Alejandro Sevilla""", """Stanley Ross""", """Mauricio Bermudez""", """Brad Kaaya""", """Brian Long""", """Caro Gramajo""", """Byron Duncan""", """Jeff Clarke""", """Fletcher Hammond""", """Lilli Rose Rittner""", """Victoria Camilion""", """Jeff Peterson""", """Brooke Hall""", """Rebecca Vargas""", """Bob Harrigan"""]
 +++

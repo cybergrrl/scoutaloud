@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.7
+average_rating = 2.69
 cast = ["""Whoopi Goldberg""", """Nigel Hawthorne""", """Victor Garber""", """Taylor Negron""", """Frankie Faison""", """Kip King""", """Brian Stokes Mitchell""", """Ali Wentworth""", """Melody Garrett""", """Robert Costanzo""", """Jazmn""", """Bruce Vilanch""", """Allyce Beasley""", """Juan Carlos Cantu""", """Tinashe""", """Ed Gale""", """Richard Moll""", """Patti Tippo""", """Steve Murphy"""]
 +++

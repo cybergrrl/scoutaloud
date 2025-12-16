@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The ghosts of three elderly industrialists killed in an airplane crash return to Earth to help reunite a young couple whom they initially brought together."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Fantasy']
+xmas_genres = ['Fantasy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/beyond-tomorrow/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.06
+average_rating = 3.05
 cast = ["""Harry Carey""", """C. Aubrey Smith""", """Charles Winninger""", """Alex Melesh""", """Maria Ouspenskaya""", """Helen Vinson""", """Rod La Rocque""", """Richard Carlson""", """Jean Parker""", """J. Anthony Hughes""", """Robert Homans""", """Virginia McMullen""", """James Bush""", """William Bakewell""", """Gino Corrado""", """Nell Craig""", """Cyril Ring""", """Gertrude Sutton""", """Ruth Warren""", """Dan White""", """Hank Worden"""]
 +++

@@ -15,6 +15,6 @@ runtime = 41
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.83
+average_rating = 2.81
 cast = ["""Tom Fitzpatrick""", """Dare Taylor""", """Cody Renee Cameron""", """Lauren Nicole Smith"""]
 +++

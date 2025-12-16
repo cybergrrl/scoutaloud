@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The radical new take on Dickens’ classic seeks both to exhume the original story’s gritty commentary on social inequality and the corrupting influence of greed, and to breathe new life into the lyricism of the original text by setting its scenes to extraordinary tableaux of modern dance."""
 
 [taxonomies]
-xmas_genres = ['A Christmas Carol', 'Drama', 'Animation', 'Fantasy']
+xmas_genres = ['Fantasy', 'Animation', 'A Christmas Carol', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-carol-2020/"""

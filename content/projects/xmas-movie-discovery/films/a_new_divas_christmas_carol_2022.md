@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Aphrodite was made famous back in the day for performing THE timeless love song of the era. The song that everyone plays at their weddings, in every sappy commercial for diamonds or rings or puppies or soldiers coming home. It made her a ton of money, but Aphrodite HATES this song. She’s now the meanest judge on Pop The Question but her life changes when Brianna, becomes the breakthrough contestant, exuding love and purity. When Aphrodite reluctantly becomes her mentor, she does everything possible to steer her away from love and love anthems and so is visited by three spirits who take Aphrodite on a journey through love (and Christmas) past, present and future to try and shake her out of her funk and let love back in!"""
 
 [taxonomies]
-xmas_genres = ['Music', 'Queer', 'TV Movie', 'Fantasy']
+xmas_genres = ['Fantasy', 'Queer', 'TV Movie', 'Music']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-new-divas-christmas-carol/"""

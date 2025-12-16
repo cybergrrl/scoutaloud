@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Cindy and Tom Baer-Neil have been married for nearly a year, each having lost their first spouse. With the holidays just around the corner, Cindy and Tom are determined to make the new family’s first Christmas perfect. But their respective children have different plans..."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Family', 'Drama', 'Hallmark']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Family', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/our-first-christmas/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Tower Sky, a luxurious building complex, has organised a lavish Christmas party for its VIP guests. However, things go awry when a fire breaks out and thousands of lives are endangered."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'International', 'Action']
+xmas_genres = ['Global', 'Drama', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-tower-2012/"""

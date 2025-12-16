@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Haley is a wealthy heiress known for her acts of kindness. Haley meets hopeless romantic Claud, and she keeps her wealthy family a secret. When Claud pitches an ad campaign to Haley's mom and Haley's secrets are revealed, things get...complicated."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Comedy', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/much-ado-about-christmas/"""

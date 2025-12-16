@@ -15,6 +15,6 @@ runtime = 89
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.75
+average_rating = 2.71
 cast = ["""Taylor Frey""", """Rick Cosnett""", """Samer Salem""", """Daniel Garcia""", """Kyle Richards""", """Camila Banus""", """Nick Adams""", """Ashley Fink""", """Kyle Dean Massey""", """Blake Cooper Griffin"""]
 +++

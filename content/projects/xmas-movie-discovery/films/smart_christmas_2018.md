@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A tech-savvy nine-year-old ends up in Santa’s workshop on Christmas Eve and decides to help the elves modernize their old-fashioned production line."""
 
 [taxonomies]
-xmas_genres = ['Family', 'International', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/smart-christmas/"""

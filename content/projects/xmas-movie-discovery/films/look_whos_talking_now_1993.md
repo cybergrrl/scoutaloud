@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When high-powered executive Samantha LeBon hatches a scheme to spend a romantic Christmas with her new employee – the unsuspecting, blithesome James – his wife, their kids and their two dogs, Rocks and Daphne, must rescue him before he makes a terrible mistake."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Romance', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/look-whos-talking-now/"""

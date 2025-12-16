@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 1.97
+average_rating = 1.95
 cast = ["""Richard Beymer""", """Bill Moseley""", """Samantha Scully""", """Eric DaRe""", """Laura Harring""", """Elizabeth Hoffman""", """Robert Culp""", """Richard C. Adams""", """Melissa Hellman""", """Isabel Cooley""", """Leonard Mann""", """Carlos Palomino""", """Marc Dietrich""", """Jim Ladd""", """Richard N. Gladstein""", """Tamela Song""", """Michael Ameen""", """Dave Mount Jr.""", """Thomas Herod Jr.""", """David Umstadter""", """Joe Torina""", """Tomczek Bednarek""", """Natalie Anderson""", """Lauren Becker""", """Alan Benjamin""", """Suzette Boucher""", """Ila Dane""", """Adam Friedson""", """Trissa Gabay""", """Bonnie Gaisford""", """Corrie Gorson""", """Carole Hill""", """Patty Matlen""", """Sheri Mount""", """Stuart Snyder""", """Carol Thompson""", """Cheryl Ventura"""]
 +++

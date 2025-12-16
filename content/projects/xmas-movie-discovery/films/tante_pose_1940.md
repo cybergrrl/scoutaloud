@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The story of the sour old virgin who celebrates Christmas with the judge Bals. She makes life miserable for both the family and the other guests. There are many complications, which does not resolve until Christmas Eve is over."""
 
 [taxonomies]
-xmas_genres = ['International', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/tante-pose/"""

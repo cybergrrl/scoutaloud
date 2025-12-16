@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After 15 years, Pat moves home from Hawaii with his two sons and through a series of coincidences, or Godwinks, ends up stuck in traffic next to his high school sweetheart, Margie, at Christmas."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-godwink-christmas-second-chance-first-love/"""
@@ -15,6 +15,6 @@ runtime = 85
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English""", """Portuguese"""]
-average_rating = 2.91
+average_rating = 2.9
 cast = ["""Brooke D'Orsay""", """Sam Page""", """Michele Scarabelli""", """Zahf Paroo""", """Samantha Schimmer""", """Cameron Paisley""", """Rhys Slack""", """Katrina Reynolds""", """Zenia Marshall""", """Brenda Crichlow""", """Anita Brown""", """Jagua Arneja""", """Knox Hamilton"""]
 +++

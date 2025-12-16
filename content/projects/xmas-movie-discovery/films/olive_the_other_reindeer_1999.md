@@ -15,6 +15,6 @@ runtime = 45
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.53
+average_rating = 3.54
 cast = ["""Drew Barrymore""", """Ed Asner""", """Dan Castellaneta""", """Joe Pantoliano""", """Peter MacNicol""", """Matt Groening""", """Jay Mohr""", """Billy West""", """Tim Meadows""", """Michael Stipe""", """Tress MacNeille""", """Diedrich Bader""", """David Herman""", """Mitch Rouse""", """Kath Soucie"""]
 +++

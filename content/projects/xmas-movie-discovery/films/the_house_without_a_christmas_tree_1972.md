@@ -15,6 +15,6 @@ runtime = 87
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.39
+average_rating = 3.38
 cast = ["""Jason Robards""", """Mildred Natwick""", """Lisa Lucas""", """Kathryn Walker""", """Alexa Kenin""", """Murray Westgate""", """Maya Kenin""", """Brady McNamara""", """Gail Dunsome""", """Heather Graham""", """Karen Pearson""", """Patricia Hamilton"""]
 +++

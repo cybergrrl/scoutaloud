@@ -16,5 +16,5 @@ countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
 average_rating = 3.86
-cast = ["""Michael Yarmush""", """Oliver Grainger""", """Bruce Dinsmore""", """Daniel Brochu""", """Jodie Resther""", """Melissa Altro""", """Steven Crowder""", """Arthur Holden""", """Sonja Ball""", """Joanna Noyes""", """Jonathan Koensgen""", """Ricky Mabe""", """Mark Camacho""", """Mitchell David Rothpan""", """Ellen David""", """Harry Strandjofski""", """A.J. Henderson"""]
+cast = ["""Michael Yarmush""", """Oliver Grainger""", """Bruce Dinsmore""", """Daniel Brochu""", """Jodie Resther""", """Melissa Altro""", """Luke Reid""", """Arthur Holden""", """Sonja Ball""", """Joanna Noyes""", """Jonathan Koensgen""", """Ricky Mabe""", """Mark Camacho""", """Mitchell David Rothpan""", """Ellen David""", """Harry Strandjofski""", """A.J. Henderson"""]
 +++

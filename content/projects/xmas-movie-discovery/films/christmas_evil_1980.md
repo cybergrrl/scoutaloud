@@ -15,6 +15,6 @@ runtime = 94
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.11
+average_rating = 3.1
 cast = ["""Brandon Maggart""", """Jeffrey DeMunn""", """Dianne Hull""", """Andy Fenwick""", """Brian Neville""", """Joe Jamrog""", """Wally Moran""", """Gus Salud""", """Ellen McElduff""", """Brian Hartigan""", """Peter Neuman""", """Lance Holcomb""", """Elizabeth Ridge""", """Chris Browning""", """Tyrone Holmes""", """Patricia Richardson""", """Scott McKay""", """Peter Friedman""", """Owen Hollander""", """Horace Bailey""", """John Brockman""", """Burt Kleiner""", """David Hughes""", """Lloyd David Hart""", """Francine Dumont""", """Pamela Enz""", """William Robertson""", """Sheila Anderson""", """Robert Ari""", """Philip Casnoff""", """Michael Klingher""", """Mark Chamberlin""", """Colleen Zenk""", """Lisa Sloan""", """James Desmond""", """Mark Margolis""", """Jennifer Novtney""", """Audrey Matson""", """Danny Federici""", """Arthur Bressler""", """John Scarangella""", """Raymond J. Barry""", """Sam Gray""", """Robert Lesser""", """Will MacMillan""", """Bill Raymond""", """Joan Jonas""", """Nancy Clark""", """T. Wellington Perkins""", """Jim Gagan""", """Leib Lensky""", """James Gallagher""", """Hy Mencher""", """Michael Gordon""", """Stephen Mendillo""", """Rutanya Alda""", """Kerry Broderick""", """John Towey""", """Annette Kurek""", """Matthew Levine""", """Marian Vitale""", """Carrie Steele""", """Sam Samilari"""]
 +++

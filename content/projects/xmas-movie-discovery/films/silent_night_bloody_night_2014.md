@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Pierre and Patricia have some friends around for Christmas Eve. But the evening is not going to unfold exactly as intended. A stranger bursts in and threatens each guest until they confess their little secrets and lies..."""
 
 [taxonomies]
-xmas_genres = ['Thriller']
+xmas_genres = ['Horror', 'Thriller']
 
 [extra]
 film_url = """https://letterboxd.com/film/silent-night-bloody-night-2014/"""

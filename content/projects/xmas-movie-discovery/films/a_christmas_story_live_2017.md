@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A live broadcast of the Broadway hit "A Christmas Story: The Musical" in which Ralphie wishes for nothing more than a Red Rider BB Gun for Christmas."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Musical', 'TV Movie']
+xmas_genres = ['Musical', 'TV Movie', 'Music']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-story-live/"""

@@ -14,6 +14,6 @@ director = """Daniel Knudsen"""
 runtime = 92
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.5
+average_rating = 2.49
 cast = ["""Courtney Mathews""", """Aaron Noble""", """Robert Laenen""", """Sheena Monnin""", """Daniel Knudsen""", """Napoleon""", """Tim Kaiser""", """Drew Jacobs""", """Tenley""", """Justin Mane""", """Michelle Cohl""", """Bryer Popov""", """Jerry Narsh""", """Colleen Gentry""", """Tricia Harmon""", """Garrett Thierry""", """Ian Lang""", """Neal Mozen""", """Lauren Kahrs""", """Mckenzie Mathews""", """Maddie Mathews""", """Austin Mathews""", """Rachel Ritzler""", """Dorothy Joan Reed""", """James Pilachowski""", """Keyna Reynolds""", """Salina Gusmano""", """Candace Joy""", """George Avgoustis""", """Tel Ganesan""", """Leslie Mechigian""", """Rose Anne Nepa""", """Caleb Silvers""", """Angela Wojtyniak""", """Brooklyn Wojtyniak""", """Holly Dacke""", """Paige Donnelly""", """Brian Kirk""", """Christopher Mulder""", """Brian Martinez""", """Chris Belisar""", """Tamika Willis""", """Hannah Winkler""", """Madison Werner""", """Zachery Mudge""", """Kerry Fager""", """Swetha Ganesan""", """Ashley Kiraly""", """Bethany Hazelitt""", """Emily Buckner""", """Jim Kirsch""", """Eric Guenter Weber"""]
 +++

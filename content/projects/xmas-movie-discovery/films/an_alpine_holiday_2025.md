@@ -14,5 +14,6 @@ director = """Lucie Guest"""
 runtime = 84
 original_language = """English"""
 spoken_languages = ["""English"""]
+average_rating = 2.96
 cast = ["""Ashley Williams""", """Laci J. Mailey""", """Julien Marlon Samani""", """Véronique Frumy"""]
 +++

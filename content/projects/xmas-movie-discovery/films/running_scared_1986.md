@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two street-wise Chicago cops have to shake off some rust after returning from a Key West vacation to pursue a drug dealer that nearly killed them in the past."""
 
 [taxonomies]
-xmas_genres = ['Crime', 'Thriller', 'Comedy', 'Action']
+xmas_genres = ['Comedy', 'Thriller', 'Crime', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/running-scared/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'History']
+xmas_genres = ['History', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/spencer-2021/"""

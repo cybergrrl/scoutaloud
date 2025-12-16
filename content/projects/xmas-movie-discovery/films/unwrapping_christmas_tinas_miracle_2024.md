@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Tina Mitchell, a successful business owner, meets a charming guy, Michael, just as her holiday season heats up with the town’s Christmas Gala and her busy store, All Wrapped Up. When the gala is threatened by a scrooge-like estate owner planning to sell the venue, rumors begin to threaten Tina and Michael’s newfound connection. As Tina works to keep venue’s doors open for the gala, she just might unwrap a new chapter in her life, filled with love and holiday cheer."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/unwrapping-christmas-tinas-miracle/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English""", """German"""]
-average_rating = 2.86
-cast = ["""Natalie Hall""", """Alec Santos""", """Presley Allard""", """Henry Alessandroni""", """Darrin Baker""", """Kathryn Davis""", """Stephanie Herrera""", """Steve McCormick""", """Xavier Sotelo""", """Ashley Newbrough""", """Cindy Busby"""]
+average_rating = 2.85
+cast = ["""Natalie Hall""", """Alec Santos""", """Presley Allard""", """Henry Alessandroni""", """Stephanie Herrera""", """Kathryn Davis""", """Ashley Newbrough""", """Cindy Busby""", """Steve McCormick""", """Darrin Baker""", """Xavier Sotelo"""]
 +++

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A hired killer from Cleveland has a job to do on a second-string mob boss in New York. But a special girl from his past and a fat gun dealer with pet rats get in his way."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Crime', 'Oldies', 'Drama']
+xmas_genres = ['Horror', 'Action', 'Thriller', 'Oldies', 'Crime', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/blast-of-silence/"""

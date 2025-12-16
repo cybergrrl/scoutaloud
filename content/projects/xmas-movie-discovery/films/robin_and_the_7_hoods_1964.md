@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Set in Prohibition era Chicago, bootlegger Robbo and his cronies refuse to pay the greedy Guy Gisborne a cut of their profits after Guy shoots mob boss Big Jim and takes over. When Big Jim's daughter, Marian, gives Robbo a large sum, believing he has avenged her father's death, the gangster donates to an orphanage, cementing his reputation as a softhearted hood."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Crime', 'Comedy']
+xmas_genres = ['Comedy', 'Music', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/robin-and-the-7-hoods/"""

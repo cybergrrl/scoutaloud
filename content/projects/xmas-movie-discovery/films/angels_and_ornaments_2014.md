@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Corrine's holiday season gets an unexpected dose of romance when she meets the mysterious Harold, who is on a deadline from a higher power to help Corrine find her true love by Christmas Eve. As the clock ticks down to Harold's deadline, Corrine must decide if she will open up to Christmas love."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/angels-and-ornaments/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.98
+average_rating = 2.97
 cast = ["""Jessalyn Gilsig""", """Sergio Di Zio""", """Roger Doche""", """Graham Abbey""", """Richard Waugh""", """Samantha Espie""", """Lindsay Leese""", """Marium Carvell""", """Brian R. Pearcy""", """Chris Chinchilla""", """Michael Follert""", """Rique Franks""", """Gavin Hope""", """Laura Nordin"""]
 +++

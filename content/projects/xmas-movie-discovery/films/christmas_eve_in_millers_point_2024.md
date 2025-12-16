@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A family gathers on Christmas Eve for what could be the last holiday in their ancestral home. As the night wears on and tensions arise, one of the teenagers sneaks out with her friends to claim the wintry suburb for her own."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-eve-in-millers-point/"""

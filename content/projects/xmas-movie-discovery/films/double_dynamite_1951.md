@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An innocent bank teller, suspected of embezzlement, is aided by an eccentric, wisecracking waiter."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Adventure', 'Comedy', 'Oldies', 'Romance']
+xmas_genres = ['Comedy', 'Music', 'Adventure', 'Oldies', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/double-dynamite/"""
@@ -15,6 +15,6 @@ runtime = 80
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.03
+average_rating = 3.02
 cast = ["""Jane Russell""", """Groucho Marx""", """Frank Sinatra""", """Don McGuire""", """Howard Freeman""", """Nestor Paiva""", """Frank Orth""", """Harry Hayden""", """William Edmunds""", """Russell Thorson"""]
 +++

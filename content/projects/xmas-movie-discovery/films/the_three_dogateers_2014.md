@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a couple of burglars make off with their family's presents and decorations, the Three Dogateers set off on a journey to sniff out the bad guys and save Christmas!"""
 
 [taxonomies]
-xmas_genres = ['Family', 'Adventure', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Adventure']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-three-dogateers/"""

@@ -15,6 +15,6 @@ runtime = 88
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English""", """Portuguese""", """French"""]
-average_rating = 2.84
+average_rating = 2.83
 cast = ["""Scottie Thompson""", """David Selby""", """Kathy Najimy""", """Eric Johnson""", """Larry Miller""", """Luciana Carro""", """Jane Alexander""", """Hiro Kanagawa""", """Robert Moloney""", """Marco Grazzini""", """Tyrell Witherspoon""", """Anja Savcic""", """Daren A. Herbert""", """Andrew McNee""", """Darren Dolynski""", """Genea Charpentier"""]
 +++

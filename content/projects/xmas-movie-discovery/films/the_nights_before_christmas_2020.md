@@ -15,6 +15,6 @@ runtime = 103
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.59
+average_rating = 2.55
 cast = ["""Simon Phillips""", """Sayla de Goede""", """Kate Schroder""", """Anne-Carolyne Binette""", """Keegan Chambers""", """Samantha De Benedet""", """Michael Swatton""", """Barry Kennedy""", """Jennifer Willis""", """Ray Chiasson""", """Frederik Storm""", """Shawn Ladd""", """Ken Bressers""", """Michael Coughlan""", """John Collins""", """Meredith Heinrich""", """Shannon Cotter""", """Jonathan Largy""", """Mike Cortez""", """Eric de Niverville"""]
 +++

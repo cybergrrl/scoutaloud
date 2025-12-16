@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """To save her parents' small-town nightclub, a Broadway dancer stages an all-male, Christmas-themed revue — and meets a guy with all the right moves."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy']
+xmas_genres = ['Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-merry-gentlemen/"""

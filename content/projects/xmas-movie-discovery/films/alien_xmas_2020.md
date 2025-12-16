@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young elf mistakes a tiny alien for a Christmas gift, not knowing her new plaything has plans to destroy Earth's gravity — and steal all the presents."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Family', 'Animation', 'Science Fiction', 'Fantasy']
+xmas_genres = ['Fantasy', 'Horror', 'Comedy', 'Science Fiction', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/alien-xmas/"""

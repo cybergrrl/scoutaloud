@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Diane Walters, an over-burdened mother of two with a third child on the way, strives to create the perfect Christmas while her loving but dysfunctional family falls apart around her."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-vs-the-walters/"""

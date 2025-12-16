@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Christmas has arrived. As a little girl and her parents enter the room, the little girl finds all kinds of toys under the Christmas Tree. She immediately throws her old doll aside and starts playing with her new dolls. But that night she has a dream. Or maybe it isn't a dream?"""
 
 [taxonomies]
-xmas_genres = ['International', 'Animation', 'Fantasy']
+xmas_genres = ['Fantasy', 'Global', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-dream/"""

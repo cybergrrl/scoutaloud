@@ -15,6 +15,6 @@ runtime = 96
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 1.56
+average_rating = 1.55
 cast = ["""Jay Ripley""", """Shay Garner""", """Pat Morrell""", """Ruth McMahon""", """Heather Hughes"""]
 +++

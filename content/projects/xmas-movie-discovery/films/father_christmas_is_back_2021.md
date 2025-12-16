@@ -15,6 +15,6 @@ runtime = 105
 countries = ["""UK"""]
 original_language = """English"""
 spoken_languages = ["""English""", """German"""]
-average_rating = 1.76
+average_rating = 1.77
 cast = ["""Nathalie Cox""", """Talulah Riley""", """Elizabeth Hurley""", """Kelsey Grammer""", """John Cleese""", """Caroline Quentin""", """April Bowlby""", """Kris Marshall""", """Ray Fearon""", """Katy Brand""", """Ania Marson""", """Naomi Frederick""", """Amelie Prescott""", """Janie Booth""", """Bryan Samson"""]
 +++

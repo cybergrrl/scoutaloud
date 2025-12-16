@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Romance novelist Emilia is a whirlwind who blows back into the lives of her adult children, Taylor and Zach, under the pretense of a book signing arranged by her hometown's local book shop. As Emilia tries to reconnect, Taylor and Zach explore new and past relationships through an app that boasts old-fashioned human connection by way of the classified ad. Zach is given a chance to heal old wounds while Taylor matches with a woman that changes the way she's always thought about love."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Queer', 'Romance', 'Drama']
+xmas_genres = ['Comedy', 'Queer', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/love-classified/"""

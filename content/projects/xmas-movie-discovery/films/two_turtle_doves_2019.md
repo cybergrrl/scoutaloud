@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Dr. Sharon Hayes searches for a beloved family heirloom in a small Christmas town. When she unexpectedly discovers an adorable little girl and her disheartened father, she realizes that Christmas miracles really do happen."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Family', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Hallmark', 'TV Movie', 'Family', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/two-turtle-doves/"""

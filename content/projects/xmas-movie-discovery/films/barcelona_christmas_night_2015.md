@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Multiple love stories unfold in Barcelona during Christmas's Eve."""
 
 [taxonomies]
-xmas_genres = ['International', 'Romance', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Drama', 'Global', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/barcelona-christmas-night/"""

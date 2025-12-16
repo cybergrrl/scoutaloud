@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Samantha Caine is a small-town schoolteacher and mom with no memory of her life before washing up on a beach eight years ago. After a car accident and a violent home invasion trigger flashes of her past, she discovers she used to be a deadly CIA assassin. Teaming up with a wisecracking private investigator, Samantha must return to her old ways to take down the people who tried to erase her."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Mystery', 'Crime', 'Action']
+xmas_genres = ['Crime', 'Mystery', 'Action', 'Thriller']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-long-kiss-goodnight/"""

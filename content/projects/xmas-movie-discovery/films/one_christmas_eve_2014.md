@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A series of mishaps threaten a recently divorced mom's attempts to make her two kids' first Christmas "without dad" perfect."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Family', 'Drama', 'Hallmark']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Family', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/one-christmas-eve/"""

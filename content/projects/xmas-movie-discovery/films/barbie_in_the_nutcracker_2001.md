@@ -15,6 +15,6 @@ runtime = 77
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.46
+average_rating = 3.47
 cast = ["""Kelly Sheridan""", """Kirby Morrow""", """Tim Curry""", """Peter Kelamis""", """Christopher Gaze""", """Ian James Corlett""", """French Tickner""", """Kathleen Barr""", """Cathy Weseluck""", """Alex Doduk""", """Chantal Strand""", """Britt McKillip""", """Danny McKinnon""", """Shona Galbraith""", """Charles Askegard""", """Maria Kowroski""", """Benjamin Millepied""", """Nora Y. Mullman""", """Abi Stafford""", """Yue Nhice Fraile"""]
 +++

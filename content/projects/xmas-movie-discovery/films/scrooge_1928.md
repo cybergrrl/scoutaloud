@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The miserly Scrooge changes his ways after being haunted by ghosts on Christmas Eve."""
 
 [taxonomies]
-xmas_genres = ['A Christmas Carol', 'Drama', 'Fantasy']
+xmas_genres = ['Fantasy', 'A Christmas Carol', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/scrooge-1928/"""

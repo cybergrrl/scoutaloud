@@ -15,6 +15,6 @@ runtime = 49
 countries = ["""USA""", """Japan"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.17
+average_rating = 3.16
 cast = ["""Garry Chalk""", """Tony Ail""", """Nathan Aswell""", """Bailee Reid""", """Ian James Corlett""", """Michael Donovan""", """Kathleen Barr""", """Lillian Carlson""", """Kent Gallie""", """Phil Hayes""", """Roger Kelly""", """Ellen Kennedy""", """Terry Klassen""", """Joanne Lee""", """Andrea Libman""", """Tom McBeath""", """Jesse Moss"""]
 +++

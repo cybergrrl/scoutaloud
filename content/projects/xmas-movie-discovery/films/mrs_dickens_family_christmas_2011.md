@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Looking at the marriage of Charles Dickens through the eyes of his wife Catherine, Sue Perkins exposes the lesser-known reality of the Dickens family Christmas."""
 
 [taxonomies]
-xmas_genres = ['Documentary', 'History']
+xmas_genres = ['History', 'Documentary']
 
 [extra]
 film_url = """https://letterboxd.com/film/mrs-dickens-family-christmas/"""

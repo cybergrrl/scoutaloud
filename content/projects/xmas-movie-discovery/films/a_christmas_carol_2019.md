@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Christmas in Dickensian London. Curmudgeon Ebenezer Scrooge is visited by three ghostly spectres. Their mission: his redemption."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'A Christmas Carol', 'Drama', 'Science Fiction']
+xmas_genres = ['Horror', 'Science Fiction', 'Drama', 'A Christmas Carol']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-carol-2019-2/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An ailing man summons his four daughters home for Christmas and asks them to kill his new wife, who he suspects is poisoning him."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'TV Movie', 'Thriller']
+xmas_genres = ['Horror', 'Thriller', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/home-for-the-holidays/"""

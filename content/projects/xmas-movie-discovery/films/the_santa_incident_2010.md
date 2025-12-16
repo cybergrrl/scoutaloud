@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """During a ride on his sleigh Santa is mistaken for an alien in a UFO. After an attack, he ends up seriously injured in a small town. Two children must help him, so Christmas is not jeopardized."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Hallmark', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-santa-incident/"""

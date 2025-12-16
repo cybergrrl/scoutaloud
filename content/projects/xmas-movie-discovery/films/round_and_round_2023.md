@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """While Rachel is stuck in a time loop, reliving the night of her parents' Hanukkah party, she leans on the boy her grandmother is trying to set her up with to make it out."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Family', 'Queer', 'Romance', 'Hallmark']
+xmas_genres = ['Hanukkah', 'Queer', 'Comedy', 'Hallmark', 'TV Movie', 'Family', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/round-and-round-2023/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.41
+average_rating = 3.4
 cast = ["""Vic Michaelis""", """Bryan Greenberg""", """Rick Hoffman""", """David Attar""", """David Epstein""", """Marnie Mahannah""", """Amitai Marmorstein""", """Miles Marthaller""", """Nicole Oliver""", """Paula Shaw""", """Deimon Slagg""", """Jess Smith""", """Morgana Wyllie""", """Jeff Gladstone""", """Suzanne Ristic""", """Panou""", """Kelly Bastard""", """Tal Shulman""", """Nicco Del Rio"""]
 +++

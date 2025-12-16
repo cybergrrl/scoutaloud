@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """During a bitter 1964 Massachusetts winter, young secretary Eileen becomes enchanted by Rebecca, the glamorous new counselor at the prison where she works. Their budding friendship takes a twisted turn when Rebecca reveals a dark secret — throwing Eileen onto a sinister path."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Queer', 'Crime']
+xmas_genres = ['Queer', 'Thriller', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/eileen-2023/"""

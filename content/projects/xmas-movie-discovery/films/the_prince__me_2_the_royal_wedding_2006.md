@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """With just weeks before their royal wedding, Paige and Edvard find their relationship and the Danish monarchy in jeopardy when an old law is brought to light, stating that an unmarried heir to the throne may marry only a woman of noble blood or else he must relinquish his crown."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Romance', 'Royal Christmas', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Romance', 'Royal Christmas']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-prince-me-2-the-royal-wedding/"""

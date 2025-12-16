@@ -15,6 +15,6 @@ runtime = 8
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.26
+average_rating = 3.25
 cast = ["""Donald Novis""", """Kenny Baker"""]
 +++

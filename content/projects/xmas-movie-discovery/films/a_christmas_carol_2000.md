@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A modern version of the classic Dickens tale, in which Eddie Scrooge is a mean loan shark who sees the error of his ways."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Family', 'Drama', 'A Christmas Carol', 'Fantasy']
+xmas_genres = ['Fantasy', 'A Christmas Carol', 'TV Movie', 'Family', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-carol-2000/"""
@@ -15,6 +15,6 @@ runtime = 75
 countries = ["""UK"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.17
+average_rating = 3.16
 cast = ["""Ross Kemp""", """Ray Fearon""", """Warren Mitchell""", """Michael Maloney""", """Claudie Blakley""", """Liz Smith""", """Mina Anwar""", """Angeline Ball""", """Lorraine Ashbourne""", """Joanne Mcintosh""", """Bill Thomas""", """Daniel Ainsleigh""", """Chloe Howman"""]
 +++

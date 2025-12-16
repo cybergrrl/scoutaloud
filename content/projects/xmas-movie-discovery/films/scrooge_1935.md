@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Ebenezer Scrooge, the ultimate Victorian miser, hasn't a good word for Christmas, though his impoverished clerk Cratchit and nephew Fred are full of holiday spirit. In the night, Scrooge is visited by spirits of the past, present, and future."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'A Christmas Carol', 'Drama', 'Fantasy']
+xmas_genres = ['Horror', 'Fantasy', 'A Christmas Carol', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/scrooge-1935/"""

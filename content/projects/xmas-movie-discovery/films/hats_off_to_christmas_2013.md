@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Mia, the loyal and hard-working manager of a quaint neighborhood Christmas hat shop, is blindsided when her boss asks her to train his son Nick for a vacant upper-management position that Mia had her eyes set on."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Family', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Hallmark', 'TV Movie', 'Family', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/hats-off-to-christmas/"""

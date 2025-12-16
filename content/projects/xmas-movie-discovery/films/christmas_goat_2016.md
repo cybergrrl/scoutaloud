@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A Christmas story. The goat is the solution to the problems of a family in Recife, Brazil."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'Drama', 'Fantasy']
+xmas_genres = ['Family', 'Comedy', 'Fantasy', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-goat/"""

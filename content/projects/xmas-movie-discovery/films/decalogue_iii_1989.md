@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """It’s Christmas Eve, and Ewa has plotted to pass the hours until morning with her former lover Janusz, a family man, by making him believe her husband has gone missing. During this night of recklessness and lies, the pair grapple with choices made when their affair was discovered three years ago, and with the value of their present lives."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'TV Movie', 'Drama']
+xmas_genres = ['Drama', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/decalogue-iii/"""
@@ -16,5 +16,5 @@ countries = ["""Germany""", """Poland"""]
 original_language = """Polish"""
 spoken_languages = ["""Polish"""]
 average_rating = 3.76
-cast = ["""Daniel Olbrychski""", """Maria Pakulnis""", """Joanna Szczepkowska""", """Artur Barciś""", """Halina Drohocka""", """Krzysztof Kumor""", """Dorota Stalińska""", """Zygmunt Fok""", """Jacek Kałucki""", """Barbara Kolodziejska""", """Maria Krawczyk-Ważyk""", """Włodzimierz Musiał""", """Jerzy Zygmunt Nowak""", """Piotr Rzymyszkiewicz""", """Wlodzimierz Rzeczycki""", """Henryk Baranowski""", """Edward Kłosiński"""]
+cast = ["""Daniel Olbrychski""", """Maria Pakulnis""", """Joanna Szczepkowska""", """Artur Barciś""", """Krystyna Drochocka""", """Krzysztof Kumor""", """Dorota Stalińska""", """Zygmunt Fok""", """Jerzy Zygmunt Nowak""", """Jacek Kałucki""", """Piotr Rzymyszkiewicz""", """Barbara Kolodziejska""", """Wlodzimierz Rzeczycki""", """Maria Krawczyk-Ważyk""", """Włodzimierz Musiał""", """Henryk Baranowski""", """Olgierd Łukaszewicz"""]
 +++

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A modern-day witch likes her neighbor but despises his fiancée, so she enchants him to love her instead... only to fall in love with him for real."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Comedy', 'Romance', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'Oldies', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/bell-book-and-candle/"""

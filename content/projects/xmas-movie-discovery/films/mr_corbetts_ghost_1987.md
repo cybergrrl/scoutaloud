@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Mr Corbett is a cruel employer to Ben Partridge. One night on New Years Eve Ben is sent out to deliver some medicine. Along the way he wishes his master was dead, little knowing that the man he is delivering to is the Collector of Souls."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Drama', 'Fantasy']
+xmas_genres = ['Fantasy', 'TV Movie', 'Horror', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/mr-corbetts-ghost/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A newlywed couple burdened with economic hardship decides not to exchange Christmas presents to save money over the holidays. Secretly, they make sacrifices to buy the other a special gift."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/gift-of-the-magi/"""

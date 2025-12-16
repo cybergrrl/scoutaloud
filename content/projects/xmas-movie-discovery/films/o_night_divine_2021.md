@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """St. Moritz, Switzerland. On a snowy Christmas Eve in a grand mountain hotel, the lives of five people magically intertwine during a wild night full of extravagant adventures and joyous celebrations."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'International', 'Comedy']
+xmas_genres = ['Queer', 'Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/o-night-divine/"""
@@ -15,6 +15,6 @@ runtime = 43
 countries = ["""Italy"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.16
-cast = ["""John C. Reilly""", """Alex Wolff""", """Hailey Gates""", """Samia Benazzouz""", """Chloe Park""", """Valerio Santucci""", """Francesca Figus""", """Tania Hanyoung Park""", """Shi Yang"""]
+average_rating = 3.15
+cast = ["""John C. Reilly""", """Alex Wolff""", """Hailey Benton Gates""", """Samia Benazzouz""", """Chloe Park""", """Valerio Santucci""", """Francesca Figus""", """Tania Hanyoung Park""", """Shi Yang"""]
 +++

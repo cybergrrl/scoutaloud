@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After a small-town photographer saves a man’s life, she learns he’s in town to buy her family’s parkland, the location of the annual Christmas celebration."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/to-all-a-good-night/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.11
+average_rating = 3.09
 cast = ["""Kimberley Sustad""", """Mark Ghanimé""", """Luisa d'Oliveira""", """Karen Kruper""", """Ayla Rose Evans""", """Trevor Leyenhorst""", """Craig March""", """Remy Marthaller""", """Bronwen Smith"""]
 +++

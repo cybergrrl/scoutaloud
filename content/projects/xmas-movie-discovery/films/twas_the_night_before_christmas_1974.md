@@ -15,6 +15,6 @@ runtime = 25
 countries = ["""USA""", """Japan"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.23
+average_rating = 3.22
 cast = ["""Joel Grey""", """George Gobel""", """Tammy Grimes""", """John McGiver""", """Patricia Bright""", """Scott Firestone""", """Christine Winter""", """Allen Swift""", """Bob McFadden"""]
 +++

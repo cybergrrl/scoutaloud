@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Artist Traci is a once-devout Christian who has stopped believing in God after her husband tragically died despite her prayers. As her second Christmas without him approaches, she tries going to a support group for inspiration and comfort."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-gift-of-peace/"""

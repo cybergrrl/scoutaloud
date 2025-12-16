@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """One night, a burglar in a Santa Claus costume is surprised by Victor, a young boy who believes he is the real Santa Claus. Victor then follows him, and they embark on an unexpected adventure that will change their lives."""
 
 [taxonomies]
-xmas_genres = ['International', 'Comedy']
+xmas_genres = ['Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/santa-claus-2014/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Bitter and hateful, the Grinch is irritated at the thought of a nearby village having a happy time celebrating Christmas. Disguised as Santa Claus, with his dog made to look like a reindeer, he decides to raid the village to steal all the Christmas things."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Musical', 'Animation', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Musical', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/how-the-grinch-stole-christmas/"""

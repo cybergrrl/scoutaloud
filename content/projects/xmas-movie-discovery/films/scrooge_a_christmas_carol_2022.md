@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """On a cold Christmas Eve, selfish miser Ebenezer Scrooge has one night left to face his past — and change the future — before time runs out."""
 
 [taxonomies]
-xmas_genres = ['Musical', 'Family', 'Animation', 'A Christmas Carol', 'Fantasy']
+xmas_genres = ['Fantasy', 'A Christmas Carol', 'Musical', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/scrooge-a-christmas-carol/"""

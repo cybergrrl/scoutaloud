@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Once upon a time a little girl went out to find the Christmas Star."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Adventure', 'International', 'Fantasy']
+xmas_genres = ['Family', 'Global', 'Fantasy', 'Adventure']
 
 [extra]
 film_url = """https://letterboxd.com/film/journey-to-the-christmas-star-1976/"""

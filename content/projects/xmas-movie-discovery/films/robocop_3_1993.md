@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'Action', 'Thriller', 'Crime', 'Science Fiction']
+xmas_genres = ['Adventure', 'Action', 'Thriller', 'Science Fiction', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/robocop-3/"""

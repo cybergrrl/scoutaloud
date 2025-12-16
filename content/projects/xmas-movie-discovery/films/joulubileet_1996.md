@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A story of Mike, just out of prison, and his buddies throwing a Christmas party under the most obscure circumstances is filled with juicy dialogue and plot twists that will definitely make your jaw drop – and have you chuckle for days after."""
 
 [taxonomies]
-xmas_genres = ['International', 'Comedy']
+xmas_genres = ['Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/joulubileet/"""

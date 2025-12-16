@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Best friends Naomi and Liz return home for the holidays and simultaneously enter a love triangle when they both reconnect with their high school crush Chris Silver."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Hanukkah', 'Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/never-been-chrisd/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.52
+average_rating = 2.51
 cast = ["""Janel Parrish""", """Pascal Lamothe-Kipnes""", """Tyler Hynes""", """Linda Ko""", """Samantha Kendrick""", """Henriette Ivanans""", """Uchenna Nkwonta""", """Quinn Greene""", """Madison MacIsaac""", """Alex Poch-Goldin""", """Solange Sookram""", """Tyrell Witherspoon"""]
 +++

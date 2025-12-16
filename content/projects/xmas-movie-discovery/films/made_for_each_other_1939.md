@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A couple struggle to find happiness after a whirlwind courtship."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Romance', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Romance', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/made-for-each-other/"""

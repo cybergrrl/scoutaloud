@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When single mom Olivia is secretly entered into a mural contest by her mom, she partners with the teacher, Will."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/our-christmas-mural/"""

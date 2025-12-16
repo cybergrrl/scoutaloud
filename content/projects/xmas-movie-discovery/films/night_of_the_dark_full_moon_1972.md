@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A man investigates the grisly crimes that occurred in a former insane asylum, unsettling the locals who all seem to have something to hide."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Mystery', 'Thriller']
+xmas_genres = ['Horror', 'Thriller', 'Mystery']
 
 [extra]
 film_url = """https://letterboxd.com/film/night-of-the-dark-full-moon/"""

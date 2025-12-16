@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Following a tragic plane crash, newspaper columnist Peyton MacGruder happens upon a hastily-written note that was from one of the passengers onboard. She makes it her mission to deliver it to its intended recipient by Christmas, bringing her readers along for the ride."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-note/"""

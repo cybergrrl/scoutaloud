@@ -15,6 +15,6 @@ runtime = 73
 countries = ["""Australia"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.15
+average_rating = 3.14
 cast = ["""Ron Haddrick""", """Robin Stewart""", """Barbara Frawley""", """Sean Hinton""", """Phillip Hinton""", """Liz Horne""", """Derani Scarr""", """Bill Conn""", """Anne Haddy"""]
 +++

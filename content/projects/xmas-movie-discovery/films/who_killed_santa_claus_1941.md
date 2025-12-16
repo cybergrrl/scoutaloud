@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A village in the French Alps is rocked by a series of crimes, including the theft of a sacred ring and the murder of a man dressed as Père Noël (Father Christmas)."""
 
 [taxonomies]
-xmas_genres = ['Crime', 'International']
+xmas_genres = ['Horror', 'Global', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/who-killed-santa-claus/"""

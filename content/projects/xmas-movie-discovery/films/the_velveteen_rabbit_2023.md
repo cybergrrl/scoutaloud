@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When seven-year-old William receives a new favorite toy for Christmas, he discovers a lifelong friend and unlocks a world of magic."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Animation', 'Fantasy']
+xmas_genres = ['Family', 'Fantasy', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-velveteen-rabbit-2023/"""

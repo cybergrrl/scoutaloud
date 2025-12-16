@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A little girl gets separated from her teddy bear and is inconsolable."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Drama', 'International']
+xmas_genres = ['Family', 'Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-little-christmas-story/"""

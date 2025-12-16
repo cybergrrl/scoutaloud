@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """As Chicago gears up for its annual Thanksgiving Day parade, Emily Jones, an eager parade coordinator is shocked when Henry Williams, a wealthy new development consultant, is brought in to analyze the parade's finances."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/love-at-the-thanksgiving-day-parade/"""

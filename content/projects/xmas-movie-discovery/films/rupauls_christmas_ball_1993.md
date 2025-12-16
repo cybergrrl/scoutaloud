@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Variety special featuring guests from the downtown New York club scene to stellar artists including Nirvana and Elton John."""
 
 [taxonomies]
-xmas_genres = ['Music', 'TV Movie', 'Comedy']
+xmas_genres = ['Comedy', 'TV Movie', 'Music']
 
 [extra]
 film_url = """https://letterboxd.com/film/rupauls-christmas-ball/"""

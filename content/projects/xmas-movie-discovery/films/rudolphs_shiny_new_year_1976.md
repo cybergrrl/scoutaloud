@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Rudolph must find Happy, the baby new year, before the midnight of New Year's Eve."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Family', 'Animation', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'TV Movie', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/rudolphs-shiny-new-year/"""

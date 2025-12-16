@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Christmas is supposed to be a time of joy, peace and goodwill. But for some folks in the small town of Bailey Downs, it turns into something much less festive."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Fantasy']
+xmas_genres = ['Fantasy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-horror-story/"""

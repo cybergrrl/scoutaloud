@@ -15,6 +15,6 @@ runtime = 107
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.81
+average_rating = 2.8
 cast = ["""Jordan-Claire Green""", """Tom Kemp""", """Susan Wood""", """Adam Hicks""", """Cathy Worthington""", """Jim Jackman""", """Richard Riehle""", """Roland Pelletier""", """John Billingsley""", """Bonita Friedericy""", """Dorothy Brodesser""", """Michael Howard""", """Mindy Sterling""", """Kapri Merrill"""]
 +++

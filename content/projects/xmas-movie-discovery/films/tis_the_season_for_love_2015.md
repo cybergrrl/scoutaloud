@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An out-of-work New York City actress returns home to the quaint small town she escaped 10 years before and finds a place far different than the hamlet she left. She suddenly finds performing possibilities and even romance that kind of blow her away."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/tis-the-season-for-love/"""
@@ -14,6 +14,6 @@ director = """Terry Ingram"""
 runtime = 84
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.91
+average_rating = 2.9
 cast = ["""Sarah Lancaster""", """Brendan Penny""", """Gwynyth Walsh""", """Andrew Francis""", """Jessica Harmon""", """Garry Chalk""", """Anna Van Hooft""", """Jason Schombing"""]
 +++

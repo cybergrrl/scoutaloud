@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Just months before Jenn's 30th birthday she is dumped by her long term girlfriend, Frankie. With the help of a surprise house guest, Jenn sets off on a mission to get Frankie back."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Romance', 'Comedy']
+xmas_genres = ['Queer', 'Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/aging-out-2023/"""

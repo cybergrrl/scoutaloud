@@ -15,6 +15,6 @@ runtime = 89
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 1.6
+average_rating = 1.56
 cast = ["""Monica Engesser""", """Amelia Haberman""", """James Ray""", """Kevin Tye""", """Sean G.P. Anderson""", """Robert Conway""", """Carrie Fee"""]
 +++

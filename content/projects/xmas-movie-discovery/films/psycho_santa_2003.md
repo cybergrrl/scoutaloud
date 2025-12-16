@@ -14,6 +14,6 @@ director = """Peter Keir"""
 runtime = 72
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.5
+average_rating = 2.48
 cast = ["""Eric Spudic""", """Krystal Stevenson""", """Kimberly L. Cole""", """Jason Barnes""", """Jeff Samford""", """Michelle Samford""", """Sequoia Rose Fuller""", """Rachel Michelle Gnapp""", """Lucien Eisenach""", """Steve Sessions"""]
 +++

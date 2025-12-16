@@ -8,7 +8,7 @@ xmas_genres = ['Family', 'Hallmark', 'TV Movie', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-comes-home-to-canaan/"""
-tmdb_poster_path = """/llycTLvu6R9ALZ5pHXQGJxMl8aQ.jpg"""
+tmdb_poster_path = """/wYfAPLe1hB5vHZgPMmAi2MW1NEU.jpg"""
 year = 2011
 director = """Neill Fearnley"""
 runtime = 85

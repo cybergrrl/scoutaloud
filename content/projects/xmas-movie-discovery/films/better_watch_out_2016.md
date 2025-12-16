@@ -15,6 +15,6 @@ runtime = 89
 countries = ["""USA""", """Australia"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.07
+average_rating = 3.06
 cast = ["""Olivia DeJonge""", """Levi Miller""", """Ed Oxenbould""", """Aleks Mikic""", """Dacre Montgomery""", """Patrick Warburton""", """Virginia Madsen""", """Alexandra Matusko""", """Georgia Holland""", """Beau Andre""", """Michi Fifer""", """Tara Jade Borg""", """Tricia Mary Hennessy""", """Mary Clearkin""", """Hugo Monotti""", """Brendan Clearkin"""]
 +++

@@ -14,6 +14,6 @@ director = """Nicholas Santos"""
 runtime = 77
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.62
+average_rating = 2.61
 cast = ["""John Anderson""", """Charles Gould""", """Quinn Jackson""", """Chloe Roe"""]
 +++

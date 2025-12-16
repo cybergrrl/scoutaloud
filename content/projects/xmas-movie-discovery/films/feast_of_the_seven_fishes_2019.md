@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A slice of life story that follows a large Italian family on Christmas Eve as they prepare for the traditional Feast of the Seven Fishes, reminisce about the past and seek love in the future."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Comedy']
+xmas_genres = ['Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/feast-of-the-seven-fishes/"""

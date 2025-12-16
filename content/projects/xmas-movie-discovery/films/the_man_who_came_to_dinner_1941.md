@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An acerbic critic wreaks havoc when a hip injury forces him to move in indefinitely with a Midwestern family."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-man-who-came-to-dinner/"""

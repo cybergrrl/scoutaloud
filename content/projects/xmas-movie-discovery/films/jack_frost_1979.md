@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Pardon-me Pete, the official groundhog of Groundhog Day, tells the story of Jack Frost, who falls in love with a beautiful young woman and begs Father Winter to make him human so that she can see him. His request is granted, but only on the condition that by the Spring he has a house, a bag of gold, a horse and a wife. But Jack finds that life as a human is more complicated than he thought."""
 
 [taxonomies]
-xmas_genres = ['Family', 'TV Movie', 'Animation', 'Fantasy']
+xmas_genres = ['Family', 'TV Movie', 'Fantasy', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/jack-frost-1979/"""

@@ -1,10 +1,10 @@
 +++
 title = """Christmas Present"""
 template = "xmas-movie-page.html"
-description = """On Christmas night, four estranged friends reunite for a game of poker to rip off a rich businessman—but old grudges get in the way."""
+description = """On Christmas night, four estranged friends reunite to rip off a wealthy businessman in a game of poker, but old grudges get in the way."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'International']
+xmas_genres = ['Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-present-1986/"""

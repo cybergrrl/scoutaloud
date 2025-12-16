@@ -15,6 +15,6 @@ runtime = 100
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English""", """French"""]
-average_rating = 3.02
+average_rating = 3.01
 cast = ["""Dean Cain""", """Erika Eleniak""", """Eric Roberts""", """Brooke Palsson""", """David Brown""", """Roman Podhora""", """Richard Yearwood""", """Bernard Browne""", """Santino Buda""", """Aleks Paunovic""", """Angelo Tsarouchas""", """Jack Wallace""", """Larry Mannell""", """Rothaford Gray""", """Sarah Deakins""", """Chris Benson""", """Jessica Smith""", """Trevor Toffan""", """Corinne Conley""", """Vicki Marentette""", """Tristan Field-Jones""", """Patricia Harras""", """Edward Sutton""", """Ernesto Griffith""", """Tommy Chang""", """Vince Crestejo""", """Leah Pasuta Katz""", """Rob Kristjansson""", """Carlos Gallardo""", """Candy Richardz""", """Cory Cassidy""", """Mandi Maxwell""", """Lorrie Papadopoulos""", """Amy Tolsky""", """Warren Louis Wiltshire"""]
 +++

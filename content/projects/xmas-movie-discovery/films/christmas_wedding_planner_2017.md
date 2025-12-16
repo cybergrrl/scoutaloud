@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Wedding Planner, Kelsey Wilson, is about to have her big break: planning her beloved cousin's lavish and exclusive wedding. Everything is going smoothly until Connor McClane, a devilishly handsome private investigator, shows up and turns Kelsey's world upside-down. Hired by a secret source, Connor quickly disrupts the upcoming nuptials but wins Kelsey's heart in the process."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Romance', 'TV Movie']
+xmas_genres = ['Family', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-wedding-planner/"""

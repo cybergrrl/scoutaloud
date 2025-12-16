@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An architect has an affair with a woman who inspires him. Her brother is in love with the architect's daughter. The complicated entanglement leads to misunderstanding and dissolution, but ultimately love."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Romance', 'Drama']
+xmas_genres = ['Oldies', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/street-of-women/"""

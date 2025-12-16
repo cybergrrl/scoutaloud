@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A rich and nasty woman returns to her hometown to evict everyone but discovers the true meaning of Christmas thanks to the local townsfolk – and an actual angel. Features 14 original songs with music and lyrics by Dolly Parton!"""
 
 [taxonomies]
-xmas_genres = ['Music', 'Musical', 'TV Movie', 'Comedy', 'Family']
+xmas_genres = ['Comedy', 'Music', 'TV Movie', 'Musical', 'Family']
 
 [extra]
 film_url = """https://letterboxd.com/film/dolly-partons-christmas-on-the-square/"""

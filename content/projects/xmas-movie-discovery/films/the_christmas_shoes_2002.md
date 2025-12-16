@@ -15,6 +15,6 @@ runtime = 100
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English""", """Italian"""]
-average_rating = 2.54
+average_rating = 2.51
 cast = ["""Rob Lowe""", """Kimberly Williams-Paisley""", """Max Morrow""", """Maria del Mar""", """Hugh Thompson""", """Dorian Harewood""", """Shirley Douglas""", """Amber Marshall""", """Geoff Herod"""]
 +++

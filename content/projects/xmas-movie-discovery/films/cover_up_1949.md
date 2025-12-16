@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Insurance investigator Sam Donovan is looking into the apparent suicide of a man in a small Midwestern town. All clues leads him into suspecting murder. Unfortunately, no one wants to assist him with the case, including Sheriff Larry Best."""
 
 [taxonomies]
-xmas_genres = ['Mystery']
+xmas_genres = ['Mystery', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/cover-up/"""

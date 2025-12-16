@@ -15,5 +15,6 @@ runtime = 70
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
+average_rating = 3.25
 cast = ["""Aleen Isley""", """Eric J Holmes""", """Sarah Brunner""", """Michael Barnett""", """Steve Rudzinski""", """Paul Stermer""", """Paul Anderson""", """Melissa Sapienza""", """Katy Grant""", """Michael Smyth""", """John Catheline""", """Andrew Gordon""", """David Dietz""", """Jess Uhler""", """Jessa Jupiter Flux""", """Drew Marvick"""]
 +++

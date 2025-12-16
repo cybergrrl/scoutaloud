@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Leading up to Christmas, marketing executive, Lauren, is visited by the ghosts of four ex-boyfriends. She must learn to open her heart or risk losing her best friend, Nate."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/boyfriends-of-christmas-past/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English""", """French"""]
-average_rating = 2.68
+average_rating = 2.66
 cast = ["""Catherine Haena Kim""", """Raymond Ablack""", """Paul Sun-Hyung Lee""", """Karn Kalra""", """Jon McLaren""", """Ish Morris""", """Jordan Kronis""", """Jenna Katz""", """Susan Hanson""", """Graham Parkhurst""", """Shannon McDonough""", """Matt Rossi""", """Alys Crocker""", """Matthew Stefiuk""", """Emily Tinglin""", """Justin Methé""", """Seher Khot"""]
 +++

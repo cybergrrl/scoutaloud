@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A group of people who happen to be on the same bus try to get home on the New Year's Eve, but their bus is delayed by numerous obstacles, and the tensions grow."""
 
 [taxonomies]
-xmas_genres = ['International', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-nylon-christmas-tree/"""

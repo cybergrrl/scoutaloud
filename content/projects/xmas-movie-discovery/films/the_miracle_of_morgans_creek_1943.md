@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A small-town girl with a soft spot for American soldiers wakes up the morning after a wild farewell party for the troops to find that she married someone she can't remember."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Romance', 'Comedy', 'War']
+xmas_genres = ['Comedy', 'Oldies', 'Romance', 'War']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-miracle-of-morgans-creek/"""

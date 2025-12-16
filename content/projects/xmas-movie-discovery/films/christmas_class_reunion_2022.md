@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """High school classmates, who once dubbed themselves the “cursed class,” reconnect at Christmas for their 15-year reunion. Over the course of their time reconnecting, the classmates challenge each other to remember who they were, who they are, and who they want to be."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-class-reunion/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.75
+average_rating = 2.74
 cast = ["""Aimee Teegarden""", """Tanner Novlan""", """Dejan Loyola""", """Maya Ford""", """Stephanie Bennett""", """Marshall Williams""", """Dylan Archambault""", """Yasmeen Kelders""", """Andy Thompson""", """Peter Graham-Gaudreau""", """Miriam Smith""", """Liam Howe""", """Madelyn Grace""", """Alex Roe"""]
 +++

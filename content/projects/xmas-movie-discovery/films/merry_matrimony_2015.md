@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Brie Traverston is up for partner at her firm if she can successfully coordinate a Christmas wedding reshoot and ignore all the feelings that come with working with the one-that-got-away Eddie Chapman and his possibly new girlfriend Isabella."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/merry-matrimony/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.86
+average_rating = 2.85
 cast = ["""Jessica Lowndes""", """Christopher Russell""", """Farrah Aviva""", """Jennifer Gibson""", """David Reale""", """Anthony Ulc"""]
 +++

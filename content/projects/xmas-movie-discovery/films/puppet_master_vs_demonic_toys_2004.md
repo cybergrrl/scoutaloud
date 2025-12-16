@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A group of toymakers seek to use Andre Toulon's formula, now in the hands of Toulon's great-nephew Robert, to give life to a line of killer toys that they plan to unleash on Christmas Eve."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'TV Movie', 'Comedy', 'Science Fiction']
+xmas_genres = ['Horror', 'Comedy', 'TV Movie', 'Science Fiction']
 
 [extra]
 film_url = """https://letterboxd.com/film/puppet-master-vs-demonic-toys/"""

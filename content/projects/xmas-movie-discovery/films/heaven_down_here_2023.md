@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.07
+average_rating = 3.06
 cast = ["""Krystal Joy Brown""", """Tina Lifford""", """Juan Riedinger""", """Richard Harmon""", """Phylicia Rashād""", """Kelcey Mawema""", """Carlo Fortin""", """Jace Fleming""", """Jorge Montesi""", """Isabel Birch""", """Jayden Oniah"""]
 +++

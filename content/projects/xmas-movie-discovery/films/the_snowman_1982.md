@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A young boy makes a snowman one Christmas Eve, which comes to life at midnight and takes him on a magical adventure to the North Pole to meet Santa Claus."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Adventure', 'Animation', 'Fantasy']
+xmas_genres = ['Family', 'Fantasy', 'Animation', 'Adventure']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-snowman/"""
@@ -15,6 +15,6 @@ runtime = 25
 countries = ["""UK"""]
 original_language = """No spoken language"""
 spoken_languages = ["""No spoken language"""]
-average_rating = 4.03
-cast = ["""Raymond Briggs""", """David Bowie""", """Bernard Cribbins""", """Mel Smith"""]
+average_rating = 4.04
+cast = ["""Raymond Briggs"""]
 +++

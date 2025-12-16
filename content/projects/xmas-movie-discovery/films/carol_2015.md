@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In 1950s New York, a department-store clerk who dreams of a better life falls for an older, married woman."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Romance', 'Drama']
+xmas_genres = ['Queer', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/carol-2015/"""

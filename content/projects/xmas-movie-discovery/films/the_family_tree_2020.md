@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An old Panamanian holiday tradition personified as a homeless man disrupts the life of a workaholic animal rescuer to show him the true meaning of love, friendship and family."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'International']
+xmas_genres = ['Global', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-family-tree-2020/"""

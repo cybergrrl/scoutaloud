@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Cynical bodyguard Jericho is hired by a man possessed by Satan, who is in search of his bride. When Jericho realizes what is happening, he must do everything he can to save the woman and the world."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Fantasy', 'Action']
+xmas_genres = ['Fantasy', 'Horror', 'Action']
 
 [extra]
 film_url = """https://letterboxd.com/film/end-of-days/"""

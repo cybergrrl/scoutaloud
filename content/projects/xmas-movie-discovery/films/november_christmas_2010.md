@@ -15,6 +15,6 @@ runtime = 96
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.24
+average_rating = 3.25
 cast = ["""Sam Elliott""", """John Corbett""", """Sarah Paulson""", """Karen Allen""", """Emily Alyn Lind""", """Elizabeth McLaughlin""", """Max Charles""", """Richard Fitzpatrick""", """Jeremy Akerman""", """Eric Keenleyside""", """Tegan Moss""", """Dawn McKelvie Cyr""", """Rhonda McLean""", """Glen Lefchak""", """Jennie Raymond""", """Joshua Rush"""]
 +++

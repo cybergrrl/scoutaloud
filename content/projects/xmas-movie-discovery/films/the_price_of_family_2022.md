@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Heartbroken that their children no longer want to spend time with them, two parents fake an inheritance to bring the family together for Christmas."""
 
 [taxonomies]
-xmas_genres = ['International', 'Comedy']
+xmas_genres = ['Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-price-of-family/"""

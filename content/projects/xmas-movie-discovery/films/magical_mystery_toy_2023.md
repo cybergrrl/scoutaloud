@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """PENNY, a struggling, aspiring magician, acquires a cheap trick that turns blank bills into real Ben Franklin's."""
 
 [taxonomies]
-xmas_genres = ['Mystery', 'Comedy', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'Mystery']
 
 [extra]
 film_url = """https://letterboxd.com/film/magical-mystery-toy/"""

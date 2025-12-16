@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The quirky and heart-warming story of Jess, who goes on the greatest first date of her life, but inadvertently ‘ghosts’ Ben when she tragically dies in a car accident on the way home. Stuck on Earth, with no idea how to ascend, Jess will need the help of her best friend Kara, the only person who can still see and hear her."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'TV Movie', 'Fantasy']
+xmas_genres = ['Fantasy', 'Queer', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/ghosting-the-spirit-of-christmas/"""
@@ -15,6 +15,6 @@ runtime = 87
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.59
+average_rating = 2.54
 cast = ["""Aisha Dee""", """Kimiko Glenn""", """Kendrick Sampson""", """Jazz Raycole""", """Missi Pyle""", """LisaGay Hamilton"""]
 +++

@@ -15,6 +15,6 @@ runtime = 23
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.02
+average_rating = 2.99
 cast = ["""G. Brian Reynolds""", """Brett Sears""", """Rachel Rutledge""", """Will Gould""", """Russ Harris"""]
 +++

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The Colucci siblings, in an effort to jog the memory of their grandfather who is struggling with dementia, set out to recreate their late grandmother’s legendary pasta sauce."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/our-italian-christmas-memories/"""

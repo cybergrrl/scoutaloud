@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The movie tells a story of whimsical and beautiful experiences that a woman goes through after she has changed an antique store into a café for her business."""
 
 [taxonomies]
-xmas_genres = ['International', 'Drama', 'Fantasy']
+xmas_genres = ['Fantasy', 'Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/woojoos-christmas-2016/"""

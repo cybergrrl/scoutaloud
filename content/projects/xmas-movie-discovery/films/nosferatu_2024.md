@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Fantasy']
+xmas_genres = ['Fantasy', 'Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/nosferatu-2024/"""

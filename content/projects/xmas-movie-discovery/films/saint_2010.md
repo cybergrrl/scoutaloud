@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A horror film that depicts St. Nicholas as a murderous bishop who kidnaps and murders children when there is a full moon on December 5."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Comedy']
+xmas_genres = ['Horror', 'Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/saint/"""
@@ -15,6 +15,6 @@ runtime = 85
 countries = ["""Netherlands"""]
 original_language = """Dutch"""
 spoken_languages = ["""Dutch""", """German"""]
-average_rating = 2.69
+average_rating = 2.68
 cast = ["""Huub Stapel""", """Egbert Jan Weeber""", """Caro Lenssen""", """Bert Luppes""", """Escha Tanihatu""", """Jim Deddes""", """Joey van der Velden""", """Barbara Sarafian""", """Jaap Spijkers""", """Ben Ramakers""", """Kees Boot""", """Bob Schwarze""", """Lien Van De Kelder""", """Julian Maas""", """Cynthia Abma""", """Madelief Blanken""", """Peter Bolhuis""", """Casper Gimbrère""", """Geert Lageveen""", """Kuno Bakker""", """Steye van Dam""", """Frederik Brom""", """Sjoerd Dragtsma""", """Jörgen Scholtens""", """Bob Stoop""", """Job Raaijmakers""", """Pieter van der Sman""", """René van Asten""", """Fred Goessens""", """Hein van der Heijden""", """Huug van Tienhoven"""]
 +++

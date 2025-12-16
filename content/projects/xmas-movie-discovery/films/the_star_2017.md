@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A small but brave donkey and his animal friends become the unsung heroes of the greatest story ever told: the first Christmas."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'Comedy', 'Family', 'Animation', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'Adventure', 'Family', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-star-2017/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Five O. Henry stories, each separate. The primary one from the critics' acclaim was "The Cop and the Anthem". Soapy tells fellow bum Horace that he is going to get arrested so he can spend the winter in a nice jail cell. He fails. He can't even accost a woman; she turns out to be a streetwalker. The other stories are "The Clarion Call", "The Last Leaf", "The Ransom of Red Chief", and "The Gift of the Magi"."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/o-henrys-full-house/"""

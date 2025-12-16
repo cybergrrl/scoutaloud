@@ -15,6 +15,6 @@ runtime = 85
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.88
+average_rating = 2.87
 cast = ["""David Blue""", """Jax Connolly""", """Ashley Jones""", """Preston James Hillier""", """Paul Boesing""", """Melanie Recker""", """Scott Crouse""", """Linda Cutts""", """Mary Husar""", """Tricia Nangkal""", """Meagan Flynn""", """Walter Coppage""", """Heidi Melcher""", """Delaney Driscoll""", """Madeline Peters""", """Brooklyn Funk""", """Dan Bauer""", """Laura Carlson-Lum""", """Lance Holloway"""]
 +++

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After a comet wipes out most of life on Earth, two Valley Girls find themselves fighting against cannibal zombies and a sinister group of scientists."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Science Fiction', 'Comedy']
+xmas_genres = ['Horror', 'Comedy', 'Science Fiction']
 
 [extra]
 film_url = """https://letterboxd.com/film/night-of-the-comet/"""

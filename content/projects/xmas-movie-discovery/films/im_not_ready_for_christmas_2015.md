@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Holly finds her world turned upside-down when she suddenly finds herself incapable of lying. (Don’t you hate when that happens?) It’s because of a wish her niece made to Santa Claus. And now, with Christmas coming up fast, she has to come to terms with her natural penchant to want to fib while trying to do the right thing. And that’s no lie."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Family', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Family', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/im-not-ready-for-christmas/"""

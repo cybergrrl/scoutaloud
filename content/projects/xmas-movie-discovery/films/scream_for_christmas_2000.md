@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A Christmas party is interrupted by a violent psychopath in a Santa suit, a maniac with the powers of the Grim Reaper, a killer cheerleader, and a demonic ghost. There is no hope for them, watch as they DIE."""
 
 [taxonomies]
-xmas_genres = []
+xmas_genres = ['Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/scream-for-christmas/"""

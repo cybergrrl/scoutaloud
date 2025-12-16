@@ -15,6 +15,6 @@ runtime = 80
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.17
+average_rating = 2.14
 cast = ["""Amelia Brantley""", """Bryson Holl""", """Caroline Lassetter""", """Taylor Buckley""", """Tim Sauer""", """Emily Lynne Aiken"""]
 +++

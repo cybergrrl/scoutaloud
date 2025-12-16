@@ -15,6 +15,6 @@ runtime = 104
 countries = ["""USA""", """Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.8
+average_rating = 2.81
 cast = ["""Tim Allen""", """Judge Reinhold""", """Wendy Crewson""", """Elizabeth Mitchell""", """David Krumholtz""", """Eric Lloyd""", """Spencer Breslin""", """Liliana Mumy""", """Danielle Woodman""", """Art LaFleur""", """Aisha Tyler""", """Kevin Pollak""", """Jay Thomas""", """Michael Dorn""", """Christopher Attadia""", """Curtis Butchart""", """Jamal Allen""", """Alexander Pollock""", """Bryce Hodgson""", """Molly Shannon""", """Carmen Aguirre""", """Leanne Adachi""", """Blu Mankuma""", """Andrew Stone""", """Kenya Jo Kennedy""", """Janne Mortil""", """Alexandra Purvis""", """Fred Keating""", """Fred Ewanuick""", """Dan Joffre""", """J. B. Bivens""", """Alexander Hoy""", """Bart Anderson""", """Beverley Elliott""", """D. Neil Mark""", """Ted Cole""", """Nicole Leroux""", """Beatrice Zeilinger""", """Michael P. Northey""", """Alejandro Abellan""", """June B. Wilde""", """Charles Payne""", """Gary Jones""", """Victor Brandt""", """Kath Soucie""", """Bob Bergen""", """Peter Boyle""", """Nicola Anderson""", """Caroline Chan""", """Connor Matheus""", """Myles Jeffrey""", """Patrick Dorn""", """Valerie Tian""", """Anysha Berthot""", """Vinicius Zorin-Machado""", """Frank Meschkuleit"""]
 +++

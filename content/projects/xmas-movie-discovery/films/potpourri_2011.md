@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A group of students at a liberal arts college in Minneapolis are faced with expulsion if their final papers in philosophy class are not satisfactory."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'Horror', 'Comedy', 'Mystery', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'Horror', 'Adventure', 'Mystery']
 
 [extra]
 film_url = """https://letterboxd.com/film/potpourri/"""

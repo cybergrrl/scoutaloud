@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """This year Christmas with the Whitfields promises to be one they will never forget. All the siblings have come home for the first time in years and they've brought plenty of baggage with them. As the Christmas tree is trimmed and the lights are hung, secrets are revealed and family bonds are tested. As their lives converge, they join together and help each other discover the true meaning of family."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/this-christmas/"""

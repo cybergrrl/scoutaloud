@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An alcoholic, abusive ne'er-do-well is shown the error of his ways through a legend that dooms the last person to die on New Year's Eve before the clock strikes twelve to take the reins of Death's chariot and work tirelessly collecting fresh souls for the next year."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Drama', 'Fantasy']
+xmas_genres = ['Fantasy', 'Horror', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-phantom-carriage/"""

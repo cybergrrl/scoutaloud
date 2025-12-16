@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """The Whitmore family's cozy home life is disrupted one dark evening by a group of bizarre characters seemingly acting under the spell of their leader. This brutal gang takes possession of their home and forces each family member to take part in eerie rituals designed to feed the leader's apparent death wish."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Thriller', 'Comedy']
+xmas_genres = ['Horror', 'Comedy', 'Thriller']
 
 [extra]
 film_url = """https://letterboxd.com/film/night-visitors-1987/"""

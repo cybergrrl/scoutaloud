@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """During the Seaside Noel celebrations, Christin learns of a developer who is planning to tear down the wharf that is home to her toy store. Tensions rise as she falls for the developer's son, Andy."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/nantucket-noel/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.68
+average_rating = 2.67
 cast = ["""Sarah Power""", """Trevor Donovan""", """Payton Lepinski""", """Daniel Bacon""", """Fiona Vroom""", """Candice Hunter""", """Bruce Dawson""", """Heather-Claire Nortey""", """Ava Kelders""", """Sophia Johnson""", """Dan Quinn""", """Piper Dacosta""", """Kharytia Bilash"""]
 +++

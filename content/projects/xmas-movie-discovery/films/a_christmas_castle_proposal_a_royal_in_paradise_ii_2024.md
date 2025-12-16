@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Despite busy schedules causing distance, Olivia and Prince Alexander travel to Torovia for Christmas with his family. Clashing cultures between their families lead to various mishaps."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-castle-proposal-a-royal-in-paradise/"""

@@ -8,7 +8,7 @@ xmas_genres = ['Queer', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/meet-me-outside-2020/"""
-tmdb_poster_path = """None"""
+tmdb_poster_path = """/xFPRBwV6ugam5259xBeRj7YIBak.jpg"""
 year = 2020
 director = """JP Habac"""
 runtime = 60

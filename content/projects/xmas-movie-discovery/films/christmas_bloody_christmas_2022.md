@@ -15,6 +15,6 @@ runtime = 87
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.66
+average_rating = 2.65
 cast = ["""Riley Dandy""", """Sam Delich""", """Jonah Ray Rodrigues""", """Dora Madison""", """Jeff Daniel Phillips""", """Abraham Benrubi""", """Jeremy Gardner""", """Kansas Bowling""", """Graham Skipper""", """Joe Begos""", """Josh Ethier""", """Matt Mercer"""]
 +++

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over."""
 
 [taxonomies]
-xmas_genres = ['Comedy', 'Romance', 'Drama', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/groundhog-day/"""

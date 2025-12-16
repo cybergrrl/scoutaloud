@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """None"""
 
 [taxonomies]
-xmas_genres = ['International', 'TV Movie', 'Comedy']
+xmas_genres = ['Comedy', 'TV Movie', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/an-unremarkable-christmas/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Youthful Father Chuck O'Malley led a colorful life of sports, song, and romance before joining the Roman Catholic clergy. After being appointed to a run-down New York parish, O'Malley's worldly knowledge helps him connect with a gang of boys looking for direction, eventually winning over the aging, conventional Parish priest."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Oldies', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Music', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/going-my-way/"""

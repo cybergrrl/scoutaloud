@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Convinced that Santa Claus exists, one little boy asks him for the greatest Christmas gift of all: a father."""
 
 [taxonomies]
-xmas_genres = ['Family', 'International', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Global']
 
 [extra]
 film_url = """https://letterboxd.com/film/my-very-own-santa-claus/"""

@@ -15,6 +15,6 @@ runtime = 86
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.44
+average_rating = 2.41
 cast = ["""Helene Udy""", """Brinke Stevens""", """Kaylee Williams""", """Billy Brannigan""", """Melissa Heflin""", """Alexandra Brents""", """Ryan Poole""", """Jace Greenwood""", """Daiane Azura""", """Jantel Hope""", """Hailey Strader""", """Heather Bounds""", """Ronni Lea""", """Drew Shotwell""", """Minela Sljoka""", """Lawrence McKinney""", """Brooke Dwyer""", """Bradley William Smith""", """Johann Yollie Conway Jr.""", """Brandy Specks"""]
 +++

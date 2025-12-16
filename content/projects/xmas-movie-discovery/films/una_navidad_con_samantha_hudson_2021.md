@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A Christmas tale and musical that proposes to open the doors to the underground and local drag, shaking hands with emerging talent and serving as a platform for young artists."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Queer', 'Comedy']
+xmas_genres = ['Comedy', 'Music']
 
 [extra]
 film_url = """https://letterboxd.com/film/una-navidad-con-samantha-hudson/"""

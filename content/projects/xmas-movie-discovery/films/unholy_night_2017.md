@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.84
+average_rating = 2.83
 cast = ["""Jennifer Allanson""", """Jim McDonald""", """Brad Abramenko""", """Emily Shanley"""]
 +++

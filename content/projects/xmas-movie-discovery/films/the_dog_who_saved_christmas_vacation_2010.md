@@ -15,6 +15,6 @@ runtime = 89
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.73
+average_rating = 2.72
 cast = ["""Mario López""", """Dean Cain""", """Paris Hilton""", """Gary Valentine""", """Elisa Donovan""", """Brennan Bailey""", """Kayley Stallings""", """Michael William Arnold""", """Casper Van Dien""", """Joey Diaz""", """Matt Berger""", """Mindy Sterling""", """Carlson Young""", """David O'Donnell""", """Coley Feifer""", """Barry Barnholtz""", """Jeffrey Schenck""", """Ryan Whaley""", """Catherine Oxenberg"""]
 +++

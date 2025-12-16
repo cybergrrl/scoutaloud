@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """To escape a scandal, a bestselling author journeys to Scotland, where she falls in love with a castle -- and faces off with the grumpy duke who owns it."""
 
 [taxonomies]
-xmas_genres = ['Adventure', 'Royal Christmas', 'Comedy']
+xmas_genres = ['Comedy', 'Adventure', 'Royal Christmas']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-castle-for-christmas/"""

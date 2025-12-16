@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When pop star Darcy returns home to spend Christmas with her sister and niece, she unexpectedly finds herself coaching the high school choir with her onetime rival, Adam."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Drama', 'Hallmark']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/in-merry-measure/"""

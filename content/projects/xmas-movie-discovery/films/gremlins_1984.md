@@ -15,6 +15,6 @@ runtime = 106
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English""", """Spanish"""]
-average_rating = 3.63
+average_rating = 3.64
 cast = ["""Zach Galligan""", """Phoebe Cates""", """Hoyt Axton""", """Frances Lee McCain""", """Corey Feldman""", """Keye Luke""", """John Louie""", """Dick Miller""", """Jackie Joseph""", """Polly Holliday""", """Judge Reinhold""", """Edward Andrews""", """Belinda Balaski""", """Scott Brady""", """Susan Burgess""", """Harry Carey, Jr.""", """Donald Elson""", """Jonathan Banks""", """Glynn Turman""", """Chuck Jones""", """Arnie Moore""", """Danny Llewelyn""", """Lois Foraker""", """Kenny Davis""", """Nicky Katt""", """Tracy Wells""", """John C. Becher""", """Gwen Willson""", """Joe Brooks""", """Jim McKrell""", """Frank Welker""", """Howie Mandel""", """Fred Newman""", """Mark Dodson""", """Michael Winslow""", """Peter Cullen""", """Bob Bergen""", """Michael Sheehan""", """Bob Holt""", """Don Steele""", """Jerry Goldsmith""", """Steven Spielberg""", """Paul Acerno""", """Tom Bergeron""", """Bob Harks""", """Brad Kesten""", """Marvin Miller""", """Dean Rader Duval""", """William Schallert""", """Kenneth Tobey""", """Kevin McCarthy"""]
 +++

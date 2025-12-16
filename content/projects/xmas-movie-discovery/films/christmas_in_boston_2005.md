@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Gina and Seth have been pen pals for 13 years and now will have the chance to meet. Both used their best friends pictures to send to each other and now will let their friends meet. True love is found in the end for all."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'TV Movie', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Drama', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-in-boston/"""

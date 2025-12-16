@@ -15,6 +15,6 @@ runtime = 49
 countries = ["""USA""", """Japan"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.38
+average_rating = 2.37
 cast = ["""Danny Thomas""", """Marlo Thomas""", """Roddy McDowall""", """Hans Conried""", """Paul Frees""", """Ed Ames""", """Abbe Lane"""]
 +++

@@ -4,13 +4,13 @@ template = "xmas-movie-page.html"
 description = """An anthology feature film that puts a uniquely dark and original spin on some of the most iconic and beloved holidays of all time by challenging our folklore, traditions and assumptions."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Mystery', 'Comedy', 'Fantasy']
+xmas_genres = ['Horror', 'Comedy', 'Mystery', 'Fantasy']
 
 [extra]
 film_url = """https://letterboxd.com/film/holidays-2016/"""
 tmdb_poster_path = """/5FXtPtetZaB0giJEqC6mOLBr15A.jpg"""
 year = 2016
-director = """Anthony Scott Burns, Kevin Kölsch et al"""
+director = """Anthony Scott Burns, Nicholas McCarthy et al"""
 runtime = 105
 countries = ["""USA"""]
 original_language = """English"""

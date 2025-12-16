@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Dawn Davenport progresses from a teenage nightmare hell-bent on getting cha-cha heels for Christmas to a fame monster whose egomaniacal impulses land her in the electric chair."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Crime', 'Comedy']
+xmas_genres = ['Queer', 'Comedy', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/female-trouble/"""

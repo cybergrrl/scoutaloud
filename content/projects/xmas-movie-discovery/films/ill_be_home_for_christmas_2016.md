@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.61
+average_rating = 2.6
 cast = ["""James Brolin""", """Mena Suvari""", """Giselle Eisenberg""", """John Reardon""", """Jacob Blair""", """Melissa Bolona""", """Laura Miyata""", """Dale Whibley""", """Angela Asher""", """Angelica Lisk-Hann""", """Daniel Kash"""]
 +++

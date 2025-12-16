@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A woman and a soldier exchange letters for a year before their worlds collide."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/holiday-for-heroes/"""

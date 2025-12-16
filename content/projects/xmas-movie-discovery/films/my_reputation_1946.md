@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Tongues begin to wag when a lonely widow becomes romantically involved with a military man. Problems arise when the gossip is filtered down to her own children."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama']
+xmas_genres = ['Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/my-reputation/"""

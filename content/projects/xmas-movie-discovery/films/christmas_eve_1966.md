@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A man's surreal search for a woman named Eva on Christmas Eve."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'International']
+xmas_genres = ['Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-eve-1966/"""

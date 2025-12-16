@@ -15,6 +15,6 @@ runtime = 86
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.39
+average_rating = 2.38
 cast = ["""Christopher Allport""", """Shannon Elizabeth""", """Stephen Mendel""", """F. William Parker""", """Brian Leckner""", """Scott MacDonald""", """Kelly Jean Peters""", """Rob LaBelle""", """Eileen Seeley""", """Zack Eginton""", """Jack Lindine""", """Marsha Clark""", """Chip Heller""", """Darren Campbell""", """Paul Keith""", """Charles C. Stevenson Jr.""", """Nathanyael Grey""", """Todd Conner""", """Richard Whiten""", """Harley Zumbrum""", """Kurt Bryant""", """Brett Boydstun"""]
 +++

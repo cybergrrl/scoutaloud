@@ -15,6 +15,6 @@ runtime = 88
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.95
+average_rating = 2.93
 cast = ["""Jennifer Love Hewitt""", """Brian Hallisay""", """Greg Grunberg""", """Debra Christofferson""", """Joseph C. Phillips""", """Rico Aragon""", """Lynn Andrews""", """Sarah Adina""", """Ashley Cole""", """Atticus Hallisay""", """Kimberley Kim""", """Kristin Chenoweth""", """Andrea Biklian""", """Brooke Weirick"""]
 +++

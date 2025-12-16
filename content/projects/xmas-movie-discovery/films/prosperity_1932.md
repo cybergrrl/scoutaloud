@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Longtime friends become feuding mothers-in-law when their children marry."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/prosperity/"""

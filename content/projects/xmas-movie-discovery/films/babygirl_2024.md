@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A high-powered CEO puts her career and family on the line when she begins a torrid affair with her much younger intern."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama']
+xmas_genres = ['Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/babygirl-2024/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A Swiss hotel ski instructor falls in love with a man who goes skiing every morning."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Oldies', 'Romance', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Music', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/thin-ice/"""

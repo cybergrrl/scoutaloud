@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Cheryl visits the Christmas carnival in her hometown, she gets a second chance in life when she is transported to Christmas five years in the past."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Romance', 'Hallmark', 'Fantasy']
+xmas_genres = ['Fantasy', 'Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-comes-twice-2020/"""
@@ -15,6 +15,6 @@ runtime = 80
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.97
+average_rating = 2.95
 cast = ["""Tamera Mowry-Housley""", """Michael Xavier""", """Brendon Zub""", """Sheryl Lee Ralph""", """Zarrin Darnell-Martin""", """Benjamin Wilkinson""", """Lanie McAuley""", """P. Lynn Johnson""", """Bobby Stewart""", """Deborah Finkel""", """Novah Lynn Foley""", """Jamall Johnson""", """Josh Zaharia""", """Mat Lo""", """Amy Waugh""", """Bobby Magee""", """Brandy Le"""]
 +++

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A wealthy landowner uncovers a bronze statue of Venus on his property. He asks an antique expert to examine the statue and confirm its wealth. Upon arrival, the expert is striken with love by the landowner’s daughter-in-law who bears an uncanny resemblance to the statue."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'TV Movie', 'Drama', 'International']
+xmas_genres = ['Horror', 'TV Movie', 'Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-venus-of-ille/"""
@@ -15,6 +15,6 @@ runtime = 60
 countries = ["""Italy"""]
 original_language = """Italian"""
 spoken_languages = ["""Italian"""]
-average_rating = 3.26
+average_rating = 3.27
 cast = ["""Daria Nicolodi""", """Marc Porel""", """Fausto Di Bella""", """Adriana Innocenti""", """Diana De Curtis""", """Francesco Di Frederico""", """Mario Maranzana""", """Fabrizio Bava""", """Massimo Pittarello""", """Franca Scagnetti"""]
 +++

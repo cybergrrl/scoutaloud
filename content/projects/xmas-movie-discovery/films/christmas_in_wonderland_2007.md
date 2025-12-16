@@ -15,6 +15,6 @@ runtime = 95
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.68
+average_rating = 2.67
 cast = ["""Patrick Swayze""", """Matthew Knight""", """Amy Schlagel""", """Tim Curry""", """Carmen Electra""", """Chris Kattan""", """Preston Lacy""", """Cameron Bright""", """Matthew Walker""", """MacKenzie Porter""", """Rachel Hayward"""]
 +++

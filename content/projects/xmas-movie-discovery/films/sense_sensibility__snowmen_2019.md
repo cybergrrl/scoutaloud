@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Christmas enthusiast party planners Ella and her sister, Marianne, clash with their client, Edward, who is a not-so-jolly toy company CEO."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/sense-sensibility-snowmen/"""
@@ -15,6 +15,6 @@ runtime = 80
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English""", """French"""]
-average_rating = 2.78
+average_rating = 2.77
 cast = ["""Erin Krakow""", """Luke Macfarlane""", """Kimberley Sustad""", """Jason McKinnon"""]
 +++

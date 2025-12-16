@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Ricky wants to give his crush Nicole a Christmas gift, but when he does she angrily rejects it as "cheap." She later regrets her mistake and decides to find it."""
 
 [taxonomies]
-xmas_genres = ['Family', 'TV Movie', 'Animation', 'Music']
+xmas_genres = ['Family', 'TV Movie', 'Music', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-rapsittie-street-kids-believe-in-santa/"""
@@ -15,6 +15,6 @@ runtime = 42
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 1.76
-cast = ["""Jack Angel""", """Jodi Benson""", """Nancy Cartwright""", """Grey DeLisle-Griffin""", """Eddie Driscoll""", """Sarina C. Grant""", """Mark Hamill""", """Clint Howard""", """J. R. Horsting""", """Walter Jones""", """Robert Machray""", """Andi Matheny""", """Paige O'Hara""", """Sherry Weston""", """Debra Wilson""", """April Winchell"""]
+average_rating = 1.75
+cast = ["""Jack Angel""", """Jodi Benson""", """Nancy Cartwright""", """Grey DeLisle""", """Eddie Driscoll""", """Sarina C. Grant""", """Mark Hamill""", """Clint Howard""", """J. R. Horsting""", """Walter Jones""", """Robert Machray""", """Andi Matheny""", """Paige O'Hara""", """Sherry Weston""", """Debra Wilson""", """April Winchell"""]
 +++

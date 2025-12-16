@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Brooke’s boyfriend, Ethan, breaks up with her just before the holidays, she agrees to go home with Joel, an actor who will pose as her boyfriend."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/holiday-date/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.64
+average_rating = 2.61
 cast = ["""Brittany Bristow""", """Matt Cohen""", """Ava Grace Cooper""", """Peter Benson""", """Kristina Lao""", """Teryl Rothery""", """Bruce Boxleitner""", """Anna Van Hooft""", """Edward Ruttle""", """Shannon Chan-Kent""", """Matty Finochio""", """Edwin Perez""", """Christine Chatelain""", """Ken Tremblett""", """Seth Friesen""", """Natalie Moon""", """April Telek""", """Dee Jay Jackson""", """Heather-Claire Nortey"""]
 +++

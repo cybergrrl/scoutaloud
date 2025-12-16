@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.88
+average_rating = 2.87
 cast = ["""Nikki DeLoach""", """Mike Faiola""", """Eileen Pedde""", """Andrew Airlie""", """Lisa Durupt""", """Noel Johansen""", """Tim Bissett""", """Trish Allen""", """Candus Churchill""", """Glynis Davies"""]
 +++

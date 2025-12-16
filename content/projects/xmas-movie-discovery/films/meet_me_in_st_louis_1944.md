@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A year in the life of a turn-of-the-century middle class family, leading up to the opening of the 1904 St. Louis World's Fair."""
 
 [taxonomies]
-xmas_genres = ['Musical', 'Comedy', 'Family', 'Oldies', 'Romance', 'Drama']
+xmas_genres = ['Oldies', 'Comedy', 'Musical', 'Family', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/meet-me-in-st-louis/"""

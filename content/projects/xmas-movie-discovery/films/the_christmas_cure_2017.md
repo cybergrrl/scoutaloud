@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A doctor returns home for Christmas to find that her father has decided to retire from his own practice. After reuniting with her high school sweetheart, she wonders if she should stay and take over her father's practice."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-cure/"""
@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.91
+average_rating = 2.9
 cast = ["""Brooke Nevin""", """Steve Byers""", """Patrick Duffy""", """Kathleen Laskey""", """Dale Whibley""", """Jocelyn Hudon""", """Charlie Boyle""", """Vanessa Burns""", """Conrad Coates""", """Adrian Groulx""", """Pam Hyatt""", """Susie McLean""", """Jodie Dowdall""", """Avery Glover""", """Jacob Soley""", """Toby Proctor""", """Samantha Espie"""]
 +++

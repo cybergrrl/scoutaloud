@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """World-traveler Harper returns to Memphis and meets wealthy widower Owen who hires her to au pair for the holidays. As they prepare for a joint event at Graceland, their feelings grow for each other. Harper realizes she enjoys living near family and must decide if Memphis will be her forever home."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-at-graceland-home-for-the-holidays/"""
@@ -15,6 +15,6 @@ runtime = 80
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.87
+average_rating = 2.86
 cast = ["""Adrian Grenier""", """Kaitlin Doubleday""", """Sunny Mabrey""", """Lori Beth Sikes""", """Alan Wells""", """Anniston Almond""", """Sejal Mehta""", """Chase Bryant""", """Priscilla Presley""", """Victoria Paige Watkins"""]
 +++

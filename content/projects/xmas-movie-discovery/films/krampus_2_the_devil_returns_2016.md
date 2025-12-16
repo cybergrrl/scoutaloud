@@ -15,6 +15,6 @@ runtime = 83
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 1.97
+average_rating = 1.94
 cast = ["""Shawn C. Phillips""", """Melantha Blackthorne""", """R.A. Mihailoff""", """Tiffani Fest""", """Jason Hull""", """A.J. Leslie""", """Darren Barcomb""", """Michael Mili""", """Richard Goteri""", """Robbie Barnes""", """Paul Ferm""", """Darin Foltz""", """Ben Berlin""", """Johnny Stevenson""", """Max Nicolussi""", """Bill Kennedy""", """Jenniffer Marie""", """Arturo Rivera Jr.""", """Tyler Gilbert""", """Kenzo""", """Issac Genest""", """Jamie Loehrke""", """Joe Criscione""", """Daniel James"""]
 +++

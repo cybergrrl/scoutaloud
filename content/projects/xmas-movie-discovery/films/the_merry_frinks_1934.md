@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An heiress abandons an out-of-work husband, two sons and a lovesick daughter."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-merry-frinks/"""

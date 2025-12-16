@@ -15,6 +15,6 @@ runtime = 105
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.11
+average_rating = 3.12
 cast = ["""Robert Montgomery""", """Audrey Totter""", """Lloyd Nolan""", """Tom Tully""", """Leon Ames""", """Jayne Meadows""", """Dick Simmons""", """Morris Ankrum""", """Lila Leeds""", """William Roberts""", """Kathleen Lockhart""", """Ellay Mort""", """Ellen Ross""", """Eddie Acuff""", """Charles Bradstreet""", """David Cavendish""", """Wheaton Chambers""", """Roger Cole""", """Frank Dae""", """Jack Davis""", """John Webb Dillion""", """Ralph Dunn""", """Budd Fine""", """John Gallaudet""", """Nina Garson""", """Sherry Hall""", """Cy Kendall""", """Ann Lawrence""", """George Magrill""", """Bert Moorhouse""", """Sandra Morgan""", """Thomas Murray""", """William Newell""", """James Nolan""", """William O'Leary""", """Frank Orth""", """William McKeever Riley""", """Fred Santley""", """Fred Sherman""", """Florence Stephens""", """George Travell""", """Laura Treadwell""", """Kay Wiley""", """Robert B. Williams"""]
 +++

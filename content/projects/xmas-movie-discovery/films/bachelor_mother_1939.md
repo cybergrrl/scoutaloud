@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Polly Parrish, a clerk at Merlin's Department Store, is mistakenly presumed to be the mother of a foundling. Outraged at Polly's unmotherly conduct, David Merlin becomes determined to keep the single woman and "her" baby together."""
 
 [taxonomies]
-xmas_genres = ['Oldies', 'Romance', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/bachelor-mother/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Documentary on the cult Christmas horror classic Silent Night, Deadly Night."""
 
 [taxonomies]
-xmas_genres = []
+xmas_genres = ['Horror']
 
 [extra]
 film_url = """https://letterboxd.com/film/slay-bells-ring-the-story-of-silent-night-deadly-night/"""

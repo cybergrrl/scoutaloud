@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """New York comedian Alvy Singer falls in love with the ditsy Annie Hall."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/annie-hall/"""

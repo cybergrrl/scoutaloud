@@ -15,6 +15,6 @@ runtime = 88
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.35
+average_rating = 3.36
 cast = ["""Joe Spinell""", """Caroline Munro""", """Abigail Clayton""", """Nelia Bacmeister""", """Denise Spagnuolo""", """Billy Spagnuolo""", """Kelly Piper""", """Sharon Mitchell""", """Rita Montone""", """Hyla Marrow""", """Tom Savini""", """Linda Lee Walter""", """James Brewster""", """Tracie Evans""", """Carol Henry""", """Louis Jawitz""", """Candace Clements""", """Diane Spagnuolo""", """Kim Hudson""", """Terry Gagnon""", """Joan Baldwin""", """Jeni Paz""", """Janelle Winston""", """Randy Jurgensen""", """Jimmy Aurichio""", """Frank Pesce""", """Andrew W. Garroni""", """Taso N. Stavrakis""", """William Lustig"""]
 +++

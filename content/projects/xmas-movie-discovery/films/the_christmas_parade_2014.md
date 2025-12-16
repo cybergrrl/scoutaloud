@@ -15,6 +15,6 @@ runtime = 83
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.83
+average_rating = 2.82
 cast = ["""AnnaLynne McCord""", """Jefferson Brown""", """Drew Scott""", """Jennifer Gibson""", """Christian Martyn""", """Katherine Forrester""", """Jack Fulton""", """Devon Soltendieck"""]
 +++

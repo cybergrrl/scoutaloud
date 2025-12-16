@@ -15,6 +15,6 @@ runtime = 26
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.73
+average_rating = 2.72
 cast = ["""Ray Romano""", """John Leguizamo""", """Queen Latifah""", """Denis Leary""", """Seann William Scott""", """Josh Peck""", """Billy Gardell""", """Ciara Bravo""", """T.J. Miller""", """Judah Friedlander""", """Chris Wedge"""]
 +++

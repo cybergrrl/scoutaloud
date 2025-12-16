@@ -15,6 +15,6 @@ runtime = 65
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.41
+average_rating = 3.42
 cast = ["""Jim Cummings""", """Peter Cullen""", """John Fiedler""", """Ken Sansom""", """Kath Soucie""", """William Green""", """Nikita Hopkins""", """Michael York""", """Paul Winchell""", """Michael Gough"""]
 +++

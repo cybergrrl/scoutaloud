@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Andy Williams celebrates the holidays with his entire family, including his siblings, The Williams Brothers, and his wife, singer Claudine Longet. The Osmond Brothers are also along to add some festive cheer."""
 
 [taxonomies]
-xmas_genres = ['Music', 'TV Movie']
+xmas_genres = ['TV Movie', 'Music']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-andy-williams-christmas-show-1966/"""

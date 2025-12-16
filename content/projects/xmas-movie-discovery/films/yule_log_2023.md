@@ -15,6 +15,6 @@ runtime = 71
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.9
+average_rating = 2.87
 cast = ["""Jeff Kirkendall""", """Michael Korotitsch""", """Tim Hatch""", """Jamie Morgan""", """Erica Dyer""", """Jeffrey Hylton""", """Rudy Ledbetter""", """Bill Dawson""", """Shawn Ness""", """Rachelle Williams""", """Lena Harper"""]
 +++

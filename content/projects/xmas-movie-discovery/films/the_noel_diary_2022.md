@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Cleaning out his childhood home at Christmas, a novelist meets a woman searching for her birth mother. Will an old diary unlock their pasts — and hearts?"""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-noel-diary/"""

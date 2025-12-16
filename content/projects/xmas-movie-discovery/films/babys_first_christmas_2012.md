@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When a pair of feuding colleagues, Kyle and Jenna are thrown together after their siblings, Jim and Trisha fall in love, they have to learn to get along in time for their nephew's birth on Christmas. Realizing Jim and Trisha have major money troubles, Kyle and Jenna band together to help and end up on a snowy New York adventure that will prove miracles really do happen at Christmas."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'Drama', 'TV Movie']
+xmas_genres = ['Drama', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/babys-first-christmas/"""

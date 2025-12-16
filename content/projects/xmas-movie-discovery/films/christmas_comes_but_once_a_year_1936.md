@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """At an orphanage, the children are sad because they received used defective toys as gifts. Professor Grampy sees the children while passing by in his sled and has an idea on how to give them a merry Christmas."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Animation', 'Comedy', 'Music']
+xmas_genres = ['Family', 'Comedy', 'Music', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-comes-but-once-a-year/"""
@@ -15,6 +15,6 @@ runtime = 9
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.55
+average_rating = 3.54
 cast = ["""Jack Mercer""", """Mae Questel""", """Everett Clark"""]
 +++

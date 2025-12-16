@@ -15,6 +15,6 @@ runtime = 85
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.91
+average_rating = 2.9
 cast = ["""Peter Porte""", """Juan Pablo Di Pace""", """Andie MacDowell""", """Caroline Harris""", """Carlos Sanz""", """Katherine Bailess""", """Nate Bynum""", """K. Danor Gerald""", """Phuong Kubacki""", """Erik Merono""", """Charlie Stover""", """Yolanda Stange""", """Evelyn Yergensen""", """Brando White"""]
 +++

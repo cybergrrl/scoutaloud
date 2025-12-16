@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A big-city veterinarian falls for a small-town doctor when he sets out to recreate a New York City Christmas in her Vermont hometown."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Comedy', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-furry-little-christmas/"""
@@ -15,6 +15,6 @@ runtime = 83
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.82
+average_rating = 2.79
 cast = ["""Kristi Murdock""", """Jonathan Stoddard""", """Teeshay Shah""", """Michael Swan""", """Pono Say""", """Amie Dasher""", """Steven L. Warner""", """Theresa Lang"""]
 +++

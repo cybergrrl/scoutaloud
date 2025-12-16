@@ -15,6 +15,6 @@ runtime = 23
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.49
+average_rating = 3.5
 cast = ["""Tom Kenny""", """Bill Fagerbakke""", """Rodger Bumpass""", """Clancy Brown""", """Carolyn Lawrence""", """Mr. Lawrence""", """Jill Talley""", """Lori Alan""", """Paul Tibbitt""", """John Goodman"""]
 +++

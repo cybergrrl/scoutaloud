@@ -15,6 +15,6 @@ runtime = 106
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.51
+average_rating = 3.52
 cast = ["""Zach Galligan""", """Phoebe Cates""", """John Glover""", """Robert Prosky""", """Robert Picardo""", """Christopher Lee""", """Haviland Morris""", """Dick Miller""", """Jackie Joseph""", """Gedde Watanabe""", """Keye Luke""", """Kathleen Freeman""", """Don Stanton""", """Dan Stanton""", """Shawn Nelson""", """John Astin""", """Henry Gibson""", """Rick Ducommun""", """Julia Sweeney""", """Raymond Cruz""", """John Capodice""", """Isiah Whitlock, Jr.""", """Dean Norris""", """Saachiko""", """May Quigley""", """Tony Winters""", """Jacque Lynn Colton""", """Stéphanie Menuez""", """Gray Daniels""", """Dale Swann""", """Charles S. Haas""", """Jeff Swanson""", """Page Hannah""", """Liz Pryor""", """Vladimir Bibic""", """Sarah Lilly""", """Frank P. Ryan""", """Paul Bartel""", """Belinda Balaski""", """Nicky Rose""", """Kenneth Tobey""", """Leonard Maltin""", """Hulk Hogan""", """Dick Butkus""", """Bubba Smith""", """Heidi Kempf""", """Eric Shawn""", """Michael Salort""", """Diane Sainte-Marie""", """Kristi Witker""", """Archie Hahn""", """Leslie Neale""", """Ron Fassler""", """Time Winters""", """Heather Haase""", """Jason Presson""", """Lisa Mende""", """Patrika Darbo""", """Jerry Goldsmith""", """Howie Mandel""", """Frank Welker""", """Tony Randall""", """Mark Dodson""", """Kirk R. Thatcher""", """Neil Ross""", """Jeff Bergman""", """Joe Dante""", """George Sasaki"""]
 +++

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two talented song-and-dance men team up after the war to become one of the hottest acts in show business. In time they befriend and become romantically involved with the beautiful Haynes sisters who comprise a sister act."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Musical', 'Comedy', 'Oldies', 'Romance']
+xmas_genres = ['Comedy', 'Music', 'Musical', 'Family', 'Oldies', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/white-christmas/"""

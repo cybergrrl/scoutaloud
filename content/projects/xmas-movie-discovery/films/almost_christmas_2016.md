@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A dysfunctional family gathers together for their first Christmas since the death of their matriarch."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/almost-christmas/"""

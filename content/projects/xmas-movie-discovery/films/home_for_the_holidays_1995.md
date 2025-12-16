@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """After losing her job, making out with her soon-to-be former boss, and finding out that her daughter plans to spend Thanksgiving with her boyfriend, Claudia Larson faces spending the holiday with her unhinged family."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/home-for-the-holidays-1995/"""

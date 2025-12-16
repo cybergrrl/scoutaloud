@@ -14,6 +14,6 @@ director = """Nadia Tass"""
 runtime = 86
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.47
+average_rating = 3.48
 cast = ["""AnnaSophia Robb""", """Mia Farrow""", """Olivia Ballantyne""", """Kelsey Lewis""", """Jordan Bridges""", """Rebecca Mader""", """Keir Gilchrist""", """Bruce Gooch""", """Donna Goodhand"""]
 +++

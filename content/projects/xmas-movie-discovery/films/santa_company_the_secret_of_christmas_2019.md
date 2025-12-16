@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A feature-length version of the short anime film Santa Company (2014)."""
 
 [taxonomies]
-xmas_genres = ['Animation', 'Fantasy']
+xmas_genres = ['Fantasy', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/santa-company-the-secret-of-christmas/"""

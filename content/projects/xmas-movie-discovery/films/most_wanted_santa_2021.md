@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """An FBI agent and a detective team up to find the criminal behind missing rare artwork. The number one suspect? An unexpectedly handsome Santa Claus."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'TV Movie', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Drama', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/most-wanted-santa/"""

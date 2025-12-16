@@ -14,6 +14,6 @@ director = """Jim Klock, Mike Capozzi"""
 runtime = 73
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.65
+average_rating = 2.64
 cast = ["""Jim Klock""", """Mike Capozzi""", """Coel Mahal""", """Kyra Kennedy""", """Delton Goodrum""", """Chuck Roberts""", """Jennifer Meakin""", """Crystal Cameron""", """Brittany Decatur""", """Christopher Fonts"""]
 +++

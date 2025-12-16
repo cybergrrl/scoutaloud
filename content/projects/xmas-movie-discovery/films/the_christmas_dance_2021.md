@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Traumatized by her past, Christmas is not at the top of Sarah's list this time of year however waltzing through life's unexpected emergencies she is taught the Christmas Dance."""
 
 [taxonomies]
-xmas_genres = ['Romance', 'Drama']
+xmas_genres = ['Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-christmas-dance/"""

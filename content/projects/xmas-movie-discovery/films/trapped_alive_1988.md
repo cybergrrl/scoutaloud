@@ -15,6 +15,6 @@ runtime = 92
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.53
+average_rating = 2.52
 cast = ["""Alex Kubik""", """Elizabeth Kent""", """Cameron Mitchell""", """Mark Witsken""", """Sullivan Hester""", """Michael Nash""", """Laura Kalison""", """Paul Dean""", """Jay Leggett""", """Randolph Powell"""]
 +++

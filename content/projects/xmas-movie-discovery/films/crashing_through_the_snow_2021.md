@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Maggie and Sam are crashing Christmas. When he proposes they team up against his sister's perfect Christmas, neither of them are prepared for the blended family challenges that lie ahead."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Family', 'Romance', 'Hallmark']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Family', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/crashing-through-the-snow/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada"""]
 original_language = """English"""
 spoken_languages = ["""English""", """French"""]
-average_rating = 3.19
+average_rating = 3.18
 cast = ["""Amy Acker""", """Warren Christie""", """Summer H. Howell""", """Erik Athavale""", """Kristian Bruun""", """Andrea del Campo""", """Brooke Nevin""", """Myla Volk""", """Jan Skene""", """Nicolette Ahow""", """Tom Carey""", """Keishon Joseph""", """Eugene Baffoe""", """Chase Winnicky""", """John B. Lowe"""]
 +++

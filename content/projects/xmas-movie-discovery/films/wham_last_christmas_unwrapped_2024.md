@@ -15,6 +15,6 @@ runtime = 59
 countries = ["""UK"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.6
+average_rating = 3.59
 cast = ["""George Michael""", """Andrew Ridgeley""", """Pepsi DeMacque""", """Mary J. Blige""", """Martin Kemp""", """Sam Smith""", """Neil Tennant""", """Simon Napier-Bell""", """Andrew Morahan""", """Roman Kemp""", """Bob Geldof""", """Shirlie Kemp""", """Cheryl Harrison""", """Pat Fernandes""", """Jonny Fowler""", """David Ridler""", """Chris Porter""", """Chris Cameron""", """Kathy Hill""", """Stefan Zurbriggen"""]
 +++

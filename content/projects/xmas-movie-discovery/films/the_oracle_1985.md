@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A murder victim reaches out from beyond the grave in an attempt to possess the body of a young woman who has moved into his old apartment."""
 
 [taxonomies]
-xmas_genres = ['Horror', 'Crime', 'Thriller', 'Mystery']
+xmas_genres = ['Horror', 'Thriller', 'Mystery', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-oracle/"""

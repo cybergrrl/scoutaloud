@@ -14,6 +14,6 @@ director = """Jamaal Burden"""
 runtime = 80
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.34
+average_rating = 2.32
 cast = ["""Deanna Grace Congo""", """Lisa May""", """Amy Jo Guthrie""", """Lily Martinez""", """Stephanie Marie Baggett"""]
 +++

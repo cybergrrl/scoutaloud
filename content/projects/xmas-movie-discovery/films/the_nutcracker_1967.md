@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """On Christmas Eve, a little girl falls asleep after a party at her home and dreams herself (or does she?) into a fantastic world where toys become larger than life. Her beloved Nutcracker comes to life and defends her from the Mouse King, then is turned into a Prince after Marie saves his life."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Adventure', 'International', 'Fantasy']
+xmas_genres = ['Family', 'Global', 'Fantasy', 'Adventure']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-nutcracker-1967/"""

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """One woman's life is forever changed by an engagement ring meant for someone else."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Romance', 'Drama', 'Comedy']
+xmas_genres = ['Queer', 'Comedy', 'Drama', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/something-from-tiffanys/"""

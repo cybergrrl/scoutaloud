@@ -15,6 +15,6 @@ runtime = 32
 countries = ["""UK"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.41
+average_rating = 3.42
 cast = ["""Peter Bowles""", """Kate Binchy""", """Maxine Gordon""", """Jon Laurimore""", """Christopher Blake""", """John Judd"""]
 +++

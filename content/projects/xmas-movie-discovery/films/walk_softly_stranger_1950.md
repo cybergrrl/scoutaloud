@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A petty crook moves to an Ohio town and courts a factory owner's disabled daughter."""
 
 [taxonomies]
-xmas_genres = ['Crime', 'Romance', 'Drama']
+xmas_genres = ['Drama', 'Crime', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/walk-softly-stranger/"""

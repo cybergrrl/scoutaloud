@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A New Yorker hobo moves into a mansion and along the way he gathers friends to live in the house with him. Before he knows it, he is living with the actual home owners."""
 
 [taxonomies]
-xmas_genres = ['Music', 'Oldies', 'Romance', 'Comedy']
+xmas_genres = ['Comedy', 'Oldies', 'Music', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/it-happened-on-fifth-avenue/"""

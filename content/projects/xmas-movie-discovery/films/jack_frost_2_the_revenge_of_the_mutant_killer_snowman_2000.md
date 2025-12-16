@@ -15,6 +15,6 @@ runtime = 91
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.07
+average_rating = 2.06
 cast = ["""Christopher Allport""", """Scott MacDonald""", """David Allen Brooks""", """Sean Patrick Murphy""", """Melanie Good""", """Tai Bennett""", """Jennifer Lyons""", """Shonda Farr""", """Doug Jones""", """Ian Abercrombie""", """Ray Cooney""", """Eileen Seeley""", """Chip Heller""", """Marsha Clark""", """Stephanie Chao"""]
 +++

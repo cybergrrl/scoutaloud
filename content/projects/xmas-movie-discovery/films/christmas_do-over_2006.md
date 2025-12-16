@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Kevin tries to be involved with his son and ex-wife's family for Christmas. During dinner, he thought his Christmas *day* couldn't be more screwed; his son suddenly wishes it was Christmas every day. After that, it was a regular Groundhog's Day. Kevin learns new dance moves and can actually sing. Don't let the caroling fool you."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Fantasy']
+xmas_genres = ['Family', 'Comedy', 'Fantasy', 'TV Movie']
 
 [extra]
 film_url = """https://letterboxd.com/film/christmas-do-over/"""
@@ -15,6 +15,6 @@ runtime = 90
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.0
+average_rating = 2.97
 cast = ["""Jay Mohr""", """Daphne Zuniga""", """David Millbern""", """Adrienne Barbeau""", """Tim Thomerson""", """Logan Grove""", """Ruta Lee""", """Steve Hart""", """Sonia Izzolena"""]
 +++

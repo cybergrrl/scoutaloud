@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Romance rekindles for Peyton and her closest friends when her parents decide to host a holiday themed reunion before selling their family owned summer camp."""
 
 [taxonomies]
-xmas_genres = ['TV Movie', 'Comedy', 'Queer', 'Romance', 'Hallmark']
+xmas_genres = ['Comedy', 'Queer', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/campfire-christmas/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.03
+average_rating = 3.01
 cast = ["""Tori Anderson""", """Corbin Bleu""", """Jeffrey Bowyer-Chapman""", """Caitlin Stryker""", """Matt Hamilton""", """Alec Santos""", """Iris Quinn""", """Fred Henderson""", """Enid-Raye Adams""", """Sandra Shapiro""", """Karis Cameron""", """Jude Wilson""", """Zia Newton""", """Aleksandra Crossan""", """Quinten James""", """Beau Daniels""", """Tasha Simms"""]
 +++

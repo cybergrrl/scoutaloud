@@ -15,6 +15,6 @@ runtime = 102
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English""", """Polish"""]
-average_rating = 2.14
+average_rating = 2.15
 cast = ["""Alex D. Linz""", """Olek Krupa""", """Rya Kihlstedt""", """Lenny Von Dohlen""", """David Thornton""", """Haviland Morris""", """Kevin Kilner""", """Marian Seldes""", """Seth Smith""", """Scarlett Johansson""", """Christopher Curry""", """Baxter Harris""", """James Saito""", """Kevin Gudahl""", """Richard Hamilton""", """Freeman Coffey""", """Krista Lally""", """Neil Flynn""", """Tony Mockus Jr.""", """Pat Healy""", """James Chisem""", """Darwin Harris""", """Adrianne Duncan""", """Sharon Sachs""", """Joseph Luis Caballero""", """Larry C. Tankson""", """Jennifer A. Daley""", """Darren T. Knaus""", """Nick Jantz""", """Andy-John""", """Caryn Cheever""", """Sarah Godshaw""", """Jerod Howard""", """Scott Prestin""", """Dominic Paolo Testa"""]
 +++

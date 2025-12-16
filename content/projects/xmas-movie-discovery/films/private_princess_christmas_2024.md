@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Princess Violet of Wingravia must complete a tough leadership boot camp in Colorado or risk losing her throne to her uncle."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/private-princess-christmas/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""USA""", """Canada"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.51
+average_rating = 2.5
 cast = ["""Alissa Skovbye""", """Derek Klena""", """Erica Durance""", """Tanja Dixon-Warren""", """Louriza Tronco""", """Kheon Clarke""", """Nathan Lynn""", """Aman Mann""", """Ingrid Park""", """Stewart Prince"""]
 +++

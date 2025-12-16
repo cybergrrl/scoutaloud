@@ -8,7 +8,7 @@ xmas_genres = ['Family', 'Comedy', 'TV Movie', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/its-christmastime-again-charlie-brown/"""
-tmdb_poster_path = """/cgS0NsSVOgNtauOYooS4KzLd6oZ.jpg"""
+tmdb_poster_path = """/b1nc3Oe8ZR8mcjff64ya3jcVp0a.jpg"""
 year = 1992
 director = """Bill Melendez"""
 runtime = 22

@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A charming Christmas tale of hope, forgiveness and faith that centers around a single mom, her seven year old daughter and a Salvation Army Santa Claus."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-least-of-these-a-christmas-story/"""

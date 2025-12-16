@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Don't trust Santa Clause - he is a serial killer."""
 
 [taxonomies]
-xmas_genres = ['Thriller']
+xmas_genres = ['Horror', 'Thriller']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-santa-suicides/"""

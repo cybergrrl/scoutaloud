@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Two best friends travel to Christmasland, a place filled with hope and miracles."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/believe-in-christmas-2024/"""
@@ -15,6 +15,6 @@ runtime = 84
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 2.71
+average_rating = 2.69
 cast = ["""Meghan Ory""", """John Reardon""", """Lindura""", """Kevin Hanchard""", """Cathy Jones""", """Kirstin Howell""", """Bob Mann""", """Aria Publicover""", """Hank White""", """Darcy Keefe"""]
 +++

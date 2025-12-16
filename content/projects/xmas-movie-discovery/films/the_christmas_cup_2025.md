@@ -14,5 +14,6 @@ director = """Robin Dunne"""
 runtime = 84
 original_language = """English"""
 spoken_languages = ["""English"""]
+average_rating = 2.62
 cast = ["""Rhiannon Fish""", """Ben Rosenbaum"""]
 +++

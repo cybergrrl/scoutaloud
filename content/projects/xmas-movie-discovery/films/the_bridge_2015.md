@@ -15,6 +15,6 @@ runtime = 89
 countries = ["""Canada""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.06
+average_rating = 3.05
 cast = ["""Katie Findlay""", """Wyatt Nash""", """Andrea Brooks""", """Faith Ford""", """Ted McGinley""", """Kazumi Evans""", """Steve Bacic"""]
 +++

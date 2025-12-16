@@ -4,11 +4,11 @@ template = "xmas-movie-page.html"
 description = """When Kanako, a model daughter and a brilliant student, disappears, her mother asks her ex-husband, a violent former policeman, to find her. As his investigation progresses, his idealized image of Kanako cracks: the girl hides a dark life that her father can not even imagine."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Mystery', 'Crime', 'International']
+xmas_genres = ['Thriller', 'Mystery', 'Global', 'Crime']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-world-of-kanako/"""
-tmdb_poster_path = """/5Yc1vxcybP5CtPqcDiIHmTkJUdg.jpg"""
+tmdb_poster_path = """/y7JSRcBg1Wm3ZoMI3xsRm6L6N0m.jpg"""
 year = 2014
 director = """Tetsuya Nakashima"""
 runtime = 118

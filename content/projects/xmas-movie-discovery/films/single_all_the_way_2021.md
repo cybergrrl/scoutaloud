@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Desperate to avoid his family’s judgment about his perpetual single status, Peter convinces his best friend Nick to join him for the holidays and pretend that they’re now in a relationship. But when Peter’s mother sets him up on a blind date with her handsome trainer James, the plan goes awry."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Romance', 'Comedy']
+xmas_genres = ['Queer', 'Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/single-all-the-way/"""

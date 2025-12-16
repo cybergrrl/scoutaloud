@@ -8,13 +8,13 @@ xmas_genres = ['Family', 'Comedy', 'Drama', 'Animation']
 
 [extra]
 film_url = """https://letterboxd.com/film/arthur-christmas/"""
-tmdb_poster_path = """/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg"""
+tmdb_poster_path = """/yF7SNheAGWavNnjbAronedwjC1N.jpg"""
 year = 2011
 director = """Sarah Smith"""
 runtime = 97
 countries = ["""UK""", """USA"""]
 original_language = """English"""
 spoken_languages = ["""English""", """Spanish"""]
-average_rating = 3.52
+average_rating = 3.53
 cast = ["""James McAvoy""", """Hugh Laurie""", """Bill Nighy""", """Jim Broadbent""", """Imelda Staunton""", """Ashley Jensen""", """Marc Wootton""", """Laura Linney""", """Eva Longoria""", """Ramona Marquez""", """Michael Palin""", """Sanjeev Bhaskar""", """Robbie Coltrane""", """Joan Cusack""", """Rhys Darby""", """Jane Horrocks""", """Iain McKee""", """Andy Serkis""", """Dominic West""", """Peter Baynham""", """Cody Cameron""", """Kevin Cecil""", """Kevin Eldon""", """Rich Fulcher""", """Bronagh Gallagher""", """Pete Jack""", """Danny John-Jules""", """Emma Kennedy""", """Stewart Lee""", """Seamus Malone""", """Kris Pearn""", """Alan Short""", """Sarah Smith""", """Adam Tandy""", """Ryan Patrick Donahoe""", """Finlay Duff""", """Rich Hall""", """Clint Dyer""", """Donnie Long""", """Jerry Lambert""", """Deborah Findlay""", """David Schneider""", """Ian Ashpitel""", """Julia Davis""", """Kerry Shale""", """Tamsin Greig""", """Alistair McGowan"""]
 +++

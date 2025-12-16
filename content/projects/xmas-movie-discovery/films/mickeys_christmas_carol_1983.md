@@ -15,6 +15,6 @@ runtime = 25
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.74
+average_rating = 3.75
 cast = ["""Alan Young""", """Wayne Allwine""", """Clarence Nash""", """Hal Smith""", """Will Ryan""", """Patricia Parris""", """Dick Billingsley""", """Eddie Carroll"""]
 +++

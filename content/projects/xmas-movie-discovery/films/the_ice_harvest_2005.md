@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A shady lawyer attempts a Christmas Eve crime, hoping to swindle the local mob out of some money. But his partner, a strip club owner, might have different plans for the cash."""
 
 [taxonomies]
-xmas_genres = ['Thriller', 'Crime', 'Drama', 'Comedy']
+xmas_genres = ['Comedy', 'Action', 'Thriller', 'Crime', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/the-ice-harvest/"""

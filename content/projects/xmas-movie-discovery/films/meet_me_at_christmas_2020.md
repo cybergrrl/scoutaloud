@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """When Joan’s son’s wedding planner unexpectedly quits, she must coordinate his Christmas Eve wedding with the help of Beau, the bride’s uncle. As they work alongside each other they discover their fates and pasts are intertwined."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Romance', 'TV Movie']
+xmas_genres = ['Hallmark', 'TV Movie', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/meet-me-at-christmas/"""

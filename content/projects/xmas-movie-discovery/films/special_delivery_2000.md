@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A bumbling courier at a private adoption agency botches the delivery of a baby to its new parents in time for Christmas when he misplaces their baby en route."""
 
 [taxonomies]
-xmas_genres = ['Hallmark', 'Comedy']
+xmas_genres = ['Comedy', 'Hallmark']
 
 [extra]
 film_url = """https://letterboxd.com/film/special-delivery-2000/"""

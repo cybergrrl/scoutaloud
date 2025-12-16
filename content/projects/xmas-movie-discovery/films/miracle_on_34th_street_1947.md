@@ -4,11 +4,11 @@ template = "xmas-movie-page.html"
 description = """Kris Kringle, seemingly the embodiment of Santa Claus, is asked to portray the jolly old fellow at Macy's following his performance in the Thanksgiving Day parade. His portrayal is so complete that many begin to question if he truly is Santa Claus, while others question his sanity."""
 
 [taxonomies]
-xmas_genres = ['Family', 'Oldies', 'Drama', 'Comedy']
+xmas_genres = ['Family', 'Comedy', 'Oldies', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/miracle-on-34th-street/"""
-tmdb_poster_path = """/qyAc9X9XHloIqy3oJbbZ44Cw0Hm.jpg"""
+tmdb_poster_path = """/vehuIm3y6BeMI7mYjxzaA1H8M0k.jpg"""
 year = 1947
 director = """George Seaton"""
 runtime = 96

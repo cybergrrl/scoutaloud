@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """In a small town on Christmas Eve, a snowstorm brings together a group of young people. They soon find their friendships and love lives colliding, and come Christmas morning, nothing will be the same."""
 
 [taxonomies]
-xmas_genres = ['Queer', 'Romance', 'Comedy']
+xmas_genres = ['Queer', 'Comedy', 'Romance']
 
 [extra]
 film_url = """https://letterboxd.com/film/let-it-snow-2019/"""

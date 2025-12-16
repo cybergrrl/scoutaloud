@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """A retelling of Charles Dickens’ classic Christmas ghost story."""
 
 [taxonomies]
-xmas_genres = ['A Christmas Carol', 'Drama', 'Fantasy']
+xmas_genres = ['Fantasy', 'A Christmas Carol', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/a-christmas-carol-1/"""

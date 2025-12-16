@@ -4,7 +4,7 @@ template = "xmas-movie-page.html"
 description = """Little Rafik learns about Santa Claus in School, when he arrives just before Christmas with his Tunisian family to settle down in France in the 1960's."""
 
 [taxonomies]
-xmas_genres = ['Drama', 'International']
+xmas_genres = ['Global', 'Drama']
 
 [extra]
 film_url = """https://letterboxd.com/film/first-christmas-2000/"""

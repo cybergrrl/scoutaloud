@@ -15,6 +15,6 @@ runtime = 50
 countries = ["""USA"""]
 original_language = """English"""
 spoken_languages = ["""English"""]
-average_rating = 3.71
+average_rating = 3.72
 cast = ["""Sabrina Carpenter""", """Cara Delevingne""", """Chappell Roan""", """Jillian Bell""", """Kali Uchis""", """Kyle Mooney""", """Megan Stalter""", """Nico Hiraga""", """Owen Thiele""", """Quinta Brunson""", """Sean Astin""", """Shania Twain""", """Tyla""", """Solomon Dorsey""", """Peter Dyer""", """Kirsten Edkins""", """RJ Kelly""", """Tim Stewart""", """Denise Carite""", """Charity 'Cherry' Davis""", """Jamal Moore""", """Nycole Altchiler""", """Gaynor Hicks""", """Treylyn Inay""", """Mikey Martinez""", """Natsuki Miya""", """Oriane Serveille""", """Jazz Smith""", """Jay Tellis""", """Gavin Norberg"""]
 +++
