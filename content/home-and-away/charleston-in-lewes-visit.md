@@ -7,4 +7,4 @@ template = "page.html"
 tags = [ "art" ]
 +++
 
-![](/home-and-away/1000049150.jpg)
+**gallery visit The Two Roberts**
