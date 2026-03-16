@@ -5,7 +5,7 @@ template = "page.html"
 weight = 3
 
 [taxonomies]
-tags = [ "balkans, travel" ]
+tags = [ "balkans", "travel" ]
 +++
 
 [Back to itinerary](../)

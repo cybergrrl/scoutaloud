@@ -42,7 +42,10 @@ collections:
             name: tags
             widget: list
             required: false
-            hint: "e.g. balkans, garden, museum, day-out"
+            field:
+              label: Tag
+              name: tag
+              widget: string
       - { label: Body, name: body, widget: markdown }
 
   # ── Blog Posts ─────────────────────────────────────────────────────────────
@@ -79,8 +82,16 @@ collections:
             name: tags
             widget: list
             required: false
+            field:
+              label: Tag
+              name: tag
+              widget: string
           - label: Categories
             name: categories
             widget: list
             required: false
+            field:
+              label: Category
+              name: category
+              widget: string
       - { label: Body, name: body, widget: markdown }
