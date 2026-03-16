@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}{{ term.name | title }} - {{ taxonomy.name | title }} - {{ config.title }}{% endblock title %}
+
+{% block content %}
+<h1>{{ term.name | title }}</h1>
+<div class="listing-grid">
+    {% for page in term.pages %}
+        <div class="listing-card">
+            <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
+            {% if page.description %}
+                <p>{{ page.description }}</p>
+            {% endif %}
+            {% if page.date %}
+                <p><time>{{ page.date | date(format="%d %B %Y") }}</time></p>
+            {% endif %}
+        </div>
+    {% endfor %}
+</div>
+{% endblock content %}
