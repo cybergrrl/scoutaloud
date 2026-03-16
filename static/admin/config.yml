@@ -15,6 +15,9 @@ collections:
     label_singular: Home & Away Post
     folder: content/home-and-away
     create: true
+    nested:
+      depth: 1
+      summary: "{{title}}"
     path: "{{slug}}/index"
     format: toml-frontmatter
     media_folder: ""
@@ -55,6 +58,9 @@ collections:
     label_singular: Blog Post
     folder: content/blog
     create: true
+    nested:
+      depth: 1
+      summary: "{{title}}"
     path: "{{slug}}/index"
     format: toml-frontmatter
     media_folder: ""
