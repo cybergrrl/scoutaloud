@@ -1,12 +1,14 @@
 +++
 title = "Ljubljana"
-date = 2025-10-13
+date = "2025-10-13"
 template = "page.html"
 weight = 8
+
+[taxonomies]
+tags = [ "balkans, travel" ]
 +++
 
 [Back to itinerary](../)
-
 
 ## Plans:
 
@@ -28,7 +30,3 @@ weight = 8
 - [ ] Beef tongue
 - [ ] Pražen krompir - boiled potatoes sauteed with onions
 - [ ] Slovenian wine
-
-
-
-
