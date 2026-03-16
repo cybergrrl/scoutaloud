@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: cybergrrl/scoutaloud
   branch: main
 
 media_folder: static/uploads
