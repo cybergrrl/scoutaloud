@@ -1,0 +1,85 @@
+backend:
+  name: git-gateway
+  branch: add-sveltia-cms
+
+media_folder: static/uploads
+public_folder: /uploads
+
+collections:
+  # ── Home & Away ───────────────────────────────────────────────────────────
+  # Flat collection: shared photo journal for trips, day outs, etc.
+  # Use tags to organise (e.g. balkans, garden, museum) instead of subfolders.
+  - name: travels
+    label: Home & Away
+    label_singular: Home & Away Post
+    folder: content/home-and-away
+    create: true
+    slug: "{{slug}}"
+    format: toml-frontmatter
+    media_folder: "/static/home-and-away"
+    public_folder: "/home-and-away"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - label: Date
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+      - {
+          label: Template,
+          name: template,
+          widget: hidden,
+          default: "page.html",
+        }
+      - label: Taxonomies
+        name: taxonomies
+        widget: object
+        required: false
+        fields:
+          - label: Tags
+            name: tags
+            widget: list
+            required: false
+            hint: "e.g. balkans, garden, museum, day-out"
+      - { label: Body, name: body, widget: markdown }
+
+  # ── Blog Posts ─────────────────────────────────────────────────────────────
+  # Flat collection: all posts go directly into content/blog/.
+  - name: blog
+    label: Blog Posts
+    label_singular: Blog Post
+    folder: content/blog
+    create: true
+    slug: "{{slug}}"
+    format: toml-frontmatter
+    media_folder: "/static/blog"
+    public_folder: "/blog"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - label: Date
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+      - label: Draft
+        name: draft
+        widget: boolean
+        default: false
+        required: false
+        hint: "Drafts are excluded from the built site unless you build with --drafts."
+      - label: Taxonomies
+        name: taxonomies
+        widget: object
+        required: false
+        fields:
+          - label: Tags
+            name: tags
+            widget: list
+            required: false
+          - label: Categories
+            name: categories
+            widget: list
+            required: false
+      - { label: Body, name: body, widget: markdown }
