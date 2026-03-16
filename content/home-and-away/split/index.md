@@ -13,7 +13,7 @@ tags = [ "balkans, travel" ]
 ## A night in an ancient palace
 
 <figure>
-  <img src="/home-and-away/IMG_0822.jpg" alt = "" />
+  <img src="/home-and-away/split/IMG_0822.jpg" alt = "" />
   <figcaption>We actually stayed inside the famous golden gate in Diocletian's palace! That's me wavingout the window</figcaption>
 </figure>
 

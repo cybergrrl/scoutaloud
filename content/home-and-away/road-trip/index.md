@@ -10,7 +10,7 @@ tags = [ "balkans", "travel" ]
 
 [Back to itinerary](../)
 
-{{ img(path="/home-and-away/road-trip.png",
+{{ img(path="/home-and-away/road-trip/road-trip.png",
        alt="watercolor of a red car driving along the Adriatic coast towards a little seaside town",
        caption="actual picture of our actual rental car") }}
 
@@ -27,7 +27,7 @@ We started towards Split about 10am.
 Our first stop was Ston and those walls are truly impressive; they wind around the mountain like a crown.
 
 <figure>
-  <img src="/home-and-away/20251007_121951.jpg" Ston town with the walls in the background" />
+  <img src="/home-and-away/road-trip/20251007_121951.jpg" Ston town with the walls in the background" />
   <figcaption>Ston and its walls</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ The Makarska Riviera was maybe a little disappointing, mostly big new-builds and
 Omis was disappointing as we failed to pay for parking due to lack of small coins. Nobody could help,  the app was only in Croatian... So we decided to give it a miss and drive on to Solin to look at some ancient ruins. We managed to get there before sunset and had a real good look around the huge amphitheatre.
 
 <figure>
-  <img src="/home-and-away/20251007_171623.jpg" alt="Solin amphitheatre" />
+  <img src="/home-and-away/road-trip/20251007_171623.jpg" alt="Solin amphitheatre" />
   <figcaption>Emma exploring the remains of the ancient Roman amphitheatre at Solin</figcaption>
 </figure>
 

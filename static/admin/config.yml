@@ -15,10 +15,10 @@ collections:
     label_singular: Home & Away Post
     folder: content/home-and-away
     create: true
-    slug: "{{slug}}"
+    path: "{{slug}}/index"
     format: toml-frontmatter
-    media_folder: "/static/home-and-away"
-    public_folder: "/home-and-away"
+    media_folder: ""
+    public_folder: ""
     fields:
       - { label: Title, name: title, widget: string }
       - label: Date
@@ -55,10 +55,10 @@ collections:
     label_singular: Blog Post
     folder: content/blog
     create: true
-    slug: "{{slug}}"
+    path: "{{slug}}/index"
     format: toml-frontmatter
-    media_folder: "/static/blog"
-    public_folder: "/blog"
+    media_folder: ""
+    public_folder: ""
     fields:
       - { label: Title, name: title, widget: string }
       - label: Date

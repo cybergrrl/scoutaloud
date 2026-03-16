@@ -15,7 +15,7 @@ tags = [ "balkans", "travel" ]
 Well it's definitely autumn and Dubrovnik greeted us with pouring rain on and off throughout the evening.
 
 <figure>
-  <img src="/home-and-away/20251005_210023(1).gif" alt="People sheltering under canvas roof outside a pub in an alley in Dubrovnik at night">
+  <img src="/home-and-away/dubrovnik/20251005_210023(1).gif" alt="People sheltering under canvas roof outside a pub in an alley in Dubrovnik at night">
   <figcaption>Down and down it pours</figcaption>
 </figure>
 
@@ -30,12 +30,12 @@ After an omelette for breakfast, we bought  the Dubrovnik card and mounted the m
 Now having a cappuccino and a kakao on top of the wall while listening to the water splashing against the rocks below and enjoying the sun and blue sea view :)
 
 <figure>
-  <img src="/home-and-away/20251006_125920.jpg" alt="Dubrovnik seen from the walls" />
+  <img src="/home-and-away/dubrovnik/20251006_125920.jpg" alt="Dubrovnik seen from the walls" />
   <figcaption>Rooves of Dubrovnik from the walls</figcaption>
 </figure>
 
 <figure>
-  <img src="/home-and-away/20251006_131350.jpg" alt="View from the top of Dubrovnik walls across the city and its walls." />
+  <img src="/home-and-away/dubrovnik/20251006_131350.jpg" alt="View from the top of Dubrovnik walls across the city and its walls." />
   <figcaption>Walking the Dubrovnik city walls</figcaption>
 </figure>
 
@@ -67,6 +67,6 @@ Now having a cappuccino and a kakao on top of the wall while listening to the wa
 - [x] Dubrovačka rozata – Dubrovnik’s answer to the French creme brulee
 
 <figure>
-  <img src="/home-and-away/20251006_162157.jpg" alt="custard creme topped with burnt caramel" />
+  <img src="/home-and-away/dubrovnik/20251006_162157.jpg" alt="custard creme topped with burnt caramel" />
   <figcaption>My Dubrovačka rozata before i got to it 😋</figcaption>
 </figure>

@@ -10,7 +10,7 @@ tags = [ "balkans", "travel" ]
 
 [Back to itinerary](../)
 
-{{ img(path="/home-and-away/krka-1.jpg",
+{{ img(path="/home-and-away/krka/krka-1.jpg",
        alt="Waterfalls in Krka national park",
        caption="waterfalls") }}
 

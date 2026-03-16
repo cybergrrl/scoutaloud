@@ -20,7 +20,7 @@ tags = [ "balkans", "travel" ]
 - [x] visit the railway museum
 
 <figure>
-  <img src="/home-and-away/20251012_163733.jpg" alt = "excited person staning on an old steam lokomotive" />
+  <img src="/home-and-away/ljubljana/20251012_163733.jpg" alt = "excited person staning on an old steam lokomotive" />
   <figcaption>A railway museum on every holiday!</figcaption>
 </figure>
 
