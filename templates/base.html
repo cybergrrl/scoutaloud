@@ -14,13 +14,24 @@
 <body>
     {% block header %}
     <header>
-        <nav>
+        <nav class="desktop-nav">
             <a href="/" class="site-name">scoutaloud</a>
-            <div class="nav-links">
-                <a href="/home-and-away/" {% if current_path is starting_with("/home-and-away") %}class="active"{% endif %}>Home &amp; Away</a>
-                <a href="/projects/" {% if current_path is starting_with("/projects") %}class="active"{% endif %}>Projects</a>
-                <a href="/about/" {% if current_path is starting_with("/about") %}class="active"{% endif %}>About</a>
-            </div>
+            <ul class="primary-nav">
+                <li><a href="/home-and-away/" {% if current_path is starting_with("/home-and-away") %}class="active"{% endif %}>Home &amp; Away</a></li>
+                <li><a href="/projects/" {% if current_path is starting_with("/projects") %}class="active"{% endif %}>Projects</a></li>
+                <li><a href="/about/" {% if current_path is starting_with("/about") %}class="active"{% endif %}>About</a></li>
+            </ul>
+        </nav>
+        <nav class="mobile-nav">
+            <a href="/" class="site-name">scoutaloud</a>
+            <details>
+                <summary>menu</summary>
+                <ul>
+                    <li><a href="/home-and-away/" {% if current_path is starting_with("/home-and-away") %}class="active"{% endif %}>Home &amp; Away</a></li>
+                    <li><a href="/projects/" {% if current_path is starting_with("/projects") %}class="active"{% endif %}>Projects</a></li>
+                    <li><a href="/about/" {% if current_path is starting_with("/about") %}class="active"{% endif %}>About</a></li>
+                </ul>
+            </details>
         </nav>
     </header>
     {% endblock header %}
