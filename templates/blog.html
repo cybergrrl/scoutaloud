@@ -3,13 +3,60 @@
 {% block title %}Blog - {{ config.title }}{% endblock title %}
 
 {% block content %}
+
 <h1>{{ section.title }}</h1>
+
 {% if section.description %}
     <p>{{ section.description | markdown | safe }}</p>
 {% endif %}
-<ul>
-    {% for page in section.pages %}
-        <li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
+
+<ol class="post-list">
+    {% for page in paginator.pages %}
+        <li class="post-card">
+            {% if page.extra.image %}
+            <div class="post-card__image">
+                <img src="{{ page.extra.image }}" alt="{{ page.title }}">
+            </div>
+            {% endif %}
+            <div class="post-card__body">
+                <time class="post-card__date" datetime="{{ page.date | date(format='%Y-%m-%d') }}">{{ page.date | date(format='%e %B %Y') }}</time>
+                <h2 class="post-card__title"><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
+                <p class="post-card__summary">{{ page.content | striptags | truncate(length=160) }}</p>
+                {% if page.taxonomies.categories or page.taxonomies.tags %}
+                <div class="post-card__taxonomy">
+                    {% if page.taxonomies.categories %}
+                    <ul class="post-categories">
+                        {% for category in page.taxonomies.categories %}
+                        <li class="post-categories__category"><a href="{{ get_taxonomy_url(kind='categories', name=category) }}">{{ category }}</a></li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                    {% if page.taxonomies.tags %}
+                    <ul class="post-tags">
+                        {% for tag in page.taxonomies.tags %}
+                        <li class="post-tags__tag"><a href="{{ get_taxonomy_url(kind='tags', name=tag) }}">{{ tag }}</a></li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </div>
+                {% endif %}
+            </div>
+        </li>
     {% endfor %}
-</ul>
+</ol>
+
+<nav class="pagination">
+    <a href="{{ paginator.previous }}">‹ Previous</a>
+    {% for i in range(start=1, end=paginator.number_pagers + 1) %}
+        {% if i == paginator.current_index %}
+            <span aria-current="page">{{ i }}</span>
+        {% else %}
+            <a href="{{ paginator.base_url }}{{ i }}">{{ i }}</a>
+        {% endif %}
+    {% endfor %}
+    <a href="{{ paginator.next }}">Next ›</a>
+</nav>
+
 {% endblock content %}
+
+
