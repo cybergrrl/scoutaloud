@@ -4,6 +4,26 @@
 
 {% block content %}
 
+<!-- Breadcrumb navigation -->
+<nav aria-label="Breadcrumb" class="breadcrumb">
+  <ol>
+    <li class="breadcrumb__item">
+      <a href="{{ config.base_url }}">Home</a>
+    </li>
+    <!-- Loop through ancestors to build breadcrumb trail. 
+    Skip the first ancestor (index 0) which is the root (homepage). -->
+    {% for ancestor in page.ancestors | slice(start=1) %}
+      {% set section = get_section(path=ancestor) %}
+      <li class="breadcrumb__item">
+        <a href="{{ section.permalink }}">{{ section.title }}</a>
+      </li>
+    {% endfor %}
+    <li class="breadcrumb__item" aria-current="page">{{ page.title }}</li>
+  </ol>
+</nav>
+
+
+<!-- Display categories and tags if they exist -->
 {% if page.taxonomies.categories or page.taxonomies.tags %}
 <div class="post-taxonomy">
     {% if page.taxonomies.categories %}
