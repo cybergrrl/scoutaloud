@@ -1,11 +1,14 @@
 +++
-title = "Days 8 and 9: Ljubljana"
+title = "Ljubljana"
+date = "2025-10-13"
 template = "page.html"
 weight = 8
+
+[taxonomies]
+tags = [ "balkans", "travel" ]
 +++
 
 [Back to itinerary](../)
-
 
 ## Plans:
 
@@ -17,7 +20,7 @@ weight = 8
 - [x] visit the railway museum
 
 <figure>
-  <img src="https://www.dropbox.com/scl/fi/wbdz66lonrr447hzn12u8/2025-10-12-16.37.34.jpg?rlkey=tuogqs1itkxtkt2ujfe2eju3p&st=i5t2enrn&raw=1" alt = "excited person staning on an old steam lokomotive" />
+  <img src="/home-and-away/ljubljana/20251012_163733.jpg" alt = "excited person staning on an old steam lokomotive" />
   <figcaption>A railway museum on every holiday!</figcaption>
 </figure>
 
@@ -27,7 +30,3 @@ weight = 8
 - [ ] Beef tongue
 - [ ] Pražen krompir - boiled potatoes sauteed with onions
 - [ ] Slovenian wine
-
-
-
-

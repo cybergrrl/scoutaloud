@@ -4,7 +4,7 @@
 
 {% block content %}
 {% if section.extra.featured_image %}
-    <img src="{{ get_url(path='travels/' ~ section.extra.featured_image) }}" alt="{{ section.extra.featured_image_alt | default(value='') }}" style="max-width:100%;max-height:300px;height:auto;margin-bottom:1em;object-fit:contain;">
+    <img src="{{ get_url(path='home-and-away/' ~ section.extra.featured_image) }}" alt="{{ section.extra.featured_image_alt | default(value='') }}" style="max-width:100%;max-height:300px;height:auto;margin-bottom:1em;object-fit:contain;">
 {% endif %}
 <h1>{{ section.title }}</h1>
 {% if section.description %}
@@ -25,7 +25,7 @@
         </div>
     {% endfor %}
     {# List pages directly under this section #}
-    {% for page in section.pages %}
+    {% for page in paginator.pages %}
         <div class="listing-card">
             <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
             {% if page.description %}

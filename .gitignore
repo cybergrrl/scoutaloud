@@ -1,3 +1,6 @@
+# Zola binary tarballs
+zola-*.tar.gz
+
 # Zola output folder
 public/
 static/processed_images/*
