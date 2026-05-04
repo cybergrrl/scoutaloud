@@ -4,8 +4,7 @@ date = "2026-05-03"
 draft = false
 
 [taxonomies]
-tags = [ "films" ]
-tags = [ "books" ]
+tags = [ "films", "books" ]
 
 +++
 
