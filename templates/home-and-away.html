@@ -3,35 +3,45 @@
 {% block title %}{{ section.title }} - {{ config.title }}{% endblock title %}
 
 {% block content %}
-{% if section.extra.featured_image %}
-    <img src="{{ get_url(path='home-and-away/' ~ section.extra.featured_image) }}" alt="{{ section.extra.featured_image_alt | default(value='') }}" style="max-width:100%;max-height:300px;height:auto;margin-bottom:1em;object-fit:contain;">
-{% endif %}
-<h1>{{ section.title }}</h1>
-{% if section.description %}
-    <p>{{ section.description | markdown | safe }}</p>
-{% endif %}
-<div>
-    {{ section.content | safe }}
-</div>
-<div class="listing-grid">
-    {# List subsections (e.g., trips) #}
-    {% for subsection in section.subsections %}
-        {% set subsec = get_section(path=subsection) %}
-        <div class="listing-card">
-            <h3><a href="{{ subsec.permalink }}">{{ subsec.title }}</a></h3>
-            {% if subsec.description %}
-                <p>{{ subsec.description }}</p>
-            {% endif %}
-        </div>
-    {% endfor %}
-    {# List pages directly under this section #}
-    {% for page in paginator.pages %}
-        <div class="listing-card">
-            <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
-            {% if page.description %}
-                <p>{{ page.description }}</p>
-            {% endif %}
-        </div>
-    {% endfor %}
+
+<div class="home-and-away">
+    {% if section.extra.featured_image %}
+        <img src="{{ get_url(path='home-and-away/' ~ section.extra.featured_image) }}" alt="{{ section.extra.featured_image_alt | default(value='') }}" style="max-width:100%;max-height:300px;height:auto;margin-bottom:1em;object-fit:contain;">
+    {% endif %}
+
+    <h1>{{ section.title }}</h1>
+
+    {% if section.description %}
+        <p>{{ section.description | markdown | safe }}</p>
+    {% endif %}
+    
+    <div>
+        {{ section.content | safe }}
+    </div>
+    <ol class="post-list">
+        {# List subsections (e.g., trips) #}
+        {% for subsection in section.subsections %}
+            {% set subsec = get_section(path=subsection) %}
+            <li class="post-card">
+                <div class="post-card__body">
+                    <h2 class="post-card__title"><a href="{{ subsec.permalink }}">{{ subsec.title }}</a></h2>
+                    {% if subsec.description %}
+                        <p class="post-card__summary">{{ subsec.description }}</p>
+                    {% endif %}
+                </div>
+            </li>
+        {% endfor %}
+        {# List pages directly under this section #}
+        {% for page in paginator.pages %}
+            <li class="post-card">
+                <div class="post-card__body">
+                    <h2 class="post-card__title"><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
+                    {% if page.description %}
+                        <p class="post-card__summary">{{ page.description }}</p>
+                    {% endif %}
+                </div>
+            </li>
+        {% endfor %}
+    </ol>
 </div>
 {% endblock content %}

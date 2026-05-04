@@ -4,9 +4,9 @@
 
 {% block content %}
 <h1>{{ term.name | title }}</h1>
-<div class="listing-grid">
+<div class="listing">
     {% for page in term.pages %}
-        <div class="listing-card">
+        <div class="listing__item">
             <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
             {% if page.description %}
                 <p>{{ page.description }}</p>
