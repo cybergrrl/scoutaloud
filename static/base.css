@@ -176,7 +176,7 @@ nav a:focus-visible,
 nav summary:hover,
 nav summary:focus-visible,
 .site-nav__item--active a {
-  color: var(--color-accent);
+  color: var(--color-link);
 }
 
 @media (width >= 600px) {
@@ -287,22 +287,22 @@ nav summary:focus-visible,
 
 /* Listing rows — projects, travels, taxonomy pages, homepage */
 
-.listing-grid {
+.listing {
   margin-top: 1rem;
 }
 
-.listing-card {
+.listing__item {
   padding: 0.75rem 0;
   border-bottom: 1px solid
     color-mix(in srgb, var(--color-accent) 30%, transparent);
   transition: all 0.3s ease;
 }
 
-.listing-card:last-child {
+.listing__item:last-child {
   border-bottom: none;
 }
 
-.listing-card h3 {
+.listing__item h3 {
   display: flex;
   align-items: center;
   gap: 0.5rem;
@@ -310,59 +310,46 @@ nav summary:focus-visible,
   font-size: 1.4rem;
 }
 
-/* Arrow for listing pages (not homepage) */
-.listing-card h3::before {
-  content: "→";
-  color: var(--color-accent);
-  font-weight: 400;
-  transition: color 0.3s ease;
-}
-
-/* Hide arrow when SVG is present (homepage) */
-.listing-card h3:has(svg)::before {
-  content: none;
-}
-
-.listing-card:hover h3::before {
+.listing__item:hover h3::before {
   color: var(--color-accent);
 }
 
-.listing-card h3 svg {
+.listing__item h3 svg {
   color: var(--color-accent);
   flex-shrink: 0;
   transition: color 0.3s ease;
   margin-top: -2px;
 }
 
-.listing-card:hover h3 svg {
+.listing__item:hover h3 svg {
   color: var(--color-accent);
 }
 
-.listing-card h3 a {
+.listing__item h3 a {
   text-decoration: none;
   color: var(--color-text);
   transition: color 0.3s ease;
 }
 
-.listing-card h3 a:hover,
-.listing-card h3 a:focus-visible {
+.listing__item h3 a:hover,
+.listing__item h3 a:focus-visible {
   color: var(--color-accent);
 }
 
-.listing-card p {
+.listing__item p {
   margin: 0;
   opacity: 0.85;
   font-size: 0.95rem;
 }
 
 /* Override main a link colour for components with their own link styles */
-.listing-card a,
+.listing__item a,
 .homepage-section a {
   color: var(--color-text);
 }
 
-.listing-card a:hover,
-.listing-card a:focus-visible,
+.listing__item a:hover,
+.listing__item a:focus-visible,
 .homepage-section a:hover,
 .homepage-section a:focus-visible {
   color: var(--color-accent);
