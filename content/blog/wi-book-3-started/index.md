@@ -4,8 +4,8 @@ date = "2026-04-21"
 draft = false
 
 [taxonomies]
-tags = [ "wandering inn" ]
-categories = [ "books" ]
+tags = [ "the wandering inn" ]
+tags = [ "books" ]
 +++
 
 I started (audio)book 3 of the Wandering Inn series today. This is a re-listen, not even my first one. But I cannot bear the thought that I have run out of Inn-books, so I am saving up some books to listen to right now.
