@@ -7,11 +7,11 @@
 {% if section.description %}
     <p>{{ section.description | markdown | safe }}</p>
 {% endif %}
-<div class="listing-grid">
+<div class="listing">
     {# List subsections (e.g., projects) #}
     {% for subsection in section.subsections %}
         {% set subsec = get_section(path=subsection) %}
-        <div class="listing-card">
+        <div class="listing__item">
             <h3>
                 {% if subsec.title == "Xmas Movie Discovery" %}
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -28,7 +28,7 @@
     {% endfor %}
     {# List pages directly under this section #}
     {% for page in section.pages %}
-        <div class="listing-card">
+        <div class="listing__item">
             <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
             {% if page.description %}
                 <p>{{ page.description }}</p>
