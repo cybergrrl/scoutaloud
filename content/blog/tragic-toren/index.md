@@ -18,9 +18,9 @@ Actually, I'm sure he can. Pirate hasn't yet created a character who can't. And 
 
 We are in Esthelm. And Toren is still becoming Toren.
 
-> This is the story of a skeleton. He only knew how to kill, so he did just that. In a city filled with death, the skeleton killed with his hands at first, and then used others to kill more and more. He would kill everything if he could.
+> >>This is the story of a skeleton. He only knew how to kill, so he did just that. In a city filled with death, the skeleton killed with his hands at first, and then used others to kill more and more. He would kill everything if he could.
 
-> Because it was all he knew.
+> Because it was all he knew.<<
 
 [_The Wandering Inn, Volume 3, 3.20 T_](https://wanderinginn.com/2017/10/03/3-20-t/)
 
