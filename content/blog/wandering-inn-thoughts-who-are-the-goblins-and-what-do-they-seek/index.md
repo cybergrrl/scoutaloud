@@ -12,7 +12,7 @@ I am in book 4 Winter Solstice of my re-listen; 3.29 G
 
 > No one remembered who the Goblins had once been.
 
-Every time i come across this line, i wonder what pirate has had in mind when writing this. And if I will ever fine out!
+Every time i come across this line, i wonder what pirate has had in mind when writing this. And if I will ever fine out? Probably it's related to how the last goblin king turned from kind to raging. 
 
 This chapter also sees a mention of the key that Garin and Tremborag are looking for and which apparently is somewhere far worse than _"in the heart of Invrisil, behind one of the Walled Cities, or at the bottom of the sea"_. We do know by now that it is somewhere in the High Passes. Surely that means it is in the dragon's hoard?! Must be...
 
