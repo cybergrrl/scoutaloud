@@ -1,5 +1,5 @@
 +++
-title = "Tragic Toren"
+title = "Wandering Inn thoughts - Tragic Toren"
 date = "2026-05-12"
 draft = false
 
