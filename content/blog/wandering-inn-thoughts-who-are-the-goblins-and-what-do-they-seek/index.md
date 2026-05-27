@@ -1,7 +1,7 @@
 +++
 title = "Wandering Inn thoughts: Who are the Goblins and what do they seek?"
 date = "2026-05-27"
-draft = true
+draft = false
 
 [taxonomies]
 tags = [ "the wandering inn" ]
