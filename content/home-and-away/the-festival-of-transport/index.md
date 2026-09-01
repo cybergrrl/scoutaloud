@@ -8,7 +8,7 @@ We went to the Festival of Transport in Hellingly this bank holiday.
 
 It was amazing!
 
-## Steam vehicles 
+## Steam vehicles!
 
 They came in all sizes! Full size steam roller, child size minitaure, and even a tiny fully functional model that had almost all its parts 3d printed!
 
