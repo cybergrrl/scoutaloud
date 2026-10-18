@@ -10,4 +10,6 @@ We went to Hamburg International Queer Film Festival this week.
 
 My special gem was **Queens of the Dead**. A queer contemporary take on Romero's zombie films - created by his own flesh and blood (yeah pun obviously intended!) Tina Romero. I hope it'll make it to UK cinema screens ASAP so i can watch it again with all my friends! 
 
+Queens of the Dead on Letterboxd
+
 https://letterboxd.com/film/queens-of-the-dead/
