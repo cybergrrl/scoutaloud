@@ -1,0 +1,6 @@
+{% component img(path: string, alt: string = "", caption = None, class = None) -%}
+<figure>
+	<img src="{{ path }}" alt="{{ alt }}" style="max-width:100%;height:auto;"{% if class %} class="{{ class }}"{% endif %} />
+	{% if caption %}<figcaption>{{ caption }}</figcaption>{% endif %}
+</figure>
+{%- endcomponent %}

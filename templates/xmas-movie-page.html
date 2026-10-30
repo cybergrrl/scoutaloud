@@ -108,7 +108,7 @@
       <div class="film-detail cast-section">
         <strong>Cast:</strong>
         <div class="cast-list">
-          {{ page.extra.cast | slice(end=10) | join(sep=", ") }}{% if page.extra.cast | length > 10 %}, and {{ page.extra.cast | length - 10 }} more{% endif %}
+          {{ page.extra.cast[:10] | join(sep=", ") }}{% if page.extra.cast | length > 10 %}, and {{ page.extra.cast | length - 10 }} more{% endif %}
         </div>
       </div>
       {% endif %}

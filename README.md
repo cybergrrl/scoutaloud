@@ -1,79 +1,81 @@
 # scoutaloud site
 
-## Quick Start for Developers
+## Stack
 
-### Requirements
+- **Zola** static site generator
+- **Sveltia CMS** for writing posts in the browser (`static/admin/`)
+- Hosted on **Netlify**: every push to `main` runs `zola build` and deploys `public/`
+- Templates are **Tera** in `templates/`, styles are hand-written **CSS** in `static/base.css`, content is **Markdown** in `content/`.
 
-- Zola (tested with version 0.21.0)
-
-### Setup
-
-#### Install Zola
-
-**macOS:**
-```sh
-brew install zola
-```
-
-ideally check that the version that is installed is 0.21.0. there might be ways to guarantee this.
-
-**Linux:**
-Download the latest release from [Zola releases](https://github.com/getzola/zola/releases) and extract the binary:
-```sh
-wget https://github.com/getzola/zola/releases/download/v0.21.0/zola-v0.21.0-x86_64-unknown-linux-gnu.tar.gz
-tar xzf zola-v0.21.0-x86_64-unknown-linux-gnu.tar.gz
-sudo mv zola /usr/local/bin/
-```
-
-#### Run the site locally
+## Set up locally
 
 ```sh
-zola serve
+brew install zola   # check: zola --version  → should be 0.23.6
+zola serve          # http://127.0.0.1:1111
+zola serve --drafts # include draft posts
 ```
 
-This will start a local server, usually at http://127.0.0.1:1111
+## Writing a post
 
----
+### Via the CMS (usual way)
 
-**Note:** If you use scripts to generate markdown files, see their specific requirements in their own repositories.
+1. Go to **https://scoutaloud.net/admin/**.
+2. **Sign in with GitHub** (the `cybergrrl` account, which owns the repo). Login uses the GitHub OAuth provider configured in Netlify under *Site configuration → Access control → OAuth*. If the button errors, that provider needs re-adding there.
+3. Pick a collection (**Blog Posts** or **Home & Away**), write, **Publish**.
+4. Publishing commits `content/<collection>/<slug>/index.md` to `main`; Netlify redeploys in a couple of minutes.
+
+### By hand
+
+Create `content/blog/<slug>/index.md`:
+
+```toml
++++
+title = "Post title"
+date = 2026-09-03
+draft = false
+
+[taxonomies]
+tags = ["books"]
++++
+
+Body in Markdown.
+```
+
+Colocate images in the same folder. Commit and push to `main`.
+
+## Sections
+
+Three, each a folder in `content/` with an `_index.md`. The nav is hardcoded in `templates/base.html`.
+
+- **blog** – flat, all posts in `content/blog/`, sorted by date.
+- **home-and-away** – trips and days out. One folder per outing; extra pages go in the same folder and link back with `[Back to itinerary](../)`.
+- **projects** – mostly dormant.
+
+## Taxonomies
+
+Declared once in `config.toml`: `tags`, `categories` (both for the blog), and `xmas_genres` (Christmas-movies section only). Each generates term pages at `/tags/<term>/` etc., rendered as pills on post cards and post pages.
+
+In practice: use **tags** freely, keep casing consistent (`books` and `Books` are two different pages). **categories** are wired up but left empty; only start using them if a small fixed set of broad buckets would help.
+
+## Images
+
+Colocate the file with the Markdown, then reference it by its built site path with the `img` component (`templates/components.html`):
+
+```
+{{ <img path="/home-and-away/krka/krka-1.jpg"
+       alt="Krka waterfalls"
+       caption="Krka" /> }}
+```
+
+Params: `path`, `alt`, `caption`, `class` (all optional except `path`). Max width is capped at 2500px via `config.toml`. CMS uploads land in `static/uploads/`.
 
 ## Zola
 
-This site is built with [zola static site generator](https://www.getzola.org/documentation/getting-started/overview/) using the Papaya theme.
+The Zola version is pinned in `netlify.toml` for deploys and `mise.toml` for local use.
 
-## Architecture
+#### To update Zola:
 
-Right now there is only one area of the site with content: the travel section.
-
-Sections are set up in the [config.toml](./config.toml) inside menu_items. I have commented out the original sections for projects and blog for now.
-
-To add entries to a section, find the corresponding directory inside `./content` and add it there.
-
-### Travels
-
-For travels, add one directory for each trip.
-
-Inside, create an index.md file stating `title`, `template` and `date` in the front matter. This will be the main page for the trip which will be linked to from the url `/travels`. Further pages for that trip should be added to the same directory. Link to those pages from the index file like so: `[link-name](file-name/)`.
-
-### Images
-
-They can be linked to like so if they live in the same directory as the content file:
-
-```
-
-{{ img(path="./dubrovnik-1.jpg",
-       alt="Dubrovnik seen from the sea",
-       caption="Dubrovnik") }}
-```
-
-They can be hosted elsewhere and linked like so:
-
-```
-
-<figure>
-  <img src="https://www.dropbox.com/scl/fi/j2d8fjoj5f8hzs0b6mlzd/2025-10-06-12.53.22.jpg?rlkey=u7sdpm1tc5nru20yqu0hf74zc&st=itvmhcjr&raw=1" alt="Dubrovnik seen from the walls" />
-  <figcaption>Roofs of Dubrovnik from the walls</figcaption>
-</figure>
-```
-
->Note that for dropbox links to work, the link must first be created in Dropbox using the share button,  the share must be set to public, and then the resulting link must be edited: the `dl=0` at the end of the link must be changed to `raw=1`
+1. Check the [changelog](https://github.com/getzola/zola/blob/master/CHANGELOG.md) for breaking changes.
+2. Change the version in both `mise.toml` and `netlify.toml`.
+3. Run `mise install`, then `zola build` to check the site still builds.
+4. Commit both files together, along with any template fixes.

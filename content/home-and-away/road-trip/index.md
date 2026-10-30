@@ -10,9 +10,9 @@ tags = [ "balkans", "travel" ]
 
 [Back to itinerary](../)
 
-{{ img(path="/home-and-away/road-trip/road-trip.png",
-       alt="watercolor of a red car driving along the Adriatic coast towards a little seaside town",
-       caption="actual picture of our actual rental car") }}
+{{ <img path="/home-and-away/road-trip/road-trip.png"
+       alt="watercolor of a red car driving along the Adriatic coast towards a little seaside town"
+       caption="actual picture of our actual rental car" /> }}
 
 ## Views and Stops
 

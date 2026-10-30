@@ -12,7 +12,7 @@
     </li>
     <!-- Loop through ancestors to build breadcrumb trail. 
     Skip the first ancestor (index 0) which is the root (homepage). -->
-    {% for ancestor in page.ancestors | slice(start=1) %}
+    {% for ancestor in page.ancestors[1:] %}
       {% set section = get_section(path=ancestor) %}
       <li class="breadcrumb__item">
         <a href="{{ section.permalink }}">{{ section.title }}</a>
